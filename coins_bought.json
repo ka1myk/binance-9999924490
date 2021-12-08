@@ -953,15 +953,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "POLSUSDT": {
-        "symbol": "POLSUSDT",
-        "orderid": 51550504,
-        "timestamp": 1638944925216,
-        "bought_at": "3.74000000",
-        "volume": 6.7,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FIDAUSDT": {
         "symbol": "FIDAUSDT",
         "orderid": 21058275,
