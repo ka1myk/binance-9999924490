@@ -979,5 +979,14 @@
         "volume": 27,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "PERLUSDT": {
+        "symbol": "PERLUSDT",
+        "orderid": 171626631,
+        "timestamp": 1638945974365,
+        "bought_at": "0.08364000",
+        "volume": 298.9,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
