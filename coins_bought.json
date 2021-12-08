@@ -908,15 +908,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "PNTUSDT": {
-        "symbol": "PNTUSDT",
-        "orderid": 191062174,
-        "timestamp": 1638920451315,
-        "bought_at": "0.98560000",
-        "volume": 25,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "STMXUSDT": {
         "symbol": "STMXUSDT",
         "orderid": 336265497,
