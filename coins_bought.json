@@ -943,5 +943,50 @@
         "volume": 26,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "NULSUSDT": {
+        "symbol": "NULSUSDT",
+        "orderid": 199138448,
+        "timestamp": 1638891841151,
+        "bought_at": "0.81090000",
+        "volume": 30,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 454639126,
+        "timestamp": 1638944735763,
+        "bought_at": "0.58370000",
+        "volume": 42,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "MATICUSDT": {
+        "symbol": "MATICUSDT",
+        "orderid": 1351251667,
+        "timestamp": 1638944736337,
+        "bought_at": "2.42000000",
+        "volume": 10.3,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 128375811,
+        "timestamp": 1638808604784,
+        "bought_at": "0.02479000",
+        "volume": 1008.5,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "TLMUSDT": {
+        "symbol": "TLMUSDT",
+        "orderid": 301813646,
+        "timestamp": 1638944746725,
+        "bought_at": "0.25860000",
+        "volume": 96,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
