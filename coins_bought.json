@@ -944,12 +944,48 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 993055523,
-        "timestamp": 1638974955221,
-        "bought_at": "25.36000000",
-        "volume": 0.99,
+    "EPSUSDT": {
+        "symbol": "EPSUSDT",
+        "orderid": 90650015,
+        "timestamp": 1638975813041,
+        "bought_at": "0.34440000",
+        "volume": 72,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "BNXUSDT": {
+        "symbol": "BNXUSDT",
+        "orderid": 7927822,
+        "timestamp": 1638975815674,
+        "bought_at": "64.80000000",
+        "volume": 0.386,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "PERLUSDT": {
+        "symbol": "PERLUSDT",
+        "orderid": 171707487,
+        "timestamp": 1638975822942,
+        "bought_at": "0.08505000",
+        "volume": 293.9,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ILVUSDT": {
+        "symbol": "ILVUSDT",
+        "orderid": 26014443,
+        "timestamp": 1638975829473,
+        "bought_at": "1370.00000000",
+        "volume": 0.018,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "FTTUSDT": {
+        "symbol": "FTTUSDT",
+        "orderid": 242140943,
+        "timestamp": 1636413296874,
+        "bought_at": "43.18000000",
+        "volume": 0.58,
         "stop_loss": -99,
         "take_profit": 0.5
     }
