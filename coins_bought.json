@@ -962,15 +962,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "TFUELUSDT": {
-        "symbol": "TFUELUSDT",
-        "orderid": 422592243,
-        "timestamp": 1638923699462,
-        "bought_at": "0.24580000",
-        "volume": 101,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FUNUSDT": {
         "symbol": "FUNUSDT",
         "orderid": 152914445,
@@ -986,6 +977,15 @@
         "timestamp": 1638924343472,
         "bought_at": "0.41740000",
         "volume": 59,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "FILUSDT": {
+        "symbol": "FILUSDT",
+        "orderid": 1685115880,
+        "timestamp": 1638925167852,
+        "bought_at": "39.40000000",
+        "volume": 0.63,
         "stop_loss": -99,
         "take_profit": 0.5
     }
