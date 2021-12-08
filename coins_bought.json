@@ -970,5 +970,23 @@
         "volume": 39,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 99297224,
+        "timestamp": 1638944063639,
+        "bought_at": "0.35050000",
+        "volume": 71,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ARUSDT": {
+        "symbol": "ARUSDT",
+        "orderid": 123505880,
+        "timestamp": 1637702297558,
+        "bought_at": "47.65000000",
+        "volume": 0.52,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
