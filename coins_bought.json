@@ -917,15 +917,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "MKRUSDT": {
-        "symbol": "MKRUSDT",
-        "orderid": 385501994,
-        "timestamp": 1638827344883,
-        "bought_at": "2688.00000000",
-        "volume": 0.0093,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "BTCUSDT": {
         "symbol": "BTCUSDT",
         "orderid": 8547396034,
