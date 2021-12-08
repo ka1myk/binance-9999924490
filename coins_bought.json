@@ -935,15 +935,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "PNTUSDT": {
-        "symbol": "PNTUSDT",
-        "orderid": 191169988,
-        "timestamp": 1638950707904,
-        "bought_at": "1.00830000",
-        "volume": 24,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FIROUSDT": {
         "symbol": "FIROUSDT",
         "orderid": 95921871,
