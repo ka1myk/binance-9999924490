@@ -979,5 +979,14 @@
         "volume": 103,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "CHRUSDT": {
+        "symbol": "CHRUSDT",
+        "orderid": 504080504,
+        "timestamp": 1638941736376,
+        "bought_at": "0.63820000",
+        "volume": 39,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
