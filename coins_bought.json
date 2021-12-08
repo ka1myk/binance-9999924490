@@ -908,15 +908,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "FIDAUSDT": {
-        "symbol": "FIDAUSDT",
-        "orderid": 21058275,
-        "timestamp": 1638944927108,
-        "bought_at": "7.44300000",
-        "volume": 3.4,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "SANDUSDT": {
         "symbol": "SANDUSDT",
         "orderid": 891464963,
@@ -950,6 +941,51 @@
         "timestamp": 1638954626484,
         "bought_at": "50.80000000",
         "volume": 0.49,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "PSGUSDT": {
+        "symbol": "PSGUSDT",
+        "orderid": 152492164,
+        "timestamp": 1638944033146,
+        "bought_at": "16.03000000",
+        "volume": 1.56,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DCRUSDT": {
+        "symbol": "DCRUSDT",
+        "orderid": 113615922,
+        "timestamp": 1638973650706,
+        "bought_at": "96.20000000",
+        "volume": 0.26,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "JASMYUSDT": {
+        "symbol": "JASMYUSDT",
+        "orderid": 8802960,
+        "timestamp": 1638973670776,
+        "bought_at": "0.11530000",
+        "volume": 216.8,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "VITEUSDT": {
+        "symbol": "VITEUSDT",
+        "orderid": 162883517,
+        "timestamp": 1638973799968,
+        "bought_at": "0.09377000",
+        "volume": 266.6,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DATAUSDT": {
+        "symbol": "DATAUSDT",
+        "orderid": 238110127,
+        "timestamp": 1638178387831,
+        "bought_at": "0.13800000",
+        "volume": 181.2,
         "stop_loss": -99,
         "take_profit": 0.5
     }
