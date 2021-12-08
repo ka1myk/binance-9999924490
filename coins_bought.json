@@ -979,5 +979,14 @@
         "volume": 26,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "PSGUSDT": {
+        "symbol": "PSGUSDT",
+        "orderid": 152480430,
+        "timestamp": 1638929685152,
+        "bought_at": "16.18000000",
+        "volume": 1.55,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
