@@ -836,15 +836,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "BEAMUSDT": {
-        "symbol": "BEAMUSDT",
-        "orderid": 162435908,
-        "timestamp": 1638867902525,
-        "bought_at": "0.76340000",
-        "volume": 32,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "ENJUSDT": {
         "symbol": "ENJUSDT",
         "orderid": 760196847,
