@@ -961,5 +961,32 @@
         "volume": 4,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "TCTUSDT": {
+        "symbol": "TCTUSDT",
+        "orderid": 168296020,
+        "timestamp": 1638954618793,
+        "bought_at": "0.03650000",
+        "volume": 684,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "LAZIOUSDT": {
+        "symbol": "LAZIOUSDT",
+        "orderid": 45356346,
+        "timestamp": 1638954619373,
+        "bought_at": "5.54800000",
+        "volume": 4.51,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ENSUSDT": {
+        "symbol": "ENSUSDT",
+        "orderid": 36548130,
+        "timestamp": 1638954626484,
+        "bought_at": "50.80000000",
+        "volume": 0.49,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
