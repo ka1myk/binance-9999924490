@@ -926,15 +926,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "ENSUSDT": {
-        "symbol": "ENSUSDT",
-        "orderid": 36548130,
-        "timestamp": 1638954626484,
-        "bought_at": "50.80000000",
-        "volume": 0.49,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "DASHUSDT": {
         "symbol": "DASHUSDT",
         "orderid": 1194018833,
