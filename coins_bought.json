@@ -971,15 +971,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "VITEUSDT": {
-        "symbol": "VITEUSDT",
-        "orderid": 162883517,
-        "timestamp": 1638973799968,
-        "bought_at": "0.09377000",
-        "volume": 266.6,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "DATAUSDT": {
         "symbol": "DATAUSDT",
         "orderid": 238110127,
