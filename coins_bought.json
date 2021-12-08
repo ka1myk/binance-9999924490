@@ -908,15 +908,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "STMXUSDT": {
-        "symbol": "STMXUSDT",
-        "orderid": 336265497,
-        "timestamp": 1638925512606,
-        "bought_at": "0.02505000",
-        "volume": 998,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FIDAUSDT": {
         "symbol": "FIDAUSDT",
         "orderid": 21058275,
