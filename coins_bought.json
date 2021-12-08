@@ -890,15 +890,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "NKNUSDT": {
-        "symbol": "NKNUSDT",
-        "orderid": 312948924,
-        "timestamp": 1638877641714,
-        "bought_at": "0.41540000",
-        "volume": 60,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "XVSUSDT": {
         "symbol": "XVSUSDT",
         "orderid": 352235260,
