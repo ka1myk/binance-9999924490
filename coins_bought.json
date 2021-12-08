@@ -926,30 +926,66 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "DASHUSDT": {
-        "symbol": "DASHUSDT",
-        "orderid": 1194018833,
-        "timestamp": 1638974876213,
-        "bought_at": "147.60000000",
-        "volume": 0.169,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "EPSUSDT": {
-        "symbol": "EPSUSDT",
-        "orderid": 90650015,
-        "timestamp": 1638975813041,
-        "bought_at": "0.34440000",
-        "volume": 72,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "BNXUSDT": {
         "symbol": "BNXUSDT",
         "orderid": 7927822,
         "timestamp": 1638975815674,
         "bought_at": "64.80000000",
         "volume": 0.386,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ASRUSDT": {
+        "symbol": "ASRUSDT",
+        "orderid": 72026478,
+        "timestamp": 1638976818600,
+        "bought_at": "4.35200000",
+        "volume": 5.7,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "KP3RUSDT": {
+        "symbol": "KP3RUSDT",
+        "orderid": 20149775,
+        "timestamp": 1638976819179,
+        "bought_at": "840.76000000",
+        "volume": 0.03,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ALGOUSDT": {
+        "symbol": "ALGOUSDT",
+        "orderid": 843206743,
+        "timestamp": 1638976822309,
+        "bought_at": "1.68790000",
+        "volume": 14,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ONTUSDT": {
+        "symbol": "ONTUSDT",
+        "orderid": 1100460214,
+        "timestamp": 1638946147344,
+        "bought_at": "0.80780000",
+        "volume": 30,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DOGEUSDT": {
+        "symbol": "DOGEUSDT",
+        "orderid": 2151165048,
+        "timestamp": 1638878420465,
+        "bought_at": "0.18050000",
+        "volume": 138,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "BEAMUSDT": {
+        "symbol": "BEAMUSDT",
+        "orderid": 162980826,
+        "timestamp": 1638973643401,
+        "bought_at": "0.81440000",
+        "volume": 30,
         "stop_loss": -99,
         "take_profit": 0.5
     }
