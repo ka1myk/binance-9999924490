@@ -979,5 +979,14 @@
         "volume": 1.55,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "TFUELUSDT": {
+        "symbol": "TFUELUSDT",
+        "orderid": 422644649,
+        "timestamp": 1638941124716,
+        "bought_at": "0.24260000",
+        "volume": 103,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
