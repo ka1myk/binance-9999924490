@@ -952,5 +952,14 @@
         "volume": 4.3,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "BNXUSDT": {
+        "symbol": "BNXUSDT",
+        "orderid": 7587793,
+        "timestamp": 1638800743830,
+        "bought_at": "64.90000000",
+        "volume": 0.385,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
