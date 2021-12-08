@@ -1,0 +1,992 @@
+{
+    "ETHUSDT": {
+        "symbol": "ETHUSDT",
+        "orderid": 6586822091,
+        "timestamp": 1636429412484,
+        "bought_at": "4851.03000000",
+        "volume": 0.0031,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "USDPUSDT": {
+        "symbol": "USDPUSDT",
+        "orderid": 853232,
+        "timestamp": 1636582546971,
+        "bought_at": "0.99970000",
+        "volume": 15.0,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "SXPUSDT": {
+        "symbol": "SXPUSDT",
+        "orderid": 546401107,
+        "timestamp": 1637055902844,
+        "bought_at": "2.97700000",
+        "volume": 5.0,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "LTCUSDT": {
+        "symbol": "LTCUSDT",
+        "orderid": 2484117378,
+        "timestamp": 1636613573409,
+        "bought_at": "241.30000000",
+        "volume": 0.062,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "EOSUSDT": {
+        "symbol": "EOSUSDT",
+        "orderid": 2760800808,
+        "timestamp": 1636653745975,
+        "bought_at": "4.48600000",
+        "volume": 3.3,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "NEOUSDT": {
+        "symbol": "NEOUSDT",
+        "orderid": 824803754,
+        "timestamp": 1636582111203,
+        "bought_at": "44.29000000",
+        "volume": 0.34,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "AUTOUSDT": {
+        "symbol": "AUTOUSDT",
+        "orderid": 60698363,
+        "timestamp": 1636837828427,
+        "bought_at": "1081.10000000",
+        "volume": 0.014,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "UTKUSDT": {
+        "symbol": "UTKUSDT",
+        "orderid": 116495900,
+        "timestamp": 1637072652187,
+        "bought_at": "0.46580000",
+        "volume": 32,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ARPAUSDT": {
+        "symbol": "ARPAUSDT",
+        "orderid": 257370709,
+        "timestamp": 1637073957483,
+        "bought_at": "0.18356000",
+        "volume": 81.7,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "WINUSDT": {
+        "symbol": "WINUSDT",
+        "orderid": 356306268,
+        "timestamp": 1637076453183,
+        "bought_at": "0.00092910",
+        "volume": 16144,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ACMUSDT": {
+        "symbol": "ACMUSDT",
+        "orderid": 66113014,
+        "timestamp": 1635177771361,
+        "bought_at": "7.69900000",
+        "volume": 1.9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ADXUSDT": {
+        "symbol": "ADXUSDT",
+        "orderid": 14748523,
+        "timestamp": 1637138166444,
+        "bought_at": "0.84340000",
+        "volume": 17,
+        "stop_loss": -41.22084420203937,
+        "take_profit": 8.779155797960627
+    },
+    "BTGUSDT": {
+        "symbol": "BTGUSDT",
+        "orderid": 54513779,
+        "timestamp": 1635115405901,
+        "bought_at": "62.05000000",
+        "volume": 0.24,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "NANOUSDT": {
+        "symbol": "NANOUSDT",
+        "orderid": 319507024,
+        "timestamp": 1637148795212,
+        "bought_at": "6.25700000",
+        "volume": 2.4,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "DGBUSDT": {
+        "symbol": "DGBUSDT",
+        "orderid": 217186636,
+        "timestamp": 1637149180125,
+        "bought_at": "0.05427000",
+        "volume": 276.4,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "STRAXUSDT": {
+        "symbol": "STRAXUSDT",
+        "orderid": 117515103,
+        "timestamp": 1637155699912,
+        "bought_at": "2.65000000",
+        "volume": 5.7,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "OXTUSDT": {
+        "symbol": "OXTUSDT",
+        "orderid": 121167462,
+        "timestamp": 1637157229862,
+        "bought_at": "0.57800000",
+        "volume": 25,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MTLUSDT": {
+        "symbol": "MTLUSDT",
+        "orderid": 345483064,
+        "timestamp": 1637186058180,
+        "bought_at": "3.40400000",
+        "volume": 4.4,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BADGERUSDT": {
+        "symbol": "BADGERUSDT",
+        "orderid": 84060562,
+        "timestamp": 1637195660441,
+        "bought_at": "30.27000000",
+        "volume": 0.5,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3624021342,
+        "timestamp": 1637199483448,
+        "bought_at": "1.16090000",
+        "volume": 12,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "YFIUSDT": {
+        "symbol": "YFIUSDT",
+        "orderid": 1278200537,
+        "timestamp": 1637195674893,
+        "bought_at": "33046.84000000",
+        "volume": 0.00045,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "PUNDIXUSDT": {
+        "symbol": "PUNDIXUSDT",
+        "orderid": 46936023,
+        "timestamp": 1637199189569,
+        "bought_at": "1.59000000",
+        "volume": 9.4,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "XEMUSDT": {
+        "symbol": "XEMUSDT",
+        "orderid": 206191567,
+        "timestamp": 1637206602468,
+        "bought_at": "0.19790000",
+        "volume": 75,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "SNXUSDT": {
+        "symbol": "SNXUSDT",
+        "orderid": 477610952,
+        "timestamp": 1637392070173,
+        "bought_at": "8.95200000",
+        "volume": 1.9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "YGGUSDT": {
+        "symbol": "YGGUSDT",
+        "orderid": 26782610,
+        "timestamp": 1637416707829,
+        "bought_at": "11.25000000",
+        "volume": 1.5,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "XVGUSDT": {
+        "symbol": "XVGUSDT",
+        "orderid": 43896848,
+        "timestamp": 1637434479470,
+        "bought_at": "0.02866000",
+        "volume": 593,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "AGLDUSDT": {
+        "symbol": "AGLDUSDT",
+        "orderid": 20541058,
+        "timestamp": 1637459559581,
+        "bought_at": "3.19200000",
+        "volume": 5.3,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MITHUSDT": {
+        "symbol": "MITHUSDT",
+        "orderid": 187577378,
+        "timestamp": 1637475591184,
+        "bought_at": "0.14432000",
+        "volume": 117.8,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BONDUSDT": {
+        "symbol": "BONDUSDT",
+        "orderid": 23466182,
+        "timestamp": 1637194248664,
+        "bought_at": "30.50000000",
+        "volume": 0.56,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MOVRUSDT": {
+        "symbol": "MOVRUSDT",
+        "orderid": 5410691,
+        "timestamp": 1637481840999,
+        "bought_at": "423.70000000",
+        "volume": 0.04,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "TROYUSDT": {
+        "symbol": "TROYUSDT",
+        "orderid": 237432131,
+        "timestamp": 1637473650632,
+        "bought_at": "0.01541800",
+        "volume": 1102,
+        "stop_loss": -23.456881566999613,
+        "take_profit": 26.543118433000387
+    },
+    "TRXUSDT": {
+        "symbol": "TRXUSDT",
+        "orderid": 1475152710,
+        "timestamp": 1637523623439,
+        "bought_at": "0.10888000",
+        "volume": 156.1,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ONGUSDT": {
+        "symbol": "ONGUSDT",
+        "orderid": 178577271,
+        "timestamp": 1637158106535,
+        "bought_at": "1.21120000",
+        "volume": 14,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "IOSTUSDT": {
+        "symbol": "IOSTUSDT",
+        "orderid": 745311757,
+        "timestamp": 1637523626961,
+        "bought_at": "0.04590000",
+        "volume": 370,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "LTOUSDT": {
+        "symbol": "LTOUSDT",
+        "orderid": 213954736,
+        "timestamp": 1637532715834,
+        "bought_at": "0.73200000",
+        "volume": 23,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BTCSTUSDT": {
+        "symbol": "BTCSTUSDT",
+        "orderid": 152150594,
+        "timestamp": 1637532930963,
+        "bought_at": "37.53000000",
+        "volume": 0.45,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "DENTUSDT": {
+        "symbol": "DENTUSDT",
+        "orderid": 383435010,
+        "timestamp": 1637534731000,
+        "bought_at": "0.00593400",
+        "volume": 2864,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "LINAUSDT": {
+        "symbol": "LINAUSDT",
+        "orderid": 149665230,
+        "timestamp": 1637534212540,
+        "bought_at": "0.07044000",
+        "volume": 241.34,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "RGTUSDT": {
+        "symbol": "RGTUSDT",
+        "orderid": 6035307,
+        "timestamp": 1637533619652,
+        "bought_at": "34.89000000",
+        "volume": 0.49,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "CELRUSDT": {
+        "symbol": "CELRUSDT",
+        "orderid": 341366557,
+        "timestamp": 1637549159609,
+        "bought_at": "0.16662000",
+        "volume": 102.0,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "CAKEUSDT": {
+        "symbol": "CAKEUSDT",
+        "orderid": 318065858,
+        "timestamp": 1637568583983,
+        "bought_at": "15.73000000",
+        "volume": 1.08,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "QIUSDT": {
+        "symbol": "QIUSDT",
+        "orderid": 8371823,
+        "timestamp": 1637570370675,
+        "bought_at": "0.30500000",
+        "volume": 55,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "IRISUSDT": {
+        "symbol": "IRISUSDT",
+        "orderid": 131457046,
+        "timestamp": 1637636408908,
+        "bought_at": "0.16146000",
+        "volume": 105.3,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "WINGUSDT": {
+        "symbol": "WINGUSDT",
+        "orderid": 182326505,
+        "timestamp": 1637648286231,
+        "bought_at": "24.09000000",
+        "volume": 0.71,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ATMUSDT": {
+        "symbol": "ATMUSDT",
+        "orderid": 85948854,
+        "timestamp": 1637636357783,
+        "bought_at": "10.36000000",
+        "volume": 1.64,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ROSEUSDT": {
+        "symbol": "ROSEUSDT",
+        "orderid": 190876629,
+        "timestamp": 1637678790961,
+        "bought_at": "0.44998000",
+        "volume": 37.8,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "QNTUSDT": {
+        "symbol": "QNTUSDT",
+        "orderid": 44025327,
+        "timestamp": 1637696283609,
+        "bought_at": "238.80000000",
+        "volume": 0.071,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "IOTXUSDT": {
+        "symbol": "IOTXUSDT",
+        "orderid": 341187492,
+        "timestamp": 1637754741782,
+        "bought_at": "0.18869000",
+        "volume": 90,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BLZUSDT": {
+        "symbol": "BLZUSDT",
+        "orderid": 300383087,
+        "timestamp": 1637645446301,
+        "bought_at": "0.40380000",
+        "volume": 42,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "DEGOUSDT": {
+        "symbol": "DEGOUSDT",
+        "orderid": 111124975,
+        "timestamp": 1637824173246,
+        "bought_at": "13.67000000",
+        "volume": 1.24,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "FLOWUSDT": {
+        "symbol": "FLOWUSDT",
+        "orderid": 39181979,
+        "timestamp": 1637566137677,
+        "bought_at": "13.95000000",
+        "volume": 1.22,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MFTUSDT": {
+        "symbol": "MFTUSDT",
+        "orderid": 154213274,
+        "timestamp": 1637755349526,
+        "bought_at": "0.01623100",
+        "volume": 1047,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MANAUSDT": {
+        "symbol": "MANAUSDT",
+        "orderid": 663669170,
+        "timestamp": 1637832894964,
+        "bought_at": "5.61600000",
+        "volume": 3,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ERNUSDT": {
+        "symbol": "ERNUSDT",
+        "orderid": 41664640,
+        "timestamp": 1637850099261,
+        "bought_at": "16.54500000",
+        "volume": 1.0,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "QTUMUSDT": {
+        "symbol": "QTUMUSDT",
+        "orderid": 757454635,
+        "timestamp": 1637842052821,
+        "bought_at": "16.96000000",
+        "volume": 0.9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ICXUSDT": {
+        "symbol": "ICXUSDT",
+        "orderid": 420369879,
+        "timestamp": 1637539814048,
+        "bought_at": "1.99900000",
+        "volume": 7.5,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "QUICKUSDT": {
+        "symbol": "QUICKUSDT",
+        "orderid": 14775300,
+        "timestamp": 1637200591290,
+        "bought_at": "347.80000000",
+        "volume": 0.043,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "NBSUSDT": {
+        "symbol": "NBSUSDT",
+        "orderid": 92292469,
+        "timestamp": 1637906652260,
+        "bought_at": "0.02832000",
+        "volume": 529.7,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "AIONUSDT": {
+        "symbol": "AIONUSDT",
+        "orderid": 135004972,
+        "timestamp": 1637946896411,
+        "bought_at": "0.30950000",
+        "volume": 48,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "XECUSDT": {
+        "symbol": "XECUSDT",
+        "orderid": 86122040,
+        "timestamp": 1637988354687,
+        "bought_at": "0.00015855",
+        "volume": 94607,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "DIAUSDT": {
+        "symbol": "DIAUSDT",
+        "orderid": 124921669,
+        "timestamp": 1637851973933,
+        "bought_at": "2.30000000",
+        "volume": 6.5,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ANTUSDT": {
+        "symbol": "ANTUSDT",
+        "orderid": 170143490,
+        "timestamp": 1638009858210,
+        "bought_at": "8.39800000",
+        "volume": 1.8,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "LPTUSDT": {
+        "symbol": "LPTUSDT",
+        "orderid": 49184400,
+        "timestamp": 1638027192166,
+        "bought_at": "62.16000000",
+        "volume": 0.24,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "RADUSDT": {
+        "symbol": "RADUSDT",
+        "orderid": 24785258,
+        "timestamp": 1638051056432,
+        "bought_at": "18.71500000",
+        "volume": 0.8,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "STPTUSDT": {
+        "symbol": "STPTUSDT",
+        "orderid": 151087864,
+        "timestamp": 1638074336594,
+        "bought_at": "0.17002000",
+        "volume": 100.0,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "GTCUSDT": {
+        "symbol": "GTCUSDT",
+        "orderid": 105705639,
+        "timestamp": 1638093020956,
+        "bought_at": "22.10000000",
+        "volume": 0.8,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BATUSDT": {
+        "symbol": "BATUSDT",
+        "orderid": 476371005,
+        "timestamp": 1638094356405,
+        "bought_at": "1.74940000",
+        "volume": 9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "TVKUSDT": {
+        "symbol": "TVKUSDT",
+        "orderid": 37486093,
+        "timestamp": 1638177565950,
+        "bought_at": "0.45850000",
+        "volume": 43,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "GALAUSDT": {
+        "symbol": "GALAUSDT",
+        "orderid": 250543522,
+        "timestamp": 1638189865310,
+        "bought_at": "0.70638000",
+        "volume": 70,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "VTHOUSDT": {
+        "symbol": "VTHOUSDT",
+        "orderid": 182614510,
+        "timestamp": 1638142638322,
+        "bought_at": "0.00872100",
+        "volume": 5733,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ZILUSDT": {
+        "symbol": "ZILUSDT",
+        "orderid": 542170632,
+        "timestamp": 1637200898938,
+        "bought_at": "0.09208000",
+        "volume": 543.0,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "LITUSDT": {
+        "symbol": "LITUSDT",
+        "orderid": 255700379,
+        "timestamp": 1638238268321,
+        "bought_at": "6.45500000",
+        "volume": 7.7,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "HIVEUSDT": {
+        "symbol": "HIVEUSDT",
+        "orderid": 178585286,
+        "timestamp": 1638238752811,
+        "bought_at": "2.97490000",
+        "volume": 16,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "STXUSDT": {
+        "symbol": "STXUSDT",
+        "orderid": 139322918,
+        "timestamp": 1638320404282,
+        "bought_at": "3.07600000",
+        "volume": 16.3,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "AUDIOUSDT": {
+        "symbol": "AUDIOUSDT",
+        "orderid": 299646428,
+        "timestamp": 1638409844597,
+        "bought_at": "2.36100000",
+        "volume": 33.9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MBOXUSDT": {
+        "symbol": "MBOXUSDT",
+        "orderid": 95107515,
+        "timestamp": 1638341214146,
+        "bought_at": "11.56600000",
+        "volume": 6.9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "MCUSDT": {
+        "symbol": "MCUSDT",
+        "orderid": 100697,
+        "timestamp": 1638433590798,
+        "bought_at": "11.08000000",
+        "volume": 7.22,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "IOTAUSDT": {
+        "symbol": "IOTAUSDT",
+        "orderid": 517825295,
+        "timestamp": 1638472289486,
+        "bought_at": "1.54130000",
+        "volume": 32,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "LSKUSDT": {
+        "symbol": "LSKUSDT",
+        "orderid": 246611199,
+        "timestamp": 1638478171282,
+        "bought_at": "3.66800000",
+        "volume": 13.6,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "TRBUSDT": {
+        "symbol": "TRBUSDT",
+        "orderid": 395560514,
+        "timestamp": 1638480838260,
+        "bought_at": "52.09000000",
+        "volume": 0.96,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "PERPUSDT": {
+        "symbol": "PERPUSDT",
+        "orderid": 72457209,
+        "timestamp": 1637256261709,
+        "bought_at": "13.14000000",
+        "volume": 3.81,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ADAUSDT": {
+        "symbol": "ADAUSDT",
+        "orderid": 2675319977,
+        "timestamp": 1638530783292,
+        "bought_at": "1.67400000",
+        "volume": 29.9,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BNBUSDT": {
+        "symbol": "BNBUSDT",
+        "orderid": 3389620948,
+        "timestamp": 1638533333124,
+        "bought_at": "627.20000000",
+        "volume": 0.08,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "XLMUSDT": {
+        "symbol": "XLMUSDT",
+        "orderid": 1365869112,
+        "timestamp": 1638538060730,
+        "bought_at": "0.36240000",
+        "volume": 137,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ETCUSDT": {
+        "symbol": "ETCUSDT",
+        "orderid": 2212386896,
+        "timestamp": 1637845132776,
+        "bought_at": "47.65000000",
+        "volume": 1.05,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "HOTUSDT": {
+        "symbol": "HOTUSDT",
+        "orderid": 491609757,
+        "timestamp": 1638538287052,
+        "bought_at": "0.01187400",
+        "volume": 4210,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "PHAUSDT": {
+        "symbol": "PHAUSDT",
+        "orderid": 37923872,
+        "timestamp": 1638529857738,
+        "bought_at": "0.64100000",
+        "volume": 78,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ATAUSDT": {
+        "symbol": "ATAUSDT",
+        "orderid": 181455694,
+        "timestamp": 1638298845622,
+        "bought_at": "1.09710000",
+        "volume": 45,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "GNOUSDT": {
+        "symbol": "GNOUSDT",
+        "orderid": 8158332,
+        "timestamp": 1638449192794,
+        "bought_at": "475.10000000",
+        "volume": 0.105,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "CVPUSDT": {
+        "symbol": "CVPUSDT",
+        "orderid": 5171525,
+        "timestamp": 1638054252439,
+        "bought_at": "1.52500000",
+        "volume": 32.8,
+        "stop_loss": -98.71967213114753,
+        "take_profit": 1.2803278688524602
+    },
+    "INJUSDT": {
+        "symbol": "INJUSDT",
+        "orderid": 209562642,
+        "timestamp": 1637579591440,
+        "bought_at": "10.12800000",
+        "volume": 1.5,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "NMRUSDT": {
+        "symbol": "NMRUSDT",
+        "orderid": 116010964,
+        "timestamp": 1638762074520,
+        "bought_at": "37.87000000",
+        "volume": 0.4,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "WANUSDT": {
+        "symbol": "WANUSDT",
+        "orderid": 228779826,
+        "timestamp": 1638804617354,
+        "bought_at": "0.83580000",
+        "volume": 17,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "BEAMUSDT": {
+        "symbol": "BEAMUSDT",
+        "orderid": 162435908,
+        "timestamp": 1638867902525,
+        "bought_at": "0.76340000",
+        "volume": 32,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ENJUSDT": {
+        "symbol": "ENJUSDT",
+        "orderid": 760196847,
+        "timestamp": 1638869125789,
+        "bought_at": "2.98200000",
+        "volume": 8.4,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ZRXUSDT": {
+        "symbol": "ZRXUSDT",
+        "orderid": 473427354,
+        "timestamp": 1638873637631,
+        "bought_at": "0.92940000",
+        "volume": 26,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "FTMUSDT": {
+        "symbol": "FTMUSDT",
+        "orderid": 938183301,
+        "timestamp": 1638745780450,
+        "bought_at": "1.71500000",
+        "volume": 14,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "CHZUSDT": {
+        "symbol": "CHZUSDT",
+        "orderid": 916468196,
+        "timestamp": 1638875518512,
+        "bought_at": "0.33940000",
+        "volume": 73,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ONTUSDT": {
+        "symbol": "ONTUSDT",
+        "orderid": 1099132014,
+        "timestamp": 1638875812935,
+        "bought_at": "0.78110000",
+        "volume": 32,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "VETUSDT": {
+        "symbol": "VETUSDT",
+        "orderid": 1591123839,
+        "timestamp": 1638875875604,
+        "bought_at": "0.09774000",
+        "volume": 255.8,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "NKNUSDT": {
+        "symbol": "NKNUSDT",
+        "orderid": 312948924,
+        "timestamp": 1638877641714,
+        "bought_at": "0.41540000",
+        "volume": 60,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "XVSUSDT": {
+        "symbol": "XVSUSDT",
+        "orderid": 352235260,
+        "timestamp": 1638878300027,
+        "bought_at": "17.37000000",
+        "volume": 1.44,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "WAVESUSDT": {
+        "symbol": "WAVESUSDT",
+        "orderid": 618183327,
+        "timestamp": 1638878426380,
+        "bought_at": "19.88000000",
+        "volume": 1.26,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "MKRUSDT": {
+        "symbol": "MKRUSDT",
+        "orderid": 385501994,
+        "timestamp": 1638827344883,
+        "bought_at": "2688.00000000",
+        "volume": 0.0093,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "BTCUSDT": {
+        "symbol": "BTCUSDT",
+        "orderid": 8547396034,
+        "timestamp": 1638893137582,
+        "bought_at": "51796.71000000",
+        "volume": 0.00048,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "PNTUSDT": {
+        "symbol": "PNTUSDT",
+        "orderid": 191062174,
+        "timestamp": 1638920451315,
+        "bought_at": "0.98560000",
+        "volume": 25,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "OGUSDT": {
+        "symbol": "OGUSDT",
+        "orderid": 87018376,
+        "timestamp": 1638801067420,
+        "bought_at": "4.44700000",
+        "volume": 5.6,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "TFUELUSDT": {
+        "symbol": "TFUELUSDT",
+        "orderid": 422592243,
+        "timestamp": 1638923699462,
+        "bought_at": "0.24580000",
+        "volume": 101,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "FUNUSDT": {
+        "symbol": "FUNUSDT",
+        "orderid": 152914445,
+        "timestamp": 1638924250274,
+        "bought_at": "0.01495000",
+        "volume": 1672,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "CTXCUSDT": {
+        "symbol": "CTXCUSDT",
+        "orderid": 141795592,
+        "timestamp": 1638924343472,
+        "bought_at": "0.41740000",
+        "volume": 59,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    }
+}
