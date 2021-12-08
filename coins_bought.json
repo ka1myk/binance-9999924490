@@ -979,5 +979,14 @@
         "volume": 181.2,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "KP3RUSDT": {
+        "symbol": "KP3RUSDT",
+        "orderid": 20140658,
+        "timestamp": 1638974158863,
+        "bought_at": "844.99000000",
+        "volume": 0.03,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
