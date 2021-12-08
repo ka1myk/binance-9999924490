@@ -961,32 +961,5 @@
         "volume": 0.386,
         "stop_loss": -99,
         "take_profit": 0.5
-    },
-    "ILVUSDT": {
-        "symbol": "ILVUSDT",
-        "orderid": 26014443,
-        "timestamp": 1638975829473,
-        "bought_at": "1370.00000000",
-        "volume": 0.018,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "FTTUSDT": {
-        "symbol": "FTTUSDT",
-        "orderid": 242140943,
-        "timestamp": 1636413296874,
-        "bought_at": "43.18000000",
-        "volume": 0.58,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "XTZUSDT": {
-        "symbol": "XTZUSDT",
-        "orderid": 1026951343,
-        "timestamp": 1638976179860,
-        "bought_at": "5.38300000",
-        "volume": 4.6,
-        "stop_loss": -99,
-        "take_profit": 0.5
     }
 }
