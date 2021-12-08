@@ -971,15 +971,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "EGLDUSDT": {
-        "symbol": "EGLDUSDT",
-        "orderid": 514676410,
-        "timestamp": 1638950712545,
-        "bought_at": "286.59000000",
-        "volume": 0.09,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FLMUSDT": {
         "symbol": "FLMUSDT",
         "orderid": 244748921,
