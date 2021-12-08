@@ -953,39 +953,30 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "OGUSDT": {
-        "symbol": "OGUSDT",
-        "orderid": 87018376,
-        "timestamp": 1638801067420,
-        "bought_at": "4.44700000",
-        "volume": 5.6,
+    "BZRXUSDT": {
+        "symbol": "BZRXUSDT",
+        "orderid": 284916759,
+        "timestamp": 1638925509021,
+        "bought_at": "0.29910000",
+        "volume": 83,
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "FUNUSDT": {
-        "symbol": "FUNUSDT",
-        "orderid": 152914445,
-        "timestamp": 1638924250274,
-        "bought_at": "0.01495000",
-        "volume": 1672,
+    "STMXUSDT": {
+        "symbol": "STMXUSDT",
+        "orderid": 336265497,
+        "timestamp": 1638925512606,
+        "bought_at": "0.02505000",
+        "volume": 998,
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 141795592,
-        "timestamp": 1638924343472,
-        "bought_at": "0.41740000",
-        "volume": 59,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "FILUSDT": {
-        "symbol": "FILUSDT",
-        "orderid": 1685115880,
-        "timestamp": 1638925167852,
-        "bought_at": "39.40000000",
-        "volume": 0.63,
+    "IDEXUSDT": {
+        "symbol": "IDEXUSDT",
+        "orderid": 81064073,
+        "timestamp": 1638925830349,
+        "bought_at": "0.37637000",
+        "volume": 66.4,
         "stop_loss": -99,
         "take_profit": 0.5
     }
