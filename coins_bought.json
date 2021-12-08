@@ -953,15 +953,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "IDEXUSDT": {
-        "symbol": "IDEXUSDT",
-        "orderid": 81064073,
-        "timestamp": 1638925830349,
-        "bought_at": "0.37637000",
-        "volume": 66.4,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "DREPUSDT": {
         "symbol": "DREPUSDT",
         "orderid": 97964400,
