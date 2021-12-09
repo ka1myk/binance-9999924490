@@ -9226,3 +9226,8 @@
 09.12.21 20:52:43 | Sell | coin hold | 95544678 | millisecs | 5.7 | ASRUSDT | BuyPrice | 4.352 | LastPrice | 4.384 | Profit | 0.16 | 0.59%
 09.12.21 20:53:04 | Sell | coin hold | 63999391 | millisecs | 1.85 | PSGUSDT | BuyPrice | 16.21 | LastPrice | 16.3 | Profit | 0.14 | 0.41%
 09.12.21 23:13:23 | Sell | coin hold | 1607153264 | millisecs | 1102 | TROYUSDT | BuyPrice | 0.015418 | LastPrice | 0.0118 | Profit | -3.39 | -23.62%
+10.12.21 00:18:59 Buy : 452.8 JSTUSDT - 0.06626000
+10.12.21 00:19:10 Buy : 131 TFUELUSDT - 0.22820000
+10.12.21 00:19:16 Buy : 949.1 COSUSDT - 0.03161000
+10.12.21 00:19:17 | Sell | coin hold | 989 | millisecs | 949.1 | COSUSDT | BuyPrice | 0.03161 | LastPrice | 0.0318 | Profit | 0.15 | 0.45%
+10.12.21 00:19:22 Buy : 66 POWRUSDT - 0.45130000
