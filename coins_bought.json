@@ -971,21 +971,21 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "TFUELUSDT": {
-        "symbol": "TFUELUSDT",
-        "orderid": 423039839,
-        "timestamp": 1639084750554,
-        "bought_at": "0.22820000",
-        "volume": 131,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "POWRUSDT": {
         "symbol": "POWRUSDT",
         "orderid": 12288778,
         "timestamp": 1639084761594,
         "bought_at": "0.45130000",
         "volume": 66,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "RAYUSDT": {
+        "symbol": "RAYUSDT",
+        "orderid": 109288516,
+        "timestamp": 1638482217757,
+        "bought_at": "8.28600000",
+        "volume": 3.6,
         "stop_loss": -99,
         "take_profit": 0.5
     }

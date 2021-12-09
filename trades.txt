@@ -9231,3 +9231,5 @@
 10.12.21 00:19:16 Buy : 949.1 COSUSDT - 0.03161000
 10.12.21 00:19:17 | Sell | coin hold | 989 | millisecs | 949.1 | COSUSDT | BuyPrice | 0.03161 | LastPrice | 0.0318 | Profit | 0.15 | 0.45%
 10.12.21 00:19:22 Buy : 66 POWRUSDT - 0.45130000
+10.12.21 00:28:32 | Sell | coin hold | 561864 | millisecs | 131 | TFUELUSDT | BuyPrice | 0.2282 | LastPrice | 0.2294 | Profit | 0.13 | 0.38%
+10.12.21 00:28:38 Buy : 3.6 RAYUSDT - 8.28600000
