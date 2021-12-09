@@ -9246,3 +9246,6 @@
 10.12.21 01:04:43 | Sell | coin hold | 112616189 | millisecs | 805 | TCTUSDT | BuyPrice | 0.03726 | LastPrice | 0.03745 | Profit | 0.13 | 0.36%
 10.12.21 01:05:12 | Sell | coin hold | 133867 | millisecs | 19.72 | PLAUSDT | BuyPrice | 1.521 | LastPrice | 1.529 | Profit | 0.13 | 0.38%
 10.12.21 01:05:19 | Sell | coin hold | 17211211 | millisecs | 216 | DFUSDT | BuyPrice | 0.1383 | LastPrice | 0.139 | Profit | 0.13 | 0.36%
+10.12.21 01:10:21 Buy : 3306 MBLUSDT - 0.00907400
+10.12.21 01:10:23 Buy : 36 HARDUSDT - 0.82170000
+10.12.21 01:10:28 Buy : 0.55 WNXMUSDT - 54.71000000
