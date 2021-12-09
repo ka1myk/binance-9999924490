@@ -935,15 +935,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "DOGEUSDT": {
-        "symbol": "DOGEUSDT",
-        "orderid": 2151165048,
-        "timestamp": 1638878420465,
-        "bought_at": "0.18050000",
-        "volume": 138,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "ARDRUSDT": {
         "symbol": "ARDRUSDT",
         "orderid": 188914183,
@@ -980,12 +971,21 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "BNTUSDT": {
-        "symbol": "BNTUSDT",
-        "orderid": 218882151,
-        "timestamp": 1639010651076,
-        "bought_at": "3.67300000",
-        "volume": 8.2,
+    "RAREUSDT": {
+        "symbol": "RAREUSDT",
+        "orderid": 18542391,
+        "timestamp": 1639010851067,
+        "bought_at": "1.41100000",
+        "volume": 21.3,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "CTXCUSDT": {
+        "symbol": "CTXCUSDT",
+        "orderid": 142423659,
+        "timestamp": 1639010857730,
+        "bought_at": "0.40950000",
+        "volume": 73,
         "stop_loss": -99,
         "take_profit": 0.5
     }
