@@ -961,5 +961,14 @@
         "volume": 168,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "FIROUSDT": {
+        "symbol": "FIROUSDT",
+        "orderid": 96189478,
+        "timestamp": 1639065941157,
+        "bought_at": "6.07700000",
+        "volume": 4.9,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
