@@ -961,5 +961,32 @@
         "volume": 4.9,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "FORUSDT": {
+        "symbol": "FORUSDT",
+        "orderid": 35737387,
+        "timestamp": 1639070298270,
+        "bought_at": "0.06618000",
+        "volume": 453,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DFUSDT": {
+        "symbol": "DFUSDT",
+        "orderid": 10745373,
+        "timestamp": 1639070308519,
+        "bought_at": "0.13830000",
+        "volume": 216,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "BALUSDT": {
+        "symbol": "BALUSDT",
+        "orderid": 277408684,
+        "timestamp": 1639070324607,
+        "bought_at": "16.08000000",
+        "volume": 1.87,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }

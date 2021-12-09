@@ -9218,3 +9218,8 @@
 09/12 18:23:54 | Sell | coin hold | -1637396590677.5784 | secs | 5.0 | FIROUSDT | BuyPrice | 5.969 | LastPrice | 6.067 | Profit | 0.42 | 1.49%
 09/12 19:05:42 Buy : 4.9 FIROUSDT - 6.07700000
 09.12.21 20:03:11 | Sell | coin hold | 40984312 | millisecs | 168 | DOGEUSDT | BuyPrice | 0.1776 | LastPrice | 0.1789 | Profit | 0.19 | 0.58%
+09.12.21 20:18:14 Buy : 393 DOCKUSDT - 0.07618000
+09.12.21 20:18:18 Buy : 453 FORUSDT - 0.06618000
+09.12.21 20:18:28 Buy : 216 DFUSDT - 0.13830000
+09.12.21 20:18:37 | Sell | coin hold | 24055 | millisecs | 393 | DOCKUSDT | BuyPrice | 0.07618 | LastPrice | 0.07684 | Profit | 0.22 | 0.72%
+09.12.21 20:18:45 Buy : 1.87 BALUSDT - 16.08000000
