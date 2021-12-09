@@ -459,7 +459,7 @@ def remove_from_portfolio(coins_sold):
 
 
 def write_log(logline):
-    timestamp = datetime.now().strftime("%d/%m %H:%M:%S")
+    timestamp = datetime.now().strftime("%d.%m.%y %H:%M:%S")
     with open(LOG_FILE,'a+') as f:
         f.write(timestamp + ' ' + logline + '\n')
 
