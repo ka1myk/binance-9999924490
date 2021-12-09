@@ -953,15 +953,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "DOGEUSDT": {
-        "symbol": "DOGEUSDT",
-        "orderid": 2155527778,
-        "timestamp": 1639028407243,
-        "bought_at": "0.17760000",
-        "volume": 168,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FIROUSDT": {
         "symbol": "FIROUSDT",
         "orderid": 96189478,
