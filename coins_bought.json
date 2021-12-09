@@ -944,15 +944,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "RLCUSDT": {
-        "symbol": "RLCUSDT",
-        "orderid": 509767406,
-        "timestamp": 1638997878926,
-        "bought_at": "3.37200000",
-        "volume": 8.9,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "ARDRUSDT": {
         "symbol": "ARDRUSDT",
         "orderid": 188914183,
@@ -968,6 +959,24 @@
         "timestamp": 1639008384716,
         "bought_at": "16.21000000",
         "volume": 1.85,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DATAUSDT": {
+        "symbol": "DATAUSDT",
+        "orderid": 245047796,
+        "timestamp": 1639008902394,
+        "bought_at": "0.14000000",
+        "volume": 214.3,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "TRIBEUSDT": {
+        "symbol": "TRIBEUSDT",
+        "orderid": 22671894,
+        "timestamp": 1638237157807,
+        "bought_at": "1.03620000",
+        "volume": 28,
         "stop_loss": -99,
         "take_profit": 0.5
     }
