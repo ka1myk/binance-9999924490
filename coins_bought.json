@@ -971,15 +971,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "POWRUSDT": {
-        "symbol": "POWRUSDT",
-        "orderid": 12288778,
-        "timestamp": 1639084761594,
-        "bought_at": "0.45130000",
-        "volume": 66,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "RAYUSDT": {
         "symbol": "RAYUSDT",
         "orderid": 109288516,
