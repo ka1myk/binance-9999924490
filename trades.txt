@@ -9215,3 +9215,4 @@
 09/12 10:40:54 Buy : 5.0 FIROUSDT - 5.96900000
 09/12 17:43:39 | Sell | coin hold | -1637315558353.4746 | secs | 4.51 | LAZIOUSDT | BuyPrice | 5.548 | LastPrice | 6.154 | Profit | 2.32 | 10.77%
 09/12 18:08:20 | Sell | coin hold | -1637234575130.9814 | secs | 26 | ZRXUSDT | BuyPrice | 0.9294 | LastPrice | 0.9346 | Profit | 0.11 | 0.41%
+09/12 18:23:54 | Sell | coin hold | -1637396590677.5784 | secs | 5.0 | FIROUSDT | BuyPrice | 5.969 | LastPrice | 6.067 | Profit | 0.42 | 1.49%
