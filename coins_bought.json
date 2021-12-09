@@ -979,5 +979,14 @@
         "volume": 28,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "BNTUSDT": {
+        "symbol": "BNTUSDT",
+        "orderid": 218882151,
+        "timestamp": 1639010651076,
+        "bought_at": "3.67300000",
+        "volume": 8.2,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
