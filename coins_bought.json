@@ -970,5 +970,23 @@
         "volume": 73,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 455054168,
+        "timestamp": 1639028406663,
+        "bought_at": "0.59800000",
+        "volume": 50,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DOGEUSDT": {
+        "symbol": "DOGEUSDT",
+        "orderid": 2155527778,
+        "timestamp": 1639028407243,
+        "bought_at": "0.17760000",
+        "volume": 168,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
