@@ -971,15 +971,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "HARDUSDT": {
-        "symbol": "HARDUSDT",
-        "orderid": 171213046,
-        "timestamp": 1639087823556,
-        "bought_at": "0.82170000",
-        "volume": 36,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "WNXMUSDT": {
         "symbol": "WNXMUSDT",
         "orderid": 102160282,
