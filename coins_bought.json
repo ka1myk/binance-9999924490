@@ -836,15 +836,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "ZRXUSDT": {
-        "symbol": "ZRXUSDT",
-        "orderid": 473427354,
-        "timestamp": 1638873637631,
-        "bought_at": "0.92940000",
-        "volume": 26,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FTMUSDT": {
         "symbol": "FTMUSDT",
         "orderid": 938183301,
