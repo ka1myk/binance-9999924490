@@ -908,15 +908,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "SANDUSDT": {
-        "symbol": "SANDUSDT",
-        "orderid": 891464963,
-        "timestamp": 1638951249810,
-        "bought_at": "5.36450000",
-        "volume": 4,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "LAZIOUSDT": {
         "symbol": "LAZIOUSDT",
         "orderid": 45356346,
@@ -971,21 +962,21 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "TOMOUSDT": {
-        "symbol": "TOMOUSDT",
-        "orderid": 409170455,
-        "timestamp": 1638806172895,
-        "bought_at": "2.30300000",
-        "volume": 13.0,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "ARDRUSDT": {
         "symbol": "ARDRUSDT",
         "orderid": 188914183,
         "timestamp": 1639008276709,
         "bought_at": "0.28090000",
         "volume": 106,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "PSGUSDT": {
+        "symbol": "PSGUSDT",
+        "orderid": 152570745,
+        "timestamp": 1639008384716,
+        "bought_at": "16.21000000",
+        "volume": 1.85,
         "stop_loss": -99,
         "take_profit": 0.5
     }
