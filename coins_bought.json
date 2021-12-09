@@ -269,15 +269,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "TROYUSDT": {
-        "symbol": "TROYUSDT",
-        "orderid": 237432131,
-        "timestamp": 1637473650632,
-        "bought_at": "0.01541800",
-        "volume": 1102,
-        "stop_loss": -23.456881566999613,
-        "take_profit": 26.543118433000387
-    },
     "TRXUSDT": {
         "symbol": "TRXUSDT",
         "orderid": 1475152710,
