@@ -9223,3 +9223,5 @@
 09.12.21 20:18:28 Buy : 216 DFUSDT - 0.13830000
 09.12.21 20:18:37 | Sell | coin hold | 24055 | millisecs | 393 | DOCKUSDT | BuyPrice | 0.07618 | LastPrice | 0.07684 | Profit | 0.22 | 0.72%
 09.12.21 20:18:45 Buy : 1.87 BALUSDT - 16.08000000
+09.12.21 20:52:43 | Sell | coin hold | 95544678 | millisecs | 5.7 | ASRUSDT | BuyPrice | 4.352 | LastPrice | 4.384 | Profit | 0.16 | 0.59%
+09.12.21 20:53:04 | Sell | coin hold | 63999391 | millisecs | 1.85 | PSGUSDT | BuyPrice | 16.21 | LastPrice | 16.3 | Profit | 0.14 | 0.41%

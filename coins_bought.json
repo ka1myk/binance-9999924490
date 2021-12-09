@@ -890,15 +890,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "ASRUSDT": {
-        "symbol": "ASRUSDT",
-        "orderid": 72026478,
-        "timestamp": 1638976818600,
-        "bought_at": "4.35200000",
-        "volume": 5.7,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "ONTUSDT": {
         "symbol": "ONTUSDT",
         "orderid": 1100460214,
@@ -914,15 +905,6 @@
         "timestamp": 1639008276709,
         "bought_at": "0.28090000",
         "volume": 106,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "PSGUSDT": {
-        "symbol": "PSGUSDT",
-        "orderid": 152570745,
-        "timestamp": 1639008384716,
-        "bought_at": "16.21000000",
-        "volume": 1.85,
         "stop_loss": -99,
         "take_profit": 0.5
     },
