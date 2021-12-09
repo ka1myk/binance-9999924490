@@ -970,5 +970,23 @@
         "volume": 322.1,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "TOMOUSDT": {
+        "symbol": "TOMOUSDT",
+        "orderid": 409170455,
+        "timestamp": 1638806172895,
+        "bought_at": "2.30300000",
+        "volume": 13.0,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ARDRUSDT": {
+        "symbol": "ARDRUSDT",
+        "orderid": 188914183,
+        "timestamp": 1639008276709,
+        "bought_at": "0.28090000",
+        "volume": 106,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
