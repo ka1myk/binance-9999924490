@@ -944,30 +944,12 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "DFUSDT": {
-        "symbol": "DFUSDT",
-        "orderid": 10745373,
-        "timestamp": 1639070308519,
-        "bought_at": "0.13830000",
-        "volume": 216,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "BALUSDT": {
         "symbol": "BALUSDT",
         "orderid": 277408684,
         "timestamp": 1639070324607,
         "bought_at": "16.08000000",
         "volume": 1.87,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "PLAUSDT": {
-        "symbol": "PLAUSDT",
-        "orderid": 3841534,
-        "timestamp": 1639087378808,
-        "bought_at": "1.52100000",
-        "volume": 19.72,
         "stop_loss": -99,
         "take_profit": 0.5
     },

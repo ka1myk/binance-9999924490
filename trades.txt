@@ -9244,3 +9244,5 @@
 10.12.21 01:03:47 | Sell | coin hold | 605209648 | millisecs | 3.6 | RAYUSDT | BuyPrice | 8.286 | LastPrice | 8.334 | Profit | 0.15 | 0.43%
 10.12.21 01:03:49 Buy : 8.7 POLSUSDT - 3.46800000
 10.12.21 01:04:43 | Sell | coin hold | 112616189 | millisecs | 805 | TCTUSDT | BuyPrice | 0.03726 | LastPrice | 0.03745 | Profit | 0.13 | 0.36%
+10.12.21 01:05:12 | Sell | coin hold | 133867 | millisecs | 19.72 | PLAUSDT | BuyPrice | 1.521 | LastPrice | 1.529 | Profit | 0.13 | 0.38%
+10.12.21 01:05:19 | Sell | coin hold | 17211211 | millisecs | 216 | DFUSDT | BuyPrice | 0.1383 | LastPrice | 0.139 | Profit | 0.13 | 0.36%
