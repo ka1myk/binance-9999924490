@@ -979,5 +979,14 @@
         "volume": 168,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 130261731,
+        "timestamp": 1639035174514,
+        "bought_at": "0.02740000",
+        "volume": 1094.9,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
