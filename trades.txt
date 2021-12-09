@@ -9252,3 +9252,4 @@
 10.12.21 01:18:24 | Sell | coin hold | 480942 | millisecs | 36 | HARDUSDT | BuyPrice | 0.8217 | LastPrice | 0.8269 | Profit | 0.16 | 0.48%
 10.12.21 01:26:07 Buy : 1105 STMXUSDT - 0.02714000
 10.12.21 01:31:51 | Sell | coin hold | 344297 | millisecs | 1105 | STMXUSDT | BuyPrice | 0.02714 | LastPrice | 0.02729 | Profit | 0.14 | 0.40%
+10.12.21 02:06:49 Buy : 8.8 BNTUSDT - 3.41700000
