@@ -407,9 +407,14 @@ def sell_coins():
 
                 # Log trade
                 if LOG_TRADES:
+
+                    #portfolioInBTC = float(client.get_account_snapshot(type='SPOT')['snapshotVos'][0]['data']['totalAssetOfBtc'])
+                    #avgPriceBTCUSDT = float(client.get_avg_price(symbol='BTCUSDT')['price'])
+                    #portfolioInUSDT = float(avgPriceBTCUSDT * portfolioInBTC)
+
                     profit = ((LastPrice - BuyPrice) * coins_sold[coin]['volume'])* (1-(TRADING_FEE*2)) # adjust for trading fee here
-                    write_log(f"Sell: {coins_sold[coin]['volume']} {coin} - {BuyPrice} - {LastPrice} Profit: {profit:.2f} {PriceChange-(TRADING_FEE*2):.2f}%")
-                    session_profit=session_profit + (PriceChange-(TRADING_FEE*2))
+#                    write_log(f"Sell: {coins_sold[coin]['volume']} {coin} - {BuyPrice} - {LastPrice} Profit: {profit:.2f} {PriceChange-(TRADING_FEE*2):.2f}%")
+                    write_log(f"| Sell | coin hold | {datetime.now().timestamp()-coins_sold[coin]['timestamp']} | secs | {coins_sold[coin]['volume']} | {coin} | BuyPrice | {BuyPrice} | LastPrice | {LastPrice} | Profit | {profit:.2f} | {PriceChange - (TRADING_FEE * 2):.2f}%")
             continue
 
         # no action; print once every TIME_DIFFERENCE
