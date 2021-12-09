@@ -9237,3 +9237,10 @@
 10.12.21 00:40:34 Buy : 36 KMDUSDT - 0.82240000
 10.12.21 00:41:23 | Sell | coin hold | 49597 | millisecs | 36 | KMDUSDT | BuyPrice | 0.8224 | LastPrice | 0.8268 | Profit | 0.13 | 0.39%
 10.12.21 00:43:40 Buy : 0.0118 MKRUSDT - 2535.00000000
+10.12.21 01:02:51 | Sell | coin hold | 1151431 | millisecs | 0.0118 | MKRUSDT | BuyPrice | 2535.0 | LastPrice | 2548.0 | Profit | 0.13 | 0.36%
+10.12.21 01:02:59 Buy : 19.72 PLAUSDT - 1.52100000
+10.12.21 01:03:37 | Sell | coin hold | 218342033 | millisecs | 452.8 | JSTUSDT | BuyPrice | 0.06626 | LastPrice | 0.0666 | Profit | 0.13 | 0.36%
+10.12.21 01:03:39 Buy : 805 TCTUSDT - 0.03726000
+10.12.21 01:03:47 | Sell | coin hold | 605209648 | millisecs | 3.6 | RAYUSDT | BuyPrice | 8.286 | LastPrice | 8.334 | Profit | 0.15 | 0.43%
+10.12.21 01:03:49 Buy : 8.7 POLSUSDT - 3.46800000
+10.12.21 01:04:43 | Sell | coin hold | 112616189 | millisecs | 805 | TCTUSDT | BuyPrice | 0.03726 | LastPrice | 0.03745 | Profit | 0.13 | 0.36%
