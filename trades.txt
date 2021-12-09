@@ -9234,3 +9234,6 @@
 10.12.21 00:28:32 | Sell | coin hold | 561864 | millisecs | 131 | TFUELUSDT | BuyPrice | 0.2282 | LastPrice | 0.2294 | Profit | 0.13 | 0.38%
 10.12.21 00:28:38 Buy : 3.6 RAYUSDT - 8.28600000
 10.12.21 00:33:43 | Sell | coin hold | 861552 | millisecs | 66 | POWRUSDT | BuyPrice | 0.4513 | LastPrice | 0.4537 | Profit | 0.13 | 0.38%
+10.12.21 00:40:34 Buy : 36 KMDUSDT - 0.82240000
+10.12.21 00:41:23 | Sell | coin hold | 49597 | millisecs | 36 | KMDUSDT | BuyPrice | 0.8224 | LastPrice | 0.8268 | Profit | 0.13 | 0.39%
+10.12.21 00:43:40 Buy : 0.0118 MKRUSDT - 2535.00000000

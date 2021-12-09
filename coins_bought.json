@@ -979,5 +979,14 @@
         "volume": 3.6,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "MKRUSDT": {
+        "symbol": "MKRUSDT",
+        "orderid": 386628346,
+        "timestamp": 1639086220099,
+        "bought_at": "2535.00000000",
+        "volume": 0.0118,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
