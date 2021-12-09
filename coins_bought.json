@@ -791,15 +791,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "GNOUSDT": {
-        "symbol": "GNOUSDT",
-        "orderid": 8158332,
-        "timestamp": 1638449192794,
-        "bought_at": "475.10000000",
-        "volume": 0.105,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "CVPUSDT": {
         "symbol": "CVPUSDT",
         "orderid": 5171525,
