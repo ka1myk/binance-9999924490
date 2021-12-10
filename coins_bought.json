@@ -980,12 +980,12 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "YFIIUSDT": {
-        "symbol": "YFIIUSDT",
-        "orderid": 761016442,
-        "timestamp": 1639164447550,
-        "bought_at": "2599.00000000",
-        "volume": 0.0115,
+    "AKROUSDT": {
+        "symbol": "AKROUSDT",
+        "orderid": 268087963,
+        "timestamp": 1639165584446,
+        "bought_at": "0.02215000",
+        "volume": 1354,
         "stop_loss": -99,
         "take_profit": 0.5
     }
