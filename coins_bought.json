@@ -980,12 +980,12 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "AKROUSDT": {
-        "symbol": "AKROUSDT",
-        "orderid": 268087963,
-        "timestamp": 1639165584446,
-        "bought_at": "0.02215000",
-        "volume": 1354,
+    "CFXUSDT": {
+        "symbol": "CFXUSDT",
+        "orderid": 57374026,
+        "timestamp": 1639169250277,
+        "bought_at": "0.20450000",
+        "volume": 146,
         "stop_loss": -99,
         "take_profit": 0.5
     }
