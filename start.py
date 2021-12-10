@@ -412,15 +412,15 @@ def sell_coins():
                 if LOG_TRADES:
 
                     #portfolioInBTC = float(client.get_account_snapshot(type='SPOT')['snapshotVos'][0]['data']['totalAssetOfBtc'])
-                    avgPriceBTCUSDT = float(client.get_avg_price(symbol='BTCUSDT')['price'])
-                    #portfolioInUSDT = float(avgPriceBTCUSDT * portfolioInBTC)
+                    avgPriceBTCUSDT_sell = float(client.get_avg_price(symbol='BTCUSDT')['price'])
+                    #portfolioInUSDT = float(avgPriceBTCUSDT_sell * portfolioInBTC)
 
                     d = datetime.now().strftime('%s.%f')
                     d_in_ms = int(float(d) * 1000)
 
                     profit = ((LastPrice - BuyPrice) * coins_sold[coin]['volume'])* (1-(TRADING_FEE*2)) # adjust for trading fee here
 #                    write_log(f"Sell: {coins_sold[coin]['volume']} {coin} - {BuyPrice} - {LastPrice} Profit: {profit:.2f} {PriceChange-(TRADING_FEE*2):.2f}%")
-                    write_log(f"| Sell | coin hold | {d_in_ms - coins_sold[coin]['timestamp']} | millisecs | {coins_sold[coin]['volume']} | BTCUSDT price | {avgPriceBTCUSDT} | {coin} | BuyPrice | {BuyPrice} | LastPrice | {LastPrice} | MAX_COINS | {MAX_COINS} | TEST_MODE| {TEST_MODE} | QUANTITY IN USDT ON ONE COIN | {QUANTITY} | TIME_DIFFERENCE | {TIME_DIFFERENCE} | RECHECK_INTERVAL | {RECHECK_INTERVAL} | CHANGE_IN_PRICE | {CHANGE_IN_PRICE} | STOP_LOSS | {STOP_LOSS} | TAKE_PROFIT | {TAKE_PROFIT} | CUSTOM_LIST | {CUSTOM_LIST} | USE_TRAILING_STOP_LOSS | {USE_TRAILING_STOP_LOSS} | TRAILING_STOP_LOSS | {TRAILING_STOP_LOSS} | TRAILING_TAKE_PROFIT | {TRAILING_TAKE_PROFIT} | EXCHANGE | {EXCHANGE} | SCREENER | {SCREENER} | SYMBOL | {SYMBOL} | THRESHOLD | {THRESHOLD} | TIME_TO_WAIT | {TIME_TO_WAIT} | MY_EXCHANGE| {MY_EXCHANGE} | MY_SCREENER | {MY_SCREENER} | MY_FIRST_INTERVAL | {MY_FIRST_INTERVAL} | MY_SECOND_INTERVAL | {MY_SECOND_INTERVAL} | TA_BUY_THRESHOLD | {TA_BUY_THRESHOLD} |  Profit | {profit:.2f} | {PriceChange - (TRADING_FEE * 2):.2f}%")
+                    write_log(f"| Sell | coin hold | {d_in_ms - coins_sold[coin]['timestamp']} | millisecs | {coins_sold[coin]['volume']} | BTCUSDT_sell price | {avgPriceBTCUSDT_sell} | BTCUSDT_buy price | {coins_sold[coin]['avgPriceBTCUSDT_buy']} | {coin} | BuyPrice | {BuyPrice} | LastPrice | {LastPrice} | MAX_COINS | {MAX_COINS} | TEST_MODE| {TEST_MODE} | QUANTITY IN USDT ON ONE COIN | {QUANTITY} | TIME_DIFFERENCE | {TIME_DIFFERENCE} | RECHECK_INTERVAL | {RECHECK_INTERVAL} | CHANGE_IN_PRICE | {CHANGE_IN_PRICE} | STOP_LOSS | {STOP_LOSS} | TAKE_PROFIT | {TAKE_PROFIT} | CUSTOM_LIST | {CUSTOM_LIST} | USE_TRAILING_STOP_LOSS | {USE_TRAILING_STOP_LOSS} | TRAILING_STOP_LOSS | {TRAILING_STOP_LOSS} | TRAILING_TAKE_PROFIT | {TRAILING_TAKE_PROFIT} | EXCHANGE | {EXCHANGE} | SCREENER | {SCREENER} | SYMBOL | {SYMBOL} | THRESHOLD | {THRESHOLD} | TIME_TO_WAIT | {TIME_TO_WAIT} | MY_EXCHANGE| {MY_EXCHANGE} | MY_SCREENER | {MY_SCREENER} | MY_FIRST_INTERVAL | {MY_FIRST_INTERVAL} | MY_SECOND_INTERVAL | {MY_SECOND_INTERVAL} | TA_BUY_THRESHOLD | {TA_BUY_THRESHOLD} |  Profit | {profit:.2f} | {PriceChange - (TRADING_FEE * 2):.2f}%")
             continue
 
         # no action; print once every TIME_DIFFERENCE
@@ -437,6 +437,7 @@ def update_portfolio(orders, last_price, volume):
     '''add every coin bought to our portfolio for tracking/selling later'''
     if DEBUG: print(orders)
     for coin in orders:
+        avgPriceBTCUSDT_buy = float(client.get_avg_price(symbol='BTCUSDT')['price'])
 
         coins_bought[coin] = {
             'symbol': orders[coin][0]['symbol'],
@@ -446,6 +447,7 @@ def update_portfolio(orders, last_price, volume):
             'volume': volume[coin],
             'stop_loss': -STOP_LOSS,
             'take_profit': TAKE_PROFIT,
+            'avgPriceBTCUSDT_buy':avgPriceBTCUSDT_buy,
             }
 
         # save the coins in a json file in the same directory
