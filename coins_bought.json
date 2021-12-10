@@ -979,5 +979,14 @@
         "volume": 3.24,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "MBLUSDT": {
+        "symbol": "MBLUSDT",
+        "orderid": 141010195,
+        "timestamp": 1639138384538,
+        "bought_at": "0.00899300",
+        "volume": 3335,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
