@@ -11,6 +11,9 @@ By using this program you accept all liabilities,
 and that no claims can be made against the developers,
 or others connected with the program.
 """
+# for ultimate logging
+from pausebotmod import EXCHANGE, SCREENER, SYMBOL, THRESHOLD, TIME_TO_WAIT
+from signalsamplemod import MY_EXCHANGE, MY_SCREENER, MY_FIRST_INTERVAL, MY_SECOND_INTERVAL, TA_BUY_THRESHOLD
 
 # use for environment variables
 import os
