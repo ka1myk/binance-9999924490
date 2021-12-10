@@ -9305,3 +9305,6 @@
 10.12.21 15:13:04 Buy : 3335 MBLUSDT - 0.00899300
 10.12.21 15:28:33 | Sell | coin hold | 251677768 | millisecs | 17.8 | CTKUSDT | BuyPrice | 1.683 | LastPrice | 1.692 | Profit | 0.14 | 0.38%
 10.12.21 15:38:16 Buy : 12 COCOSUSDT - 2.33330000
+10.12.21 17:19:48 | Sell | coin hold | 35825960 | millisecs | 4.3 | FIDAUSDT | BuyPrice | 7.028 | LastPrice | 7.105 | Profit | 0.28 | 0.95%
+10.12.21 17:19:49 | Sell | coin hold | 7604917 | millisecs | 3335 | MBLUSDT | BuyPrice | 0.008993 | LastPrice | 0.009194 | Profit | 0.57 | 2.09%
+10.12.21 17:19:50 | Sell | coin hold | 45492894 | millisecs | 12 | COCOSUSDT | BuyPrice | 2.3333 | LastPrice | 2.3845 | Profit | 0.52 | 2.04%

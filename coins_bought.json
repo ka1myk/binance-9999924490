@@ -944,15 +944,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "FIDAUSDT": {
-        "symbol": "FIDAUSDT",
-        "orderid": 21462479,
-        "timestamp": 1639110162724,
-        "bought_at": "7.02800000",
-        "volume": 4.3,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "KSMUSDT": {
         "symbol": "KSMUSDT",
         "orderid": 546499465,
@@ -968,24 +959,6 @@
         "timestamp": 1639138021907,
         "bought_at": "9.26000000",
         "volume": 3.24,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "MBLUSDT": {
-        "symbol": "MBLUSDT",
-        "orderid": 141010195,
-        "timestamp": 1639138384538,
-        "bought_at": "0.00899300",
-        "volume": 3335,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
-    "COCOSUSDT": {
-        "symbol": "COCOSUSDT",
-        "orderid": 150881166,
-        "timestamp": 1639100497331,
-        "bought_at": "2.33330000",
-        "volume": 12,
         "stop_loss": -99,
         "take_profit": 0.5
     }
