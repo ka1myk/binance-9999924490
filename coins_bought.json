@@ -980,12 +980,12 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "POWRUSDT": {
-        "symbol": "POWRUSDT",
-        "orderid": 12289919,
-        "timestamp": 1639085623003,
-        "bought_at": "0.48460000",
-        "volume": 61,
+    "VITEUSDT": {
+        "symbol": "VITEUSDT",
+        "orderid": 163164840,
+        "timestamp": 1639129947850,
+        "bought_at": "0.08470000",
+        "volume": 354.2,
         "stop_loss": -99,
         "take_profit": 0.5
     }
