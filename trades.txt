@@ -9298,3 +9298,7 @@
 10.12.21 15:02:51 Buy : 7.6 CELOUSDT - 3.93200000
 10.12.21 15:02:55 Buy : 0.098 KSMUSDT - 307.40000000
 10.12.21 15:04:57 | Sell | coin hold | 333126831 | millisecs | 0.174 | ZECUSDT | BuyPrice | 172.5 | LastPrice | 173.5 | Profit | 0.15 | 0.43%
+10.12.21 15:05:12 | Sell | coin hold | 140807 | millisecs | 7.6 | CELOUSDT | BuyPrice | 3.932 | LastPrice | 3.957 | Profit | 0.16 | 0.49%
+10.12.21 15:07:00 Buy : 17.8 CTKUSDT - 1.68300000
+10.12.21 15:07:02 Buy : 3.24 JUVUSDT - 9.26000000
+10.12.21 15:07:30 | Sell | coin hold | 289560 | millisecs | 53.5 | ALPACAUSDT | BuyPrice | 0.5608 | LastPrice | 0.5639 | Profit | 0.14 | 0.40%
