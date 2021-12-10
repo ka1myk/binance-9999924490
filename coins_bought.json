@@ -953,15 +953,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "DNTUSDT": {
-        "symbol": "DNTUSDT",
-        "orderid": 164557202,
-        "timestamp": 1639160147268,
-        "bought_at": "0.14400000",
-        "volume": 208,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "DARUSDT": {
         "symbol": "DARUSDT",
         "orderid": 65097263,
@@ -986,6 +977,15 @@
         "timestamp": 1639169624964,
         "bought_at": "0.53750000",
         "volume": 55,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "ZRXUSDT": {
+        "symbol": "ZRXUSDT",
+        "orderid": 476139139,
+        "timestamp": 1639169969959,
+        "bought_at": "0.83570000",
+        "volume": 35,
         "stop_loss": -99,
         "take_profit": 0.5
     }
