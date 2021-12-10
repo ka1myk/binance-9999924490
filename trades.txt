@@ -9268,3 +9268,4 @@
 10.12.21 07:27:24 | Sell | coin hold | 187017800 | millisecs | 6.7 | THETAUSDT | BuyPrice | 4.504 | LastPrice | 4.535 | Profit | 0.18 | 0.54%
 10.12.21 09:09:47 Buy : 0.66 ENSUSDT - 45.53000000
 10.12.21 09:27:16 | Sell | coin hold | 1538045242 | millisecs | 1.5 | INJUSDT | BuyPrice | 10.128 | LastPrice | 10.187 | Profit | 0.08 | 0.43%
+10.12.21 09:45:49 Buy : 61 POWRUSDT - 0.48460000
