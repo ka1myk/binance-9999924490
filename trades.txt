@@ -9303,3 +9303,4 @@
 10.12.21 15:07:02 Buy : 3.24 JUVUSDT - 9.26000000
 10.12.21 15:07:30 | Sell | coin hold | 289560 | millisecs | 53.5 | ALPACAUSDT | BuyPrice | 0.5608 | LastPrice | 0.5639 | Profit | 0.14 | 0.40%
 10.12.21 15:13:04 Buy : 3335 MBLUSDT - 0.00899300
+10.12.21 15:28:33 | Sell | coin hold | 251677768 | millisecs | 17.8 | CTKUSDT | BuyPrice | 1.683 | LastPrice | 1.692 | Profit | 0.14 | 0.38%

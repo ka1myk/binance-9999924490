@@ -962,15 +962,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "CTKUSDT": {
-        "symbol": "CTKUSDT",
-        "orderid": 241895339,
-        "timestamp": 1638887635786,
-        "bought_at": "1.68300000",
-        "volume": 17.8,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "JUVUSDT": {
         "symbol": "JUVUSDT",
         "orderid": 107888414,
