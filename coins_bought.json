@@ -980,12 +980,12 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "CFXUSDT": {
-        "symbol": "CFXUSDT",
-        "orderid": 57374026,
-        "timestamp": 1639169250277,
-        "bought_at": "0.20450000",
-        "volume": 146,
+    "WAXPUSDT": {
+        "symbol": "WAXPUSDT",
+        "orderid": 64959311,
+        "timestamp": 1639169624964,
+        "bought_at": "0.53750000",
+        "volume": 55,
         "stop_loss": -99,
         "take_profit": 0.5
     }
