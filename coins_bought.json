@@ -971,21 +971,21 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "ENSUSDT": {
-        "symbol": "ENSUSDT",
-        "orderid": 36749393,
-        "timestamp": 1638976610045,
-        "bought_at": "45.53000000",
-        "volume": 0.66,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "VITEUSDT": {
         "symbol": "VITEUSDT",
         "orderid": 163164840,
         "timestamp": 1639129947850,
         "bought_at": "0.08470000",
         "volume": 354.2,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "AXSUSDT": {
+        "symbol": "AXSUSDT",
+        "orderid": 854088089,
+        "timestamp": 1639130215737,
+        "bought_at": "103.28000000",
+        "volume": 0.29,
         "stop_loss": -99,
         "take_profit": 0.5
     }
