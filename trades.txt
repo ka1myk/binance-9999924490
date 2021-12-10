@@ -9283,3 +9283,9 @@
 10.12.21 14:14:39 Buy : 38 NULSUSDT - 0.78670000
 10.12.21 14:14:50 | Sell | coin hold | 10722 | millisecs | 38 | NULSUSDT | BuyPrice | 0.7867 | LastPrice | 0.7925 | Profit | 0.19 | 0.59%
 10.12.21 14:14:54 Buy : 53 FETUSDT - 0.55580000
+10.12.21 14:39:22 | Sell | coin hold | 6146405 | millisecs | 0.29 | AXSUSDT | BuyPrice | 103.28 | LastPrice | 103.8 | Profit | 0.13 | 0.35%
+10.12.21 14:39:37 Buy : 176 DOGEUSDT - 0.17040000
+10.12.21 14:39:38 | Sell | coin hold | 5875683 | millisecs | 0.298 | FARMUSDT | BuyPrice | 100.6 | LastPrice | 101.5 | Profit | 0.23 | 0.74%
+10.12.21 14:39:41 Buy : 74.0 ELFUSDT - 0.40540000
+10.12.21 14:39:51 | Sell | coin hold | 644467564 | millisecs | 74.0 | ELFUSDT | BuyPrice | 0.4054 | LastPrice | 0.409 | Profit | 0.23 | 0.74%
+10.12.21 14:39:53 Buy : 0.174 ZECUSDT - 172.50000000
