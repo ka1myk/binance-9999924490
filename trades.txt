@@ -9313,3 +9313,13 @@
 10.12.21 21:11:43 Buy : 34 OCEANUSDT - 0.85840000
 10.12.21 21:11:43 Buy : 146 CFXUSDT - 0.20460000
 10.12.21 21:11:47 Buy : 0.86 TORNUSDT - 34.69000000
+10.12.21 21:15:19 | Sell | coin hold | 217145 | millisecs | 1176.9 | COSUSDT | BuyPrice | 0.02549 | LastPrice | 0.02562 | MAX_COINS | 110 | Profit | 0.13 | 0.36%
+10.12.21 21:15:23 Buy : 36 DREPUSDT - 0.82700000
+10.12.21 21:15:42 | Sell | coin hold | 19909 | millisecs | 36 | DREPUSDT | BuyPrice | 0.827 | LastPrice | 0.8316 | MAX_COINS | 110 | Profit | 0.14 | 0.41%
+10.12.21 21:15:45 | Sell | coin hold | 241875 | millisecs | 146 | CFXUSDT | BuyPrice | 0.2046 | LastPrice | 0.2058 | MAX_COINS | 110 | Profit | 0.15 | 0.44%
+10.12.21 21:15:47 Buy : 208 DNTUSDT - 0.14400000
+10.12.21 21:15:48 | Sell | coin hold | 295572390 | millisecs | 34 | OCEANUSDT | BuyPrice | 0.8584 | LastPrice | 0.8633 | MAX_COINS | 110 | Profit | 0.14 | 0.42%
+10.12.21 21:15:53 Buy : 1368 AKROUSDT - 0.02192000
+10.12.21 21:16:02 Buy : 3.7 UNFIUSDT - 8.14400000
+10.12.21 21:16:16 | Sell | coin hold | 269173 | millisecs | 0.86 | TORNUSDT | BuyPrice | 34.69 | LastPrice | 34.91 | MAX_COINS | 110 | Profit | 0.16 | 0.48%
+10.12.21 21:16:18 Buy : 40 NUUSDT - 0.74450000
