@@ -9255,3 +9255,7 @@
 10.12.21 02:06:49 Buy : 8.8 BNTUSDT - 3.41700000
 10.12.21 02:13:36 | Sell | coin hold | 80766490 | millisecs | 8.8 | BNTUSDT | BuyPrice | 3.417 | LastPrice | 3.437 | Profit | 0.15 | 0.44%
 10.12.21 02:13:37 Buy : 168 FIOUSDT - 0.17800000
+10.12.21 04:20:33 | Sell | coin hold | 88376142 | millisecs | 73 | CTXCUSDT | BuyPrice | 0.4095 | LastPrice | 0.4122 | Profit | 0.17 | 0.51%
+10.12.21 04:20:35 Buy : 465.1 GTOUSDT - 0.06450000
+10.12.21 04:21:39 | Sell | coin hold | 63945 | millisecs | 465.1 | GTOUSDT | BuyPrice | 0.0645 | LastPrice | 0.06522 | Profit | 0.28 | 0.97%
+10.12.21 04:21:41 Buy : 12 COCOSUSDT - 2.34540000
