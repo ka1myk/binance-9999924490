@@ -980,12 +980,12 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "COCOSUSDT": {
-        "symbol": "COCOSUSDT",
-        "orderid": 150874346,
-        "timestamp": 1639099300616,
-        "bought_at": "2.34540000",
-        "volume": 12,
+    "THETAUSDT": {
+        "symbol": "THETAUSDT",
+        "orderid": 1513840634,
+        "timestamp": 1638923427057,
+        "bought_at": "4.50400000",
+        "volume": 6.7,
         "stop_loss": -99,
         "take_profit": 0.5
     }
