@@ -979,5 +979,14 @@
         "volume": 0.298,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 455607179,
+        "timestamp": 1639134894253,
+        "bought_at": "0.55580000",
+        "volume": 53,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
