@@ -9323,3 +9323,4 @@
 10.12.21 21:16:02 Buy : 3.7 UNFIUSDT - 8.14400000
 10.12.21 21:16:16 | Sell | coin hold | 269173 | millisecs | 0.86 | TORNUSDT | BuyPrice | 34.69 | LastPrice | 34.91 | MAX_COINS | 110 | Profit | 0.16 | 0.48%
 10.12.21 21:16:18 Buy : 40 NUUSDT - 0.74450000
+10.12.21 21:28:10 | Sell | coin hold | 712135 | millisecs | 40 | NUUSDT | BuyPrice | 0.7445 | LastPrice | 0.7483 | MAX_COINS | 110 | Profit | 0.13 | 0.36%

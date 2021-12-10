@@ -979,14 +979,5 @@
         "volume": 3.7,
         "stop_loss": -99,
         "take_profit": 0.5
-    },
-    "NUUSDT": {
-        "symbol": "NUUSDT",
-        "orderid": 94093410,
-        "timestamp": 1639160178078,
-        "bought_at": "0.74450000",
-        "volume": 40,
-        "stop_loss": -99,
-        "take_profit": 0.5
     }
 }
