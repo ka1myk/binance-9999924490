@@ -962,12 +962,30 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "AKROUSDT": {
-        "symbol": "AKROUSDT",
-        "orderid": 268070016,
-        "timestamp": 1639160153443,
-        "bought_at": "0.02192000",
-        "volume": 1368,
+    "DARUSDT": {
+        "symbol": "DARUSDT",
+        "orderid": 65097263,
+        "timestamp": 1639161731920,
+        "bought_at": "2.17501000",
+        "volume": 13,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 100357413,
+        "timestamp": 1639161742640,
+        "bought_at": "0.32210000",
+        "volume": 93,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "VIDTUSDT": {
+        "symbol": "VIDTUSDT",
+        "orderid": 36793120,
+        "timestamp": 1639161747601,
+        "bought_at": "0.82500000",
+        "volume": 36.4,
         "stop_loss": -99,
         "take_profit": 0.5
     }
