@@ -953,15 +953,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "MBLUSDT": {
-        "symbol": "MBLUSDT",
-        "orderid": 140923311,
-        "timestamp": 1639087821262,
-        "bought_at": "0.00907400",
-        "volume": 3306,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "WNXMUSDT": {
         "symbol": "WNXMUSDT",
         "orderid": 102160282,
