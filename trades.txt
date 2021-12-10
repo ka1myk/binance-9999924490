@@ -9262,3 +9262,4 @@
 10.12.21 04:41:37 | Sell | coin hold | 1196855 | millisecs | 12 | COCOSUSDT | BuyPrice | 2.3454 | LastPrice | 2.3579 | Profit | 0.13 | 0.38%
 10.12.21 04:42:44 Buy : 6.7 THETAUSDT - 4.50400000
 10.12.21 06:33:26 | Sell | coin hold | 19385622 | millisecs | 3306 | MBLUSDT | BuyPrice | 0.009074 | LastPrice | 0.009163 | Profit | 0.25 | 0.83%
+10.12.21 07:03:09 Buy : 169.7 ONEUSDT - 0.17681000
