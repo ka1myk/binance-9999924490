@@ -979,5 +979,14 @@
         "volume": 3335,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "COCOSUSDT": {
+        "symbol": "COCOSUSDT",
+        "orderid": 150881166,
+        "timestamp": 1639100497331,
+        "bought_at": "2.33330000",
+        "volume": 12,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
