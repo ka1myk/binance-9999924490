@@ -9309,3 +9309,7 @@
 10.12.21 17:19:49 | Sell | coin hold | 7604917 | millisecs | 3335 | MBLUSDT | BuyPrice | 0.008993 | LastPrice | 0.009194 | Profit | 0.57 | 2.09%
 10.12.21 17:19:50 | Sell | coin hold | 45492894 | millisecs | 12 | COCOSUSDT | BuyPrice | 2.3333 | LastPrice | 2.3845 | Profit | 0.52 | 2.04%
 10.12.21 17:20:38 | Sell | coin hold | 75740598 | millisecs | 453 | FORUSDT | BuyPrice | 0.06618 | LastPrice | 0.06653 | Profit | 0.13 | 0.38%
+10.12.21 21:11:42 Buy : 1176.9 COSUSDT - 0.02549000
+10.12.21 21:11:43 Buy : 34 OCEANUSDT - 0.85840000
+10.12.21 21:11:43 Buy : 146 CFXUSDT - 0.20460000
+10.12.21 21:11:47 Buy : 0.86 TORNUSDT - 34.69000000

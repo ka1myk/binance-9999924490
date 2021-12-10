@@ -952,5 +952,41 @@
         "volume": 3.24,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 133107567,
+        "timestamp": 1639159902013,
+        "bought_at": "0.02549000",
+        "volume": 1176.9,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "OCEANUSDT": {
+        "symbol": "OCEANUSDT",
+        "orderid": 279622235,
+        "timestamp": 1638864576212,
+        "bought_at": "0.85840000",
+        "volume": 34,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "CFXUSDT": {
+        "symbol": "CFXUSDT",
+        "orderid": 57356714,
+        "timestamp": 1639159903251,
+        "bought_at": "0.20460000",
+        "volume": 146,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "TORNUSDT": {
+        "symbol": "TORNUSDT",
+        "orderid": 35840453,
+        "timestamp": 1639159906938,
+        "bought_at": "34.69000000",
+        "volume": 0.86,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
