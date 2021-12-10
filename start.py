@@ -417,7 +417,7 @@ def sell_coins():
 
                     profit = ((LastPrice - BuyPrice) * coins_sold[coin]['volume'])* (1-(TRADING_FEE*2)) # adjust for trading fee here
 #                    write_log(f"Sell: {coins_sold[coin]['volume']} {coin} - {BuyPrice} - {LastPrice} Profit: {profit:.2f} {PriceChange-(TRADING_FEE*2):.2f}%")
-                    write_log(f"| Sell | coin hold | {d_in_ms - coins_sold[coin]['timestamp']} | millisecs | {coins_sold[coin]['volume']} | {coin} | BuyPrice | {BuyPrice} | LastPrice | {LastPrice} | Profit | {profit:.2f} | {PriceChange - (TRADING_FEE * 2):.2f}%")
+                    write_log(f"| Sell | coin hold | {d_in_ms - coins_sold[coin]['timestamp']} | millisecs | {coins_sold[coin]['volume']} | {coin} | BuyPrice | {BuyPrice} | LastPrice | {LastPrice} | MAX_COINS | {MAX_COINS} | Profit | {profit:.2f} | {PriceChange - (TRADING_FEE * 2):.2f}%")
             continue
 
         # no action; print once every TIME_DIFFERENCE
@@ -611,5 +611,3 @@ if __name__ == '__main__':
         except ConnectionError as ce:
             CONNECTION_ERROR_COUNT +=1 
             print(f'{txcolors.WARNING}We got a timeout error from from binance. Going to re-loop. Current Count: {CONNECTION_ERROR_COUNT}\n{ce}{txcolors.DEFAULT}')
-
-
