@@ -979,5 +979,14 @@
         "volume": 4.3,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "ENSUSDT": {
+        "symbol": "ENSUSDT",
+        "orderid": 36749393,
+        "timestamp": 1638976610045,
+        "bought_at": "45.53000000",
+        "volume": 0.66,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
