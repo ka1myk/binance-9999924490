@@ -9265,3 +9265,4 @@
 10.12.21 07:03:09 Buy : 169.7 ONEUSDT - 0.17681000
 10.12.21 07:22:39 | Sell | coin hold | 1169981 | millisecs | 169.7 | ONEUSDT | BuyPrice | 0.17681 | LastPrice | 0.17774 | Profit | 0.13 | 0.38%
 10.12.21 07:22:43 Buy : 4.3 FIDAUSDT - 7.02800000
+10.12.21 07:27:24 | Sell | coin hold | 187017800 | millisecs | 6.7 | THETAUSDT | BuyPrice | 4.504 | LastPrice | 4.535 | Profit | 0.18 | 0.54%
