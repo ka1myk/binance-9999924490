@@ -9275,3 +9275,5 @@
 10.12.21 12:52:28 Buy : 354.2 VITEUSDT - 0.08470000
 10.12.21 12:56:23 | Sell | coin hold | 153573870 | millisecs | 0.66 | ENSUSDT | BuyPrice | 45.53 | LastPrice | 45.78 | Profit | 0.14 | 0.40%
 10.12.21 12:56:56 Buy : 0.29 AXSUSDT - 103.28000000
+10.12.21 13:01:40 | Sell | coin hold | 552628 | millisecs | 354.2 | VITEUSDT | BuyPrice | 0.0847 | LastPrice | 0.08514 | Profit | 0.13 | 0.37%
+10.12.21 13:01:43 Buy : 0.298 FARMUSDT - 100.60000000
