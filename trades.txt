@@ -9277,3 +9277,5 @@
 10.12.21 12:56:56 Buy : 0.29 AXSUSDT - 103.28000000
 10.12.21 13:01:40 | Sell | coin hold | 552628 | millisecs | 354.2 | VITEUSDT | BuyPrice | 0.0847 | LastPrice | 0.08514 | Profit | 0.13 | 0.37%
 10.12.21 13:01:43 Buy : 0.298 FARMUSDT - 100.60000000
+10.12.21 13:55:54 | Sell | coin hold | 896597051 | millisecs | 28 | TRIBEUSDT | BuyPrice | 1.0362 | LastPrice | 1.0414 | Profit | 0.12 | 0.35%
+10.12.21 13:57:12 Buy : 130 TFUELUSDT - 0.23030000

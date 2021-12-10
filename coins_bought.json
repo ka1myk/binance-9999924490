@@ -899,15 +899,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "TRIBEUSDT": {
-        "symbol": "TRIBEUSDT",
-        "orderid": 22671894,
-        "timestamp": 1638237157807,
-        "bought_at": "1.03620000",
-        "volume": 28,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "FIROUSDT": {
         "symbol": "FIROUSDT",
         "orderid": 96189478,
@@ -986,6 +977,15 @@
         "timestamp": 1639130502962,
         "bought_at": "100.60000000",
         "volume": 0.298,
+        "stop_loss": -99,
+        "take_profit": 0.5
+    },
+    "TFUELUSDT": {
+        "symbol": "TFUELUSDT",
+        "orderid": 423215485,
+        "timestamp": 1639133831727,
+        "bought_at": "0.23030000",
+        "volume": 130,
         "stop_loss": -99,
         "take_profit": 0.5
     }
