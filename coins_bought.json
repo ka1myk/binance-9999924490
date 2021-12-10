@@ -791,15 +791,6 @@
         "stop_loss": -98.71967213114753,
         "take_profit": 1.2803278688524602
     },
-    "INJUSDT": {
-        "symbol": "INJUSDT",
-        "orderid": 209562642,
-        "timestamp": 1637579591440,
-        "bought_at": "10.12800000",
-        "volume": 1.5,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "NMRUSDT": {
         "symbol": "NMRUSDT",
         "orderid": 116010964,
