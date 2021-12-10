@@ -979,5 +979,14 @@
         "volume": 0.174,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "KSMUSDT": {
+        "symbol": "KSMUSDT",
+        "orderid": 546495165,
+        "timestamp": 1639137509647,
+        "bought_at": "306.40000000",
+        "volume": 0.098,
+        "stop_loss": -99,
+        "take_profit": 0.5
     }
 }
