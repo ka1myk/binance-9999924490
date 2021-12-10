@@ -908,15 +908,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "FORUSDT": {
-        "symbol": "FORUSDT",
-        "orderid": 35737387,
-        "timestamp": 1639070298270,
-        "bought_at": "0.06618000",
-        "volume": 453,
-        "stop_loss": -99,
-        "take_profit": 0.5
-    },
     "BALUSDT": {
         "symbol": "BALUSDT",
         "orderid": 277408684,
