@@ -9279,3 +9279,4 @@
 10.12.21 13:01:43 Buy : 0.298 FARMUSDT - 100.60000000
 10.12.21 13:55:54 | Sell | coin hold | 896597051 | millisecs | 28 | TRIBEUSDT | BuyPrice | 1.0362 | LastPrice | 1.0414 | Profit | 0.12 | 0.35%
 10.12.21 13:57:12 Buy : 130 TFUELUSDT - 0.23030000
+10.12.21 14:06:06 | Sell | coin hold | 535214 | millisecs | 130 | TFUELUSDT | BuyPrice | 0.2303 | LastPrice | 0.2316 | Profit | 0.14 | 0.41%
