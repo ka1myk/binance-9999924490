@@ -9291,3 +9291,10 @@
 10.12.21 14:39:53 Buy : 0.174 ZECUSDT - 172.50000000
 10.12.21 14:53:58 | Sell | coin hold | 49809311 | millisecs | 8.7 | POLSUSDT | BuyPrice | 3.468 | LastPrice | 3.49 | Profit | 0.16 | 0.48%
 10.12.21 14:58:30 Buy : 0.098 KSMUSDT - 306.40000000
+10.12.21 15:01:53 | Sell | coin hold | 203844 | millisecs | 0.098 | KSMUSDT | BuyPrice | 306.4 | LastPrice | 308.2 | Profit | 0.15 | 0.44%
+10.12.21 15:01:56 | Sell | coin hold | 2822069 | millisecs | 53 | FETUSDT | BuyPrice | 0.5558 | LastPrice | 0.5588 | Profit | 0.14 | 0.39%
+10.12.21 15:02:13 | Sell | coin hold | 1355727 | millisecs | 176 | DOGEUSDT | BuyPrice | 0.1704 | LastPrice | 0.1714 | Profit | 0.15 | 0.44%
+10.12.21 15:02:41 Buy : 53.5 ALPACAUSDT - 0.56080000
+10.12.21 15:02:51 Buy : 7.6 CELOUSDT - 3.93200000
+10.12.21 15:02:55 Buy : 0.098 KSMUSDT - 307.40000000
+10.12.21 15:04:57 | Sell | coin hold | 333126831 | millisecs | 0.174 | ZECUSDT | BuyPrice | 172.5 | LastPrice | 173.5 | Profit | 0.15 | 0.43%
