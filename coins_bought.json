@@ -970,14 +970,5 @@
         "volume": 1368,
         "stop_loss": -99,
         "take_profit": 0.5
-    },
-    "UNFIUSDT": {
-        "symbol": "UNFIUSDT",
-        "orderid": 338497824,
-        "timestamp": 1639160162538,
-        "bought_at": "8.14400000",
-        "volume": 3.7,
-        "stop_loss": -99,
-        "take_profit": 0.5
     }
 }
