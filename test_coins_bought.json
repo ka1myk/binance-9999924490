@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "7.11033000",
         "trades_of_BTC_buy": 427
     },
-    "VGXUSDT": {
-        "symbol": "VGXUSDT",
-        "orderid": 0,
-        "timestamp": 1639253670737,
-        "bought_at": "3.55700000",
-        "volume": 84.3,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48475.00963315,
-        "volume_of_BTC_buy": "7.11033000",
-        "trades_of_BTC_buy": 427
-    },
     "ETHUSDT": {
         "symbol": "ETHUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 48704.81851904,
         "volume_of_BTC_buy": "7.26919000",
         "trades_of_BTC_buy": 399
+    },
+    "WAVESUSDT": {
+        "symbol": "WAVESUSDT",
+        "orderid": 0,
+        "timestamp": 1639260107419,
+        "bought_at": "15.92000000",
+        "volume": 18.84,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48781.5497145,
+        "volume_of_BTC_buy": "5.65219000",
+        "trades_of_BTC_buy": 384
     }
 }
