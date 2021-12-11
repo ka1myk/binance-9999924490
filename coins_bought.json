@@ -979,5 +979,17 @@
         "volume": 35,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "NEARUSDT": {
+        "symbol": "NEARUSDT",
+        "orderid": 671290445,
+        "timestamp": 1639182464790,
+        "bought_at": "10.30300000",
+        "volume": 2.9,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 47545.79241809,
+        "volume_of_BTC_buy": "152.96275000",
+        "trades_of_BTC_buy": 3817
     }
 }
