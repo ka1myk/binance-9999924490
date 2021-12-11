@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "7.11033000",
         "trades_of_BTC_buy": 427
     },
-    "GTCUSDT": {
-        "symbol": "GTCUSDT",
-        "orderid": 0,
-        "timestamp": 1639253670736,
-        "bought_at": "10.33900000",
-        "volume": 29.0,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48475.01843651,
-        "volume_of_BTC_buy": "7.11033000",
-        "trades_of_BTC_buy": 427
-    },
     "OGNUSDT": {
         "symbol": "OGNUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 49233.31530062,
         "volume_of_BTC_buy": "19.34857000",
         "trades_of_BTC_buy": 685
+    },
+    "FTTUSDT": {
+        "symbol": "FTTUSDT",
+        "orderid": 0,
+        "timestamp": 1639264607963,
+        "bought_at": "40.19000000",
+        "volume": 7.46,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49267.85230294,
+        "volume_of_BTC_buy": "11.24313000",
+        "trades_of_BTC_buy": 382
     }
 }
