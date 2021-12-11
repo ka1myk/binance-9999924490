@@ -302,11 +302,14 @@ def buy():
         if coin not in coins_bought:
             print(f"{txcolors.BUY}Preparing to buy {volume[coin]} {coin}{txcolors.DEFAULT}")
 
+            d = datetime.now().strftime('%s.%f')
+            d_in_ms = int(float(d) * 1000)
+
             if TEST_MODE:
                 orders[coin] = [{
                     'symbol': coin,
                     'orderId': 0,
-                    'time': datetime.now().timestamp()
+                    'time': d_in_ms
                 }]
 
                 # Log trade
