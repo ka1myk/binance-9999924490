@@ -551,18 +551,6 @@
         "volume_of_BTC_buy": "14.45460000",
         "trades_of_BTC_buy": 600
     },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 0,
-        "timestamp": 1639216779.004694,
-        "bought_at": "19.29000000",
-        "volume": 1.56,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 48498.80986158,
-        "volume_of_BTC_buy": "14.45460000",
-        "trades_of_BTC_buy": 600
-    },
     "ZILUSDT": {
         "symbol": "ZILUSDT",
         "orderid": 0,
