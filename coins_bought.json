@@ -979,5 +979,17 @@
         "volume": 35,
         "stop_loss": -99,
         "take_profit": 0.5
+    },
+    "DCRUSDT": {
+        "symbol": "DCRUSDT",
+        "orderid": 113808950,
+        "timestamp": 1639185318064,
+        "bought_at": "77.60000000",
+        "volume": 0.387,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 47879.9701161,
+        "volume_of_BTC_buy": "45.88482000",
+        "trades_of_BTC_buy": 1167
     }
 }
