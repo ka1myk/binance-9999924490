@@ -851,8 +851,8 @@
         "timestamp": 1638878300027,
         "bought_at": "17.37000000",
         "volume": 1.44,
-        "stop_loss": -99,
-        "take_profit": 0.5
+        "stop_loss": 4.663212435233153,
+        "take_profit": 4.763212435233153
     },
     "WAVESUSDT": {
         "symbol": "WAVESUSDT",
@@ -959,8 +959,8 @@
         "timestamp": 1639161731920,
         "bought_at": "2.17501000",
         "volume": 13,
-        "stop_loss": -99,
-        "take_profit": 0.5
+        "stop_loss": 4.543887154541817,
+        "take_profit": 4.643887154541817
     },
     "ZRXUSDT": {
         "symbol": "ZRXUSDT",
@@ -968,8 +968,8 @@
         "timestamp": 1639169969959,
         "bought_at": "0.83570000",
         "volume": 35,
-        "stop_loss": -99,
-        "take_profit": 0.5
+        "stop_loss": 0.8974512384827031,
+        "take_profit": 0.9974512384827031
     },
     "MATICUSDT": {
         "symbol": "MATICUSDT",
@@ -982,5 +982,17 @@
         "avgPriceBTCUSDT_buy": 48475.83755445,
         "volume_of_BTC_buy": "33.87336000",
         "trades_of_BTC_buy": 870
+    },
+    "SLPUSDT": {
+        "symbol": "SLPUSDT",
+        "orderid": 183440407,
+        "timestamp": 1639338252120,
+        "bought_at": "0.03840000",
+        "volume": 781,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50285.23131584,
+        "volume_of_BTC_buy": "10.58881000",
+        "trades_of_BTC_buy": 531
     }
 }
