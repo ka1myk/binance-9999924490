@@ -106,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 49352.02034399,
         "volume_of_BTC_buy": "16.49716000",
         "trades_of_BTC_buy": 695
+    },
+    "NULSUSDT": {
+        "symbol": "NULSUSDT",
+        "orderid": 0,
+        "timestamp": 1639273118201,
+        "bought_at": "0.82240000",
+        "volume": 364,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49249.52912334,
+        "volume_of_BTC_buy": "7.35002000",
+        "trades_of_BTC_buy": 435
     }
 }
