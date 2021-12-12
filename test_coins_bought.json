@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "8.43524000",
         "trades_of_BTC_buy": 366
     },
-    "FISUSDT": {
-        "symbol": "FISUSDT",
-        "orderid": 0,
-        "timestamp": 1639316130147,
-        "bought_at": "1.31440000",
-        "volume": 228,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49636.22671093,
-        "volume_of_BTC_buy": "8.43524000",
-        "trades_of_BTC_buy": 366
-    },
     "XRPUSDT": {
         "symbol": "XRPUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 49805.75268939,
         "volume_of_BTC_buy": "4.11865000",
         "trades_of_BTC_buy": 198
+    },
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 0,
+        "timestamp": 1639318878738,
+        "bought_at": "28.80000000",
+        "volume": 10.42,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49820.6007331,
+        "volume_of_BTC_buy": "6.27883000",
+        "trades_of_BTC_buy": 330
     }
 }
