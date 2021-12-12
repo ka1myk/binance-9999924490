@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "13.14359000",
         "trades_of_BTC_buy": 492
     },
-    "RLCUSDT": {
-        "symbol": "RLCUSDT",
-        "orderid": 0,
-        "timestamp": 1639265062317,
-        "bought_at": "2.97000000",
-        "volume": 101.0,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49241.04327871,
-        "volume_of_BTC_buy": "13.14359000",
-        "trades_of_BTC_buy": 492
-    },
     "TRXUSDT": {
         "symbol": "TRXUSDT",
         "orderid": 0,
