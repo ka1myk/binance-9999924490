@@ -845,15 +845,6 @@
         "stop_loss": -99,
         "take_profit": 0.5
     },
-    "XVSUSDT": {
-        "symbol": "XVSUSDT",
-        "orderid": 352235260,
-        "timestamp": 1638878300027,
-        "bought_at": "17.37000000",
-        "volume": 1.44,
-        "stop_loss": 4.663212435233153,
-        "take_profit": 4.763212435233153
-    },
     "WAVESUSDT": {
         "symbol": "WAVESUSDT",
         "orderid": 618183327,
@@ -952,16 +943,7 @@
         "volume": 3.24,
         "stop_loss": -99,
         "take_profit": 0.5
-    },
-    "DARUSDT": {
-        "symbol": "DARUSDT",
-        "orderid": 65097263,
-        "timestamp": 1639161731920,
-        "bought_at": "2.17501000",
-        "volume": 13,
-        "stop_loss": 4.543887154541817,
-        "take_profit": 4.643887154541817
-    },
+    }, 
     "ZRXUSDT": {
         "symbol": "ZRXUSDT",
         "orderid": 476139139,
