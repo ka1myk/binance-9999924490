@@ -935,18 +935,6 @@
         "volume_of_BTC_buy": "4.02751000",
         "trades_of_BTC_buy": 299
     },
-    "REQUSDT": {
-        "symbol": "REQUSDT",
-        "orderid": 0,
-        "timestamp": 1639320631414,
-        "bought_at": "0.48170000",
-        "volume": 103,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49808.70666383,
-        "volume_of_BTC_buy": "4.02751000",
-        "trades_of_BTC_buy": 299
-    },
     "VIDTUSDT": {
         "symbol": "VIDTUSDT",
         "orderid": 0,
@@ -1475,18 +1463,6 @@
         "volume_of_BTC_buy": "12.17691000",
         "trades_of_BTC_buy": 377
     },
-    "TROYUSDT": {
-        "symbol": "TROYUSDT",
-        "orderid": 0,
-        "timestamp": 1639321092192,
-        "bought_at": "0.01210800",
-        "volume": 4129,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49841.21758608,
-        "volume_of_BTC_buy": "12.17691000",
-        "trades_of_BTC_buy": 377
-    },
     "VITEUSDT": {
         "symbol": "VITEUSDT",
         "orderid": 0,
@@ -1619,18 +1595,6 @@
         "volume_of_BTC_buy": "12.17691000",
         "trades_of_BTC_buy": 377
     },
-    "FRONTUSDT": {
-        "symbol": "FRONTUSDT",
-        "orderid": 0,
-        "timestamp": 1639321128085,
-        "bought_at": "0.70370000",
-        "volume": 71,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49840.6267137,
-        "volume_of_BTC_buy": "12.17691000",
-        "trades_of_BTC_buy": 377
-    },
     "BTTUSDT": {
         "symbol": "BTTUSDT",
         "orderid": 0,
@@ -1654,18 +1618,6 @@
         "avgPriceBTCUSDT_buy": 49841.35157716,
         "volume_of_BTC_buy": "12.17691000",
         "trades_of_BTC_buy": 377
-    },
-    "AIONUSDT": {
-        "symbol": "AIONUSDT",
-        "orderid": 0,
-        "timestamp": 1639321140265,
-        "bought_at": "0.16340000",
-        "volume": 305,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49841.42337782,
-        "volume_of_BTC_buy": "7.09172000",
-        "trades_of_BTC_buy": 295
     },
     "BTCSTUSDT": {
         "symbol": "BTCSTUSDT",
