@@ -59,18 +59,6 @@
         "volume_of_BTC_buy": "13.14359000",
         "trades_of_BTC_buy": 492
     },
-    "OCEANUSDT": {
-        "symbol": "OCEANUSDT",
-        "orderid": 0,
-        "timestamp": 1639265293603,
-        "bought_at": "0.87140000",
-        "volume": 344,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49285.82881914,
-        "volume_of_BTC_buy": "4.31269000",
-        "trades_of_BTC_buy": 408
-    },
     "TRXUSDT": {
         "symbol": "TRXUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 49389.82841455,
         "volume_of_BTC_buy": "2.94692000",
         "trades_of_BTC_buy": 359
+    },
+    "COMPUSDT": {
+        "symbol": "COMPUSDT",
+        "orderid": 0,
+        "timestamp": 1639271186824,
+        "bought_at": "196.90000000",
+        "volume": 1.524,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49352.02034399,
+        "volume_of_BTC_buy": "16.49716000",
+        "trades_of_BTC_buy": 695
     }
 }
