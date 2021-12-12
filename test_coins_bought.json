@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "7.11033000",
         "trades_of_BTC_buy": 427
     },
-    "KMDUSDT": {
-        "symbol": "KMDUSDT",
-        "orderid": 0,
-        "timestamp": 1639264329773,
-        "bought_at": "0.78210000",
-        "volume": 383,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49139.13879874,
-        "volume_of_BTC_buy": "19.34857000",
-        "trades_of_BTC_buy": 685
-    },
     "ANKRUSDT": {
         "symbol": "ANKRUSDT",
         "orderid": 0,
