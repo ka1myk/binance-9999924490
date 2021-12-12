@@ -1268,18 +1268,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "SLPUSDT": {
-        "symbol": "SLPUSDT",
-        "orderid": 183440407,
-        "timestamp": 1639338252120,
-        "bought_at": "0.03840000",
-        "volume": 781,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50285.23131584,
-        "volume_of_BTC_buy": "10.58881000",
-        "trades_of_BTC_buy": 531
-    },
     "DUSKUSDT": {
         "symbol": "DUSKUSDT",
         "orderid": 101922816,
@@ -1289,18 +1277,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 50413.22508483,
-        "volume_of_BTC_buy": "8.84935000",
-        "trades_of_BTC_buy": 479
-    },
-    "UNFIUSDT": {
-        "symbol": "UNFIUSDT",
-        "orderid": 338509488,
-        "timestamp": 1639161064266,
-        "bought_at": "10.04700000",
-        "volume": 3.0,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50415.11344042,
         "volume_of_BTC_buy": "8.84935000",
         "trades_of_BTC_buy": 479
     }
