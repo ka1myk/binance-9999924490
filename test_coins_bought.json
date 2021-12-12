@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "19.34857000",
         "trades_of_BTC_buy": 685
     },
-    "FTTUSDT": {
-        "symbol": "FTTUSDT",
-        "orderid": 0,
-        "timestamp": 1639264607963,
-        "bought_at": "40.19000000",
-        "volume": 7.46,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49267.85230294,
-        "volume_of_BTC_buy": "11.24313000",
-        "trades_of_BTC_buy": 382
-    },
     "WINUSDT": {
         "symbol": "WINUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 49425.88521771,
         "volume_of_BTC_buy": "7.22610000",
         "trades_of_BTC_buy": 348
+    },
+    "MBLUSDT": {
+        "symbol": "MBLUSDT",
+        "orderid": 0,
+        "timestamp": 1639267628172,
+        "bought_at": "0.00894000",
+        "volume": 33557,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49389.82841455,
+        "volume_of_BTC_buy": "2.94692000",
+        "trades_of_BTC_buy": 359
     }
 }
