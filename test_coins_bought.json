@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "8.43524000",
         "trades_of_BTC_buy": 366
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 0,
-        "timestamp": 1639316118828,
-        "bought_at": "0.34770000",
-        "volume": 862,
-        "stop_loss": 0.8340523439746947,
-        "take_profit": 0.9340523439746947,
-        "avgPriceBTCUSDT_buy": 49634.80077759,
-        "volume_of_BTC_buy": "8.43524000",
-        "trades_of_BTC_buy": 366
-    },
     "SLPUSDT": {
         "symbol": "SLPUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 49713.41646006,
         "volume_of_BTC_buy": "23.97244000",
         "trades_of_BTC_buy": 305
+    },
+    "ROSEUSDT": {
+        "symbol": "ROSEUSDT",
+        "orderid": 0,
+        "timestamp": 1639317906470,
+        "bought_at": "0.29366000",
+        "volume": 1021.6,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49805.75268939,
+        "volume_of_BTC_buy": "4.11865000",
+        "trades_of_BTC_buy": 198
     }
 }
