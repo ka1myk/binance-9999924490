@@ -314,7 +314,8 @@ def buy():
 
                 # Log trade
                 if LOG_TRADES:
-                    write_log(f"Buy : {volume[coin]} {coin} - {last_price[coin]['price']}")
+                #    write_log(f"Buy : {volume[coin]} {coin} - {last_price[coin]['price']}")
+                    print(f"Buy : {volume[coin]} {coin} - {last_price[coin]['price']}")
 
                 continue
 
