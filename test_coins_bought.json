@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "42.64957000",
         "trades_of_BTC_buy": 1847
     },
-    "RSRUSDT": {
-        "symbol": "RSRUSDT",
-        "orderid": 0,
-        "timestamp": 1639491476954,
-        "bought_at": "0.02887000",
-        "volume": 1039.1,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46900.63560064,
-        "volume_of_BTC_buy": "42.64957000",
-        "trades_of_BTC_buy": 1847
-    },
     "SUSHIUSDT": {
         "symbol": "SUSHIUSDT",
         "orderid": 0,
@@ -107,18 +95,6 @@
         "volume_of_BTC_buy": "42.64957000",
         "trades_of_BTC_buy": 1847
     },
-    "REPUSDT": {
-        "symbol": "REPUSDT",
-        "orderid": 0,
-        "timestamp": 1639491509124,
-        "bought_at": "16.13000000",
-        "volume": 1.86,
-        "stop_loss": 0.9299442033478126,
-        "take_profit": 1.0299442033478126,
-        "avgPriceBTCUSDT_buy": 46883.83781919,
-        "volume_of_BTC_buy": "42.64957000",
-        "trades_of_BTC_buy": 1847
-    },
     "DOGEUSDT": {
         "symbol": "DOGEUSDT",
         "orderid": 0,
@@ -140,18 +116,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 46882.51574101,
-        "volume_of_BTC_buy": "42.64957000",
-        "trades_of_BTC_buy": 1847
-    },
-    "CHESSUSDT": {
-        "symbol": "CHESSUSDT",
-        "orderid": 0,
-        "timestamp": 1639491535878,
-        "bought_at": "1.77000000",
-        "volume": 16.9,
-        "stop_loss": 0.8474576271186385,
-        "take_profit": 0.9474576271186385,
-        "avgPriceBTCUSDT_buy": 46877.65440108,
         "volume_of_BTC_buy": "42.64957000",
         "trades_of_BTC_buy": 1847
     },
@@ -212,18 +176,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 46857.95141708,
-        "volume_of_BTC_buy": "34.62865000",
-        "trades_of_BTC_buy": 1978
-    },
-    "UNFIUSDT": {
-        "symbol": "UNFIUSDT",
-        "orderid": 0,
-        "timestamp": 1639491643223,
-        "bought_at": "8.76800000",
-        "volume": 3.4,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46858.13165997,
         "volume_of_BTC_buy": "34.62865000",
         "trades_of_BTC_buy": 1978
     },
@@ -533,8 +485,8 @@
         "timestamp": 1639492566192,
         "bought_at": "4.01200000",
         "volume": 7.5,
-        "stop_loss": -99,
-        "take_profit": 0.8,
+        "stop_loss": 0.9222333000997213,
+        "take_profit": 1.0222333000997212,
         "avgPriceBTCUSDT_buy": 47008.37872441,
         "volume_of_BTC_buy": "48.82908000",
         "trades_of_BTC_buy": 2336
@@ -620,18 +572,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 47037.73280406,
-        "volume_of_BTC_buy": "48.82908000",
-        "trades_of_BTC_buy": 2336
-    },
-    "KAVAUSDT": {
-        "symbol": "KAVAUSDT",
-        "orderid": 0,
-        "timestamp": 1639492781855,
-        "bought_at": "3.36500000",
-        "volume": 8.9,
-        "stop_loss": 1.0401188707280742,
-        "take_profit": 1.1401188707280743,
-        "avgPriceBTCUSDT_buy": 47037.31387625,
         "volume_of_BTC_buy": "48.82908000",
         "trades_of_BTC_buy": 2336
     },
@@ -971,18 +911,6 @@
         "volume_of_BTC_buy": "53.52177000",
         "trades_of_BTC_buy": 2360
     },
-    "HARDUSDT": {
-        "symbol": "HARDUSDT",
-        "orderid": 0,
-        "timestamp": 1639492966581,
-        "bought_at": "0.71650000",
-        "volume": 41,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47128.81380249,
-        "volume_of_BTC_buy": "53.52177000",
-        "trades_of_BTC_buy": 2360
-    },
     "DREPUSDT": {
         "symbol": "DREPUSDT",
         "orderid": 0,
@@ -1198,5 +1126,77 @@
         "avgPriceBTCUSDT_buy": 47212.81114413,
         "volume_of_BTC_buy": "36.70600000",
         "trades_of_BTC_buy": 1936
+    },
+    "CRVUSDT": {
+        "symbol": "CRVUSDT",
+        "orderid": 0,
+        "timestamp": 1639493411901,
+        "bought_at": "3.32900000",
+        "volume": 9.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47218.2134112,
+        "volume_of_BTC_buy": "45.74547000",
+        "trades_of_BTC_buy": 2036
+    },
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 0,
+        "timestamp": 1639493416015,
+        "bought_at": "21.48000000",
+        "volume": 1.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47218.02832603,
+        "volume_of_BTC_buy": "45.74547000",
+        "trades_of_BTC_buy": 2036
+    },
+    "TKOUSDT": {
+        "symbol": "TKOUSDT",
+        "orderid": 0,
+        "timestamp": 1639493416016,
+        "bought_at": "1.24900000",
+        "volume": 24.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47218.01400061,
+        "volume_of_BTC_buy": "45.74547000",
+        "trades_of_BTC_buy": 2036
+    },
+    "MATICUSDT": {
+        "symbol": "MATICUSDT",
+        "orderid": 0,
+        "timestamp": 1639493435011,
+        "bought_at": "1.84100000",
+        "volume": 16.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47213.5944216,
+        "volume_of_BTC_buy": "45.74547000",
+        "trades_of_BTC_buy": 2036
+    },
+    "CHZUSDT": {
+        "symbol": "CHZUSDT",
+        "orderid": 0,
+        "timestamp": 1639493538178,
+        "bought_at": "0.27830000",
+        "volume": 107,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47192.21277104,
+        "volume_of_BTC_buy": "45.74547000",
+        "trades_of_BTC_buy": 2036
+    },
+    "PNTUSDT": {
+        "symbol": "PNTUSDT",
+        "orderid": 0,
+        "timestamp": 1639493699491,
+        "bought_at": "0.82720000",
+        "volume": 36,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47159.97962538,
+        "volume_of_BTC_buy": "45.74547000",
+        "trades_of_BTC_buy": 2036
     }
 }
