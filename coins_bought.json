@@ -1043,15 +1043,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "CVPUSDT": {
-        "symbol": "CVPUSDT",
-        "orderid": 5171525,
-        "timestamp": 1638054252439,
-        "bought_at": "1.52500000",
-        "volume": 32.8,
-        "stop_loss": -98.71967213114753,
-        "take_profit": 1.2803278688524602
-    },
     "NMRUSDT": {
         "symbol": "NMRUSDT",
         "orderid": 116010964,
@@ -1202,18 +1193,6 @@
         "timestamp": 1639070324607,
         "bought_at": "16.08000000",
         "volume": 1.87,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50285.23131584,
-        "volume_of_BTC_buy": "10.58881000",
-        "trades_of_BTC_buy": 531
-    },
-    "WNXMUSDT": {
-        "symbol": "WNXMUSDT",
-        "orderid": 102160282,
-        "timestamp": 1639087827806,
-        "bought_at": "54.71000000",
-        "volume": 0.55,
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 50285.23131584,
