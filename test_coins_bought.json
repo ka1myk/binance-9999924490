@@ -1187,16 +1187,16 @@
         "volume_of_BTC_buy": "116.53980000",
         "trades_of_BTC_buy": 3849
     },
-    "BZRXUSDT": {
-        "symbol": "BZRXUSDT",
+    "DGBUSDT": {
+        "symbol": "DGBUSDT",
         "orderid": 0,
-        "timestamp": 1639544879719,
-        "bought_at": "0.25600000",
-        "volume": 58,
+        "timestamp": 1639545019243,
+        "bought_at": "0.03457000",
+        "volume": 433.9,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48278.23056604,
-        "volume_of_BTC_buy": "116.53980000",
-        "trades_of_BTC_buy": 3849
+        "avgPriceBTCUSDT_buy": 48283.77405874,
+        "volume_of_BTC_buy": "78.53938000",
+        "trades_of_BTC_buy": 2612
     }
 }
