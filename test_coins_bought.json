@@ -467,18 +467,6 @@
         "volume_of_BTC_buy": "71.44528000",
         "trades_of_BTC_buy": 2985
     },
-    "ATMUSDT": {
-        "symbol": "ATMUSDT",
-        "orderid": 0,
-        "timestamp": 1639554710554,
-        "bought_at": "7.40000000",
-        "volume": 2.03,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48262.43456486,
-        "volume_of_BTC_buy": "560.91443000",
-        "trades_of_BTC_buy": 13567
-    },
     "RIFUSDT": {
         "symbol": "RIFUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48432.8066217,
         "volume_of_BTC_buy": "836.35637000",
         "trades_of_BTC_buy": 17938
+    },
+    "KEEPUSDT": {
+        "symbol": "KEEPUSDT",
+        "orderid": 0,
+        "timestamp": 1639561631335,
+        "bought_at": "0.62420000",
+        "volume": 24,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48463.2278169,
+        "volume_of_BTC_buy": "306.57684000",
+        "trades_of_BTC_buy": 7879
     }
 }
