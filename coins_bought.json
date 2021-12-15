@@ -1246,5 +1246,53 @@
         "avgPriceBTCUSDT_buy": 50285.23131584,
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
+    },
+    "WRXUSDT": {
+        "symbol": "WRXUSDT",
+        "orderid": 305628487,
+        "timestamp": 1639596016098,
+        "bought_at": "1.12900000",
+        "volume": 13.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48736.63792812,
+        "volume_of_BTC_buy": "100.86998000",
+        "trades_of_BTC_buy": 2834
+    },
+    "OMUSDT": {
+        "symbol": "OMUSDT",
+        "orderid": 62331223,
+        "timestamp": 1639596017637,
+        "bought_at": "0.14240000",
+        "volume": 105,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48736.12517043,
+        "volume_of_BTC_buy": "100.86998000",
+        "trades_of_BTC_buy": 2834
+    },
+    "MASKUSDT": {
+        "symbol": "MASKUSDT",
+        "orderid": 159050038,
+        "timestamp": 1639596024303,
+        "bought_at": "10.78400000",
+        "volume": 1.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48735.23587227,
+        "volume_of_BTC_buy": "100.86998000",
+        "trades_of_BTC_buy": 2834
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 106272150,
+        "timestamp": 1639596027428,
+        "bought_at": "0.64470000",
+        "volume": 23,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48735.22594911,
+        "volume_of_BTC_buy": "100.86998000",
+        "trades_of_BTC_buy": 2834
     }
 }
