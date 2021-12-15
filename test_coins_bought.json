@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "42.64957000",
         "trades_of_BTC_buy": 1847
     },
-    "MLNUSDT": {
-        "symbol": "MLNUSDT",
-        "orderid": 0,
-        "timestamp": 1639491524158,
-        "bought_at": "86.40000000",
-        "volume": 0.347,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46882.51574101,
-        "volume_of_BTC_buy": "42.64957000",
-        "trades_of_BTC_buy": 1847
-    },
     "STMXUSDT": {
         "symbol": "STMXUSDT",
         "orderid": 0,
@@ -322,18 +310,6 @@
         "avgPriceBTCUSDT_buy": 47133.36391921,
         "volume_of_BTC_buy": "227.22398000",
         "trades_of_BTC_buy": 5276
-    },
-    "INJUSDT": {
-        "symbol": "INJUSDT",
-        "orderid": 0,
-        "timestamp": 1639495516256,
-        "bought_at": "8.17300000",
-        "volume": 3.7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47306.56276507,
-        "volume_of_BTC_buy": "103.53925000",
-        "trades_of_BTC_buy": 3816
     },
     "REPUSDT": {
         "symbol": "REPUSDT",
@@ -1198,5 +1174,17 @@
         "avgPriceBTCUSDT_buy": 48119.82690368,
         "volume_of_BTC_buy": "80.83368000",
         "trades_of_BTC_buy": 3471
+    },
+    "DASHUSDT": {
+        "symbol": "DASHUSDT",
+        "orderid": 0,
+        "timestamp": 1639548159216,
+        "bought_at": "130.00000000",
+        "volume": 0.115,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48136.17883085,
+        "volume_of_BTC_buy": "53.01880000",
+        "trades_of_BTC_buy": 2743
     }
 }
