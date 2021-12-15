@@ -527,18 +527,6 @@
         "volume_of_BTC_buy": "357.09501000",
         "trades_of_BTC_buy": 8752
     },
-    "BANDUSDT": {
-        "symbol": "BANDUSDT",
-        "orderid": 0,
-        "timestamp": 1639555896016,
-        "bought_at": "5.06300000",
-        "volume": 3.0,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48322.62223025,
-        "volume_of_BTC_buy": "270.04792000",
-        "trades_of_BTC_buy": 7719
-    },
     "TOMOUSDT": {
         "symbol": "TOMOUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48490.58750583,
         "volume_of_BTC_buy": "290.49416000",
         "trades_of_BTC_buy": 7277
+    },
+    "BZRXUSDT": {
+        "symbol": "BZRXUSDT",
+        "orderid": 0,
+        "timestamp": 1639560035624,
+        "bought_at": "0.26910000",
+        "volume": 55,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48489.37406669,
+        "volume_of_BTC_buy": "443.19738000",
+        "trades_of_BTC_buy": 9341
     }
 }
