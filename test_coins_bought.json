@@ -611,18 +611,6 @@
         "volume_of_BTC_buy": "72.91524000",
         "trades_of_BTC_buy": 2269
     },
-    "EPSUSDT": {
-        "symbol": "EPSUSDT",
-        "orderid": 0,
-        "timestamp": 1639542627092,
-        "bought_at": "0.26120000",
-        "volume": 57,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48366.09583787,
-        "volume_of_BTC_buy": "72.91524000",
-        "trades_of_BTC_buy": 2269
-    },
     "BICOUSDT": {
         "symbol": "BICOUSDT",
         "orderid": 0,
@@ -1103,18 +1091,6 @@
         "volume_of_BTC_buy": "247.06240000",
         "trades_of_BTC_buy": 6393
     },
-    "DYDXUSDT": {
-        "symbol": "DYDXUSDT",
-        "orderid": 0,
-        "timestamp": 1639554349434,
-        "bought_at": "8.35300000",
-        "volume": 1.8,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48223.34195205,
-        "volume_of_BTC_buy": "118.62202000",
-        "trades_of_BTC_buy": 4285
-    },
     "CELOUSDT": {
         "symbol": "CELOUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 48230.45086987,
         "volume_of_BTC_buy": "560.91443000",
         "trades_of_BTC_buy": 13567
+    },
+    "LUNAUSDT": {
+        "symbol": "LUNAUSDT",
+        "orderid": 0,
+        "timestamp": 1639554947667,
+        "bought_at": "58.60000000",
+        "volume": 0.26,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48224.97467211,
+        "volume_of_BTC_buy": "316.07016000",
+        "trades_of_BTC_buy": 10959
+    },
+    "ANTUSDT": {
+        "symbol": "ANTUSDT",
+        "orderid": 0,
+        "timestamp": 1639555008410,
+        "bought_at": "5.74000000",
+        "volume": 2.6,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48239.98062619,
+        "volume_of_BTC_buy": "316.07016000",
+        "trades_of_BTC_buy": 10959
     }
 }
