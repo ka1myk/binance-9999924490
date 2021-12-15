@@ -1271,18 +1271,6 @@
         "volume_of_BTC_buy": "100.86998000",
         "trades_of_BTC_buy": 2834
     },
-    "MASKUSDT": {
-        "symbol": "MASKUSDT",
-        "orderid": 159050038,
-        "timestamp": 1639596024303,
-        "bought_at": "10.78400000",
-        "volume": 1.4,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48735.23587227,
-        "volume_of_BTC_buy": "100.86998000",
-        "trades_of_BTC_buy": 2834
-    },
     "TFUELUSDT": {
         "symbol": "TFUELUSDT",
         "orderid": 424504731,
@@ -1294,5 +1282,17 @@
         "avgPriceBTCUSDT_buy": 48666.2009502,
         "volume_of_BTC_buy": "226.24053000",
         "trades_of_BTC_buy": 3799
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 106320726,
+        "timestamp": 1639598604431,
+        "bought_at": "0.63900000",
+        "volume": 23,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48699.03140767,
+        "volume_of_BTC_buy": "38.79666000",
+        "trades_of_BTC_buy": 2149
     }
 }
