@@ -1007,18 +1007,6 @@
         "volume_of_BTC_buy": "471.34278000",
         "trades_of_BTC_buy": 10009
     },
-    "BETAUSDT": {
-        "symbol": "BETAUSDT",
-        "orderid": 0,
-        "timestamp": 1639562914828,
-        "bought_at": "0.64675000",
-        "volume": 23,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48508.21798884,
-        "volume_of_BTC_buy": "247.69606000",
-        "trades_of_BTC_buy": 7613
-    },
     "RLCUSDT": {
         "symbol": "RLCUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48166.27791947,
         "volume_of_BTC_buy": "59.88769000",
         "trades_of_BTC_buy": 3133
+    },
+    "BTSUSDT": {
+        "symbol": "BTSUSDT",
+        "orderid": 0,
+        "timestamp": 1639569096750,
+        "bought_at": "0.03409000",
+        "volume": 440.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48240.74130505,
+        "volume_of_BTC_buy": "96.43636000",
+        "trades_of_BTC_buy": 3770
     }
 }
