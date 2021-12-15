@@ -1235,18 +1235,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "MATICUSDT": {
-        "symbol": "MATICUSDT",
-        "orderid": 1351269174,
-        "timestamp": 1638944923712,
-        "bought_at": "2.12700000",
-        "volume": 14.1,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50285.23131584,
-        "volume_of_BTC_buy": "10.58881000",
-        "trades_of_BTC_buy": 531
-    },
     "JASMYUSDT": {
         "symbol": "JASMYUSDT",
         "orderid": 10069992,
@@ -1268,18 +1256,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 49053.70004932,
-        "volume_of_BTC_buy": "102.76352000",
-        "trades_of_BTC_buy": 3244
-    },
-    "UNIUSDT": {
-        "symbol": "UNIUSDT",
-        "orderid": 1284537167,
-        "timestamp": 1639599117841,
-        "bought_at": "15.28000000",
-        "volume": 0.98,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49054.42413001,
         "volume_of_BTC_buy": "102.76352000",
         "trades_of_BTC_buy": 3244
     },
@@ -1318,5 +1294,29 @@
         "avgPriceBTCUSDT_buy": 48985.75866397,
         "volume_of_BTC_buy": "67.35404000",
         "trades_of_BTC_buy": 2529
+    },
+    "RIFUSDT": {
+        "symbol": "RIFUSDT",
+        "orderid": 44236193,
+        "timestamp": 1639600119057,
+        "bought_at": "0.20800000",
+        "volume": 72,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48990.21696538,
+        "volume_of_BTC_buy": "56.49633000",
+        "trades_of_BTC_buy": 2300
+    },
+    "TLMUSDT": {
+        "symbol": "TLMUSDT",
+        "orderid": 301816770,
+        "timestamp": 1638944960665,
+        "bought_at": "0.22920000",
+        "volume": 65,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49092.2242738,
+        "volume_of_BTC_buy": "56.49633000",
+        "trades_of_BTC_buy": 2300
     }
 }
