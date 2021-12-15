@@ -347,18 +347,6 @@
         "volume_of_BTC_buy": "103.53925000",
         "trades_of_BTC_buy": 3816
     },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 0,
-        "timestamp": 1639495781439,
-        "bought_at": "18.36000000",
-        "volume": 1.63,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47455.5399862,
-        "volume_of_BTC_buy": "103.53925000",
-        "trades_of_BTC_buy": 3816
-    },
     "ADAUSDT": {
         "symbol": "ADAUSDT",
         "orderid": 0,
@@ -1151,18 +1139,6 @@
         "volume_of_BTC_buy": "119.29968000",
         "trades_of_BTC_buy": 4218
     },
-    "STORJUSDT": {
-        "symbol": "STORJUSDT",
-        "orderid": 0,
-        "timestamp": 1639552909996,
-        "bought_at": "1.44260000",
-        "volume": 10,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48278.76486038,
-        "volume_of_BTC_buy": "71.44528000",
-        "trades_of_BTC_buy": 2985
-    },
     "NMRUSDT": {
         "symbol": "NMRUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 48174.37420155,
         "volume_of_BTC_buy": "86.67521000",
         "trades_of_BTC_buy": 3507
+    },
+    "CHRUSDT": {
+        "symbol": "CHRUSDT",
+        "orderid": 0,
+        "timestamp": 1639554166508,
+        "bought_at": "0.54600000",
+        "volume": 27,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48228.31166851,
+        "volume_of_BTC_buy": "247.06240000",
+        "trades_of_BTC_buy": 6393
+    },
+    "MDXUSDT": {
+        "symbol": "MDXUSDT",
+        "orderid": 0,
+        "timestamp": 1639554217798,
+        "bought_at": "0.37800000",
+        "volume": 39.7,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48225.86025202,
+        "volume_of_BTC_buy": "247.06240000",
+        "trades_of_BTC_buy": 6393
     }
 }
