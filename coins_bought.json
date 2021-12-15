@@ -1294,5 +1294,29 @@
         "avgPriceBTCUSDT_buy": 49054.42413001,
         "volume_of_BTC_buy": "102.76352000",
         "trades_of_BTC_buy": 3244
+    },
+    "IDEXUSDT": {
+        "symbol": "IDEXUSDT",
+        "orderid": 85094156,
+        "timestamp": 1639599574568,
+        "bought_at": "0.28995000",
+        "volume": 51.7,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49083.47395442,
+        "volume_of_BTC_buy": "69.43714000",
+        "trades_of_BTC_buy": 2782
+    },
+    "ORNUSDT": {
+        "symbol": "ORNUSDT",
+        "orderid": 201132305,
+        "timestamp": 1639599581273,
+        "bought_at": "5.92800000",
+        "volume": 2.5,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49093.20626077,
+        "volume_of_BTC_buy": "69.43714000",
+        "trades_of_BTC_buy": 2782
     }
 }
