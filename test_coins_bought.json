@@ -227,18 +227,6 @@
         "volume_of_BTC_buy": "35.97640000",
         "trades_of_BTC_buy": 1929
     },
-    "OGUSDT": {
-        "symbol": "OGUSDT",
-        "orderid": 0,
-        "timestamp": 1639542391169,
-        "bought_at": "4.11100000",
-        "volume": 3.6,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48343.80062365,
-        "volume_of_BTC_buy": "35.97640000",
-        "trades_of_BTC_buy": 1929
-    },
     "NEARUSDT": {
         "symbol": "NEARUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48104.8237698,
         "volume_of_BTC_buy": "129.72364000",
         "trades_of_BTC_buy": 3950
+    },
+    "YGGUSDT": {
+        "symbol": "YGGUSDT",
+        "orderid": 0,
+        "timestamp": 1639570044953,
+        "bought_at": "5.50200000",
+        "volume": 2.7,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48176.88227293,
+        "volume_of_BTC_buy": "76.37202000",
+        "trades_of_BTC_buy": 3383
     }
 }
