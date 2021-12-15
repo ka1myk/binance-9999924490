@@ -719,18 +719,6 @@
         "volume_of_BTC_buy": "35.97640000",
         "trades_of_BTC_buy": 1929
     },
-    "LUNAUSDT": {
-        "symbol": "LUNAUSDT",
-        "orderid": 0,
-        "timestamp": 1639542399265,
-        "bought_at": "58.20000000",
-        "volume": 0.26,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48339.6904994,
-        "volume_of_BTC_buy": "35.97640000",
-        "trades_of_BTC_buy": 1929
-    },
     "NEARUSDT": {
         "symbol": "NEARUSDT",
         "orderid": 0,
@@ -983,18 +971,6 @@
         "volume_of_BTC_buy": "35.97640000",
         "trades_of_BTC_buy": 1929
     },
-    "CELRUSDT": {
-        "symbol": "CELRUSDT",
-        "orderid": 0,
-        "timestamp": 1639542476220,
-        "bought_at": "0.06323000",
-        "volume": 237.2,
-        "stop_loss": 0.838209710580425,
-        "take_profit": 0.938209710580425,
-        "avgPriceBTCUSDT_buy": 48338.99999187,
-        "volume_of_BTC_buy": "35.97640000",
-        "trades_of_BTC_buy": 1929
-    },
     "XRPUSDT": {
         "symbol": "XRPUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 48273.36027853,
         "volume_of_BTC_buy": "137.67790000",
         "trades_of_BTC_buy": 3747
+    },
+    "ETCUSDT": {
+        "symbol": "ETCUSDT",
+        "orderid": 0,
+        "timestamp": 1639544716188,
+        "bought_at": "35.05000000",
+        "volume": 0.43,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48242.6730747,
+        "volume_of_BTC_buy": "116.53980000",
+        "trades_of_BTC_buy": 3849
+    },
+    "BZRXUSDT": {
+        "symbol": "BZRXUSDT",
+        "orderid": 0,
+        "timestamp": 1639544879719,
+        "bought_at": "0.25600000",
+        "volume": 58,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48278.23056604,
+        "volume_of_BTC_buy": "116.53980000",
+        "trades_of_BTC_buy": 3849
     }
 }
