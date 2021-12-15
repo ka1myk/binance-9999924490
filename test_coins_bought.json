@@ -479,18 +479,6 @@
         "volume_of_BTC_buy": "79.91508000",
         "trades_of_BTC_buy": 3302
     },
-    "RAMPUSDT": {
-        "symbol": "RAMPUSDT",
-        "orderid": 0,
-        "timestamp": 1639550517386,
-        "bought_at": "0.18980000",
-        "volume": 79,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48107.27037992,
-        "volume_of_BTC_buy": "81.55381000",
-        "trades_of_BTC_buy": 2978
-    },
     "NMRUSDT": {
         "symbol": "NMRUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48536.51206007,
         "volume_of_BTC_buy": "384.60117000",
         "trades_of_BTC_buy": 10761
+    },
+    "MDXUSDT": {
+        "symbol": "MDXUSDT",
+        "orderid": 0,
+        "timestamp": 1639558907234,
+        "bought_at": "0.38300000",
+        "volume": 39.2,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48555.31284828,
+        "volume_of_BTC_buy": "355.36871000",
+        "trades_of_BTC_buy": 9331
     }
 }
