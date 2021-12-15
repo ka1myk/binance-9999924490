@@ -983,18 +983,6 @@
         "volume_of_BTC_buy": "290.49416000",
         "trades_of_BTC_buy": 7277
     },
-    "BZRXUSDT": {
-        "symbol": "BZRXUSDT",
-        "orderid": 0,
-        "timestamp": 1639560035624,
-        "bought_at": "0.26910000",
-        "volume": 55,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48489.37406669,
-        "volume_of_BTC_buy": "443.19738000",
-        "trades_of_BTC_buy": 9341
-    },
     "CHRUSDT": {
         "symbol": "CHRUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48261.21652113,
         "volume_of_BTC_buy": "114.34582000",
         "trades_of_BTC_buy": 3925
+    },
+    "HIVEUSDT": {
+        "symbol": "HIVEUSDT",
+        "orderid": 0,
+        "timestamp": 1639566419494,
+        "bought_at": "1.35890000",
+        "volume": 11,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48190.0837649,
+        "volume_of_BTC_buy": "149.99338000",
+        "trades_of_BTC_buy": 4360
     }
 }
