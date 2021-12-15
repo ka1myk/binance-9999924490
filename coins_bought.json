@@ -1283,16 +1283,16 @@
         "volume_of_BTC_buy": "100.86998000",
         "trades_of_BTC_buy": 2834
     },
-    "DUSKUSDT": {
-        "symbol": "DUSKUSDT",
-        "orderid": 106272150,
-        "timestamp": 1639596027428,
-        "bought_at": "0.64470000",
-        "volume": 23,
+    "MDTUSDT": {
+        "symbol": "MDTUSDT",
+        "orderid": 118065743,
+        "timestamp": 1638858981406,
+        "bought_at": "0.07436000",
+        "volume": 201.7,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48735.22594911,
-        "volume_of_BTC_buy": "100.86998000",
-        "trades_of_BTC_buy": 2834
+        "avgPriceBTCUSDT_buy": 48453.66494192,
+        "volume_of_BTC_buy": "54.39272000",
+        "trades_of_BTC_buy": 2790
     }
 }
