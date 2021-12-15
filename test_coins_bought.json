@@ -887,18 +887,6 @@
         "volume_of_BTC_buy": "355.36871000",
         "trades_of_BTC_buy": 9331
     },
-    "TRUUSDT": {
-        "symbol": "TRUUSDT",
-        "orderid": 0,
-        "timestamp": 1639559544014,
-        "bought_at": "0.27060000",
-        "volume": 55,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48522.28740832,
-        "volume_of_BTC_buy": "290.49416000",
-        "trades_of_BTC_buy": 7277
-    },
     "RVNUSDT": {
         "symbol": "RVNUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 47902.71470958,
         "volume_of_BTC_buy": "90.64158000",
         "trades_of_BTC_buy": 3544
+    },
+    "MKRUSDT": {
+        "symbol": "MKRUSDT",
+        "orderid": 0,
+        "timestamp": 1639575229584,
+        "bought_at": "2272.00000000",
+        "volume": 0.0066,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47670.11057482,
+        "volume_of_BTC_buy": "558.11118000",
+        "trades_of_BTC_buy": 11944
     }
 }
