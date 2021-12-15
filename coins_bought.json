@@ -1235,18 +1235,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "JASMYUSDT": {
-        "symbol": "JASMYUSDT",
-        "orderid": 10069992,
-        "timestamp": 1639598890343,
-        "bought_at": "0.09020000",
-        "volume": 166.3,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48981.77570322,
-        "volume_of_BTC_buy": "44.16756000",
-        "trades_of_BTC_buy": 2281
-    },
     "FUNUSDT": {
         "symbol": "FUNUSDT",
         "orderid": 153398902,
@@ -1318,5 +1306,17 @@
         "avgPriceBTCUSDT_buy": 49382.09597638,
         "volume_of_BTC_buy": "74.33344000",
         "trades_of_BTC_buy": 2985
+    },
+    "COTIUSDT": {
+        "symbol": "COTIUSDT",
+        "orderid": 465503187,
+        "timestamp": 1639601852755,
+        "bought_at": "0.32570000",
+        "volume": 46,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49376.32830292,
+        "volume_of_BTC_buy": "73.37630000",
+        "trades_of_BTC_buy": 3565
     }
 }
