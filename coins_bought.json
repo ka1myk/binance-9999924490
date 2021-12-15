@@ -1307,16 +1307,16 @@
         "volume_of_BTC_buy": "81.14962000",
         "trades_of_BTC_buy": 3145
     },
-    "PNTUSDT": {
-        "symbol": "PNTUSDT",
-        "orderid": 193556801,
-        "timestamp": 1639603363993,
-        "bought_at": "0.85260000",
-        "volume": 17,
+    "RVNUSDT": {
+        "symbol": "RVNUSDT",
+        "orderid": 360644110,
+        "timestamp": 1639603827386,
+        "bought_at": "0.08749000",
+        "volume": 171.4,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49032.91135455,
-        "volume_of_BTC_buy": "81.14962000",
-        "trades_of_BTC_buy": 3145
+        "avgPriceBTCUSDT_buy": 49099.24612213,
+        "volume_of_BTC_buy": "72.66994000",
+        "trades_of_BTC_buy": 2423
     }
 }
