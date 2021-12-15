@@ -839,18 +839,6 @@
         "volume_of_BTC_buy": "256.74415000",
         "trades_of_BTC_buy": 7852
     },
-    "COSUSDT": {
-        "symbol": "COSUSDT",
-        "orderid": 0,
-        "timestamp": 1639558080684,
-        "bought_at": "0.02310000",
-        "volume": 649.4,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48681.26260392,
-        "volume_of_BTC_buy": "256.74415000",
-        "trades_of_BTC_buy": 7852
-    },
     "OCEANUSDT": {
         "symbol": "OCEANUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48176.88227293,
         "volume_of_BTC_buy": "76.37202000",
         "trades_of_BTC_buy": 3383
+    },
+    "LSKUSDT": {
+        "symbol": "LSKUSDT",
+        "orderid": 0,
+        "timestamp": 1639571166034,
+        "bought_at": "2.39600000",
+        "volume": 6.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48208.71113185,
+        "volume_of_BTC_buy": "74.00451000",
+        "trades_of_BTC_buy": 3314
     }
 }
