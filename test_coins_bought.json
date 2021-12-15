@@ -803,18 +803,6 @@
         "volume_of_BTC_buy": "35.97640000",
         "trades_of_BTC_buy": 1929
     },
-    "GNOUSDT": {
-        "symbol": "GNOUSDT",
-        "orderid": 0,
-        "timestamp": 1639542433069,
-        "bought_at": "421.30000000",
-        "volume": 0.036,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48337.45103805,
-        "volume_of_BTC_buy": "35.97640000",
-        "trades_of_BTC_buy": 1929
-    },
     "SYSUSDT": {
         "symbol": "SYSUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48283.77405874,
         "volume_of_BTC_buy": "78.53938000",
         "trades_of_BTC_buy": 2612
+    },
+    "DATAUSDT": {
+        "symbol": "DATAUSDT",
+        "orderid": 0,
+        "timestamp": 1639546195516,
+        "bought_at": "0.11300000",
+        "volume": 132.7,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48105.85927977,
+        "volume_of_BTC_buy": "50.77366000",
+        "trades_of_BTC_buy": 2324
     }
 }
