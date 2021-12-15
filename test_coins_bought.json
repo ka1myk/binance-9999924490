@@ -155,18 +155,6 @@
         "volume_of_BTC_buy": "53.14080000",
         "trades_of_BTC_buy": 1967
     },
-    "MIRUSDT": {
-        "symbol": "MIRUSDT",
-        "orderid": 0,
-        "timestamp": 1639493941611,
-        "bought_at": "2.16200000",
-        "volume": 13.9,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47252.72523171,
-        "volume_of_BTC_buy": "53.14080000",
-        "trades_of_BTC_buy": 1967
-    },
     "CTXCUSDT": {
         "symbol": "CTXCUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48240.92171537,
         "volume_of_BTC_buy": "64.31144000",
         "trades_of_BTC_buy": 2873
+    },
+    "RSRUSDT": {
+        "symbol": "RSRUSDT",
+        "orderid": 0,
+        "timestamp": 1639553626715,
+        "bought_at": "0.03032000",
+        "volume": 494.7,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48158.08645435,
+        "volume_of_BTC_buy": "82.94433000",
+        "trades_of_BTC_buy": 2928
     }
 }
