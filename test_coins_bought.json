@@ -671,18 +671,6 @@
         "volume_of_BTC_buy": "35.97640000",
         "trades_of_BTC_buy": 1929
     },
-    "ONGUSDT": {
-        "symbol": "ONGUSDT",
-        "orderid": 0,
-        "timestamp": 1639542391161,
-        "bought_at": "0.75060000",
-        "volume": 19,
-        "stop_loss": 0.8526512123634373,
-        "take_profit": 0.9526512123634373,
-        "avgPriceBTCUSDT_buy": 48343.89553698,
-        "volume_of_BTC_buy": "35.97640000",
-        "trades_of_BTC_buy": 1929
-    },
     "OGUSDT": {
         "symbol": "OGUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48093.3645411,
         "volume_of_BTC_buy": "130.76048000",
         "trades_of_BTC_buy": 3715
+    },
+    "NKNUSDT": {
+        "symbol": "NKNUSDT",
+        "orderid": 0,
+        "timestamp": 1639547415192,
+        "bought_at": "0.34330000",
+        "volume": 43,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48092.09345927,
+        "volume_of_BTC_buy": "101.83899000",
+        "trades_of_BTC_buy": 3039
     }
 }
