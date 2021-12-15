@@ -851,18 +851,6 @@
         "volume_of_BTC_buy": "35.97640000",
         "trades_of_BTC_buy": 1929
     },
-    "GRTUSDT": {
-        "symbol": "GRTUSDT",
-        "orderid": 0,
-        "timestamp": 1639542456475,
-        "bought_at": "0.63860000",
-        "volume": 23,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48337.12843863,
-        "volume_of_BTC_buy": "35.97640000",
-        "trades_of_BTC_buy": 1929
-    },
     "LTCUSDT": {
         "symbol": "LTCUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48105.85927977,
         "volume_of_BTC_buy": "50.77366000",
         "trades_of_BTC_buy": 2324
+    },
+    "REEFUSDT": {
+        "symbol": "REEFUSDT",
+        "orderid": 0,
+        "timestamp": 1639546270689,
+        "bought_at": "0.01770000",
+        "volume": 847,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48111.09599053,
+        "volume_of_BTC_buy": "43.56279000",
+        "trades_of_BTC_buy": 2240
     }
 }
