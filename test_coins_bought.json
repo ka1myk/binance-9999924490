@@ -779,18 +779,6 @@
         "volume_of_BTC_buy": "163.56510000",
         "trades_of_BTC_buy": 5571
     },
-    "UTKUSDT": {
-        "symbol": "UTKUSDT",
-        "orderid": 0,
-        "timestamp": 1639557700879,
-        "bought_at": "0.33630000",
-        "volume": 44,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48717.05423155,
-        "volume_of_BTC_buy": "163.56510000",
-        "trades_of_BTC_buy": 5571
-    },
     "RAREUSDT": {
         "symbol": "RAREUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 47670.11057482,
         "volume_of_BTC_buy": "558.11118000",
         "trades_of_BTC_buy": 11944
+    },
+    "TWTUSDT": {
+        "symbol": "TWTUSDT",
+        "orderid": 0,
+        "timestamp": 1639576052658,
+        "bought_at": "0.71350000",
+        "volume": 21,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47779.27476244,
+        "volume_of_BTC_buy": "268.85228000",
+        "trades_of_BTC_buy": 6807
     }
 }
