@@ -1079,18 +1079,6 @@
         "volume_of_BTC_buy": "66.56272000",
         "trades_of_BTC_buy": 2964
     },
-    "PERLUSDT": {
-        "symbol": "PERLUSDT",
-        "orderid": 0,
-        "timestamp": 1639543741318,
-        "bought_at": "0.06962000",
-        "volume": 215.5,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48306.79904595,
-        "volume_of_BTC_buy": "66.56272000",
-        "trades_of_BTC_buy": 2964
-    },
     "EGLDUSDT": {
         "symbol": "EGLDUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 48092.09345927,
         "volume_of_BTC_buy": "101.83899000",
         "trades_of_BTC_buy": 3039
+    },
+    "AVAUSDT": {
+        "symbol": "AVAUSDT",
+        "orderid": 0,
+        "timestamp": 1639547936059,
+        "bought_at": "1.77700000",
+        "volume": 8.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48119.82690368,
+        "volume_of_BTC_buy": "80.83368000",
+        "trades_of_BTC_buy": 3471
     }
 }
