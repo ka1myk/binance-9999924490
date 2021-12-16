@@ -167,18 +167,6 @@
         "volume_of_BTC_buy": "93.68500000",
         "trades_of_BTC_buy": 3781
     },
-    "AUCTIONUSDT": {
-        "symbol": "AUCTIONUSDT",
-        "orderid": 0,
-        "timestamp": 1639636005664,
-        "bought_at": "24.94000000",
-        "volume": 0.6,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48700.33410085,
-        "volume_of_BTC_buy": "93.68500000",
-        "trades_of_BTC_buy": 3781
-    },
     "JUVUSDT": {
         "symbol": "JUVUSDT",
         "orderid": 0,
@@ -1186,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 48742.91745,
         "volume_of_BTC_buy": "92.82229000",
         "trades_of_BTC_buy": 3636
+    },
+    "FORTHUSDT": {
+        "symbol": "FORTHUSDT",
+        "orderid": 0,
+        "timestamp": 1639642522543,
+        "bought_at": "10.06000000",
+        "volume": 1.49,
+        "stop_loss": 1.1928429423459166,
+        "take_profit": 1.2928429423459167,
+        "avgPriceBTCUSDT_buy": 48674.4508133,
+        "volume_of_BTC_buy": "149.86208000",
+        "trades_of_BTC_buy": 4642
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 0,
+        "timestamp": 1639642637420,
+        "bought_at": "0.02507000",
+        "volume": 598.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48665.21358239,
+        "volume_of_BTC_buy": "149.86208000",
+        "trades_of_BTC_buy": 4642
     }
 }
