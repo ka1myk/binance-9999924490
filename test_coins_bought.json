@@ -479,18 +479,6 @@
         "volume_of_BTC_buy": "211.34366000",
         "trades_of_BTC_buy": 5830
     },
-    "UMAUSDT": {
-        "symbol": "UMAUSDT",
-        "orderid": 0,
-        "timestamp": 1639638389385,
-        "bought_at": "9.38500000",
-        "volume": 1.6,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48950.66633352,
-        "volume_of_BTC_buy": "211.34366000",
-        "trades_of_BTC_buy": 5830
-    },
     "EOSUSDT": {
         "symbol": "EOSUSDT",
         "orderid": 0,
@@ -1091,18 +1079,6 @@
         "volume_of_BTC_buy": "118.34819000",
         "trades_of_BTC_buy": 4186
     },
-    "RUNEUSDT": {
-        "symbol": "RUNEUSDT",
-        "orderid": 0,
-        "timestamp": 1639645600406,
-        "bought_at": "6.84400000",
-        "volume": 2.2,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48822.61641203,
-        "volume_of_BTC_buy": "118.34819000",
-        "trades_of_BTC_buy": 4186
-    },
     "ERNUSDT": {
         "symbol": "ERNUSDT",
         "orderid": 0,
@@ -1186,5 +1162,17 @@
         "avgPriceBTCUSDT_buy": 48792.17918971,
         "volume_of_BTC_buy": "103.37370000",
         "trades_of_BTC_buy": 3524
+    },
+    "FLUXUSDT": {
+        "symbol": "FLUXUSDT",
+        "orderid": 0,
+        "timestamp": 1639646140581,
+        "bought_at": "1.77800000",
+        "volume": 8.44,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48771.57167721,
+        "volume_of_BTC_buy": "103.85604000",
+        "trades_of_BTC_buy": 3972
     }
 }
