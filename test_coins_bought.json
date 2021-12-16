@@ -443,18 +443,6 @@
         "volume_of_BTC_buy": "307.19284000",
         "trades_of_BTC_buy": 5768
     },
-    "VITEUSDT": {
-        "symbol": "VITEUSDT",
-        "orderid": 0,
-        "timestamp": 1639638106628,
-        "bought_at": "0.07773000",
-        "volume": 193.0,
-        "stop_loss": 0.8104978772674715,
-        "take_profit": 0.9104978772674714,
-        "avgPriceBTCUSDT_buy": 48901.48839982,
-        "volume_of_BTC_buy": "307.19284000",
-        "trades_of_BTC_buy": 5768
-    },
     "PNTUSDT": {
         "symbol": "PNTUSDT",
         "orderid": 0,
@@ -911,18 +899,6 @@
         "volume_of_BTC_buy": "230.68120000",
         "trades_of_BTC_buy": 5280
     },
-    "EGLDUSDT": {
-        "symbol": "EGLDUSDT",
-        "orderid": 0,
-        "timestamp": 1639639675988,
-        "bought_at": "318.62000000",
-        "volume": 0.05,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48953.62737389,
-        "volume_of_BTC_buy": "205.37055000",
-        "trades_of_BTC_buy": 4917
-    },
     "AVAXUSDT": {
         "symbol": "AVAXUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 48904.55596076,
         "volume_of_BTC_buy": "142.17894000",
         "trades_of_BTC_buy": 4453
+    },
+    "ENSUSDT": {
+        "symbol": "ENSUSDT",
+        "orderid": 0,
+        "timestamp": 1639640734827,
+        "bought_at": "45.25000000",
+        "volume": 0.33,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48906.61118865,
+        "volume_of_BTC_buy": "239.49181000",
+        "trades_of_BTC_buy": 5953
+    },
+    "AKROUSDT": {
+        "symbol": "AKROUSDT",
+        "orderid": 0,
+        "timestamp": 1639640990157,
+        "bought_at": "0.02187000",
+        "volume": 685,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48839.43943697,
+        "volume_of_BTC_buy": "239.49181000",
+        "trades_of_BTC_buy": 5953
     }
 }
