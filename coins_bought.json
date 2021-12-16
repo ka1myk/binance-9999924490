@@ -1307,18 +1307,6 @@
         "volume_of_BTC_buy": "54.85149000",
         "trades_of_BTC_buy": 2461
     },
-    "MDTUSDT": {
-        "symbol": "MDTUSDT",
-        "orderid": 128317231,
-        "timestamp": 1639684264363,
-        "bought_at": "0.09677000",
-        "volume": 1033.4,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47718.96297781,
-        "volume_of_BTC_buy": "50.79708000",
-        "trades_of_BTC_buy": 2300
-    },
     "FIOUSDT": {
         "symbol": "FIOUSDT",
         "orderid": 78852374,
@@ -1330,5 +1318,17 @@
         "avgPriceBTCUSDT_buy": 47727.59718624,
         "volume_of_BTC_buy": "50.79708000",
         "trades_of_BTC_buy": 2300
+    },
+    "VOXELUSDT": {
+        "symbol": "VOXELUSDT",
+        "orderid": 13739768,
+        "timestamp": 1639684726540,
+        "bought_at": "3.20000000",
+        "volume": 31.2,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47791.10615024,
+        "volume_of_BTC_buy": "81.63914000",
+        "trades_of_BTC_buy": 2801
     }
 }
