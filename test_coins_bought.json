@@ -1055,18 +1055,6 @@
         "volume_of_BTC_buy": "107.50498000",
         "trades_of_BTC_buy": 3695
     },
-    "MCUSDT": {
-        "symbol": "MCUSDT",
-        "orderid": 0,
-        "timestamp": 1639640334339,
-        "bought_at": "5.30000000",
-        "volume": 2.83,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48900.28305355,
-        "volume_of_BTC_buy": "107.50498000",
-        "trades_of_BTC_buy": 3695
-    },
     "LUNAUSDT": {
         "symbol": "LUNAUSDT",
         "orderid": 0,
@@ -1163,18 +1151,6 @@
         "volume_of_BTC_buy": "142.17894000",
         "trades_of_BTC_buy": 4453
     },
-    "DUSKUSDT": {
-        "symbol": "DUSKUSDT",
-        "orderid": 0,
-        "timestamp": 1639640673066,
-        "bought_at": "0.61690000",
-        "volume": 24,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48904.55596076,
-        "volume_of_BTC_buy": "142.17894000",
-        "trades_of_BTC_buy": 4453
-    },
     "ENSUSDT": {
         "symbol": "ENSUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 48839.43943697,
         "volume_of_BTC_buy": "239.49181000",
         "trades_of_BTC_buy": 5953
+    },
+    "NKNUSDT": {
+        "symbol": "NKNUSDT",
+        "orderid": 0,
+        "timestamp": 1639641066223,
+        "bought_at": "0.36260000",
+        "volume": 41,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48820.36618428,
+        "volume_of_BTC_buy": "219.40757000",
+        "trades_of_BTC_buy": 5745
+    },
+    "OGNUSDT": {
+        "symbol": "OGNUSDT",
+        "orderid": 0,
+        "timestamp": 1639641166230,
+        "bought_at": "0.63350000",
+        "volume": 23,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48801.31871709,
+        "volume_of_BTC_buy": "219.40757000",
+        "trades_of_BTC_buy": 5745
     }
 }
