@@ -1331,18 +1331,6 @@
         "volume_of_BTC_buy": "86.28477000",
         "trades_of_BTC_buy": 3157
     },
-    "DREPUSDT": {
-        "symbol": "DREPUSDT",
-        "orderid": 100661031,
-        "timestamp": 1639690487325,
-        "bought_at": "0.82090000",
-        "volume": 18,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48087.49055819,
-        "volume_of_BTC_buy": "86.28477000",
-        "trades_of_BTC_buy": 3157
-    },
     "COSUSDT": {
         "symbol": "COSUSDT",
         "orderid": 137479561,
@@ -1391,18 +1379,6 @@
         "volume_of_BTC_buy": "154.59900000",
         "trades_of_BTC_buy": 6627
     },
-    "BURGERUSDT": {
-        "symbol": "BURGERUSDT",
-        "orderid": 54991364,
-        "timestamp": 1639691087916,
-        "bought_at": "3.20600000",
-        "volume": 4.7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48065.70457096,
-        "volume_of_BTC_buy": "154.59900000",
-        "trades_of_BTC_buy": 6627
-    },
     "COCOSUSDT": {
         "symbol": "COCOSUSDT",
         "orderid": 156470705,
@@ -1426,5 +1402,53 @@
         "avgPriceBTCUSDT_buy": 48081.38678075,
         "volume_of_BTC_buy": "115.26652000",
         "trades_of_BTC_buy": 3900
+    },
+    "WTCUSDT": {
+        "symbol": "WTCUSDT",
+        "orderid": 179245415,
+        "timestamp": 1639691411721,
+        "bought_at": "1.02330000",
+        "volume": 14,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48074.85913726,
+        "volume_of_BTC_buy": "223.64230000",
+        "trades_of_BTC_buy": 5316
+    },
+    "MDTUSDT": {
+        "symbol": "MDTUSDT",
+        "orderid": 128684368,
+        "timestamp": 1639691435166,
+        "bought_at": "0.10682000",
+        "volume": 140.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48074.29723099,
+        "volume_of_BTC_buy": "223.64230000",
+        "trades_of_BTC_buy": 5316
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 457982081,
+        "timestamp": 1639691559953,
+        "bought_at": "0.51410000",
+        "volume": 29,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48064.1462393,
+        "volume_of_BTC_buy": "223.64230000",
+        "trades_of_BTC_buy": 5316
+    },
+    "LUNAUSDT": {
+        "symbol": "LUNAUSDT",
+        "orderid": 786496608,
+        "timestamp": 1639691648288,
+        "bought_at": "67.77000000",
+        "volume": 0.22,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48073.28181861,
+        "volume_of_BTC_buy": "223.64230000",
+        "trades_of_BTC_buy": 5316
     }
 }
