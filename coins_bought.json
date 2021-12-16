@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "81.35194000",
         "trades_of_BTC_buy": 3092
     },
-    "GTOUSDT": {
-        "symbol": "GTOUSDT",
-        "orderid": 170725505,
-        "timestamp": 1639692004419,
-        "bought_at": "0.06187000",
-        "volume": 242.4,
+    "AVAXUSDT": {
+        "symbol": "AVAXUSDT",
+        "orderid": 1026159337,
+        "timestamp": 1639696668970,
+        "bought_at": "100.81000000",
+        "volume": 0.15,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47649.79407538,
-        "volume_of_BTC_buy": "115.20462000",
-        "trades_of_BTC_buy": 3785
+        "avgPriceBTCUSDT_buy": 47699.20449508,
+        "volume_of_BTC_buy": "48.31657000",
+        "trades_of_BTC_buy": 2569
     }
 }
