@@ -1199,18 +1199,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "FIOUSDT": {
-        "symbol": "FIOUSDT",
-        "orderid": 77814647,
-        "timestamp": 1639091617427,
-        "bought_at": "0.17800000",
-        "volume": 168,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50285.23131584,
-        "volume_of_BTC_buy": "10.58881000",
-        "trades_of_BTC_buy": 531
-    },
     "KSMUSDT": {
         "symbol": "KSMUSDT",
         "orderid": 546499465,
