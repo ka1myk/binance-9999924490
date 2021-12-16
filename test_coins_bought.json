@@ -731,18 +731,6 @@
         "volume_of_BTC_buy": "92.96242000",
         "trades_of_BTC_buy": 3030
     },
-    "QNTUSDT": {
-        "symbol": "QNTUSDT",
-        "orderid": 0,
-        "timestamp": 1639639850449,
-        "bought_at": "184.60000000",
-        "volume": 0.081,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48988.46978717,
-        "volume_of_BTC_buy": "92.96242000",
-        "trades_of_BTC_buy": 3030
-    },
     "ATOMUSDT": {
         "symbol": "ATOMUSDT",
         "orderid": 0,
@@ -752,18 +740,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 48988.49736347,
-        "volume_of_BTC_buy": "92.96242000",
-        "trades_of_BTC_buy": 3030
-    },
-    "DREPUSDT": {
-        "symbol": "DREPUSDT",
-        "orderid": 0,
-        "timestamp": 1639639867898,
-        "bought_at": "0.76290000",
-        "volume": 19,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48988.61563005,
         "volume_of_BTC_buy": "92.96242000",
         "trades_of_BTC_buy": 3030
     },
@@ -947,18 +923,6 @@
         "volume_of_BTC_buy": "92.82229000",
         "trades_of_BTC_buy": 3636
     },
-    "STORJUSDT": {
-        "symbol": "STORJUSDT",
-        "orderid": 0,
-        "timestamp": 1639643346187,
-        "bought_at": "1.72120000",
-        "volume": 8,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48699.23103466,
-        "volume_of_BTC_buy": "110.33669000",
-        "trades_of_BTC_buy": 4696
-    },
     "COCOSUSDT": {
         "symbol": "COCOSUSDT",
         "orderid": 0,
@@ -1004,18 +968,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 48706.16580852,
-        "volume_of_BTC_buy": "146.77136000",
-        "trades_of_BTC_buy": 4995
-    },
-    "ANYUSDT": {
-        "symbol": "ANYUSDT",
-        "orderid": 0,
-        "timestamp": 1639643506693,
-        "bought_at": "22.00000000",
-        "volume": 0.68,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48713.85112542,
         "volume_of_BTC_buy": "146.77136000",
         "trades_of_BTC_buy": 4995
     },
@@ -1175,16 +1127,76 @@
         "volume_of_BTC_buy": "88.33868000",
         "trades_of_BTC_buy": 3781
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
+    "COSUSDT": {
+        "symbol": "COSUSDT",
         "orderid": 0,
-        "timestamp": 1639644888640,
-        "bought_at": "0.34070000",
-        "volume": 44,
+        "timestamp": 1639645033128,
+        "bought_at": "0.02699000",
+        "volume": 555.8,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48822.50126693,
-        "volume_of_BTC_buy": "88.33868000",
-        "trades_of_BTC_buy": 3781
+        "avgPriceBTCUSDT_buy": 48793.16326132,
+        "volume_of_BTC_buy": "109.44574000",
+        "trades_of_BTC_buy": 4188
+    },
+    "INJUSDT": {
+        "symbol": "INJUSDT",
+        "orderid": 0,
+        "timestamp": 1639645078558,
+        "bought_at": "8.68600000",
+        "volume": 1.7,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48781.38559625,
+        "volume_of_BTC_buy": "109.44574000",
+        "trades_of_BTC_buy": 4188
+    },
+    "ONEUSDT": {
+        "symbol": "ONEUSDT",
+        "orderid": 0,
+        "timestamp": 1639645109233,
+        "bought_at": "0.20514000",
+        "volume": 73.1,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48772.28451158,
+        "volume_of_BTC_buy": "109.44574000",
+        "trades_of_BTC_buy": 4188
+    },
+    "FORUSDT": {
+        "symbol": "FORUSDT",
+        "orderid": 0,
+        "timestamp": 1639645114928,
+        "bought_at": "0.06166000",
+        "volume": 243,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48771.92519704,
+        "volume_of_BTC_buy": "109.44574000",
+        "trades_of_BTC_buy": 4188
+    },
+    "GTOUSDT": {
+        "symbol": "GTOUSDT",
+        "orderid": 0,
+        "timestamp": 1639645165271,
+        "bought_at": "0.06174000",
+        "volume": 243.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48769.33243197,
+        "volume_of_BTC_buy": "109.44574000",
+        "trades_of_BTC_buy": 4188
+    },
+    "CHESSUSDT": {
+        "symbol": "CHESSUSDT",
+        "orderid": 0,
+        "timestamp": 1639645182975,
+        "bought_at": "1.86700000",
+        "volume": 8.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48768.11911937,
+        "volume_of_BTC_buy": "109.44574000",
+        "trades_of_BTC_buy": 4188
     }
 }
