@@ -1355,18 +1355,6 @@
         "volume_of_BTC_buy": "454.62283000",
         "trades_of_BTC_buy": 14021
     },
-    "RAMPUSDT": {
-        "symbol": "RAMPUSDT",
-        "orderid": 88220020,
-        "timestamp": 1639690808678,
-        "bought_at": "0.21760000",
-        "volume": 68,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48055.55442217,
-        "volume_of_BTC_buy": "154.59900000",
-        "trades_of_BTC_buy": 6627
-    },
     "POLSUSDT": {
         "symbol": "POLSUSDT",
         "orderid": 52014749,
@@ -1450,5 +1438,17 @@
         "avgPriceBTCUSDT_buy": 48073.28181861,
         "volume_of_BTC_buy": "223.64230000",
         "trades_of_BTC_buy": 5316
+    },
+    "BURGERUSDT": {
+        "symbol": "BURGERUSDT",
+        "orderid": 54993784,
+        "timestamp": 1639691876723,
+        "bought_at": "3.25200000",
+        "volume": 4.6,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48086.11636728,
+        "volume_of_BTC_buy": "197.33492000",
+        "trades_of_BTC_buy": 5657
     }
 }
