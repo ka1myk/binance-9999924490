@@ -1319,16 +1319,16 @@
         "volume_of_BTC_buy": "45.30494000",
         "trades_of_BTC_buy": 2430
     },
-    "COCOSUSDT": {
-        "symbol": "COCOSUSDT",
-        "orderid": 156318174,
-        "timestamp": 1639685662769,
-        "bought_at": "2.52030000",
-        "volume": 19,
+    "OMUSDT": {
+        "symbol": "OMUSDT",
+        "orderid": 62451236,
+        "timestamp": 1639685769896,
+        "bought_at": "0.15620000",
+        "volume": 320,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47944.14314078,
-        "volume_of_BTC_buy": "50.21618000",
-        "trades_of_BTC_buy": 2199
+        "avgPriceBTCUSDT_buy": 47915.5607395,
+        "volume_of_BTC_buy": "71.91154000",
+        "trades_of_BTC_buy": 2128
     }
 }
