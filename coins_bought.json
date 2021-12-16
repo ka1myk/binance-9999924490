@@ -1451,18 +1451,6 @@
         "volume_of_BTC_buy": "88.93077000",
         "trades_of_BTC_buy": 3231
     },
-    "PYRUSDT": {
-        "symbol": "PYRUSDT",
-        "orderid": 13450996,
-        "timestamp": 1639695205717,
-        "bought_at": "22.22000000",
-        "volume": 0.675,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47903.24869358,
-        "volume_of_BTC_buy": "94.65098000",
-        "trades_of_BTC_buy": 3562
-    },
     "MDTUSDT": {
         "symbol": "MDTUSDT",
         "orderid": 128809825,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47699.20449508,
         "volume_of_BTC_buy": "48.31657000",
         "trades_of_BTC_buy": 2569
+    },
+    "PNTUSDT": {
+        "symbol": "PNTUSDT",
+        "orderid": 193831458,
+        "timestamp": 1639697952552,
+        "bought_at": "0.87910000",
+        "volume": 17,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47586.72721593,
+        "volume_of_BTC_buy": "60.89995000",
+        "trades_of_BTC_buy": 2799
     }
 }
