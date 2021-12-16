@@ -1235,18 +1235,6 @@
         "volume_of_BTC_buy": "102.76352000",
         "trades_of_BTC_buy": 3244
     },
-    "RIFUSDT": {
-        "symbol": "RIFUSDT",
-        "orderid": 44236193,
-        "timestamp": 1639600119057,
-        "bought_at": "0.20800000",
-        "volume": 72,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48990.21696538,
-        "volume_of_BTC_buy": "56.49633000",
-        "trades_of_BTC_buy": 2300
-    },
     "TLMUSDT": {
         "symbol": "TLMUSDT",
         "orderid": 301816770,
