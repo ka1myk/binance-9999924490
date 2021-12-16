@@ -1,1 +1,50 @@
-{}
+{
+    "CLVUSDT": {
+        "symbol": "CLVUSDT",
+        "orderid": 0,
+        "timestamp": 1639632320013,
+        "bought_at": "0.89500000",
+        "volume": 16.8,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48670.15101191,
+        "volume_of_BTC_buy": "462.43358000",
+        "trades_of_BTC_buy": 11889
+    },
+    "FLUXUSDT": {
+        "symbol": "FLUXUSDT",
+        "orderid": 0,
+        "timestamp": 1639632337626,
+        "bought_at": "1.76000000",
+        "volume": 8.52,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48678.03673259,
+        "volume_of_BTC_buy": "462.43358000",
+        "trades_of_BTC_buy": 11889
+    },
+    "NULSUSDT": {
+        "symbol": "NULSUSDT",
+        "orderid": 0,
+        "timestamp": 1639632471282,
+        "bought_at": "0.98600000",
+        "volume": 15,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48695.46541121,
+        "volume_of_BTC_buy": "462.43358000",
+        "trades_of_BTC_buy": 11889
+    },
+    "CVPUSDT": {
+        "symbol": "CVPUSDT",
+        "orderid": 0,
+        "timestamp": 1639632495142,
+        "bought_at": "1.42400000",
+        "volume": 10.5,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48700.36218823,
+        "volume_of_BTC_buy": "462.43358000",
+        "trades_of_BTC_buy": 11889
+    }
+}
