@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "88.93077000",
         "trades_of_BTC_buy": 3231
     },
-    "VOXELUSDT": {
-        "symbol": "VOXELUSDT",
-        "orderid": 14000163,
-        "timestamp": 1639694908356,
-        "bought_at": "3.37360000",
-        "volume": 4.4,
+    "PYRUSDT": {
+        "symbol": "PYRUSDT",
+        "orderid": 13450996,
+        "timestamp": 1639695205717,
+        "bought_at": "22.22000000",
+        "volume": 0.675,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47927.97829909,
-        "volume_of_BTC_buy": "129.06583000",
-        "trades_of_BTC_buy": 4062
+        "avgPriceBTCUSDT_buy": 47903.24869358,
+        "volume_of_BTC_buy": "94.65098000",
+        "trades_of_BTC_buy": 3562
     }
 }
