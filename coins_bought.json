@@ -1277,8 +1277,8 @@
         "timestamp": 1639601852755,
         "bought_at": "0.32570000",
         "volume": 46,
-        "stop_loss": -99,
-        "take_profit": 0.8,
+        "stop_loss": 1.2588271415412935,
+        "take_profit": 1.3588271415412936,
         "avgPriceBTCUSDT_buy": 49376.32830292,
         "volume_of_BTC_buy": "73.37630000",
         "trades_of_BTC_buy": 3565
@@ -1306,17 +1306,5 @@
         "avgPriceBTCUSDT_buy": 49099.24612213,
         "volume_of_BTC_buy": "72.66994000",
         "trades_of_BTC_buy": 2423
-    },
-    "STMXUSDT": {
-        "symbol": "STMXUSDT",
-        "orderid": 337715315,
-        "timestamp": 1639089110984,
-        "bought_at": "0.02228000",
-        "volume": 673,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48986.07204325,
-        "volume_of_BTC_buy": "177.25596000",
-        "trades_of_BTC_buy": 5688
     }
 }
