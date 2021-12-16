@@ -899,18 +899,6 @@
         "volume_of_BTC_buy": "205.37055000",
         "trades_of_BTC_buy": 4917
     },
-    "STORJUSDT": {
-        "symbol": "STORJUSDT",
-        "orderid": 0,
-        "timestamp": 1639639722817,
-        "bought_at": "1.69530000",
-        "volume": 8,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48969.10517064,
-        "volume_of_BTC_buy": "205.37055000",
-        "trades_of_BTC_buy": 4917
-    },
     "KMDUSDT": {
         "symbol": "KMDUSDT",
         "orderid": 0,
