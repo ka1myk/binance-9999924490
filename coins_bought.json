@@ -1295,18 +1295,6 @@
         "volume_of_BTC_buy": "54.85149000",
         "trades_of_BTC_buy": 2461
     },
-    "ARUSDT": {
-        "symbol": "ARUSDT",
-        "orderid": 144312504,
-        "timestamp": 1639684898220,
-        "bought_at": "44.48000000",
-        "volume": 2.25,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47861.10873913,
-        "volume_of_BTC_buy": "90.26555000",
-        "trades_of_BTC_buy": 2538
-    },
     "BEAMUSDT": {
         "symbol": "BEAMUSDT",
         "orderid": 164611332,
@@ -1330,5 +1318,17 @@
         "avgPriceBTCUSDT_buy": 47954.55393311,
         "volume_of_BTC_buy": "45.30494000",
         "trades_of_BTC_buy": 2430
+    },
+    "COCOSUSDT": {
+        "symbol": "COCOSUSDT",
+        "orderid": 156318174,
+        "timestamp": 1639685662769,
+        "bought_at": "2.52030000",
+        "volume": 19,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47944.14314078,
+        "volume_of_BTC_buy": "50.21618000",
+        "trades_of_BTC_buy": 2199
     }
 }
