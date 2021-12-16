@@ -377,8 +377,8 @@
         "timestamp": 1639635422235,
         "bought_at": "8.59000000",
         "volume": 1.75,
-        "stop_loss": -99,
-        "take_profit": 0.8,
+        "stop_loss": 0.9313154831199079,
+        "take_profit": 1.0313154831199078,
         "avgPriceBTCUSDT_buy": 48631.07215773,
         "volume_of_BTC_buy": "154.39969000",
         "trades_of_BTC_buy": 5365
@@ -491,18 +491,6 @@
         "volume_of_BTC_buy": "154.39969000",
         "trades_of_BTC_buy": 5365
     },
-    "AUCTIONUSDT": {
-        "symbol": "AUCTIONUSDT",
-        "orderid": 0,
-        "timestamp": 1639635555588,
-        "bought_at": "24.59000000",
-        "volume": 0.61,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48705.00329337,
-        "volume_of_BTC_buy": "154.39969000",
-        "trades_of_BTC_buy": 5365
-    },
     "AVAXUSDT": {
         "symbol": "AVAXUSDT",
         "orderid": 0,
@@ -548,6 +536,54 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 48712.89459303,
+        "volume_of_BTC_buy": "119.94757000",
+        "trades_of_BTC_buy": 4494
+    },
+    "UTKUSDT": {
+        "symbol": "UTKUSDT",
+        "orderid": 0,
+        "timestamp": 1639635615791,
+        "bought_at": "0.34900000",
+        "volume": 42,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48713.85274523,
+        "volume_of_BTC_buy": "119.94757000",
+        "trades_of_BTC_buy": 4494
+    },
+    "QIUSDT": {
+        "symbol": "QIUSDT",
+        "orderid": 0,
+        "timestamp": 1639635755392,
+        "bought_at": "0.17050000",
+        "volume": 87,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48721.02645806,
+        "volume_of_BTC_buy": "119.94757000",
+        "trades_of_BTC_buy": 4494
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 0,
+        "timestamp": 1639635826936,
+        "bought_at": "0.60430000",
+        "volume": 24,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48704.19488372,
+        "volume_of_BTC_buy": "119.94757000",
+        "trades_of_BTC_buy": 4494
+    },
+    "PUNDIXUSDT": {
+        "symbol": "PUNDIXUSDT",
+        "orderid": 0,
+        "timestamp": 1639635838403,
+        "bought_at": "1.04100000",
+        "volume": 14.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48702.02329519,
         "volume_of_BTC_buy": "119.94757000",
         "trades_of_BTC_buy": 4494
     }
