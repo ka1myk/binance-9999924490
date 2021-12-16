@@ -1283,18 +1283,6 @@
         "volume_of_BTC_buy": "54.85149000",
         "trades_of_BTC_buy": 2461
     },
-    "PSGUSDT": {
-        "symbol": "PSGUSDT",
-        "orderid": 153515931,
-        "timestamp": 1639684108311,
-        "bought_at": "14.58000000",
-        "volume": 2.06,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47755.64656661,
-        "volume_of_BTC_buy": "54.85149000",
-        "trades_of_BTC_buy": 2461
-    },
     "BEAMUSDT": {
         "symbol": "BEAMUSDT",
         "orderid": 164611332,
@@ -1330,5 +1318,17 @@
         "avgPriceBTCUSDT_buy": 48070.75536677,
         "volume_of_BTC_buy": "81.07595000",
         "trades_of_BTC_buy": 2330
+    },
+    "LUNAUSDT": {
+        "symbol": "LUNAUSDT",
+        "orderid": 786071157,
+        "timestamp": 1639686482435,
+        "bought_at": "67.43000000",
+        "volume": 0.74,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48199.55697047,
+        "volume_of_BTC_buy": "57.91447000",
+        "trades_of_BTC_buy": 2385
     }
 }
