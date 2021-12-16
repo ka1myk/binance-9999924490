@@ -1319,16 +1319,16 @@
         "volume_of_BTC_buy": "45.30494000",
         "trades_of_BTC_buy": 2430
     },
-    "OMUSDT": {
-        "symbol": "OMUSDT",
-        "orderid": 62451236,
-        "timestamp": 1639685769896,
-        "bought_at": "0.15620000",
-        "volume": 320,
+    "DOCKUSDT": {
+        "symbol": "DOCKUSDT",
+        "orderid": 226541222,
+        "timestamp": 1639686105250,
+        "bought_at": "0.06468000",
+        "volume": 773,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47915.5607395,
-        "volume_of_BTC_buy": "71.91154000",
-        "trades_of_BTC_buy": 2128
+        "avgPriceBTCUSDT_buy": 48070.75536677,
+        "volume_of_BTC_buy": "81.07595000",
+        "trades_of_BTC_buy": 2330
     }
 }
