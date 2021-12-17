@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "EGLDUSDT": {
-        "symbol": "EGLDUSDT",
-        "orderid": 539953483,
-        "timestamp": 1639699675137,
-        "bought_at": "255.00000000",
-        "volume": 0.06,
+    "RSRUSDT": {
+        "symbol": "RSRUSDT",
+        "orderid": 353962909,
+        "timestamp": 1639775307850,
+        "bought_at": "0.03214000",
+        "volume": 466.7,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46338.44507038,
-        "volume_of_BTC_buy": "65.91855000",
-        "trades_of_BTC_buy": 2251
+        "avgPriceBTCUSDT_buy": 46269.42835305,
+        "volume_of_BTC_buy": "70.72618000",
+        "trades_of_BTC_buy": 2494
     }
 }
