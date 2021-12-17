@@ -1439,18 +1439,6 @@
         "volume_of_BTC_buy": "54.71497000",
         "trades_of_BTC_buy": 2336
     },
-    "NULSUSDT": {
-        "symbol": "NULSUSDT",
-        "orderid": 209704272,
-        "timestamp": 1639711002933,
-        "bought_at": "1.01190000",
-        "volume": 14,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47683.18599385,
-        "volume_of_BTC_buy": "67.43822000",
-        "trades_of_BTC_buy": 2703
-    },
     "HNTUSDT": {
         "symbol": "HNTUSDT",
         "orderid": 215201441,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47555.9303464,
         "volume_of_BTC_buy": "452.38327000",
         "trades_of_BTC_buy": 14217
+    },
+    "KAVAUSDT": {
+        "symbol": "KAVAUSDT",
+        "orderid": 626468518,
+        "timestamp": 1639730048564,
+        "bought_at": "3.77900000",
+        "volume": 4.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46991.52902905,
+        "volume_of_BTC_buy": "102.86924000",
+        "trades_of_BTC_buy": 3324
     }
 }
