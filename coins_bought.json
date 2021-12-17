@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "427.67666000",
         "trades_of_BTC_buy": 10162
     },
-    "OGNUSDT": {
-        "symbol": "OGNUSDT",
-        "orderid": 356017019,
-        "timestamp": 1639755218233,
-        "bought_at": "0.59570000",
-        "volume": 25,
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 993086992,
+        "timestamp": 1638975609148,
+        "bought_at": "21.40000000",
+        "volume": 0.7,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46022.66450058,
-        "volume_of_BTC_buy": "149.54607000",
-        "trades_of_BTC_buy": 4269
+        "avgPriceBTCUSDT_buy": 46344.9551385,
+        "volume_of_BTC_buy": "80.40100000",
+        "trades_of_BTC_buy": 3606
     }
 }
