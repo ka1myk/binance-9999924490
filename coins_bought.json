@@ -1475,18 +1475,6 @@
         "volume_of_BTC_buy": "427.67666000",
         "trades_of_BTC_buy": 10162
     },
-    "REEFUSDT": {
-        "symbol": "REEFUSDT",
-        "orderid": 388105463,
-        "timestamp": 1639756367225,
-        "bought_at": "0.01682000",
-        "volume": 891,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46481.39220802,
-        "volume_of_BTC_buy": "65.02416000",
-        "trades_of_BTC_buy": 3533
-    },
     "SOLUSDT": {
         "symbol": "SOLUSDT",
         "orderid": 1750904398,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46482.72589632,
         "volume_of_BTC_buy": "65.02416000",
         "trades_of_BTC_buy": 3533
+    },
+    "CHESSUSDT": {
+        "symbol": "CHESSUSDT",
+        "orderid": 27919105,
+        "timestamp": 1639756734311,
+        "bought_at": "1.87200000",
+        "volume": 8.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46515.88765511,
+        "volume_of_BTC_buy": "125.92272000",
+        "trades_of_BTC_buy": 5509
     }
 }
