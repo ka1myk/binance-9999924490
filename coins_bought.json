@@ -1391,18 +1391,6 @@
         "volume_of_BTC_buy": "60.89995000",
         "trades_of_BTC_buy": 2799
     },
-    "BURGERUSDT": {
-        "symbol": "BURGERUSDT",
-        "orderid": 55012228,
-        "timestamp": 1639700338277,
-        "bought_at": "3.21700000",
-        "volume": 4.7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47834.2589222,
-        "volume_of_BTC_buy": "81.60688000",
-        "trades_of_BTC_buy": 2991
-    },
     "CVPUSDT": {
         "symbol": "CVPUSDT",
         "orderid": 8116519,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47713.63771656,
         "volume_of_BTC_buy": "54.71497000",
         "trades_of_BTC_buy": 2336
+    },
+    "VOXELUSDT": {
+        "symbol": "VOXELUSDT",
+        "orderid": 14277848,
+        "timestamp": 1639709612078,
+        "bought_at": "3.13710000",
+        "volume": 4.8,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47778.65442551,
+        "volume_of_BTC_buy": "83.21492000",
+        "trades_of_BTC_buy": 3368
     }
 }
