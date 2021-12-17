@@ -1427,18 +1427,6 @@
         "volume_of_BTC_buy": "179.97038000",
         "trades_of_BTC_buy": 4852
     },
-    "WAXPUSDT": {
-        "symbol": "WAXPUSDT",
-        "orderid": 67683163,
-        "timestamp": 1639702240900,
-        "bought_at": "0.47170000",
-        "volume": 31,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47805.9347421,
-        "volume_of_BTC_buy": "128.44722000",
-        "trades_of_BTC_buy": 3915
-    },
     "RLCUSDT": {
         "symbol": "RLCUSDT",
         "orderid": 514040588,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47777.81052374,
         "volume_of_BTC_buy": "135.16258000",
         "trades_of_BTC_buy": 3891
+    },
+    "NULSUSDT": {
+        "symbol": "NULSUSDT",
+        "orderid": 209704272,
+        "timestamp": 1639711002933,
+        "bought_at": "1.01190000",
+        "volume": 14,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47683.18599385,
+        "volume_of_BTC_buy": "67.43822000",
+        "trades_of_BTC_buy": 2703
     }
 }
