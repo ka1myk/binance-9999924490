@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "DOCKUSDT": {
-        "symbol": "DOCKUSDT",
-        "orderid": 226890110,
-        "timestamp": 1639767947369,
-        "bought_at": "0.06543000",
-        "volume": 229,
+    "EPSUSDT": {
+        "symbol": "EPSUSDT",
+        "orderid": 92185225,
+        "timestamp": 1639769266152,
+        "bought_at": "0.26700000",
+        "volume": 56,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46976.132026,
-        "volume_of_BTC_buy": "93.09759000",
-        "trades_of_BTC_buy": 2970
+        "avgPriceBTCUSDT_buy": 46937.06446773,
+        "volume_of_BTC_buy": "91.94998000",
+        "trades_of_BTC_buy": 2509
     }
 }
