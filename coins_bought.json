@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "HNTUSDT": {
-        "symbol": "HNTUSDT",
-        "orderid": 215917339,
-        "timestamp": 1639771809884,
-        "bought_at": "33.26000000",
-        "volume": 0.45,
+    "CFXUSDT": {
+        "symbol": "CFXUSDT",
+        "orderid": 58660980,
+        "timestamp": 1639772505147,
+        "bought_at": "0.22200000",
+        "volume": 67,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46787.65130824,
-        "volume_of_BTC_buy": "61.27703000",
-        "trades_of_BTC_buy": 2180
+        "avgPriceBTCUSDT_buy": 46539.31796507,
+        "volume_of_BTC_buy": "29.26655000",
+        "trades_of_BTC_buy": 1552
     }
 }
