@@ -245,8 +245,8 @@
         "timestamp": 1637195674893,
         "bought_at": "33046.84000000",
         "volume": 0.00045,
-        "stop_loss": 1.9533789009781457,
-        "take_profit": 2.053378900978146,
+        "stop_loss": 2.6294495933650675,
+        "take_profit": 2.7294495933650675,
         "avgPriceBTCUSDT_buy": 50285.23131584,
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "EPSUSDT": {
-        "symbol": "EPSUSDT",
-        "orderid": 92185225,
-        "timestamp": 1639769266152,
-        "bought_at": "0.26700000",
-        "volume": 56,
+    "CFXUSDT": {
+        "symbol": "CFXUSDT",
+        "orderid": 58645137,
+        "timestamp": 1639770292294,
+        "bought_at": "0.22490000",
+        "volume": 66,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46937.06446773,
-        "volume_of_BTC_buy": "91.94998000",
-        "trades_of_BTC_buy": 2509
+        "avgPriceBTCUSDT_buy": 46734.14270125,
+        "volume_of_BTC_buy": "62.03132000",
+        "trades_of_BTC_buy": 2701
     }
 }
