@@ -1415,18 +1415,6 @@
         "volume_of_BTC_buy": "67.29901000",
         "trades_of_BTC_buy": 2976
     },
-    "WRXUSDT": {
-        "symbol": "WRXUSDT",
-        "orderid": 305804522,
-        "timestamp": 1639701989444,
-        "bought_at": "1.12900000",
-        "volume": 13.3,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47887.11148049,
-        "volume_of_BTC_buy": "179.97038000",
-        "trades_of_BTC_buy": 4852
-    },
     "RLCUSDT": {
         "symbol": "RLCUSDT",
         "orderid": 514040588,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47729.99417798,
         "volume_of_BTC_buy": "97.91170000",
         "trades_of_BTC_buy": 2856
+    },
+    "TRUUSDT": {
+        "symbol": "TRUUSDT",
+        "orderid": 104116226,
+        "timestamp": 1639713182878,
+        "bought_at": "0.28340000",
+        "volume": 52,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47787.19152926,
+        "volume_of_BTC_buy": "184.52840000",
+        "trades_of_BTC_buy": 4961
     }
 }
