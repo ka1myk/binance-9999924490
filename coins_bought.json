@@ -1439,18 +1439,6 @@
         "volume_of_BTC_buy": "81.35194000",
         "trades_of_BTC_buy": 3092
     },
-    "AVAXUSDT": {
-        "symbol": "AVAXUSDT",
-        "orderid": 1026159337,
-        "timestamp": 1639696668970,
-        "bought_at": "100.81000000",
-        "volume": 0.15,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47699.20449508,
-        "volume_of_BTC_buy": "48.31657000",
-        "trades_of_BTC_buy": 2569
-    },
     "PNTUSDT": {
         "symbol": "PNTUSDT",
         "orderid": 193831458,
@@ -1487,16 +1475,28 @@
         "volume_of_BTC_buy": "81.60688000",
         "trades_of_BTC_buy": 2991
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 148248657,
-        "timestamp": 1639701238010,
-        "bought_at": "0.44650000",
-        "volume": 33,
+    "CVPUSDT": {
+        "symbol": "CVPUSDT",
+        "orderid": 8116519,
+        "timestamp": 1639701449363,
+        "bought_at": "1.41700000",
+        "volume": 10.6,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47747.31505042,
-        "volume_of_BTC_buy": "41.54372000",
-        "trades_of_BTC_buy": 2025
+        "avgPriceBTCUSDT_buy": 47720.00258174,
+        "volume_of_BTC_buy": "77.15001000",
+        "trades_of_BTC_buy": 3686
+    },
+    "ENSUSDT": {
+        "symbol": "ENSUSDT",
+        "orderid": 37885807,
+        "timestamp": 1639130183780,
+        "bought_at": "46.09000000",
+        "volume": 0.33,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47744.94506406,
+        "volume_of_BTC_buy": "77.15001000",
+        "trades_of_BTC_buy": 3686
     }
 }
