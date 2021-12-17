@@ -1439,18 +1439,6 @@
         "volume_of_BTC_buy": "77.15001000",
         "trades_of_BTC_buy": 3686
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 148291455,
-        "timestamp": 1639701622593,
-        "bought_at": "0.49450000",
-        "volume": 30,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47752.49365666,
-        "volume_of_BTC_buy": "67.29901000",
-        "trades_of_BTC_buy": 2976
-    },
     "DFUSDT": {
         "symbol": "DFUSDT",
         "orderid": 11261251,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47805.9347421,
         "volume_of_BTC_buy": "128.44722000",
         "trades_of_BTC_buy": 3915
+    },
+    "RLCUSDT": {
+        "symbol": "RLCUSDT",
+        "orderid": 514040588,
+        "timestamp": 1639703352790,
+        "bought_at": "3.02900000",
+        "volume": 5.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47886.25164107,
+        "volume_of_BTC_buy": "46.96310000",
+        "trades_of_BTC_buy": 2103
     }
 }
