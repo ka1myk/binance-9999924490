@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "RSRUSDT": {
-        "symbol": "RSRUSDT",
-        "orderid": 353962909,
-        "timestamp": 1639775307850,
-        "bought_at": "0.03214000",
-        "volume": 466.7,
+    "KLAYUSDT": {
+        "symbol": "KLAYUSDT",
+        "orderid": 34641136,
+        "timestamp": 1638745601458,
+        "bought_at": "1.27600000",
+        "volume": 11.8,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46269.42835305,
-        "volume_of_BTC_buy": "70.72618000",
-        "trades_of_BTC_buy": 2494
+        "avgPriceBTCUSDT_buy": 46495.40606672,
+        "volume_of_BTC_buy": "69.41445000",
+        "trades_of_BTC_buy": 2160
     }
 }
