@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "65.02416000",
         "trades_of_BTC_buy": 3533
     },
-    "CHESSUSDT": {
-        "symbol": "CHESSUSDT",
-        "orderid": 27919105,
-        "timestamp": 1639756734311,
-        "bought_at": "1.87200000",
-        "volume": 8.0,
+    "MDXUSDT": {
+        "symbol": "MDXUSDT",
+        "orderid": 65476430,
+        "timestamp": 1639757393024,
+        "bought_at": "0.40200000",
+        "volume": 37.3,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46515.88765511,
-        "volume_of_BTC_buy": "125.92272000",
-        "trades_of_BTC_buy": 5509
+        "avgPriceBTCUSDT_buy": 46527.90401213,
+        "volume_of_BTC_buy": "107.75140000",
+        "trades_of_BTC_buy": 5158
     }
 }
