@@ -1415,18 +1415,6 @@
         "volume_of_BTC_buy": "73.99040000",
         "trades_of_BTC_buy": 2693
     },
-    "BEAMUSDT": {
-        "symbol": "BEAMUSDT",
-        "orderid": 164820178,
-        "timestamp": 1639749495270,
-        "bought_at": "0.65400000",
-        "volume": 22,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46957.93368476,
-        "volume_of_BTC_buy": "427.67666000",
-        "trades_of_BTC_buy": 10162
-    },
     "NEARUSDT": {
         "symbol": "NEARUSDT",
         "orderid": 694150374,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47115.57690904,
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
+    },
+    "DOCKUSDT": {
+        "symbol": "DOCKUSDT",
+        "orderid": 226890110,
+        "timestamp": 1639767947369,
+        "bought_at": "0.06543000",
+        "volume": 229,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46976.132026,
+        "volume_of_BTC_buy": "93.09759000",
+        "trades_of_BTC_buy": 2970
     }
 }
