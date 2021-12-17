@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "CHESSUSDT": {
-        "symbol": "CHESSUSDT",
-        "orderid": 27965379,
-        "timestamp": 1639770427636,
-        "bought_at": "1.91400000",
-        "volume": 7.8,
+    "YFIIUSDT": {
+        "symbol": "YFIIUSDT",
+        "orderid": 764614976,
+        "timestamp": 1639770874615,
+        "bought_at": "3238.00000000",
+        "volume": 0.0046,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46772.41541355,
-        "volume_of_BTC_buy": "75.14761000",
-        "trades_of_BTC_buy": 2160
+        "avgPriceBTCUSDT_buy": 46756.51092699,
+        "volume_of_BTC_buy": "79.69645000",
+        "trades_of_BTC_buy": 2542
     }
 }
