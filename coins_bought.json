@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "73.99040000",
         "trades_of_BTC_buy": 2693
     },
-    "CFXUSDT": {
-        "symbol": "CFXUSDT",
-        "orderid": 58484597,
-        "timestamp": 1639742495529,
-        "bought_at": "0.20400000",
-        "volume": 73,
+    "CTXCUSDT": {
+        "symbol": "CTXCUSDT",
+        "orderid": 151163381,
+        "timestamp": 1639744234105,
+        "bought_at": "0.74320000",
+        "volume": 20,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47126.0096955,
-        "volume_of_BTC_buy": "118.33419000",
-        "trades_of_BTC_buy": 3593
+        "avgPriceBTCUSDT_buy": 47266.34173058,
+        "volume_of_BTC_buy": "296.66301000",
+        "trades_of_BTC_buy": 8191
     }
 }
