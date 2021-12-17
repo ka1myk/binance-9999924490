@@ -1379,18 +1379,6 @@
         "volume_of_BTC_buy": "101.21876000",
         "trades_of_BTC_buy": 3799
     },
-    "HNTUSDT": {
-        "symbol": "HNTUSDT",
-        "orderid": 215019542,
-        "timestamp": 1639694425336,
-        "bought_at": "32.32000000",
-        "volume": 0.46,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47872.40419667,
-        "volume_of_BTC_buy": "88.93077000",
-        "trades_of_BTC_buy": 3231
-    },
     "FIDAUSDT": {
         "symbol": "FIDAUSDT",
         "orderid": 21528020,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47858.19170084,
         "volume_of_BTC_buy": "179.97038000",
         "trades_of_BTC_buy": 4852
+    },
+    "WAXPUSDT": {
+        "symbol": "WAXPUSDT",
+        "orderid": 67683163,
+        "timestamp": 1639702240900,
+        "bought_at": "0.47170000",
+        "volume": 31,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47805.9347421,
+        "volume_of_BTC_buy": "128.44722000",
+        "trades_of_BTC_buy": 3915
     }
 }
