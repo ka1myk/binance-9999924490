@@ -1475,18 +1475,6 @@
         "volume_of_BTC_buy": "97.91170000",
         "trades_of_BTC_buy": 2856
     },
-    "TRUUSDT": {
-        "symbol": "TRUUSDT",
-        "orderid": 104116226,
-        "timestamp": 1639713182878,
-        "bought_at": "0.28340000",
-        "volume": 52,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47787.19152926,
-        "volume_of_BTC_buy": "184.52840000",
-        "trades_of_BTC_buy": 4961
-    },
     "HNTUSDT": {
         "symbol": "HNTUSDT",
         "orderid": 215201441,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47780.83303993,
         "volume_of_BTC_buy": "69.95202000",
         "trades_of_BTC_buy": 2739
+    },
+    "VITEUSDT": {
+        "symbol": "VITEUSDT",
+        "orderid": 164102358,
+        "timestamp": 1639714227345,
+        "bought_at": "0.07959000",
+        "volume": 188.5,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47864.98176881,
+        "volume_of_BTC_buy": "46.45798000",
+        "trades_of_BTC_buy": 2319
     }
 }
