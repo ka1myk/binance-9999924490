@@ -1463,18 +1463,6 @@
         "volume_of_BTC_buy": "72.13854000",
         "trades_of_BTC_buy": 2706
     },
-    "ALPACAUSDT": {
-        "symbol": "ALPACAUSDT",
-        "orderid": 38127959,
-        "timestamp": 1639138049862,
-        "bought_at": "0.50800000",
-        "volume": 29.5,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47110.72282454,
-        "volume_of_BTC_buy": "72.13854000",
-        "trades_of_BTC_buy": 2706
-    },
     "MBLUSDT": {
         "symbol": "MBLUSDT",
         "orderid": 141024384,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46495.40606672,
         "volume_of_BTC_buy": "69.41445000",
         "trades_of_BTC_buy": 2160
+    },
+    "CRVUSDT": {
+        "symbol": "CRVUSDT",
+        "orderid": 516486065,
+        "timestamp": 1639789145736,
+        "bought_at": "4.30000000",
+        "volume": 3.5,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46330.38192177,
+        "volume_of_BTC_buy": "126.21616000",
+        "trades_of_BTC_buy": 3001
     }
 }
