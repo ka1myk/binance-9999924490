@@ -1307,18 +1307,6 @@
         "volume_of_BTC_buy": "60.89995000",
         "trades_of_BTC_buy": 2799
     },
-    "CVPUSDT": {
-        "symbol": "CVPUSDT",
-        "orderid": 8116519,
-        "timestamp": 1639701449363,
-        "bought_at": "1.41700000",
-        "volume": 10.6,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47720.00258174,
-        "volume_of_BTC_buy": "77.15001000",
-        "trades_of_BTC_buy": 3686
-    },
     "RLCUSDT": {
         "symbol": "RLCUSDT",
         "orderid": 514040588,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47027.94914626,
         "volume_of_BTC_buy": "39.10100000",
         "trades_of_BTC_buy": 1927
+    },
+    "FXSUSDT": {
+        "symbol": "FXSUSDT",
+        "orderid": 579079,
+        "timestamp": 1639849416845,
+        "bought_at": "13.95600000",
+        "volume": 1.1,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46713.3365336,
+        "volume_of_BTC_buy": "159.31755000",
+        "trades_of_BTC_buy": 4459
     }
 }
