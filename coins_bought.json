@@ -1439,18 +1439,6 @@
         "volume_of_BTC_buy": "69.59104000",
         "trades_of_BTC_buy": 3713
     },
-    "UMAUSDT": {
-        "symbol": "UMAUSDT",
-        "orderid": 185777301,
-        "timestamp": 1638874932048,
-        "bought_at": "8.97900000",
-        "volume": 1.7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47001.64184685,
-        "volume_of_BTC_buy": "72.13854000",
-        "trades_of_BTC_buy": 2706
-    },
     "DNTUSDT": {
         "symbol": "DNTUSDT",
         "orderid": 165271642,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46330.38192177,
         "volume_of_BTC_buy": "126.21616000",
         "trades_of_BTC_buy": 3001
+    },
+    "COCOSUSDT": {
+        "symbol": "COCOSUSDT",
+        "orderid": 158957637,
+        "timestamp": 1639796516217,
+        "bought_at": "2.15480000",
+        "volume": 6,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 45718.66957185,
+        "volume_of_BTC_buy": "129.09436000",
+        "trades_of_BTC_buy": 3195
     }
 }
