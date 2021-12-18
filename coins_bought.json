@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "51.59025000",
         "trades_of_BTC_buy": 2208
     },
-    "VGXUSDT": {
-        "symbol": "VGXUSDT",
-        "orderid": 5786500,
-        "timestamp": 1639863834392,
-        "bought_at": "3.09700000",
-        "volume": 4.8,
-        "stop_loss": 0.9363900548918281,
-        "take_profit": 1.0363900548918281,
-        "avgPriceBTCUSDT_buy": 46935.22056082,
-        "volume_of_BTC_buy": "66.51273000",
-        "trades_of_BTC_buy": 2291
+    "OMUSDT": {
+        "symbol": "OMUSDT",
+        "orderid": 62839991,
+        "timestamp": 1639866252698,
+        "bought_at": "0.16060000",
+        "volume": 93,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47054.59353801,
+        "volume_of_BTC_buy": "39.55084000",
+        "trades_of_BTC_buy": 1722
     }
 }
