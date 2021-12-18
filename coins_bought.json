@@ -1427,18 +1427,6 @@
         "volume_of_BTC_buy": "69.59104000",
         "trades_of_BTC_buy": 3713
     },
-    "KLAYUSDT": {
-        "symbol": "KLAYUSDT",
-        "orderid": 34641136,
-        "timestamp": 1638745601458,
-        "bought_at": "1.27600000",
-        "volume": 11.8,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46495.40606672,
-        "volume_of_BTC_buy": "69.41445000",
-        "trades_of_BTC_buy": 2160
-    },
     "COCOSUSDT": {
         "symbol": "COCOSUSDT",
         "orderid": 158957637,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46245.60349333,
         "volume_of_BTC_buy": "158.37727000",
         "trades_of_BTC_buy": 4974
+    },
+    "SANDUSDT": {
+        "symbol": "SANDUSDT",
+        "orderid": 976742665,
+        "timestamp": 1639822854045,
+        "bought_at": "5.23500000",
+        "volume": 2,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46780.17036972,
+        "volume_of_BTC_buy": "272.09453000",
+        "trades_of_BTC_buy": 6844
     }
 }
