@@ -245,8 +245,8 @@
         "timestamp": 1637195674893,
         "bought_at": "33046.84000000",
         "volume": 0.00045,
-        "stop_loss": 4.397273687892711,
-        "take_profit": 4.497273687892711,
+        "stop_loss": 4.930093164732257,
+        "take_profit": 5.030093164732256,
         "avgPriceBTCUSDT_buy": 50285.23131584,
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
