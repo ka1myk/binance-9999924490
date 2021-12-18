@@ -1235,18 +1235,6 @@
         "volume_of_BTC_buy": "72.66994000",
         "trades_of_BTC_buy": 2423
     },
-    "HARDUSDT": {
-        "symbol": "HARDUSDT",
-        "orderid": 172660109,
-        "timestamp": 1639684063251,
-        "bought_at": "0.72610000",
-        "volume": 41,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47767.88032059,
-        "volume_of_BTC_buy": "54.85149000",
-        "trades_of_BTC_buy": 2461
-    },
     "FETUSDT": {
         "symbol": "FETUSDT",
         "orderid": 457982081,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46311.0640671,
         "volume_of_BTC_buy": "168.94532000",
         "trades_of_BTC_buy": 4053
+    },
+    "CHESSUSDT": {
+        "symbol": "CHESSUSDT",
+        "orderid": 28083937,
+        "timestamp": 1639809998297,
+        "bought_at": "2.03400000",
+        "volume": 7.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46386.33475766,
+        "volume_of_BTC_buy": "216.20798000",
+        "trades_of_BTC_buy": 6101
     }
 }
