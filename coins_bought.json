@@ -1055,18 +1055,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "WANUSDT": {
-        "symbol": "WANUSDT",
-        "orderid": 228779826,
-        "timestamp": 1638804617354,
-        "bought_at": "0.83580000",
-        "volume": 17,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50285.23131584,
-        "volume_of_BTC_buy": "10.58881000",
-        "trades_of_BTC_buy": 531
-    },
     "ENJUSDT": {
         "symbol": "ENJUSDT",
         "orderid": 760196847,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 47608.31929107,
         "volume_of_BTC_buy": "96.06882000",
         "trades_of_BTC_buy": 3989
+    },
+    "NUUSDT": {
+        "symbol": "NUUSDT",
+        "orderid": 98671589,
+        "timestamp": 1639883076268,
+        "bought_at": "0.75480000",
+        "volume": 19,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47521.50203177,
+        "volume_of_BTC_buy": "338.78425000",
+        "trades_of_BTC_buy": 8952
     }
 }
