@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "106.53210000",
         "trades_of_BTC_buy": 4221
     },
-    "CKBUSDT": {
-        "symbol": "CKBUSDT",
-        "orderid": 143846450,
-        "timestamp": 1639920613767,
-        "bought_at": "0.01964000",
-        "volume": 763,
+    "MLNUSDT": {
+        "symbol": "MLNUSDT",
+        "orderid": 26884213,
+        "timestamp": 1638951301446,
+        "bought_at": "85.60000000",
+        "volume": 0.175,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47280.84449341,
-        "volume_of_BTC_buy": "154.88988000",
-        "trades_of_BTC_buy": 4229
+        "avgPriceBTCUSDT_buy": 47897.48316301,
+        "volume_of_BTC_buy": "229.69973000",
+        "trades_of_BTC_buy": 6970
     }
 }
