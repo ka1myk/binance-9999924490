@@ -239,18 +239,6 @@
         "volume_of_BTC_buy": "10.58881000",
         "trades_of_BTC_buy": 531
     },
-    "YFIUSDT": {
-        "symbol": "YFIUSDT",
-        "orderid": 1278200537,
-        "timestamp": 1637195674893,
-        "bought_at": "33046.84000000",
-        "volume": 0.00045,
-        "stop_loss": 4.930093164732257,
-        "take_profit": 5.030093164732256,
-        "avgPriceBTCUSDT_buy": 50285.23131584,
-        "volume_of_BTC_buy": "10.58881000",
-        "trades_of_BTC_buy": 531
-    },
     "PUNDIXUSDT": {
         "symbol": "PUNDIXUSDT",
         "orderid": 46936023,
@@ -1438,5 +1426,41 @@
         "avgPriceBTCUSDT_buy": 47897.48316301,
         "volume_of_BTC_buy": "229.69973000",
         "trades_of_BTC_buy": 6970
+    },
+    "PYRUSDT": {
+        "symbol": "PYRUSDT",
+        "orderid": 15289207,
+        "timestamp": 1639953547143,
+        "bought_at": "16.61000000",
+        "volume": 0.903,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47041.9383643,
+        "volume_of_BTC_buy": "126.50846000",
+        "trades_of_BTC_buy": 3812
+    },
+    "FRONTUSDT": {
+        "symbol": "FRONTUSDT",
+        "orderid": 10940377,
+        "timestamp": 1639953579208,
+        "bought_at": "0.74450000",
+        "volume": 20,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47040.33229204,
+        "volume_of_BTC_buy": "126.50846000",
+        "trades_of_BTC_buy": 3812
+    },
+    "VOXELUSDT": {
+        "symbol": "VOXELUSDT",
+        "orderid": 17488727,
+        "timestamp": 1639953589592,
+        "bought_at": "3.01930000",
+        "volume": 5.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 47039.91598486,
+        "volume_of_BTC_buy": "126.50846000",
+        "trades_of_BTC_buy": 3812
     }
 }
