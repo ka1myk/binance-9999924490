@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "58.42376000",
         "trades_of_BTC_buy": 2618
     },
-    "GXSUSDT": {
-        "symbol": "GXSUSDT",
-        "orderid": 162497321,
-        "timestamp": 1639953918927,
-        "bought_at": "1.92650000",
-        "volume": 7,
+    "FISUSDT": {
+        "symbol": "FISUSDT",
+        "orderid": 87245862,
+        "timestamp": 1639954558234,
+        "bought_at": "1.18220000",
+        "volume": 12,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47007.56343491,
-        "volume_of_BTC_buy": "88.12399000",
-        "trades_of_BTC_buy": 2926
+        "avgPriceBTCUSDT_buy": 47284.20725876,
+        "volume_of_BTC_buy": "82.87787000",
+        "trades_of_BTC_buy": 2966
     }
 }
