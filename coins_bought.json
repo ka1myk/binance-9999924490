@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "77.96098000",
         "trades_of_BTC_buy": 2958
     },
-    "PYRUSDT": {
-        "symbol": "PYRUSDT",
-        "orderid": 15572858,
-        "timestamp": 1639983780948,
-        "bought_at": "15.78000000",
-        "volume": 0.951,
+    "CELOUSDT": {
+        "symbol": "CELOUSDT",
+        "orderid": 198617104,
+        "timestamp": 1639985661477,
+        "bought_at": "4.33200000",
+        "volume": 3.5,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46527.07068675,
-        "volume_of_BTC_buy": "62.84464000",
-        "trades_of_BTC_buy": 2364
+        "avgPriceBTCUSDT_buy": 46390.6540936,
+        "volume_of_BTC_buy": "223.59707000",
+        "trades_of_BTC_buy": 6348
     }
 }
