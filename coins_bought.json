@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "95.77822000",
         "trades_of_BTC_buy": 3443
     },
-    "AVAXUSDT": {
-        "symbol": "AVAXUSDT",
-        "orderid": 1051019217,
-        "timestamp": 1640027189604,
-        "bought_at": "110.39000000",
-        "volume": 0.14,
+    "TCTUSDT": {
+        "symbol": "TCTUSDT",
+        "orderid": 173672836,
+        "timestamp": 1640027758141,
+        "bought_at": "0.03309000",
+        "volume": 453,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46331.28089048,
-        "volume_of_BTC_buy": "59.26877000",
-        "trades_of_BTC_buy": 2475
+        "avgPriceBTCUSDT_buy": 46495.46920256,
+        "volume_of_BTC_buy": "36.45032000",
+        "trades_of_BTC_buy": 1487
     }
 }
