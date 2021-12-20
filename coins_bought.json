@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "73.01394000",
         "trades_of_BTC_buy": 2576
     },
-    "REQUSDT": {
-        "symbol": "REQUSDT",
-        "orderid": 45934252,
-        "timestamp": 1639969449025,
-        "bought_at": "0.37320000",
-        "volume": 40,
+    "GXSUSDT": {
+        "symbol": "GXSUSDT",
+        "orderid": 162787226,
+        "timestamp": 1639969619741,
+        "bought_at": "1.89830000",
+        "volume": 7,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46731.5135628,
-        "volume_of_BTC_buy": "50.13213000",
-        "trades_of_BTC_buy": 2199
+        "avgPriceBTCUSDT_buy": 46789.94859262,
+        "volume_of_BTC_buy": "60.71786000",
+        "trades_of_BTC_buy": 2750
     }
 }
