@@ -1463,18 +1463,6 @@
         "volume_of_BTC_buy": "165.81063000",
         "trades_of_BTC_buy": 5568
     },
-    "CVPUSDT": {
-        "symbol": "CVPUSDT",
-        "orderid": 9220673,
-        "timestamp": 1639976611320,
-        "bought_at": "1.51100000",
-        "volume": 9.9,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46988.60181043,
-        "volume_of_BTC_buy": "61.09868000",
-        "trades_of_BTC_buy": 2352
-    },
     "TCTUSDT": {
         "symbol": "TCTUSDT",
         "orderid": 173493061,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46873.62126221,
         "volume_of_BTC_buy": "77.96098000",
         "trades_of_BTC_buy": 2958
+    },
+    "PYRUSDT": {
+        "symbol": "PYRUSDT",
+        "orderid": 15572858,
+        "timestamp": 1639983780948,
+        "bought_at": "15.78000000",
+        "volume": 0.951,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46527.07068675,
+        "volume_of_BTC_buy": "62.84464000",
+        "trades_of_BTC_buy": 2364
     }
 }
