@@ -1463,18 +1463,6 @@
         "volume_of_BTC_buy": "165.81063000",
         "trades_of_BTC_buy": 5568
     },
-    "VOXELUSDT": {
-        "symbol": "VOXELUSDT",
-        "orderid": 17972189,
-        "timestamp": 1639975049029,
-        "bought_at": "3.17110000",
-        "volume": 4.7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46895.83572081,
-        "volume_of_BTC_buy": "165.81063000",
-        "trades_of_BTC_buy": 5568
-    },
     "CVPUSDT": {
         "symbol": "CVPUSDT",
         "orderid": 9220673,
