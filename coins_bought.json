@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "60.81685000",
         "trades_of_BTC_buy": 2729
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 155902620,
-        "timestamp": 1639973653704,
-        "bought_at": "0.42150000",
-        "volume": 35,
-        "stop_loss": 0.9015421115065304,
-        "take_profit": 1.0015421115065304,
-        "avgPriceBTCUSDT_buy": 46829.87198173,
-        "volume_of_BTC_buy": "54.35273000",
-        "trades_of_BTC_buy": 2573
+    "RNDRUSDT": {
+        "symbol": "RNDRUSDT",
+        "orderid": 7600535,
+        "timestamp": 1639974048132,
+        "bought_at": "4.70300000",
+        "volume": 3.19,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46885.25234805,
+        "volume_of_BTC_buy": "509.15161000",
+        "trades_of_BTC_buy": 10362
     }
 }
