@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "51.10790000",
         "trades_of_BTC_buy": 2264
     },
-    "HIGHUSDT": {
-        "symbol": "HIGHUSDT",
-        "orderid": 1976552,
-        "timestamp": 1639963291457,
-        "bought_at": "14.55000000",
-        "volume": 1.031,
+    "CELOUSDT": {
+        "symbol": "CELOUSDT",
+        "orderid": 198409366,
+        "timestamp": 1639965289908,
+        "bought_at": "4.08700000",
+        "volume": 3.7,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46924.35292359,
-        "volume_of_BTC_buy": "38.89016000",
-        "trades_of_BTC_buy": 1818
+        "avgPriceBTCUSDT_buy": 46640.98993432,
+        "volume_of_BTC_buy": "101.96553000",
+        "trades_of_BTC_buy": 3315
     }
 }
