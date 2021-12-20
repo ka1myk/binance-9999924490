@@ -1475,18 +1475,6 @@
         "volume_of_BTC_buy": "51.10790000",
         "trades_of_BTC_buy": 2264
     },
-    "CELOUSDT": {
-        "symbol": "CELOUSDT",
-        "orderid": 198409366,
-        "timestamp": 1639965289908,
-        "bought_at": "4.08700000",
-        "volume": 3.7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46640.98993432,
-        "volume_of_BTC_buy": "101.96553000",
-        "trades_of_BTC_buy": 3315
-    },
     "ALPACAUSDT": {
         "symbol": "ALPACAUSDT",
         "orderid": 39233394,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 46618.81205511,
         "volume_of_BTC_buy": "73.01394000",
         "trades_of_BTC_buy": 2576
+    },
+    "REQUSDT": {
+        "symbol": "REQUSDT",
+        "orderid": 45934252,
+        "timestamp": 1639969449025,
+        "bought_at": "0.37320000",
+        "volume": 40,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 46731.5135628,
+        "volume_of_BTC_buy": "50.13213000",
+        "trades_of_BTC_buy": 2199
     }
 }
