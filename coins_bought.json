@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "95.77822000",
         "trades_of_BTC_buy": 3443
     },
-    "TCTUSDT": {
-        "symbol": "TCTUSDT",
-        "orderid": 173672836,
-        "timestamp": 1640027758141,
-        "bought_at": "0.03309000",
-        "volume": 453,
+    "REEFUSDT": {
+        "symbol": "REEFUSDT",
+        "orderid": 390506142,
+        "timestamp": 1640028146382,
+        "bought_at": "0.01914000",
+        "volume": 783,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 46495.46920256,
-        "volume_of_BTC_buy": "36.45032000",
-        "trades_of_BTC_buy": 1487
+        "avgPriceBTCUSDT_buy": 46524.94242859,
+        "volume_of_BTC_buy": "37.69474000",
+        "trades_of_BTC_buy": 1771
     }
 }
