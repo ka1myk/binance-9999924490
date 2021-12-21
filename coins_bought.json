@@ -1475,18 +1475,6 @@
         "volume_of_BTC_buy": "56.19912000",
         "trades_of_BTC_buy": 2516
     },
-    "DUSKUSDT": {
-        "symbol": "DUSKUSDT",
-        "orderid": 111155349,
-        "timestamp": 1640106818383,
-        "bought_at": "0.54200000",
-        "volume": 36,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48724.45914297,
-        "volume_of_BTC_buy": "81.47300000",
-        "trades_of_BTC_buy": 2678
-    },
     "BICOUSDT": {
         "symbol": "BICOUSDT",
         "orderid": 3509640,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48627.89099204,
         "volume_of_BTC_buy": "84.82858000",
         "trades_of_BTC_buy": 2675
+    },
+    "KP3RUSDT": {
+        "symbol": "KP3RUSDT",
+        "orderid": 25245985,
+        "timestamp": 1640110114574,
+        "bought_at": "868.26000000",
+        "volume": 0.02,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48640.63324125,
+        "volume_of_BTC_buy": "74.93760000",
+        "trades_of_BTC_buy": 2381
     }
 }
