@@ -1475,18 +1475,6 @@
         "volume_of_BTC_buy": "84.82858000",
         "trades_of_BTC_buy": 2675
     },
-    "DCRUSDT": {
-        "symbol": "DCRUSDT",
-        "orderid": 115806988,
-        "timestamp": 1640122543791,
-        "bought_at": "69.70000000",
-        "volume": 0.287,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48787.32928573,
-        "volume_of_BTC_buy": "128.84723000",
-        "trades_of_BTC_buy": 3611
-    },
     "PYRUSDT": {
         "symbol": "PYRUSDT",
         "orderid": 16441727,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48845.91223144,
         "volume_of_BTC_buy": "128.84723000",
         "trades_of_BTC_buy": 3611
+    },
+    "RENUSDT": {
+        "symbol": "RENUSDT",
+        "orderid": 545762755,
+        "timestamp": 1640123389298,
+        "bought_at": "0.68370000",
+        "volume": 29,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49077.28208566,
+        "volume_of_BTC_buy": "73.46989000",
+        "trades_of_BTC_buy": 2526
     }
 }
