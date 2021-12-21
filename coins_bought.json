@@ -1486,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48571.30769434,
         "volume_of_BTC_buy": "70.46234000",
         "trades_of_BTC_buy": 2323
+    },
+    "CKBUSDT": {
+        "symbol": "CKBUSDT",
+        "orderid": 144231709,
+        "timestamp": 1640061803164,
+        "bought_at": "0.01960000",
+        "volume": 765,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48598.40959228,
+        "volume_of_BTC_buy": "60.28367000",
+        "trades_of_BTC_buy": 2433
     }
 }
