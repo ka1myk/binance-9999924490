@@ -1259,18 +1259,6 @@
         "volume_of_BTC_buy": "81.35194000",
         "trades_of_BTC_buy": 3092
     },
-    "RLCUSDT": {
-        "symbol": "RLCUSDT",
-        "orderid": 514040588,
-        "timestamp": 1639703352790,
-        "bought_at": "3.02900000",
-        "volume": 5.0,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47886.25164107,
-        "volume_of_BTC_buy": "46.96310000",
-        "trades_of_BTC_buy": 2103
-    },
     "CHRUSDT": {
         "symbol": "CHRUSDT",
         "orderid": 515271309,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48477.39316376,
         "volume_of_BTC_buy": "220.87223000",
         "trades_of_BTC_buy": 6011
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 459463621,
+        "timestamp": 1640073514989,
+        "bought_at": "0.54050000",
+        "volume": 27,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48533.3874873,
+        "volume_of_BTC_buy": "158.14518000",
+        "trades_of_BTC_buy": 4724
     }
 }
