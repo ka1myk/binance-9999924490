@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "132.93887000",
         "trades_of_BTC_buy": 3571
     },
-    "DARUSDT": {
-        "symbol": "DARUSDT",
-        "orderid": 73831777,
-        "timestamp": 1640073966514,
-        "bought_at": "2.24003000",
-        "volume": 6,
+    "KP3RUSDT": {
+        "symbol": "KP3RUSDT",
+        "orderid": 25084326,
+        "timestamp": 1640074261994,
+        "bought_at": "815.32000000",
+        "volume": 0.02,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48648.7785025,
-        "volume_of_BTC_buy": "80.04794000",
-        "trades_of_BTC_buy": 2642
+        "avgPriceBTCUSDT_buy": 48863.76025714,
+        "volume_of_BTC_buy": "306.52709000",
+        "trades_of_BTC_buy": 7397
     }
 }
