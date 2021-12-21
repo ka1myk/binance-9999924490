@@ -1295,18 +1295,6 @@
         "volume_of_BTC_buy": "272.09453000",
         "trades_of_BTC_buy": 6844
     },
-    "LRCUSDT": {
-        "symbol": "LRCUSDT",
-        "orderid": 580369479,
-        "timestamp": 1639840262589,
-        "bought_at": "2.10820000",
-        "volume": 7,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47027.94914626,
-        "volume_of_BTC_buy": "39.10100000",
-        "trades_of_BTC_buy": 1927
-    },
     "DOCKUSDT": {
         "symbol": "DOCKUSDT",
         "orderid": 228316872,
@@ -1427,18 +1415,6 @@
         "volume_of_BTC_buy": "44.26025000",
         "trades_of_BTC_buy": 1668
     },
-    "AMPUSDT": {
-        "symbol": "AMPUSDT",
-        "orderid": 10005870,
-        "timestamp": 1640069081648,
-        "bought_at": "0.04781000",
-        "volume": 313,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48357.4243018,
-        "volume_of_BTC_buy": "119.78613000",
-        "trades_of_BTC_buy": 3419
-    },
     "KP3RUSDT": {
         "symbol": "KP3RUSDT",
         "orderid": 25084326,
@@ -1498,5 +1474,29 @@
         "avgPriceBTCUSDT_buy": 49095.6759806,
         "volume_of_BTC_buy": "43.06971000",
         "trades_of_BTC_buy": 1842
+    },
+    "UMAUSDT": {
+        "symbol": "UMAUSDT",
+        "orderid": 189524102,
+        "timestamp": 1640091748029,
+        "bought_at": "8.98800000",
+        "volume": 2.2,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48743.86968062,
+        "volume_of_BTC_buy": "168.45095000",
+        "trades_of_BTC_buy": 4334
+    },
+    "SKLUSDT": {
+        "symbol": "SKLUSDT",
+        "orderid": 338133117,
+        "timestamp": 1640091861719,
+        "bought_at": "0.20580000",
+        "volume": 97,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48749.07052486,
+        "volume_of_BTC_buy": "168.45095000",
+        "trades_of_BTC_buy": 4334
     }
 }
