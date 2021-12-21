@@ -1451,18 +1451,6 @@
         "volume_of_BTC_buy": "43.06971000",
         "trades_of_BTC_buy": 1842
     },
-    "UMAUSDT": {
-        "symbol": "UMAUSDT",
-        "orderid": 189524102,
-        "timestamp": 1640091748029,
-        "bought_at": "8.98800000",
-        "volume": 2.2,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48743.86968062,
-        "volume_of_BTC_buy": "168.45095000",
-        "trades_of_BTC_buy": 4334
-    },
     "SKLUSDT": {
         "symbol": "SKLUSDT",
         "orderid": 338133117,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48845.27628222,
         "volume_of_BTC_buy": "49.02977000",
         "trades_of_BTC_buy": 1818
+    },
+    "ASRUSDT": {
+        "symbol": "ASRUSDT",
+        "orderid": 72813220,
+        "timestamp": 1640101139256,
+        "bought_at": "3.80300000",
+        "volume": 5.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48374.62923543,
+        "volume_of_BTC_buy": "56.19912000",
+        "trades_of_BTC_buy": 2516
     }
 }
