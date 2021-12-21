@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "150.67684000",
         "trades_of_BTC_buy": 3332
     },
-    "JASMYUSDT": {
-        "symbol": "JASMYUSDT",
-        "orderid": 12114483,
-        "timestamp": 1640121892245,
-        "bought_at": "0.10510000",
-        "volume": 190.3,
+    "MDTUSDT": {
+        "symbol": "MDTUSDT",
+        "orderid": 131908193,
+        "timestamp": 1640077853918,
+        "bought_at": "0.10448000",
+        "volume": 191.4,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48713.2721724,
-        "volume_of_BTC_buy": "93.30262000",
-        "trades_of_BTC_buy": 3075
+        "avgPriceBTCUSDT_buy": 48737.31925978,
+        "volume_of_BTC_buy": "65.37653000",
+        "trades_of_BTC_buy": 2324
     }
 }
