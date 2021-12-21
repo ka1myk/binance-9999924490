@@ -1451,18 +1451,6 @@
         "volume_of_BTC_buy": "81.36197000",
         "trades_of_BTC_buy": 2544
     },
-    "ASRUSDT": {
-        "symbol": "ASRUSDT",
-        "orderid": 72813220,
-        "timestamp": 1640101139256,
-        "bought_at": "3.80300000",
-        "volume": 5.3,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48374.62923543,
-        "volume_of_BTC_buy": "56.19912000",
-        "trades_of_BTC_buy": 2516
-    },
     "BICOUSDT": {
         "symbol": "BICOUSDT",
         "orderid": 3509640,
@@ -1475,18 +1463,6 @@
         "volume_of_BTC_buy": "84.82858000",
         "trades_of_BTC_buy": 2675
     },
-    "PYRUSDT": {
-        "symbol": "PYRUSDT",
-        "orderid": 16441727,
-        "timestamp": 1640115919335,
-        "bought_at": "19.64000000",
-        "volume": 1.018,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48845.91223144,
-        "volume_of_BTC_buy": "128.84723000",
-        "trades_of_BTC_buy": 3611
-    },
     "RENUSDT": {
         "symbol": "RENUSDT",
         "orderid": 545762755,
@@ -1497,6 +1473,18 @@
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 49077.28208566,
         "volume_of_BTC_buy": "73.46989000",
+        "trades_of_BTC_buy": 2526
+    },
+    "JASMYUSDT": {
+        "symbol": "JASMYUSDT",
+        "orderid": 12273297,
+        "timestamp": 1640124125432,
+        "bought_at": "0.10750000",
+        "volume": 186.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49067.54813683,
+        "volume_of_BTC_buy": "78.47380000",
         "trades_of_BTC_buy": 2526
     }
 }
