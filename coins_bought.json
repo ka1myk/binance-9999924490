@@ -1259,18 +1259,6 @@
         "volume_of_BTC_buy": "81.35194000",
         "trades_of_BTC_buy": 3092
     },
-    "CHRUSDT": {
-        "symbol": "CHRUSDT",
-        "orderid": 515271309,
-        "timestamp": 1639704748796,
-        "bought_at": "0.62570000",
-        "volume": 23,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47841.96254247,
-        "volume_of_BTC_buy": "63.73859000",
-        "trades_of_BTC_buy": 2716
-    },
     "CVCUSDT": {
         "symbol": "CVCUSDT",
         "orderid": 425900893,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48678.04319777,
         "volume_of_BTC_buy": "46.15334000",
         "trades_of_BTC_buy": 1961
+    },
+    "ARUSDT": {
+        "symbol": "ARUSDT",
+        "orderid": 150084309,
+        "timestamp": 1640088869094,
+        "bought_at": "54.95000000",
+        "volume": 0.27,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48838.82443663,
+        "volume_of_BTC_buy": "54.80781000",
+        "trades_of_BTC_buy": 2031
     }
 }
