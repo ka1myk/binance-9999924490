@@ -1451,18 +1451,6 @@
         "volume_of_BTC_buy": "77.96098000",
         "trades_of_BTC_buy": 2958
     },
-    "RNDRUSDT": {
-        "symbol": "RNDRUSDT",
-        "orderid": 7784771,
-        "timestamp": 1640059934186,
-        "bought_at": "4.52000000",
-        "volume": 3.32,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48245.05692528,
-        "volume_of_BTC_buy": "58.61507000",
-        "trades_of_BTC_buy": 2009
-    },
     "VOXELUSDT": {
         "symbol": "VOXELUSDT",
         "orderid": 18953805,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48357.4243018,
         "volume_of_BTC_buy": "119.78613000",
         "trades_of_BTC_buy": 3419
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 143107831,
+        "timestamp": 1640071876646,
+        "bought_at": "0.02672000",
+        "volume": 561.4,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48618.52796955,
+        "volume_of_BTC_buy": "511.78399000",
+        "trades_of_BTC_buy": 13240
     }
 }
