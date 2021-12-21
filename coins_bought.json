@@ -1475,18 +1475,6 @@
         "volume_of_BTC_buy": "119.78613000",
         "trades_of_BTC_buy": 3419
     },
-    "MDTUSDT": {
-        "symbol": "MDTUSDT",
-        "orderid": 131878660,
-        "timestamp": 1640073841932,
-        "bought_at": "0.09895000",
-        "volume": 151.6,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48590.80901461,
-        "volume_of_BTC_buy": "132.93887000",
-        "trades_of_BTC_buy": 3571
-    },
     "KP3RUSDT": {
         "symbol": "KP3RUSDT",
         "orderid": 25084326,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48863.76025714,
         "volume_of_BTC_buy": "306.52709000",
         "trades_of_BTC_buy": 7397
+    },
+    "ONEUSDT": {
+        "symbol": "ONEUSDT",
+        "orderid": 601491668,
+        "timestamp": 1640077915213,
+        "bought_at": "0.25048000",
+        "volume": 59.9,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48600.74230773,
+        "volume_of_BTC_buy": "37.65435000",
+        "trades_of_BTC_buy": 2415
     }
 }
