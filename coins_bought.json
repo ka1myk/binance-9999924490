@@ -1486,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 49067.54813683,
         "volume_of_BTC_buy": "78.47380000",
         "trades_of_BTC_buy": 2526
+    },
+    "CTXCUSDT": {
+        "symbol": "CTXCUSDT",
+        "orderid": 157091689,
+        "timestamp": 1640124301265,
+        "bought_at": "0.42060000",
+        "volume": 47,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49019.35856098,
+        "volume_of_BTC_buy": "64.69105000",
+        "trades_of_BTC_buy": 2331
     }
 }
