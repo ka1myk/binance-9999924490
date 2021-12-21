@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "44.26025000",
         "trades_of_BTC_buy": 1668
     },
-    "LAZIOUSDT": {
-        "symbol": "LAZIOUSDT",
-        "orderid": 55794569,
-        "timestamp": 1640065818960,
-        "bought_at": "5.09380000",
-        "volume": 2.94,
+    "GXSUSDT": {
+        "symbol": "GXSUSDT",
+        "orderid": 164834368,
+        "timestamp": 1640066315133,
+        "bought_at": "2.10440000",
+        "volume": 7,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48467.90894431,
-        "volume_of_BTC_buy": "118.46272000",
-        "trades_of_BTC_buy": 3062
+        "avgPriceBTCUSDT_buy": 48594.8274304,
+        "volume_of_BTC_buy": "64.56372000",
+        "trades_of_BTC_buy": 2425
     }
 }
