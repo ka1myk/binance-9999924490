@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "84.82858000",
         "trades_of_BTC_buy": 2675
     },
-    "KP3RUSDT": {
-        "symbol": "KP3RUSDT",
-        "orderid": 25245985,
-        "timestamp": 1640110114574,
-        "bought_at": "868.26000000",
-        "volume": 0.02,
+    "JASMYUSDT": {
+        "symbol": "JASMYUSDT",
+        "orderid": 10076720,
+        "timestamp": 1639601850322,
+        "bought_at": "0.08700000",
+        "volume": 229.9,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48640.63324125,
-        "volume_of_BTC_buy": "74.93760000",
-        "trades_of_BTC_buy": 2381
+        "avgPriceBTCUSDT_buy": 48585.58375545,
+        "volume_of_BTC_buy": "89.21528000",
+        "trades_of_BTC_buy": 2647
     }
 }
