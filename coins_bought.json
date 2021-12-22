@@ -130,5 +130,29 @@
         "avgPriceBTCUSDT_buy": 48758.07375505,
         "volume_of_BTC_buy": "172.34082000",
         "trades_of_BTC_buy": 4800
+    },
+    "ALGOUSDT": {
+        "symbol": "ALGOUSDT",
+        "orderid": 867470823,
+        "timestamp": 1640183772759,
+        "bought_at": "1.38000000",
+        "volume": 57,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48694.04687595,
+        "volume_of_BTC_buy": "211.72729000",
+        "trades_of_BTC_buy": 5556
+    },
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 1020294160,
+        "timestamp": 1640183900174,
+        "bought_at": "26.19000000",
+        "volume": 3.05,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48672.77974319,
+        "volume_of_BTC_buy": "211.72729000",
+        "trades_of_BTC_buy": 5556
     }
 }
