@@ -107,18 +107,6 @@
         "volume_of_BTC_buy": "183.96381000",
         "trades_of_BTC_buy": 4341
     },
-    "BNBUSDT": {
-        "symbol": "BNBUSDT",
-        "orderid": 3474920534,
-        "timestamp": 1640160469624,
-        "bought_at": "538.70000000",
-        "volume": 0.149,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48714.81893141,
-        "volume_of_BTC_buy": "65.95986000",
-        "trades_of_BTC_buy": 3187
-    },
     "LTCUSDT": {
         "symbol": "LTCUSDT",
         "orderid": 2609432553,
