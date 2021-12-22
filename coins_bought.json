@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "77.24883000",
         "trades_of_BTC_buy": 3008
     },
-    "AXSUSDT": {
-        "symbol": "AXSUSDT",
-        "orderid": 854195272,
-        "timestamp": 1639136362006,
-        "bought_at": "97.92000000",
-        "volume": 0.82,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48769.1606559,
-        "volume_of_BTC_buy": "60.00935000",
-        "trades_of_BTC_buy": 2724
-    },
     "AVAXUSDT": {
         "symbol": "AVAXUSDT",
         "orderid": 1062437468,
@@ -70,18 +58,6 @@
         "avgPriceBTCUSDT_buy": 48813.19557296,
         "volume_of_BTC_buy": "399.64877000",
         "trades_of_BTC_buy": 7254
-    },
-    "ALGOUSDT": {
-        "symbol": "ALGOUSDT",
-        "orderid": 867533409,
-        "timestamp": 1640184797689,
-        "bought_at": "1.40250000",
-        "volume": 57,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48863.31770458,
-        "volume_of_BTC_buy": "498.14006000",
-        "trades_of_BTC_buy": 12175
     },
     "DOTUSDT": {
         "symbol": "DOTUSDT",
@@ -107,18 +83,6 @@
         "volume_of_BTC_buy": "183.96381000",
         "trades_of_BTC_buy": 4341
     },
-    "LTCUSDT": {
-        "symbol": "LTCUSDT",
-        "orderid": 2609432553,
-        "timestamp": 1640187433152,
-        "bought_at": "157.60000000",
-        "volume": 0.508,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48739.58959903,
-        "volume_of_BTC_buy": "65.95986000",
-        "trades_of_BTC_buy": 3187
-    },
     "ATOMUSDT": {
         "symbol": "ATOMUSDT",
         "orderid": 1020705979,
@@ -130,5 +94,41 @@
         "avgPriceBTCUSDT_buy": 48847.24949828,
         "volume_of_BTC_buy": "71.23917000",
         "trades_of_BTC_buy": 3298
+    },
+    "SHIBUSDT": {
+        "symbol": "SHIBUSDT",
+        "orderid": 905304996,
+        "timestamp": 1640188778994,
+        "bought_at": "0.00003732",
+        "volume": 2143622,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48829.23769223,
+        "volume_of_BTC_buy": "35.36044000",
+        "trades_of_BTC_buy": 2061
+    },
+    "LINKUSDT": {
+        "symbol": "LINKUSDT",
+        "orderid": 2999018762,
+        "timestamp": 1640188337892,
+        "bought_at": "20.67000000",
+        "volume": 3.87,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48928.45363434,
+        "volume_of_BTC_buy": "35.36044000",
+        "trades_of_BTC_buy": 2061
+    },
+    "UNIUSDT": {
+        "symbol": "UNIUSDT",
+        "orderid": 1292662521,
+        "timestamp": 1640189373839,
+        "bought_at": "15.74000000",
+        "volume": 5.08,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48958.14440255,
+        "volume_of_BTC_buy": "35.36044000",
+        "trades_of_BTC_buy": 2061
     }
 }
