@@ -1427,18 +1427,6 @@
         "volume_of_BTC_buy": "103.09747000",
         "trades_of_BTC_buy": 3730
     },
-    "CLVUSDT": {
-        "symbol": "CLVUSDT",
-        "orderid": 36147321,
-        "timestamp": 1640140519867,
-        "bought_at": "0.78300000",
-        "volume": 25.5,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49467.51218631,
-        "volume_of_BTC_buy": "128.58646000",
-        "trades_of_BTC_buy": 3831
-    },
     "VGXUSDT": {
         "symbol": "VGXUSDT",
         "orderid": 6120100,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 49068.65852576,
         "volume_of_BTC_buy": "101.19305000",
         "trades_of_BTC_buy": 3591
+    },
+    "FIOUSDT": {
+        "symbol": "FIOUSDT",
+        "orderid": 78948675,
+        "timestamp": 1639692771046,
+        "bought_at": "0.15330000",
+        "volume": 130,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49128.22032187,
+        "volume_of_BTC_buy": "105.29187000",
+        "trades_of_BTC_buy": 3258
     }
 }
