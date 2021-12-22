@@ -1403,18 +1403,6 @@
         "volume_of_BTC_buy": "117.81878000",
         "trades_of_BTC_buy": 2953
     },
-    "RENUSDT": {
-        "symbol": "RENUSDT",
-        "orderid": 546274587,
-        "timestamp": 1640139046183,
-        "bought_at": "0.68200000",
-        "volume": 29,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48848.02285957,
-        "volume_of_BTC_buy": "103.09747000",
-        "trades_of_BTC_buy": 3730
-    },
     "VGXUSDT": {
         "symbol": "VGXUSDT",
         "orderid": 6120100,
