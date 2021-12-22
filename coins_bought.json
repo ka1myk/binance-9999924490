@@ -46,5 +46,17 @@
         "avgPriceBTCUSDT_buy": 49155.28683796,
         "volume_of_BTC_buy": "118.86391000",
         "trades_of_BTC_buy": 3340
+    },
+    "LUNAUSDT": {
+        "symbol": "LUNAUSDT",
+        "orderid": 821558665,
+        "timestamp": 1640166384919,
+        "bought_at": "95.57000000",
+        "volume": 0.84,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48982.92467724,
+        "volume_of_BTC_buy": "146.37948000",
+        "trades_of_BTC_buy": 3856
     }
 }
