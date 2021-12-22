@@ -131,18 +131,6 @@
         "volume_of_BTC_buy": "123.48266000",
         "trades_of_BTC_buy": 4364
     },
-    "DOTUSDT": {
-        "symbol": "DOTUSDT",
-        "orderid": 2461262832,
-        "timestamp": 1640174882509,
-        "bought_at": "26.38000000",
-        "volume": 3.03,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48682.73768282,
-        "volume_of_BTC_buy": "123.48266000",
-        "trades_of_BTC_buy": 4364
-    },
     "UNIUSDT": {
         "symbol": "UNIUSDT",
         "orderid": 1292492223,
