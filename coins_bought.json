@@ -1451,18 +1451,6 @@
         "volume_of_BTC_buy": "91.53849000",
         "trades_of_BTC_buy": 3173
     },
-    "PONDUSDT": {
-        "symbol": "PONDUSDT",
-        "orderid": 104884080,
-        "timestamp": 1640137810452,
-        "bought_at": "0.06647000",
-        "volume": 300.89,
-        "stop_loss": 0.7374409508048667,
-        "take_profit": 0.8374409508048667,
-        "avgPriceBTCUSDT_buy": 48758.90830342,
-        "volume_of_BTC_buy": "53.92890000",
-        "trades_of_BTC_buy": 2325
-    },
     "BICOUSDT": {
         "symbol": "BICOUSDT",
         "orderid": 3620841,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48776.80581966,
         "volume_of_BTC_buy": "117.81878000",
         "trades_of_BTC_buy": 2953
+    },
+    "RENUSDT": {
+        "symbol": "RENUSDT",
+        "orderid": 546274587,
+        "timestamp": 1640139046183,
+        "bought_at": "0.68200000",
+        "volume": 29,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48848.02285957,
+        "volume_of_BTC_buy": "103.09747000",
+        "trades_of_BTC_buy": 3730
     }
 }
