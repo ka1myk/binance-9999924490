@@ -1486,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 48848.02285957,
         "volume_of_BTC_buy": "103.09747000",
         "trades_of_BTC_buy": 3730
+    },
+    "CLVUSDT": {
+        "symbol": "CLVUSDT",
+        "orderid": 36147321,
+        "timestamp": 1640140519867,
+        "bought_at": "0.78300000",
+        "volume": 25.5,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49467.51218631,
+        "volume_of_BTC_buy": "128.58646000",
+        "trades_of_BTC_buy": 3831
     }
 }
