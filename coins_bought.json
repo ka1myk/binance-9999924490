@@ -1415,18 +1415,6 @@
         "volume_of_BTC_buy": "37.65435000",
         "trades_of_BTC_buy": 2415
     },
-    "RUNEUSDT": {
-        "symbol": "RUNEUSDT",
-        "orderid": 516554247,
-        "timestamp": 1640081059547,
-        "bought_at": "7.07000000",
-        "volume": 2.1,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48599.52924265,
-        "volume_of_BTC_buy": "48.35502000",
-        "trades_of_BTC_buy": 2486
-    },
     "COSUSDT": {
         "symbol": "COSUSDT",
         "orderid": 143255701,
@@ -1438,18 +1426,6 @@
         "avgPriceBTCUSDT_buy": 48684.07868099,
         "volume_of_BTC_buy": "81.36197000",
         "trades_of_BTC_buy": 2544
-    },
-    "BICOUSDT": {
-        "symbol": "BICOUSDT",
-        "orderid": 3509640,
-        "timestamp": 1640109786634,
-        "bought_at": "3.77100000",
-        "volume": 5.3,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48627.89099204,
-        "volume_of_BTC_buy": "84.82858000",
-        "trades_of_BTC_buy": 2675
     },
     "RENUSDT": {
         "symbol": "RENUSDT",
@@ -1498,5 +1474,17 @@
         "avgPriceBTCUSDT_buy": 48769.50186506,
         "volume_of_BTC_buy": "74.56236000",
         "trades_of_BTC_buy": 2922
+    },
+    "VGXUSDT": {
+        "symbol": "VGXUSDT",
+        "orderid": 6085310,
+        "timestamp": 1640115951519,
+        "bought_at": "2.94000000",
+        "volume": 6.8,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48806.29617536,
+        "volume_of_BTC_buy": "91.53849000",
+        "trades_of_BTC_buy": 3173
     }
 }
