@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 48895.66328046,
         "volume_of_BTC_buy": "46.38307000",
         "trades_of_BTC_buy": 1983
+    },
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 1021785762,
+        "timestamp": 1640207189029,
+        "bought_at": "28.23000000",
+        "volume": 3.54,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48955.38049223,
+        "volume_of_BTC_buy": "629.38837000",
+        "trades_of_BTC_buy": 14969
     }
 }
