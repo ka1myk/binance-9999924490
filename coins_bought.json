@@ -1,1 +1,26 @@
-{}
+{
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 2460507945,
+        "timestamp": 1640160968940,
+        "bought_at": "26.45000000",
+        "volume": 3.02,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49214.23200311,
+        "volume_of_BTC_buy": "224.52796000",
+        "trades_of_BTC_buy": 6020
+    },
+    "SHIBUSDT": {
+        "symbol": "SHIBUSDT",
+        "orderid": 902774251,
+        "timestamp": 1640161080286,
+        "bought_at": "0.00003405",
+        "volume": 2349486,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49234.91476876,
+        "volume_of_BTC_buy": "224.52796000",
+        "trades_of_BTC_buy": 6020
+    }
+}
