@@ -1475,16 +1475,16 @@
         "volume_of_BTC_buy": "200.67940000",
         "trades_of_BTC_buy": 5740
     },
-    "FLUXUSDT": {
-        "symbol": "FLUXUSDT",
-        "orderid": 7894817,
-        "timestamp": 1640159862929,
-        "bought_at": "1.73300000",
-        "volume": 11.54,
+    "REEFUSDT": {
+        "symbol": "REEFUSDT",
+        "orderid": 391384904,
+        "timestamp": 1640160015895,
+        "bought_at": "0.01983000",
+        "volume": 1008,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49280.61831231,
-        "volume_of_BTC_buy": "200.67940000",
-        "trades_of_BTC_buy": 5740
+        "avgPriceBTCUSDT_buy": 49250.57236183,
+        "volume_of_BTC_buy": "89.56146000",
+        "trades_of_BTC_buy": 3717
     }
 }
