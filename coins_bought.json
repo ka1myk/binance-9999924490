@@ -22,5 +22,17 @@
         "avgPriceBTCUSDT_buy": 49489.28041219,
         "volume_of_BTC_buy": "215.55815000",
         "trades_of_BTC_buy": 4887
+    },
+    "SHIBUSDT": {
+        "symbol": "SHIBUSDT",
+        "orderid": 902985779,
+        "timestamp": 1640164851804,
+        "bought_at": "0.00003447",
+        "volume": 2320858,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49253.40511179,
+        "volume_of_BTC_buy": "88.59448000",
+        "trades_of_BTC_buy": 3207
     }
 }
