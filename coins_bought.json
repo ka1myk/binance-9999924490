@@ -58,5 +58,29 @@
         "avgPriceBTCUSDT_buy": 49164.79304926,
         "volume_of_BTC_buy": "153.08484000",
         "trades_of_BTC_buy": 3617
+    },
+    "SHIBUSDT": {
+        "symbol": "SHIBUSDT",
+        "orderid": 903510540,
+        "timestamp": 1640173545058,
+        "bought_at": "0.00003513",
+        "volume": 2277255,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49025.22804613,
+        "volume_of_BTC_buy": "156.59209000",
+        "trades_of_BTC_buy": 4154
+    },
+    "VETUSDT": {
+        "symbol": "VETUSDT",
+        "orderid": 1630450657,
+        "timestamp": 1640173629334,
+        "bought_at": "0.08627000",
+        "volume": 927.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49003.45790549,
+        "volume_of_BTC_buy": "156.59209000",
+        "trades_of_BTC_buy": 4154
     }
 }
