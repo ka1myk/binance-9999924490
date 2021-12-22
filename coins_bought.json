@@ -1343,18 +1343,6 @@
         "volume_of_BTC_buy": "58.42376000",
         "trades_of_BTC_buy": 2618
     },
-    "ZENUSDT": {
-        "symbol": "ZENUSDT",
-        "orderid": 375552521,
-        "timestamp": 1639953808347,
-        "bought_at": "67.11000000",
-        "volume": 0.22,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 47015.40876808,
-        "volume_of_BTC_buy": "58.42376000",
-        "trades_of_BTC_buy": 2618
-    },
     "TRUUSDT": {
         "symbol": "TRUUSDT",
         "orderid": 107739717,
@@ -1498,5 +1486,17 @@
         "avgPriceBTCUSDT_buy": 49128.22032187,
         "volume_of_BTC_buy": "105.29187000",
         "trades_of_BTC_buy": 3258
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 111173777,
+        "timestamp": 1640110099524,
+        "bought_at": "0.65710000",
+        "volume": 30,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 49204.13814748,
+        "volume_of_BTC_buy": "54.31846000",
+        "trades_of_BTC_buy": 2372
     }
 }
