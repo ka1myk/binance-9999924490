@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "56.20206000",
         "trades_of_BTC_buy": 2445
     },
-    "RAREUSDT": {
-        "symbol": "RAREUSDT",
-        "orderid": 19983712,
-        "timestamp": 1640150833328,
-        "bought_at": "1.03100000",
-        "volume": 19.4,
+    "BETAUSDT": {
+        "symbol": "BETAUSDT",
+        "orderid": 75746359,
+        "timestamp": 1640154552535,
+        "bought_at": "0.67410000",
+        "volume": 29,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49092.46925793,
-        "volume_of_BTC_buy": "67.14798000",
-        "trades_of_BTC_buy": 2242
+        "avgPriceBTCUSDT_buy": 49068.65852576,
+        "volume_of_BTC_buy": "101.19305000",
+        "trades_of_BTC_buy": 3591
     }
 }
