@@ -1487,16 +1487,16 @@
         "volume_of_BTC_buy": "384.56004000",
         "trades_of_BTC_buy": 10585
     },
-    "CHRUSDT": {
-        "symbol": "CHRUSDT",
-        "orderid": 521510082,
-        "timestamp": 1640143129425,
-        "bought_at": "0.65250000",
-        "volume": 30,
+    "FLMUSDT": {
+        "symbol": "FLMUSDT",
+        "orderid": 249917998,
+        "timestamp": 1640144564696,
+        "bought_at": "0.36210000",
+        "volume": 55,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49276.55259944,
-        "volume_of_BTC_buy": "133.98016000",
-        "trades_of_BTC_buy": 4156
+        "avgPriceBTCUSDT_buy": 49295.37089172,
+        "volume_of_BTC_buy": "160.50592000",
+        "trades_of_BTC_buy": 3830
     }
 }
