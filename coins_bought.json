@@ -1486,17 +1486,5 @@
         "avgPriceBTCUSDT_buy": 49467.51218631,
         "volume_of_BTC_buy": "128.58646000",
         "trades_of_BTC_buy": 3831
-    },
-    "REQUSDT": {
-        "symbol": "REQUSDT",
-        "orderid": 46463796,
-        "timestamp": 1640140924690,
-        "bought_at": "0.40960000",
-        "volume": 48,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49486.30416167,
-        "volume_of_BTC_buy": "452.12622000",
-        "trades_of_BTC_buy": 12800
     }
 }
