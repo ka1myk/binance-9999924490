@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "215.55815000",
         "trades_of_BTC_buy": 4887
     },
-    "MATICUSDT": {
-        "symbol": "MATICUSDT",
-        "orderid": 1432321809,
-        "timestamp": 1640167909846,
-        "bought_at": "2.59800000",
-        "volume": 30.8,
-        "stop_loss": 1.1032255581216375,
-        "take_profit": 1.2032255581216376,
-        "avgPriceBTCUSDT_buy": 49019.88158463,
-        "volume_of_BTC_buy": "87.41425000",
-        "trades_of_BTC_buy": 2825
-    },
     "LUNAUSDT": {
         "symbol": "LUNAUSDT",
         "orderid": 821864184,
@@ -142,18 +130,6 @@
         "avgPriceBTCUSDT_buy": 48675.40943578,
         "volume_of_BTC_buy": "107.78304000",
         "trades_of_BTC_buy": 4079
-    },
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 1020185015,
-        "timestamp": 1640182795284,
-        "bought_at": "26.11000000",
-        "volume": 3.06,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48678.37249371,
-        "volume_of_BTC_buy": "76.24126000",
-        "trades_of_BTC_buy": 3102
     },
     "DOTUSDT": {
         "symbol": "DOTUSDT",
