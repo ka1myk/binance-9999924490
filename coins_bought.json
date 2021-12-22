@@ -118,5 +118,29 @@
         "avgPriceBTCUSDT_buy": 48744.7256374,
         "volume_of_BTC_buy": "203.90238000",
         "trades_of_BTC_buy": 5456
+    },
+    "AVAXUSDT": {
+        "symbol": "AVAXUSDT",
+        "orderid": 1062024582,
+        "timestamp": 1640178085182,
+        "bought_at": "120.88000000",
+        "volume": 0.66,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48595.35898168,
+        "volume_of_BTC_buy": "128.38398000",
+        "trades_of_BTC_buy": 3948
+    },
+    "XLMUSDT": {
+        "symbol": "XLMUSDT",
+        "orderid": 1388075485,
+        "timestamp": 1640178134748,
+        "bought_at": "0.27200000",
+        "volume": 294,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48605.5873065,
+        "volume_of_BTC_buy": "128.38398000",
+        "trades_of_BTC_buy": 3948
     }
 }
