@@ -106,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 50879.11382138,
         "volume_of_BTC_buy": "53.15004000",
         "trades_of_BTC_buy": 2457
+    },
+    "ADAUSDT": {
+        "symbol": "ADAUSDT",
+        "orderid": 2753697313,
+        "timestamp": 1640300701250,
+        "bought_at": "1.47400000",
+        "volume": 101.8,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50777.93088796,
+        "volume_of_BTC_buy": "95.45013000",
+        "trades_of_BTC_buy": 2735
     }
 }
