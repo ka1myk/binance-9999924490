@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "289.72676000",
         "trades_of_BTC_buy": 7030
     },
-    "SHIBUSDT": {
-        "symbol": "SHIBUSDT",
-        "orderid": 911072280,
-        "timestamp": 1640282818870,
-        "bought_at": "0.00003784",
-        "volume": 3964059,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50367.24343746,
-        "volume_of_BTC_buy": "46.84343000",
-        "trades_of_BTC_buy": 2311
-    },
     "MATICUSDT": {
         "symbol": "MATICUSDT",
         "orderid": 1442875710,
