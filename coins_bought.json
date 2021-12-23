@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "80.32154000",
         "trades_of_BTC_buy": 2370
     },
-    "MATICUSDT": {
-        "symbol": "MATICUSDT",
-        "orderid": 1438520909,
-        "timestamp": 1640232143880,
-        "bought_at": "2.69300000",
-        "volume": 37.1,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48533.22533794,
-        "volume_of_BTC_buy": "80.88753000",
-        "trades_of_BTC_buy": 2765
-    },
     "UNIUSDT": {
         "symbol": "UNIUSDT",
         "orderid": 1294615002,
@@ -83,18 +71,6 @@
         "volume_of_BTC_buy": "67.49429000",
         "trades_of_BTC_buy": 2277
     },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 3002588052,
-        "timestamp": 1640281784163,
-        "bought_at": "21.60000000",
-        "volume": 6.94,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50225.34081821,
-        "volume_of_BTC_buy": "67.49429000",
-        "trades_of_BTC_buy": 2277
-    },
     "SHIBUSDT": {
         "symbol": "SHIBUSDT",
         "orderid": 911072280,
@@ -118,5 +94,17 @@
         "avgPriceBTCUSDT_buy": 50484.1419977,
         "volume_of_BTC_buy": "38.42339000",
         "trades_of_BTC_buy": 1968
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 424008704,
+        "timestamp": 1640283988523,
+        "bought_at": "27.21000000",
+        "volume": 5.51,
+        "stop_loss": 0.7552774715178259,
+        "take_profit": 0.8552774715178258,
+        "avgPriceBTCUSDT_buy": 50456.33345333,
+        "volume_of_BTC_buy": "106.94931000",
+        "trades_of_BTC_buy": 2744
     }
 }
