@@ -179,16 +179,16 @@
         "volume_of_BTC_buy": "149.64258000",
         "trades_of_BTC_buy": 4633
     },
-    "XLMUSDT": {
-        "symbol": "XLMUSDT",
-        "orderid": 1389140482,
-        "timestamp": 1640277848581,
-        "bought_at": "0.27670000",
-        "volume": 542,
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 2466932748,
+        "timestamp": 1640278000522,
+        "bought_at": "27.93000000",
+        "volume": 5.37,
         "stop_loss": -99,
         "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48773.00314694,
-        "volume_of_BTC_buy": "88.33317000",
-        "trades_of_BTC_buy": 2945
+        "avgPriceBTCUSDT_buy": 48915.6486125,
+        "volume_of_BTC_buy": "64.05495000",
+        "trades_of_BTC_buy": 3039
     }
 }
