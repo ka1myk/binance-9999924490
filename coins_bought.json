@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "72.53603000",
         "trades_of_BTC_buy": 2924
     },
-    "SOLUSDT": {
-        "symbol": "SOLUSDT",
-        "orderid": 1790519443,
-        "timestamp": 1640284722091,
-        "bought_at": "191.49000000",
-        "volume": 0.78,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50706.6434697,
-        "volume_of_BTC_buy": "72.53603000",
-        "trades_of_BTC_buy": 2924
-    },
     "AVAXUSDT": {
         "symbol": "AVAXUSDT",
         "orderid": 1068713748,
@@ -116,18 +104,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 50799.04430263,
-        "volume_of_BTC_buy": "55.44602000",
-        "trades_of_BTC_buy": 2176
-    },
-    "DOTUSDT": {
-        "symbol": "DOTUSDT",
-        "orderid": 2467553348,
-        "timestamp": 1640287353436,
-        "bought_at": "29.33000000",
-        "volume": 5.11,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50817.55592968,
         "volume_of_BTC_buy": "55.44602000",
         "trades_of_BTC_buy": 2176
     }
