@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 48822.51750521,
         "volume_of_BTC_buy": "38.77931000",
         "trades_of_BTC_buy": 2564
+    },
+    "VETUSDT": {
+        "symbol": "VETUSDT",
+        "orderid": 1633609032,
+        "timestamp": 1640275301651,
+        "bought_at": "0.09041000",
+        "volume": 1659.1,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48862.33085824,
+        "volume_of_BTC_buy": "74.47361000",
+        "trades_of_BTC_buy": 2857
     }
 }
