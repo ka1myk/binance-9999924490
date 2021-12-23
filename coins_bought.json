@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "289.72676000",
         "trades_of_BTC_buy": 7030
     },
-    "DOGEUSDT": {
-        "symbol": "DOGEUSDT",
-        "orderid": 2200893071,
-        "timestamp": 1640174975710,
-        "bought_at": "0.17870000",
-        "volume": 447,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49087.91058324,
-        "volume_of_BTC_buy": "77.24883000",
-        "trades_of_BTC_buy": 3008
-    },
     "SHIBUSDT": {
         "symbol": "SHIBUSDT",
         "orderid": 905304996,
@@ -44,18 +32,6 @@
         "stop_loss": -99,
         "take_profit": 0.8,
         "avgPriceBTCUSDT_buy": 49005.51985183,
-        "volume_of_BTC_buy": "60.79244000",
-        "trades_of_BTC_buy": 2598
-    },
-    "XLMUSDT": {
-        "symbol": "XLMUSDT",
-        "orderid": 1388208953,
-        "timestamp": 1640189454979,
-        "bought_at": "0.27540000",
-        "volume": 290,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49069.72849917,
         "volume_of_BTC_buy": "60.79244000",
         "trades_of_BTC_buy": 2598
     },
