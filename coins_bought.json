@@ -166,5 +166,29 @@
         "avgPriceBTCUSDT_buy": 48318.84594537,
         "volume_of_BTC_buy": "94.07512000",
         "trades_of_BTC_buy": 3067
+    },
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 2464230363,
+        "timestamp": 1640224689054,
+        "bought_at": "28.18000000",
+        "volume": 3.55,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48449.44594351,
+        "volume_of_BTC_buy": "222.05022000",
+        "trades_of_BTC_buy": 4565
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 422535372,
+        "timestamp": 1640224771295,
+        "bought_at": "24.79000000",
+        "volume": 4.03,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48460.38251051,
+        "volume_of_BTC_buy": "222.05022000",
+        "trades_of_BTC_buy": 4565
     }
 }
