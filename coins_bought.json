@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "70.48370000",
         "trades_of_BTC_buy": 2508
     },
-    "FTTUSDT": {
-        "symbol": "FTTUSDT",
-        "orderid": 268941705,
-        "timestamp": 1640282511722,
-        "bought_at": "42.87000000",
-        "volume": 3.5,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50186.01322465,
-        "volume_of_BTC_buy": "67.49429000",
-        "trades_of_BTC_buy": 2277
-    },
     "SHIBUSDT": {
         "symbol": "SHIBUSDT",
         "orderid": 911072280,
