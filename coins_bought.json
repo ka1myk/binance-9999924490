@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "213.09325000",
         "trades_of_BTC_buy": 4100
     },
-    "VETUSDT": {
-        "symbol": "VETUSDT",
-        "orderid": 1632361543,
-        "timestamp": 1640231475857,
-        "bought_at": "0.08871000",
-        "volume": 1127.3,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48443.59687355,
-        "volume_of_BTC_buy": "81.02013000",
-        "trades_of_BTC_buy": 2660
-    },
     "XRPUSDT": {
         "symbol": "XRPUSDT",
         "orderid": 3796390017,
@@ -154,5 +142,17 @@
         "avgPriceBTCUSDT_buy": 48453.45045795,
         "volume_of_BTC_buy": "37.08174000",
         "trades_of_BTC_buy": 1984
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 423458739,
+        "timestamp": 1640272273366,
+        "bought_at": "25.02000000",
+        "volume": 6.0,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48670.99946645,
+        "volume_of_BTC_buy": "291.58364000",
+        "trades_of_BTC_buy": 8957
     }
 }
