@@ -142,5 +142,29 @@
         "avgPriceBTCUSDT_buy": 48490.54830191,
         "volume_of_BTC_buy": "213.09325000",
         "trades_of_BTC_buy": 4100
+    },
+    "UNIUSDT": {
+        "symbol": "UNIUSDT",
+        "orderid": 1293374012,
+        "timestamp": 1640226773020,
+        "bought_at": "16.93000000",
+        "volume": 5.91,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48669.48361913,
+        "volume_of_BTC_buy": "154.61770000",
+        "trades_of_BTC_buy": 4193
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3795927438,
+        "timestamp": 1640227086329,
+        "bought_at": "0.98900000",
+        "volume": 101,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48668.55062456,
+        "volume_of_BTC_buy": "154.61770000",
+        "trades_of_BTC_buy": 4193
     }
 }
