@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "35.36044000",
         "trades_of_BTC_buy": 2061
     },
-    "SOLUSDT": {
-        "symbol": "SOLUSDT",
-        "orderid": 1784015157,
-        "timestamp": 1640189421867,
-        "bought_at": "185.50000000",
-        "volume": 0.43,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 49005.51985183,
-        "volume_of_BTC_buy": "60.79244000",
-        "trades_of_BTC_buy": 2598
-    },
     "ATOMUSDT": {
         "symbol": "ATOMUSDT",
         "orderid": 1022564910,
@@ -130,5 +118,17 @@
         "avgPriceBTCUSDT_buy": 50012.59405483,
         "volume_of_BTC_buy": "51.98220000",
         "trades_of_BTC_buy": 1977
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 423946141,
+        "timestamp": 1640282361810,
+        "bought_at": "26.88000000",
+        "volume": 5.58,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50093.41115287,
+        "volume_of_BTC_buy": "78.46367000",
+        "trades_of_BTC_buy": 1936
     }
 }
