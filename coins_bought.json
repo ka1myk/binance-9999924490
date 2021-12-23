@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "60.79244000",
         "trades_of_BTC_buy": 2598
     },
-    "AXSUSDT": {
-        "symbol": "AXSUSDT",
-        "orderid": 876456728,
-        "timestamp": 1640203554691,
-        "bought_at": "103.22000000",
-        "volume": 0.78,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48895.66328046,
-        "volume_of_BTC_buy": "46.38307000",
-        "trades_of_BTC_buy": 1983
-    },
     "ATOMUSDT": {
         "symbol": "ATOMUSDT",
         "orderid": 1022564910,
