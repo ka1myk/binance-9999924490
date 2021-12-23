@@ -166,5 +166,53 @@
         "avgPriceBTCUSDT_buy": 48614.66480078,
         "volume_of_BTC_buy": "149.58582000",
         "trades_of_BTC_buy": 3259
+    },
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 2463949608,
+        "timestamp": 1640220076340,
+        "bought_at": "27.11000000",
+        "volume": 3.69,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48142.14971314,
+        "volume_of_BTC_buy": "73.05646000",
+        "trades_of_BTC_buy": 2735
+    },
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 1022522924,
+        "timestamp": 1640220080985,
+        "bought_at": "27.89000000",
+        "volume": 3.59,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48144.64589958,
+        "volume_of_BTC_buy": "73.05646000",
+        "trades_of_BTC_buy": 2735
+    },
+    "BCHUSDT": {
+        "symbol": "BCHUSDT",
+        "orderid": 2599734152,
+        "timestamp": 1640220098209,
+        "bought_at": "440.90000000",
+        "volume": 0.227,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48151.99206845,
+        "volume_of_BTC_buy": "73.05646000",
+        "trades_of_BTC_buy": 2735
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3795314076,
+        "timestamp": 1640220121451,
+        "bought_at": "0.94790000",
+        "volume": 105,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 48158.5998883,
+        "volume_of_BTC_buy": "73.05646000",
+        "trades_of_BTC_buy": 2735
     }
 }
