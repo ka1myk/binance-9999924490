@@ -59,18 +59,6 @@
         "volume_of_BTC_buy": "46.38307000",
         "trades_of_BTC_buy": 1983
     },
-    "ADAUSDT": {
-        "symbol": "ADAUSDT",
-        "orderid": 2749619813,
-        "timestamp": 1640209658390,
-        "bought_at": "1.35100000",
-        "volume": 74.0,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 48981.19762719,
-        "volume_of_BTC_buy": "396.39975000",
-        "trades_of_BTC_buy": 9957
-    },
     "ATOMUSDT": {
         "symbol": "ATOMUSDT",
         "orderid": 1022564910,
