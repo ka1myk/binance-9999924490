@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "118.81442000",
         "trades_of_BTC_buy": 3428
     },
-    "AXSUSDT": {
-        "symbol": "AXSUSDT",
-        "orderid": 878121549,
-        "timestamp": 1640283349904,
-        "bought_at": "107.50000000",
-        "volume": 1.4,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50973.81248554,
-        "volume_of_BTC_buy": "141.51911000",
-        "trades_of_BTC_buy": 4212
-    },
     "SOLUSDT": {
         "symbol": "SOLUSDT",
         "orderid": 1791092564,
@@ -118,5 +106,29 @@
         "avgPriceBTCUSDT_buy": 50792.04974505,
         "volume_of_BTC_buy": "62.98612000",
         "trades_of_BTC_buy": 2466
+    },
+    "SHIBUSDT": {
+        "symbol": "SHIBUSDT",
+        "orderid": 912810858,
+        "timestamp": 1640307910662,
+        "bought_at": "0.00003963",
+        "volume": 3785011,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50891.63144951,
+        "volume_of_BTC_buy": "84.44976000",
+        "trades_of_BTC_buy": 2216
+    },
+    "VETUSDT": {
+        "symbol": "VETUSDT",
+        "orderid": 1634761604,
+        "timestamp": 1640307942693,
+        "bought_at": "0.09462000",
+        "volume": 1585.3,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50896.973162,
+        "volume_of_BTC_buy": "84.44976000",
+        "trades_of_BTC_buy": 2216
     }
 }
