@@ -178,5 +178,17 @@
         "avgPriceBTCUSDT_buy": 50911.08010512,
         "volume_of_BTC_buy": "140.87761000",
         "trades_of_BTC_buy": 3589
+    },
+    "DOGEUSDT": {
+        "symbol": "DOGEUSDT",
+        "orderid": 2207834186,
+        "timestamp": 1640368273948,
+        "bought_at": "0.19310000",
+        "volume": 776,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50962.52926119,
+        "volume_of_BTC_buy": "380.77073000",
+        "trades_of_BTC_buy": 9795
     }
 }
