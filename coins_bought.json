@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "118.81442000",
         "trades_of_BTC_buy": 3428
     },
-    "SOLUSDT": {
-        "symbol": "SOLUSDT",
-        "orderid": 1791092564,
-        "timestamp": 1640290305086,
-        "bought_at": "192.50000000",
-        "volume": 0.78,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50980.19146715,
-        "volume_of_BTC_buy": "141.51911000",
-        "trades_of_BTC_buy": 4212
-    },
     "SHIBUSDT": {
         "symbol": "SHIBUSDT",
         "orderid": 912810858,
@@ -178,17 +166,5 @@
         "avgPriceBTCUSDT_buy": 50750.7035969,
         "volume_of_BTC_buy": "129.87760000",
         "trades_of_BTC_buy": 3445
-    },
-    "ALGOUSDT": {
-        "symbol": "ALGOUSDT",
-        "orderid": 871381935,
-        "timestamp": 1640360604280,
-        "bought_at": "1.58800000",
-        "volume": 94,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50753.83872455,
-        "volume_of_BTC_buy": "67.84468000",
-        "trades_of_BTC_buy": 3154
     }
 }
