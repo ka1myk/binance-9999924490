@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 51167.67447584,
         "volume_of_BTC_buy": "63.73892000",
         "trades_of_BTC_buy": 3261
+    },
+    "XLMUSDT": {
+        "symbol": "XLMUSDT",
+        "orderid": 1389753542,
+        "timestamp": 1640341404539,
+        "bought_at": "0.28750000",
+        "volume": 521,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 51113.87541661,
+        "volume_of_BTC_buy": "57.42656000",
+        "trades_of_BTC_buy": 3179
     }
 }
