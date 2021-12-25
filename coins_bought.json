@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 51005.76824088,
         "volume_of_BTC_buy": "79.50702000",
         "trades_of_BTC_buy": 2180
+    },
+    "AXSUSDT": {
+        "symbol": "AXSUSDT",
+        "orderid": 880454846,
+        "timestamp": 1640415508741,
+        "bought_at": "107.98000000",
+        "volume": 1.39,
+        "stop_loss": -99,
+        "take_profit": 0.8,
+        "avgPriceBTCUSDT_buy": 50729.90678684,
+        "volume_of_BTC_buy": "170.57064000",
+        "trades_of_BTC_buy": 5998
     }
 }
