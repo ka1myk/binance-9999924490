@@ -1,16 +1,4 @@
 {
-    "MATICUSDT": {
-        "symbol": "MATICUSDT",
-        "orderid": 1442875710,
-        "timestamp": 1640284485337,
-        "bought_at": "2.71800000",
-        "volume": 55.2,
-        "stop_loss": -99,
-        "take_profit": 0.8,
-        "avgPriceBTCUSDT_buy": 50710.75378877,
-        "volume_of_BTC_buy": "80.76163000",
-        "trades_of_BTC_buy": 2784
-    },
     "DOTUSDT": {
         "symbol": "DOTUSDT",
         "orderid": 2467711203,
