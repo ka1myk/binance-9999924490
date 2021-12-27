@@ -100,8 +100,6 @@ sys.stdout = St_ampe_dOut()
 
 def telegram_bot_sendtext(bot_message):
 
-   bot_token = '1919249173:AAGGK5XVWCj2fnC2c6XtuWXTQOvZejsTNH4'
-   bot_chatID = '203161038'
    send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
 
    response = requests.get(send_text)
@@ -549,6 +547,7 @@ if __name__ == '__main__':
 
     # Load creds for correct environment
     access_key, secret_key = load_correct_creds(parsed_creds)
+    bot_token, bot_chatID = load_correct_creds(parsed_creds)
 
     if DEBUG:
         print(f'loaded config below\n{json.dumps(parsed_config, indent=4)}')

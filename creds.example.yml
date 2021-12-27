@@ -10,3 +10,6 @@ prod:
   access_key: replace_me
   secret_key: replace_me
 
+telegram:
+  bot_token: 1919249173:AAGGK5XVWCj2fnC2c6XtuWXTQOvZejs****
+  bot_chatID: 2031610**
