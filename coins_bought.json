@@ -94,5 +94,17 @@
         "avgPriceBTCUSDT_buy": 51219.55700794,
         "volume_of_BTC_buy": "51.21672000",
         "trades_of_BTC_buy": 2250
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 429969924,
+        "timestamp": 1640641387462,
+        "bought_at": "29.69000000",
+        "volume": 5.89,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 51247.67257559,
+        "volume_of_BTC_buy": "128.84848000",
+        "trades_of_BTC_buy": 3743
     }
 }
