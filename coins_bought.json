@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "158.58745000",
         "trades_of_BTC_buy": 5305
     },
-    "LUNAUSDT": {
-        "symbol": "LUNAUSDT",
-        "orderid": 836180361,
-        "timestamp": 1640332320615,
-        "bought_at": "100.74000000",
-        "volume": 1.49,
-        "stop_loss": 1.0522136192177907,
-        "take_profit": 1.0622136192177907,
-        "avgPriceBTCUSDT_buy": 50947.88039275,
-        "volume_of_BTC_buy": "73.21104000",
-        "trades_of_BTC_buy": 3765
-    },
     "ADAUSDT": {
         "symbol": "ADAUSDT",
         "orderid": 2754988968,
@@ -130,5 +118,17 @@
         "avgPriceBTCUSDT_buy": 50865.61048929,
         "volume_of_BTC_buy": "41.75693000",
         "trades_of_BTC_buy": 2338
+    },
+    "UNIUSDT": {
+        "symbol": "UNIUSDT",
+        "orderid": 1298562542,
+        "timestamp": 1640548373175,
+        "bought_at": "19.02000000",
+        "volume": 7.89,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 50698.03485706,
+        "volume_of_BTC_buy": "37.07935000",
+        "trades_of_BTC_buy": 1964
     }
 }
