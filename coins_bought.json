@@ -118,5 +118,17 @@
         "avgPriceBTCUSDT_buy": 50814.3312406,
         "volume_of_BTC_buy": "38.13046000",
         "trades_of_BTC_buy": 2453
+    },
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 2478720625,
+        "timestamp": 1640564691721,
+        "bought_at": "31.85000000",
+        "volume": 4.71,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 50865.61048929,
+        "volume_of_BTC_buy": "41.75693000",
+        "trades_of_BTC_buy": 2338
     }
 }
