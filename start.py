@@ -544,6 +544,7 @@ if __name__ == '__main__':
 
     # Load creds for correct environment
     access_key, secret_key = load_correct_creds(parsed_creds)
+    bot_token = parsed_creds['bot_token']
 
     if DEBUG:
         print(f'loaded config below\n{json.dumps(parsed_config, indent=4)}')
