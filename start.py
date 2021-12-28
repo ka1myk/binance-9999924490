@@ -446,6 +446,7 @@ def sell_coins():
         if hsp_head == 1:
             if len(coins_bought) > 0:
                 print(f'TP or SL not yet reached, not selling {coin} for now from {BuyPrice} - {LastPrice} : {txcolors.SELL_PROFIT if PriceChange >= 0. else txcolors.SELL_LOSS}{PriceChange-(TRADING_FEE*2):.2f}% Est:${(QUANTITY*(PriceChange-(TRADING_FEE*2)))/100:.2f}{txcolors.DEFAULT}')
+                telegram_bot_sendtext("1")
 
     if hsp_head == 1 and len(coins_bought) == 0: print(f'Not holding any coins')
  
@@ -545,7 +546,7 @@ if __name__ == '__main__':
     # Load creds for correct environment
     access_key, secret_key = load_correct_creds(parsed_creds)
     bot_token = parsed_creds['bot_token']
-    bot_chatID = parsed_creds['bot_chatID']
+    bot_chatID = int(parsed_creds['bot_chatID'])
 
     if DEBUG:
         print(f'loaded config below\n{json.dumps(parsed_config, indent=4)}')
