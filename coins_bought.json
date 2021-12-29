@@ -119,18 +119,6 @@
         "volume_of_BTC_buy": "42.32363000",
         "trades_of_BTC_buy": 1663
     },
-    "XRPUSDT": {
-        "symbol": "XRPUSDT",
-        "orderid": 3817642088,
-        "timestamp": 1640645516303,
-        "bought_at": "0.93190000",
-        "volume": 187,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 50852.19164146,
-        "volume_of_BTC_buy": "42.32363000",
-        "trades_of_BTC_buy": 1663
-    },
     "SOLUSDT": {
         "symbol": "SOLUSDT",
         "orderid": 1814734586,
