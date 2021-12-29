@@ -58,5 +58,17 @@
         "avgPriceBTCUSDT_buy": 47569.613333,
         "volume_of_BTC_buy": "131.02166000",
         "trades_of_BTC_buy": 4539
+    },
+    "ALGOUSDT": {
+        "symbol": "ALGOUSDT",
+        "orderid": 883475026,
+        "timestamp": 1640810683842,
+        "bought_at": "1.64000000",
+        "volume": 30,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 47506.49792775,
+        "volume_of_BTC_buy": "277.22108000",
+        "trades_of_BTC_buy": 9765
     }
 }
