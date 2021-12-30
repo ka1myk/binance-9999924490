@@ -82,29 +82,5 @@
         "avgPriceBTCUSDT_buy": 47282.74964658,
         "volume_of_BTC_buy": "152.49196000",
         "trades_of_BTC_buy": 4111
-    },
-    "VETUSDT": {
-        "symbol": "VETUSDT",
-        "orderid": 1650271234,
-        "timestamp": 1640847862345,
-        "bought_at": "0.08431000",
-        "volume": 593.0,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46943.41224813,
-        "volume_of_BTC_buy": "84.22053000",
-        "trades_of_BTC_buy": 3972
-    },
-    "AVAXUSDT": {
-        "symbol": "AVAXUSDT",
-        "orderid": 1096154295,
-        "timestamp": 1640848107021,
-        "bought_at": "102.93000000",
-        "volume": 0.49,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 47028.91270165,
-        "volume_of_BTC_buy": "80.38253000",
-        "trades_of_BTC_buy": 4170
     }
 }
