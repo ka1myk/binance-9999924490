@@ -59,30 +59,6 @@
         "volume_of_BTC_buy": "131.02166000",
         "trades_of_BTC_buy": 4539
     },
-    "LUNAUSDT": {
-        "symbol": "LUNAUSDT",
-        "orderid": 870950321,
-        "timestamp": 1640865309227,
-        "bought_at": "86.81000000",
-        "volume": 0.58,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 47504.97031899,
-        "volume_of_BTC_buy": "116.18691000",
-        "trades_of_BTC_buy": 4368
-    },
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 1042461067,
-        "timestamp": 1640866398400,
-        "bought_at": "29.08000000",
-        "volume": 1.72,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 47423.27590794,
-        "volume_of_BTC_buy": "101.18587000",
-        "trades_of_BTC_buy": 3639
-    },
     "BTCUSDT": {
         "symbol": "BTCUSDT",
         "orderid": 8797859048,
@@ -94,5 +70,17 @@
         "avgPriceBTCUSDT_buy": 47590.61398134,
         "volume_of_BTC_buy": "143.71703000",
         "trades_of_BTC_buy": 4588
+    },
+    "MATICUSDT": {
+        "symbol": "MATICUSDT",
+        "orderid": 1478810691,
+        "timestamp": 1640867135658,
+        "bought_at": "2.57100000",
+        "volume": 19.4,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 47626.41524668,
+        "volume_of_BTC_buy": "174.84092000",
+        "trades_of_BTC_buy": 6189
     }
 }
