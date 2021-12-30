@@ -95,16 +95,16 @@
         "volume_of_BTC_buy": "70.57650000",
         "trades_of_BTC_buy": 2814
     },
-    "AXSUSDT": {
-        "symbol": "AXSUSDT",
-        "orderid": 884236078,
-        "timestamp": 1640638816756,
-        "bought_at": "93.49000000",
-        "volume": 0.53,
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 433358754,
+        "timestamp": 1640824403511,
+        "bought_at": "24.01000000",
+        "volume": 2.08,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46480.0700476,
-        "volume_of_BTC_buy": "164.33290000",
-        "trades_of_BTC_buy": 4184
+        "avgPriceBTCUSDT_buy": 46601.2499465,
+        "volume_of_BTC_buy": "79.71684000",
+        "trades_of_BTC_buy": 2866
     }
 }
