@@ -82,5 +82,17 @@
         "avgPriceBTCUSDT_buy": 47282.74964658,
         "volume_of_BTC_buy": "152.49196000",
         "trades_of_BTC_buy": 4111
+    },
+    "MATICUSDT": {
+        "symbol": "MATICUSDT",
+        "orderid": 1476072704,
+        "timestamp": 1640823281038,
+        "bought_at": "2.45400000",
+        "volume": 20.4,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46225.14692379,
+        "volume_of_BTC_buy": "88.47333000",
+        "trades_of_BTC_buy": 3115
     }
 }
