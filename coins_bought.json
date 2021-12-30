@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "143.71703000",
         "trades_of_BTC_buy": 4588
     },
-    "MATICUSDT": {
-        "symbol": "MATICUSDT",
-        "orderid": 1478810691,
-        "timestamp": 1640867135658,
-        "bought_at": "2.57100000",
-        "volume": 19.4,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 47626.41524668,
-        "volume_of_BTC_buy": "174.84092000",
-        "trades_of_BTC_buy": 6189
-    },
     "LUNAUSDT": {
         "symbol": "LUNAUSDT",
         "orderid": 871217817,
