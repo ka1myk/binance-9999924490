@@ -106,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 47888.44349328,
         "volume_of_BTC_buy": "79.90736000",
         "trades_of_BTC_buy": 2691
+    },
+    "AVAXUSDT": {
+        "symbol": "AVAXUSDT",
+        "orderid": 1103455444,
+        "timestamp": 1640991794938,
+        "bought_at": "111.17000000",
+        "volume": 0.45,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46332.93992577,
+        "volume_of_BTC_buy": "105.51805000",
+        "trades_of_BTC_buy": 2678
     }
 }
