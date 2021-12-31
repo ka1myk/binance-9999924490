@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "265.49697000",
         "trades_of_BTC_buy": 5882
     },
-    "ICPUSDT": {
-        "symbol": "ICPUSDT",
-        "orderid": 435124114,
-        "timestamp": 1640939600572,
-        "bought_at": "26.16000000",
-        "volume": 1.91,
+    "AVAXUSDT": {
+        "symbol": "AVAXUSDT",
+        "orderid": 1100512837,
+        "timestamp": 1640941999348,
+        "bought_at": "107.32000000",
+        "volume": 0.47,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 48323.54298593,
-        "volume_of_BTC_buy": "160.17326000",
-        "trades_of_BTC_buy": 3950
+        "avgPriceBTCUSDT_buy": 48520.04516437,
+        "volume_of_BTC_buy": "95.49657000",
+        "trades_of_BTC_buy": 3139
     }
 }
