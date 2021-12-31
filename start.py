@@ -17,6 +17,7 @@ import requests
 # for ultimate logging
 from pausebotmod import EXCHANGE, SCREENER, SYMBOL, THRESHOLD, TIME_TO_WAIT
 from signalsamplemod import MY_EXCHANGE, MY_SCREENER, MY_FIRST_INTERVAL, MY_SECOND_INTERVAL, TA_BUY_THRESHOLD
+from custsignalmod import OSC_INDICATORS, OSC_THRESHOLD, MA_INDICATORS, MA_THRESHOLD
 
 # use for environment variables
 import os
@@ -451,7 +452,7 @@ def sell_coins():
                     profit = ((LastPrice - BuyPrice) * coins_sold[coin]['volume']) * (
                             1 - (TRADING_FEE * 2))  # adjust for trading fee here
                     write_log(
-                        f"|{TEST_MODE}|{coin}|{profit:.2f}|{PriceChange - (TRADING_FEE * 2):.2f}%|{d_in_ms - coins_sold[coin]['timestamp']}|{klines_info[0][5]}|{klines_info[0][8]}|{coins_sold[coin]['volume_of_BTC_buy']}|{coins_sold[coin]['trades_of_BTC_buy']}|{coins_sold[coin]['volume']}|{avgPriceBTCUSDT_sell}|{coins_sold[coin]['avgPriceBTCUSDT_buy']}|{BuyPrice}|{LastPrice}|{MAX_COINS}|{QUANTITY}|{TIME_DIFFERENCE}|{RECHECK_INTERVAL}|{CHANGE_IN_PRICE}|{STOP_LOSS}|{TAKE_PROFIT}|{CUSTOM_LIST}|{USE_TRAILING_STOP_LOSS}|{TRAILING_STOP_LOSS}|{TRAILING_TAKE_PROFIT}|{EXCHANGE}|{SCREENER}|{SYMBOL}|{THRESHOLD}|{TIME_TO_WAIT}|{MY_EXCHANGE}|{MY_SCREENER}|{MY_FIRST_INTERVAL}|{MY_SECOND_INTERVAL}|{TA_BUY_THRESHOLD}")
+                        f"|{TEST_MODE}|{coin}|{profit:.2f}|{PriceChange - (TRADING_FEE * 2):.2f}%|{d_in_ms - coins_sold[coin]['timestamp']}|{klines_info[0][5]}|{klines_info[0][8]}|{coins_sold[coin]['volume_of_BTC_buy']}|{coins_sold[coin]['trades_of_BTC_buy']}|{coins_sold[coin]['volume']}|{avgPriceBTCUSDT_sell}|{coins_sold[coin]['avgPriceBTCUSDT_buy']}|{BuyPrice}|{LastPrice}|{MAX_COINS}|{QUANTITY}|{TIME_DIFFERENCE}|{RECHECK_INTERVAL}|{CHANGE_IN_PRICE}|{STOP_LOSS}|{TAKE_PROFIT}|{CUSTOM_LIST}|{USE_TRAILING_STOP_LOSS}|{TRAILING_STOP_LOSS}|{TRAILING_TAKE_PROFIT}|{EXCHANGE}|{SCREENER}|{SYMBOL}|{THRESHOLD}|{TIME_TO_WAIT}|{MY_EXCHANGE}|{MY_SCREENER}|{MY_FIRST_INTERVAL}|{MY_SECOND_INTERVAL}|{TA_BUY_THRESHOLD}|{OSC_INDICATORS}|{OSC_THRESHOLD}|{MA_INDICATORS}|{MA_THRESHOLD}")
                     telegram_bot_sendtext(f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}%")
 
             continue
