@@ -106,17 +106,5 @@
         "avgPriceBTCUSDT_buy": 46683.36352409,
         "volume_of_BTC_buy": "88.64056000",
         "trades_of_BTC_buy": 3079
-    },
-    "LTCUSDT": {
-        "symbol": "LTCUSDT",
-        "orderid": 2625665250,
-        "timestamp": 1640998291279,
-        "bought_at": "148.80000000",
-        "volume": 0.336,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46689.42894623,
-        "volume_of_BTC_buy": "88.64056000",
-        "trades_of_BTC_buy": 3079
     }
 }
