@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "33.55682000",
         "trades_of_BTC_buy": 1903
     },
-    "ICPUSDT": {
-        "symbol": "ICPUSDT",
-        "orderid": 436999051,
-        "timestamp": 1641084483569,
-        "bought_at": "26.44000000",
-        "volume": 1.89,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 47640.21848088,
-        "volume_of_BTC_buy": "59.76982000",
-        "trades_of_BTC_buy": 2410
-    },
     "ATOMUSDT": {
         "symbol": "ATOMUSDT",
         "orderid": 1055167848,
