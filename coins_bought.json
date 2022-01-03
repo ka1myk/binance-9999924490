@@ -106,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 46955.62794571,
         "volume_of_BTC_buy": "99.64330000",
         "trades_of_BTC_buy": 2372
+    },
+    "FTTUSDT": {
+        "symbol": "FTTUSDT",
+        "orderid": 272996850,
+        "timestamp": 1641223302390,
+        "bought_at": "40.46000000",
+        "volume": 1.24,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46935.53017541,
+        "volume_of_BTC_buy": "43.80606000",
+        "trades_of_BTC_buy": 2224
     }
 }
