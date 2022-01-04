@@ -95,16 +95,16 @@
         "volume_of_BTC_buy": "69.74467000",
         "trades_of_BTC_buy": 2925
     },
-    "ICPUSDT": {
-        "symbol": "ICPUSDT",
-        "orderid": 442449684,
-        "timestamp": 1641305305850,
-        "bought_at": "33.07000000",
-        "volume": 1.51,
+    "FTTUSDT": {
+        "symbol": "FTTUSDT",
+        "orderid": 273660997,
+        "timestamp": 1641305393103,
+        "bought_at": "42.03000000",
+        "volume": 1.19,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46877.90789644,
-        "volume_of_BTC_buy": "34.19079000",
-        "trades_of_BTC_buy": 1957
+        "avgPriceBTCUSDT_buy": 46883.05964839,
+        "volume_of_BTC_buy": "53.74455000",
+        "trades_of_BTC_buy": 2157
     }
 }
