@@ -95,16 +95,16 @@
         "volume_of_BTC_buy": "69.74467000",
         "trades_of_BTC_buy": 2925
     },
-    "FTTUSDT": {
-        "symbol": "FTTUSDT",
-        "orderid": 273660997,
-        "timestamp": 1641305393103,
-        "bought_at": "42.03000000",
-        "volume": 1.19,
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 1067318280,
+        "timestamp": 1641305844696,
+        "bought_at": "41.84000000",
+        "volume": 1.2,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46883.05964839,
-        "volume_of_BTC_buy": "53.74455000",
-        "trades_of_BTC_buy": 2157
+        "avgPriceBTCUSDT_buy": 46906.69110836,
+        "volume_of_BTC_buy": "21.28094000",
+        "trades_of_BTC_buy": 1564
     }
 }
