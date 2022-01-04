@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "101.56696000",
         "trades_of_BTC_buy": 4180
     },
-    "VETUSDT": {
-        "symbol": "VETUSDT",
-        "orderid": 1658289325,
-        "timestamp": 1641220142493,
-        "bought_at": "0.08848000",
-        "volume": 565.1,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 47091.29095578,
-        "volume_of_BTC_buy": "53.32542000",
-        "trades_of_BTC_buy": 1989
-    },
     "DOTUSDT": {
         "symbol": "DOTUSDT",
         "orderid": 2513499112,
@@ -94,18 +82,6 @@
         "avgPriceBTCUSDT_buy": 46698.9372196,
         "volume_of_BTC_buy": "69.74467000",
         "trades_of_BTC_buy": 2925
-    },
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 1067318280,
-        "timestamp": 1641305844696,
-        "bought_at": "41.84000000",
-        "volume": 1.2,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46906.69110836,
-        "volume_of_BTC_buy": "21.28094000",
-        "trades_of_BTC_buy": 1564
     },
     "ICPUSDT": {
         "symbol": "ICPUSDT",
