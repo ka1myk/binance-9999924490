@@ -83,16 +83,28 @@
         "volume_of_BTC_buy": "69.74467000",
         "trades_of_BTC_buy": 2925
     },
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 1070080503,
-        "timestamp": 1641338634328,
-        "bought_at": "42.73000000",
-        "volume": 1.17,
+    "LINKUSDT": {
+        "symbol": "LINKUSDT",
+        "orderid": 3042445250,
+        "timestamp": 1641345481554,
+        "bought_at": "25.33000000",
+        "volume": 1.97,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 45984.39240352,
-        "volume_of_BTC_buy": "23.29630000",
-        "trades_of_BTC_buy": 1296
+        "avgPriceBTCUSDT_buy": 46306.20456825,
+        "volume_of_BTC_buy": "44.25247000",
+        "trades_of_BTC_buy": 1730
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 444978376,
+        "timestamp": 1641345590536,
+        "bought_at": "37.08000000",
+        "volume": 1.35,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46308.51056391,
+        "volume_of_BTC_buy": "44.25247000",
+        "trades_of_BTC_buy": 1730
     }
 }
