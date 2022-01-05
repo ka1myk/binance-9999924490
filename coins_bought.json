@@ -119,28 +119,40 @@
         "volume_of_BTC_buy": "63.01297000",
         "trades_of_BTC_buy": 1993
     },
-    "SHIBUSDT": {
-        "symbol": "SHIBUSDT",
-        "orderid": 949462712,
-        "timestamp": 1641406141688,
-        "bought_at": "0.00003181",
-        "volume": 1571832,
+    "LTCUSDT": {
+        "symbol": "LTCUSDT",
+        "orderid": 2632401546,
+        "timestamp": 1641407483516,
+        "bought_at": "148.90000000",
+        "volume": 0.336,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 45708.9405171,
-        "volume_of_BTC_buy": "59.86707000",
-        "trades_of_BTC_buy": 2400
+        "avgPriceBTCUSDT_buy": 46060.201224,
+        "volume_of_BTC_buy": "95.94767000",
+        "trades_of_BTC_buy": 4241
     },
-    "LUNAUSDT": {
-        "symbol": "LUNAUSDT",
-        "orderid": 901971604,
-        "timestamp": 1641407072208,
-        "bought_at": "82.50000000",
-        "volume": 0.61,
+    "ALGOUSDT": {
+        "symbol": "ALGOUSDT",
+        "orderid": 904658080,
+        "timestamp": 1641406904110,
+        "bought_at": "1.73550000",
+        "volume": 28,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 45777.81154468,
-        "volume_of_BTC_buy": "59.86707000",
-        "trades_of_BTC_buy": 2400
+        "avgPriceBTCUSDT_buy": 46096.08285214,
+        "volume_of_BTC_buy": "95.94767000",
+        "trades_of_BTC_buy": 4241
+    },
+    "UNIUSDT": {
+        "symbol": "UNIUSDT",
+        "orderid": 1314467264,
+        "timestamp": 1641407558838,
+        "bought_at": "19.24000000",
+        "volume": 2.6,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46106.59755867,
+        "volume_of_BTC_buy": "95.94767000",
+        "trades_of_BTC_buy": 4241
     }
 }
