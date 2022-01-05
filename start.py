@@ -463,6 +463,11 @@ def sell_coins():
                 print(
                     f'TP or SL not yet reached, not selling {coin} for now from {BuyPrice} - {LastPrice} : {txcolors.SELL_PROFIT if PriceChange >= 0. else txcolors.SELL_LOSS}{PriceChange - (TRADING_FEE * 2):.2f}% Est:${(QUANTITY * (PriceChange - (TRADING_FEE * 2))) / 100:.2f}{txcolors.DEFAULT}')
 
+                balanceBNB = float(client.get_asset_balance(asset="BNB")["free"])
+
+                if balanceBNB < 0.002:
+                    client.create_order(symbol="BNBUSDT", side="BUY", type="MARKET", quoteOrderQty=10)
+
     if hsp_head == 1 and len(coins_bought) == 0: print(f'Not holding any coins')
 
     return coins_sold
