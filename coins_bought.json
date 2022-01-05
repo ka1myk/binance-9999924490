@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "81.75818000",
         "trades_of_BTC_buy": 2351
     },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 3045749377,
-        "timestamp": 1641392003725,
-        "bought_at": "26.72000000",
-        "volume": 1.87,
+    "FTTUSDT": {
+        "symbol": "FTTUSDT",
+        "orderid": 273677949,
+        "timestamp": 1641305767716,
+        "bought_at": "42.64000000",
+        "volume": 1.17,
         "stop_loss": -99,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46397.51503756,
-        "volume_of_BTC_buy": "206.10077000",
-        "trades_of_BTC_buy": 4961
+        "avgPriceBTCUSDT_buy": 46666.56852355,
+        "volume_of_BTC_buy": "80.47562000",
+        "trades_of_BTC_buy": 2810
     }
 }
