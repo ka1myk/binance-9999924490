@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "61.06159000",
         "trades_of_BTC_buy": 1958
     },
-    "VETUSDT": {
-        "symbol": "VETUSDT",
-        "orderid": 1663174464,
-        "timestamp": 1641389256345,
-        "bought_at": "0.09477000",
-        "volume": 527.6,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46316.53421636,
-        "volume_of_BTC_buy": "81.75818000",
-        "trades_of_BTC_buy": 2351
-    },
     "FTTUSDT": {
         "symbol": "FTTUSDT",
         "orderid": 273677949,
