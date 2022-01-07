@@ -51,7 +51,7 @@ trading_options:
   TAKE_PROFIT: .5
 
   # Use custom tickers.txt list for filtering pairs.
-  CUSTOM_LIST: True
+  CUSTOM_LIST: False
 
   # Name of custom tickers list
   TICKERS_LIST: 'tickers.txt'
