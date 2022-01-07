@@ -32,7 +32,7 @@ trading_options:
     - UP
 
   # Maximum number of trade 'slots' at any time (your USDT balance must be at least MAX_COINS * QUANTITY)
-  MAX_COINS: 50
+  MAX_COINS: 10
 
   # the amount of time in MINUTES to calculate the difference from the current price (minimum: 1).
   TIME_DIFFERENCE: 1
@@ -45,7 +45,7 @@ trading_options:
   CHANGE_IN_PRICE: .1
 
   # define in % when to sell a coin that's not making a profit.
-  STOP_LOSS: .1
+  STOP_LOSS: 1
 
   # define in % when to take profit on a profitable coin.
   TAKE_PROFIT: .3
@@ -57,7 +57,7 @@ trading_options:
   TICKERS_LIST: 'tickers.txt'
 
   # whether to use trailing stop loss or not; default is True
-  USE_TRAILING_STOP_LOSS: False
+  USE_TRAILING_STOP_LOSS: True
 
   # when hit TAKE_PROFIT, move STOP_LOSS to TRAILING_STOP_LOSS percentage points below TAKE_PROFIT hence locking in profit
   # when hit TAKE_PROFIT, move TAKE_PROFIT up by TRAILING_TAKE_PROFIT percentage points
