@@ -1,28 +1,4 @@
 {
-    "KNCUSDT": {
-        "symbol": "KNCUSDT",
-        "orderid": 0,
-        "timestamp": 1641595453939,
-        "bought_at": "1.55600000",
-        "volume": 9.6,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41648.39149006,
-        "volume_of_BTC_buy": "19.31286000",
-        "trades_of_BTC_buy": 800
-    },
-    "ONEUSDT": {
-        "symbol": "ONEUSDT",
-        "orderid": 0,
-        "timestamp": 1641595650679,
-        "bought_at": "0.30257000",
-        "volume": 49.6,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41597.11850184,
-        "volume_of_BTC_buy": "21.66918000",
-        "trades_of_BTC_buy": 856
-    },
     "C98USDT": {
         "symbol": "C98USDT",
         "orderid": 0,
@@ -50,25 +26,25 @@
     "LAZIOUSDT": {
         "symbol": "LAZIOUSDT",
         "orderid": 0,
-        "timestamp": 1641595720625,
-        "bought_at": "4.16040000",
-        "volume": 3.61,
+        "timestamp": 1641596009444,
+        "bought_at": "4.21120000",
+        "volume": 3.56,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41599.16300309,
-        "volume_of_BTC_buy": "34.26620000",
-        "trades_of_BTC_buy": 847
+        "avgPriceBTCUSDT_buy": 41589.71984747,
+        "volume_of_BTC_buy": "50.00175000",
+        "trades_of_BTC_buy": 1212
     },
-    "PORTOUSDT": {
-        "symbol": "PORTOUSDT",
+    "NUUSDT": {
+        "symbol": "NUUSDT",
         "orderid": 0,
-        "timestamp": 1641595794690,
-        "bought_at": "3.09070000",
-        "volume": 4.85,
+        "timestamp": 1641596088231,
+        "bought_at": "0.64470000",
+        "volume": 23,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41601.29517293,
-        "volume_of_BTC_buy": "46.08438000",
-        "trades_of_BTC_buy": 1515
+        "avgPriceBTCUSDT_buy": 41478.94683268,
+        "volume_of_BTC_buy": "65.53835000",
+        "trades_of_BTC_buy": 1360
     }
 }
