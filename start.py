@@ -610,7 +610,7 @@ if __name__ == '__main__':
         with open(coins_bought_file_path) as file:
             coins_bought = json.load(file)
 
-    print('Press Ctrl-Q to stop the script')
+    telegram_bot_sendtext('new version script')
 
     if not TEST_MODE:
         if not args.notimeout:  # if notimeout skip this (fast for dev tests)
