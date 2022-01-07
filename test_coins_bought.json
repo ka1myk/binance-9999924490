@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "10.36821000",
         "trades_of_BTC_buy": 542
     },
-    "ICXUSDT": {
-        "symbol": "ICXUSDT",
-        "orderid": 0,
-        "timestamp": 1641584927607,
-        "bought_at": "1.05900000",
-        "volume": 14.2,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41777.10663724,
-        "volume_of_BTC_buy": "10.36821000",
-        "trades_of_BTC_buy": 542
-    },
     "EOSUSDT": {
         "symbol": "EOSUSDT",
         "orderid": 0,
@@ -95,18 +83,6 @@
         "volume_of_BTC_buy": "21.66111000",
         "trades_of_BTC_buy": 605
     },
-    "CELRUSDT": {
-        "symbol": "CELRUSDT",
-        "orderid": 0,
-        "timestamp": 1641585888015,
-        "bought_at": "0.06925000",
-        "volume": 216.6,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41866.49716024,
-        "volume_of_BTC_buy": "9.01477000",
-        "trades_of_BTC_buy": 567
-    },
     "FTTUSDT": {
         "symbol": "FTTUSDT",
         "orderid": 0,
@@ -118,5 +94,29 @@
         "avgPriceBTCUSDT_buy": 41900.28776975,
         "volume_of_BTC_buy": "18.35139000",
         "trades_of_BTC_buy": 593
+    },
+    "TOMOUSDT": {
+        "symbol": "TOMOUSDT",
+        "orderid": 0,
+        "timestamp": 1641586954708,
+        "bought_at": "1.64500000",
+        "volume": 9.1,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41679.31170691,
+        "volume_of_BTC_buy": "34.92435000",
+        "trades_of_BTC_buy": 914
+    },
+    "ETCUSDT": {
+        "symbol": "ETCUSDT",
+        "orderid": 0,
+        "timestamp": 1641586983516,
+        "bought_at": "30.66000000",
+        "volume": 0.49,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41680.83138991,
+        "volume_of_BTC_buy": "15.49065000",
+        "trades_of_BTC_buy": 627
     }
 }
