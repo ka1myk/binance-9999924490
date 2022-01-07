@@ -1,1 +1,14 @@
-{}
+{
+    "POLYUSDT": {
+        "symbol": "POLYUSDT",
+        "orderid": 0,
+        "timestamp": 1641593613242,
+        "bought_at": "0.52850000",
+        "volume": 28.4,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41789.76986373,
+        "volume_of_BTC_buy": "83.50372000",
+        "trades_of_BTC_buy": 1780
+    }
+}
