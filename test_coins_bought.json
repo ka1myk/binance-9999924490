@@ -106,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41509.02396426,
         "volume_of_BTC_buy": "33.30053000",
         "trades_of_BTC_buy": 746
+    },
+    "BURGERUSDT": {
+        "symbol": "BURGERUSDT",
+        "orderid": 0,
+        "timestamp": 1641597703278,
+        "bought_at": "2.51300000",
+        "volume": 6.0,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41414.4731202,
+        "volume_of_BTC_buy": "37.68837000",
+        "trades_of_BTC_buy": 1197
     }
 }
