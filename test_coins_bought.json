@@ -1,50 +1,26 @@
 {
+    "SHIBUSDT": {
+        "symbol": "SHIBUSDT",
+        "orderid": 0,
+        "timestamp": 1641544009513,
+        "bought_at": "0.00002970",
+        "volume": 1683501,
+        "stop_loss": -0.5,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 42098.32413347,
+        "volume_of_BTC_buy": "381.37985000",
+        "trades_of_BTC_buy": 8556
+    },
     "BTCUSDT": {
         "symbol": "BTCUSDT",
         "orderid": 0,
-        "timestamp": 1641542098164,
-        "bought_at": "41659.92000000",
-        "volume": 0.0012,
+        "timestamp": 1641544035888,
+        "bought_at": "42392.68000000",
+        "volume": 0.00118,
         "stop_loss": -0.5,
         "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41632.92364573,
-        "volume_of_BTC_buy": "70.61063000",
-        "trades_of_BTC_buy": 3082
-    },
-    "LUNAUSDT": {
-        "symbol": "LUNAUSDT",
-        "orderid": 0,
-        "timestamp": 1641542663669,
-        "bought_at": "71.75000000",
-        "volume": 0.7,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41695.42503234,
-        "volume_of_BTC_buy": "68.50642000",
-        "trades_of_BTC_buy": 2316
-    },
-    "BCHUSDT": {
-        "symbol": "BCHUSDT",
-        "orderid": 0,
-        "timestamp": 1641542665459,
-        "bought_at": "386.30000000",
-        "volume": 0.129,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41696.92685687,
-        "volume_of_BTC_buy": "68.50642000",
-        "trades_of_BTC_buy": 2316
-    },
-    "AXSUSDT": {
-        "symbol": "AXSUSDT",
-        "orderid": 0,
-        "timestamp": 1641543523260,
-        "bought_at": "73.76000000",
-        "volume": 0.68,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41715.08413751,
-        "volume_of_BTC_buy": "490.80843000",
-        "trades_of_BTC_buy": 11962
+        "avgPriceBTCUSDT_buy": 42304.54011858,
+        "volume_of_BTC_buy": "381.37985000",
+        "trades_of_BTC_buy": 8556
     }
 }
