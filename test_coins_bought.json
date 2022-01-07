@@ -1,1 +1,14 @@
-{}
+{
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 0,
+        "timestamp": 1641549218800,
+        "bought_at": "43.19000000",
+        "volume": 1.16,
+        "stop_loss": -0.5,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 42474.37526762,
+        "volume_of_BTC_buy": "15.09887000",
+        "trades_of_BTC_buy": 507
+    }
+}
