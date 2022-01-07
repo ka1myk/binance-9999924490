@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "85.33470000",
         "trades_of_BTC_buy": 1447
     },
-    "ETHUSDT": {
-        "symbol": "ETHUSDT",
-        "orderid": 0,
-        "timestamp": 1641572770614,
-        "bought_at": "3169.88000000",
-        "volume": 0.0047,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41382.5712076,
-        "volume_of_BTC_buy": "31.73843000",
-        "trades_of_BTC_buy": 1006
-    },
     "BTCUSDT": {
         "symbol": "BTCUSDT",
         "orderid": 0,
@@ -59,54 +47,6 @@
         "volume_of_BTC_buy": "31.73843000",
         "trades_of_BTC_buy": 1006
     },
-    "NEOUSDT": {
-        "symbol": "NEOUSDT",
-        "orderid": 0,
-        "timestamp": 1641572786831,
-        "bought_at": "23.95000000",
-        "volume": 0.63,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41450.38961782,
-        "volume_of_BTC_buy": "31.73843000",
-        "trades_of_BTC_buy": 1006
-    },
-    "BNTUSDT": {
-        "symbol": "BNTUSDT",
-        "orderid": 0,
-        "timestamp": 1641572793296,
-        "bought_at": "3.10300000",
-        "volume": 4.8,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41460.49374073,
-        "volume_of_BTC_buy": "31.73843000",
-        "trades_of_BTC_buy": 1006
-    },
-    "OXTUSDT": {
-        "symbol": "OXTUSDT",
-        "orderid": 0,
-        "timestamp": 1641572850041,
-        "bought_at": "0.32750000",
-        "volume": 45,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41521.87045084,
-        "volume_of_BTC_buy": "14.94760000",
-        "trades_of_BTC_buy": 757
-    },
-    "QTUMUSDT": {
-        "symbol": "QTUMUSDT",
-        "orderid": 0,
-        "timestamp": 1641572945745,
-        "bought_at": "7.92900000",
-        "volume": 1.9,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41578.29474063,
-        "volume_of_BTC_buy": "27.34954000",
-        "trades_of_BTC_buy": 997
-    },
     "GTOUSDT": {
         "symbol": "GTOUSDT",
         "orderid": 0,
@@ -118,5 +58,65 @@
         "avgPriceBTCUSDT_buy": 41591.96450706,
         "volume_of_BTC_buy": "27.34954000",
         "trades_of_BTC_buy": 997
+    },
+    "XLMUSDT": {
+        "symbol": "XLMUSDT",
+        "orderid": 0,
+        "timestamp": 1641573086876,
+        "bought_at": "0.26200000",
+        "volume": 57,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41656.5521654,
+        "volume_of_BTC_buy": "12.51880000",
+        "trades_of_BTC_buy": 601
+    },
+    "NANOUSDT": {
+        "symbol": "NANOUSDT",
+        "orderid": 0,
+        "timestamp": 1641573086876,
+        "bought_at": "3.11600000",
+        "volume": 4.8,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41656.43891318,
+        "volume_of_BTC_buy": "12.51880000",
+        "trades_of_BTC_buy": 601
+    },
+    "AIONUSDT": {
+        "symbol": "AIONUSDT",
+        "orderid": 0,
+        "timestamp": 1641573086876,
+        "bought_at": "0.12410000",
+        "volume": 120,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41656.25311169,
+        "volume_of_BTC_buy": "12.51880000",
+        "trades_of_BTC_buy": 601
+    },
+    "NKNUSDT": {
+        "symbol": "NKNUSDT",
+        "orderid": 0,
+        "timestamp": 1641573115589,
+        "bought_at": "0.31860000",
+        "volume": 47,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41655.02433203,
+        "volume_of_BTC_buy": "12.51880000",
+        "trades_of_BTC_buy": 601
+    },
+    "TROYUSDT": {
+        "symbol": "TROYUSDT",
+        "orderid": 0,
+        "timestamp": 1641573124709,
+        "bought_at": "0.00934600",
+        "volume": 1604,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41653.30139703,
+        "volume_of_BTC_buy": "58.59417000",
+        "trades_of_BTC_buy": 1106
     }
 }
