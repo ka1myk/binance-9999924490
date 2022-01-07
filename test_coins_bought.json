@@ -10,5 +10,65 @@
         "avgPriceBTCUSDT_buy": 41648.39149006,
         "volume_of_BTC_buy": "19.31286000",
         "trades_of_BTC_buy": 800
+    },
+    "ONEUSDT": {
+        "symbol": "ONEUSDT",
+        "orderid": 0,
+        "timestamp": 1641595650679,
+        "bought_at": "0.30257000",
+        "volume": 49.6,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41597.11850184,
+        "volume_of_BTC_buy": "21.66918000",
+        "trades_of_BTC_buy": 856
+    },
+    "C98USDT": {
+        "symbol": "C98USDT",
+        "orderid": 0,
+        "timestamp": 1641595657991,
+        "bought_at": "2.50300000",
+        "volume": 6.0,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41597.71883154,
+        "volume_of_BTC_buy": "21.66918000",
+        "trades_of_BTC_buy": 856
+    },
+    "MCUSDT": {
+        "symbol": "MCUSDT",
+        "orderid": 0,
+        "timestamp": 1641595691271,
+        "bought_at": "3.98000000",
+        "volume": 3.77,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41599.13232857,
+        "volume_of_BTC_buy": "34.26620000",
+        "trades_of_BTC_buy": 847
+    },
+    "LAZIOUSDT": {
+        "symbol": "LAZIOUSDT",
+        "orderid": 0,
+        "timestamp": 1641595720625,
+        "bought_at": "4.16040000",
+        "volume": 3.61,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41599.16300309,
+        "volume_of_BTC_buy": "34.26620000",
+        "trades_of_BTC_buy": 847
+    },
+    "PORTOUSDT": {
+        "symbol": "PORTOUSDT",
+        "orderid": 0,
+        "timestamp": 1641595794690,
+        "bought_at": "3.09070000",
+        "volume": 4.85,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41601.29517293,
+        "volume_of_BTC_buy": "46.08438000",
+        "trades_of_BTC_buy": 1515
     }
 }
