@@ -95,28 +95,28 @@
         "volume_of_BTC_buy": "14.57511000",
         "trades_of_BTC_buy": 585
     },
-    "NULSUSDT": {
-        "symbol": "NULSUSDT",
+    "ZECUSDT": {
+        "symbol": "ZECUSDT",
         "orderid": 0,
-        "timestamp": 1641580083775,
-        "bought_at": "0.60020000",
-        "volume": 24,
+        "timestamp": 1641580209307,
+        "bought_at": "139.90000000",
+        "volume": 0.107,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41754.89591307,
-        "volume_of_BTC_buy": "18.68990000",
-        "trades_of_BTC_buy": 643
+        "avgPriceBTCUSDT_buy": 41707.82529876,
+        "volume_of_BTC_buy": "27.17298000",
+        "trades_of_BTC_buy": 806
     },
-    "FLUXUSDT": {
-        "symbol": "FLUXUSDT",
+    "AIONUSDT": {
+        "symbol": "AIONUSDT",
         "orderid": 0,
-        "timestamp": 1641580179324,
-        "bought_at": "2.41400000",
-        "volume": 6.21,
+        "timestamp": 1641580484665,
+        "bought_at": "0.12340000",
+        "volume": 121,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41715.47889597,
-        "volume_of_BTC_buy": "19.20180000",
-        "trades_of_BTC_buy": 593
+        "avgPriceBTCUSDT_buy": 41752.78603041,
+        "volume_of_BTC_buy": "18.95713000",
+        "trades_of_BTC_buy": 992
     }
 }
