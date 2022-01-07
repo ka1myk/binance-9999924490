@@ -61,8 +61,8 @@ trading_options:
 
   # when hit TAKE_PROFIT, move STOP_LOSS to TRAILING_STOP_LOSS percentage points below TAKE_PROFIT hence locking in profit
   # when hit TAKE_PROFIT, move TAKE_PROFIT up by TRAILING_TAKE_PROFIT percentage points
-  TRAILING_STOP_LOSS: .01
-  TRAILING_TAKE_PROFIT: .01
+  TRAILING_STOP_LOSS: .03
+  TRAILING_TAKE_PROFIT: .03
 
   # Trading fee in % per trade.
   # If using 0.75% (using BNB for fees) you must have BNB in your account to cover trading fees.
@@ -72,4 +72,3 @@ trading_options:
   SIGNALLING_MODULES:
     - pausebotmod
     - signalsamplemod
-    - custsignalmod
