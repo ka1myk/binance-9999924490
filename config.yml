@@ -42,7 +42,7 @@ trading_options:
   RECHECK_INTERVAL: 200
 
   # the difference in % between the first and second checks for the price.
-  CHANGE_IN_PRICE: .1
+  CHANGE_IN_PRICE: 1
 
   # define in % when to sell a coin that's not making a profit.
   STOP_LOSS: .3
@@ -51,7 +51,7 @@ trading_options:
   TAKE_PROFIT: .3
 
   # Use custom tickers.txt list for filtering pairs.
-  CUSTOM_LIST: True
+  CUSTOM_LIST: False
 
   # Name of custom tickers list
   TICKERS_LIST: 'tickers.txt'
