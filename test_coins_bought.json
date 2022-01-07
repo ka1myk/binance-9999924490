@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "85.33470000",
         "trades_of_BTC_buy": 1447
     },
-    "BTCUSDT": {
-        "symbol": "BTCUSDT",
-        "orderid": 0,
-        "timestamp": 1641572786831,
-        "bought_at": "41736.21000000",
-        "volume": 0.00036,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41449.87108898,
-        "volume_of_BTC_buy": "31.73843000",
-        "trades_of_BTC_buy": 1006
-    },
     "GTOUSDT": {
         "symbol": "GTOUSDT",
         "orderid": 0,
@@ -83,18 +71,6 @@
         "volume_of_BTC_buy": "12.51880000",
         "trades_of_BTC_buy": 601
     },
-    "AIONUSDT": {
-        "symbol": "AIONUSDT",
-        "orderid": 0,
-        "timestamp": 1641573086876,
-        "bought_at": "0.12410000",
-        "volume": 120,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41656.25311169,
-        "volume_of_BTC_buy": "12.51880000",
-        "trades_of_BTC_buy": 601
-    },
     "NKNUSDT": {
         "symbol": "NKNUSDT",
         "orderid": 0,
@@ -118,5 +94,17 @@
         "avgPriceBTCUSDT_buy": 41653.30139703,
         "volume_of_BTC_buy": "58.59417000",
         "trades_of_BTC_buy": 1106
+    },
+    "ZRXUSDT": {
+        "symbol": "ZRXUSDT",
+        "orderid": 0,
+        "timestamp": 1641574188199,
+        "bought_at": "0.74870000",
+        "volume": 20,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41750.14551603,
+        "volume_of_BTC_buy": "225.99482000",
+        "trades_of_BTC_buy": 4567
     }
 }
