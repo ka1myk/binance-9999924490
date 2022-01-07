@@ -95,18 +95,6 @@
         "volume_of_BTC_buy": "8.28373000",
         "trades_of_BTC_buy": 327
     },
-    "XTZUSDT": {
-        "symbol": "XTZUSDT",
-        "orderid": 0,
-        "timestamp": 1641588737097,
-        "bought_at": "4.30400000",
-        "volume": 3.5,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41935.50372288,
-        "volume_of_BTC_buy": "15.90954000",
-        "trades_of_BTC_buy": 473
-    },
     "PERLUSDT": {
         "symbol": "PERLUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41956.88704474,
         "volume_of_BTC_buy": "15.03937000",
         "trades_of_BTC_buy": 514
+    },
+    "MDTUSDT": {
+        "symbol": "MDTUSDT",
+        "orderid": 0,
+        "timestamp": 1641589027364,
+        "bought_at": "0.09335000",
+        "volume": 160.7,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41999.80852268,
+        "volume_of_BTC_buy": "13.45892000",
+        "trades_of_BTC_buy": 489
     }
 }
