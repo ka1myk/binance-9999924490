@@ -1,16 +1,4 @@
 {
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 0,
-        "timestamp": 1641546625344,
-        "bought_at": "42.45000000",
-        "volume": 1.18,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 42209.56884144,
-        "volume_of_BTC_buy": "166.23536000",
-        "trades_of_BTC_buy": 4713
-    },
     "LUNAUSDT": {
         "symbol": "LUNAUSDT",
         "orderid": 0,
