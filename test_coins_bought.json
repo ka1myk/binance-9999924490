@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "85.33470000",
         "trades_of_BTC_buy": 1447
     },
-    "PSGUSDT": {
-        "symbol": "PSGUSDT",
-        "orderid": 0,
-        "timestamp": 1641576866310,
-        "bought_at": "14.48000000",
-        "volume": 1.04,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41886.2661938,
-        "volume_of_BTC_buy": "33.32046000",
-        "trades_of_BTC_buy": 1073
-    },
     "STPTUSDT": {
         "symbol": "STPTUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41752.78603041,
         "volume_of_BTC_buy": "18.95713000",
         "trades_of_BTC_buy": 992
+    },
+    "TOMOUSDT": {
+        "symbol": "TOMOUSDT",
+        "orderid": 0,
+        "timestamp": 1641580977096,
+        "bought_at": "1.65000000",
+        "volume": 9.1,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41731.73623188,
+        "volume_of_BTC_buy": "21.13268000",
+        "trades_of_BTC_buy": 619
     }
 }
