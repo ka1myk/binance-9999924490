@@ -57,7 +57,7 @@ trading_options:
   TICKERS_LIST: 'tickers.txt'
 
   # whether to use trailing stop loss or not; default is True
-  USE_TRAILING_STOP_LOSS: True
+  USE_TRAILING_STOP_LOSS: False
 
   # when hit TAKE_PROFIT, move STOP_LOSS to TRAILING_STOP_LOSS percentage points below TAKE_PROFIT hence locking in profit
   # when hit TAKE_PROFIT, move TAKE_PROFIT up by TRAILING_TAKE_PROFIT percentage points
