@@ -95,18 +95,6 @@
         "volume_of_BTC_buy": "58.99880000",
         "trades_of_BTC_buy": 1220
     },
-    "NULSUSDT": {
-        "symbol": "NULSUSDT",
-        "orderid": 0,
-        "timestamp": 1641574796729,
-        "bought_at": "0.61360000",
-        "volume": 24,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42110.44286421,
-        "volume_of_BTC_buy": "58.99880000",
-        "trades_of_BTC_buy": 1220
-    },
     "TROYUSDT": {
         "symbol": "TROYUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 42130.3868762,
         "volume_of_BTC_buy": "39.39230000",
         "trades_of_BTC_buy": 903
+    },
+    "FTMUSDT": {
+        "symbol": "FTMUSDT",
+        "orderid": 0,
+        "timestamp": 1641575549520,
+        "bought_at": "2.76710000",
+        "volume": 5,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41998.4219836,
+        "volume_of_BTC_buy": "22.36953000",
+        "trades_of_BTC_buy": 489
     }
 }
