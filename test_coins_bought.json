@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "24.57685000",
         "trades_of_BTC_buy": 667
     },
-    "AIONUSDT": {
-        "symbol": "AIONUSDT",
+    "DOCKUSDT": {
+        "symbol": "DOCKUSDT",
         "orderid": 0,
-        "timestamp": 1641577472219,
-        "bought_at": "0.12400000",
-        "volume": 120,
+        "timestamp": 1641577592973,
+        "bought_at": "0.05585000",
+        "volume": 268,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41848.93753538,
-        "volume_of_BTC_buy": "32.83067000",
-        "trades_of_BTC_buy": 865
+        "avgPriceBTCUSDT_buy": 41896.08290514,
+        "volume_of_BTC_buy": "36.79387000",
+        "trades_of_BTC_buy": 1005
     }
 }
