@@ -1,1 +1,38 @@
-{}
+{
+    "RGTUSDT": {
+        "symbol": "RGTUSDT",
+        "orderid": 0,
+        "timestamp": 1641591115103,
+        "bought_at": "23.42000000",
+        "volume": 0.64,
+        "stop_loss": -0.6,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41896.89161879,
+        "volume_of_BTC_buy": "12.91743000",
+        "trades_of_BTC_buy": 591
+    },
+    "KNCUSDT": {
+        "symbol": "KNCUSDT",
+        "orderid": 0,
+        "timestamp": 1641591157465,
+        "bought_at": "1.52200000",
+        "volume": 9.9,
+        "stop_loss": -0.6,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41894.65526038,
+        "volume_of_BTC_buy": "40.15538000",
+        "trades_of_BTC_buy": 1412
+    },
+    "SPELLUSDT": {
+        "symbol": "SPELLUSDT",
+        "orderid": 0,
+        "timestamp": 1641591260797,
+        "bought_at": "0.01540000",
+        "volume": 974,
+        "stop_loss": -0.6,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41900.11494896,
+        "volume_of_BTC_buy": "36.57005000",
+        "trades_of_BTC_buy": 1138
+    }
+}
