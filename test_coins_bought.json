@@ -1,16 +1,4 @@
 {
-    "REPUSDT": {
-        "symbol": "REPUSDT",
-        "orderid": 0,
-        "timestamp": 1641596441828,
-        "bought_at": "17.06000000",
-        "volume": 0.88,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41499.81973884,
-        "volume_of_BTC_buy": "32.17769000",
-        "trades_of_BTC_buy": 815
-    },
     "YFIUSDT": {
         "symbol": "YFIUSDT",
         "orderid": 0,
@@ -44,18 +32,6 @@
         "stop_loss": -2,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 41528.91162392,
-        "volume_of_BTC_buy": "40.00957000",
-        "trades_of_BTC_buy": 1255
-    },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 0,
-        "timestamp": 1641596550898,
-        "bought_at": "26.37000000",
-        "volume": 0.57,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41529.38344696,
         "volume_of_BTC_buy": "40.00957000",
         "trades_of_BTC_buy": 1255
     },
@@ -107,16 +83,28 @@
         "volume_of_BTC_buy": "86.50401000",
         "trades_of_BTC_buy": 1192
     },
-    "PSGUSDT": {
-        "symbol": "PSGUSDT",
+    "NUUSDT": {
+        "symbol": "NUUSDT",
         "orderid": 0,
-        "timestamp": 1641597119054,
-        "bought_at": "14.54000000",
-        "volume": 1.03,
+        "timestamp": 1641597364113,
+        "bought_at": "0.65480000",
+        "volume": 22,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41509.44136483,
-        "volume_of_BTC_buy": "86.50401000",
-        "trades_of_BTC_buy": 1192
+        "avgPriceBTCUSDT_buy": 41519.02996327,
+        "volume_of_BTC_buy": "33.30053000",
+        "trades_of_BTC_buy": 746
+    },
+    "BNXUSDT": {
+        "symbol": "BNXUSDT",
+        "orderid": 0,
+        "timestamp": 1641597409160,
+        "bought_at": "37.00000000",
+        "volume": 0.405,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41509.02396426,
+        "volume_of_BTC_buy": "33.30053000",
+        "trades_of_BTC_buy": 746
     }
 }
