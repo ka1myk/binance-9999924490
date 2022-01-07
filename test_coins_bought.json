@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "85.33470000",
         "trades_of_BTC_buy": 1447
     },
-    "STPTUSDT": {
-        "symbol": "STPTUSDT",
-        "orderid": 0,
-        "timestamp": 1641576953427,
-        "bought_at": "0.09631000",
-        "volume": 155.7,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41863.01733815,
-        "volume_of_BTC_buy": "24.57685000",
-        "trades_of_BTC_buy": 667
-    },
     "AIONUSDT": {
         "symbol": "AIONUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41698.53060298,
         "volume_of_BTC_buy": "19.92094000",
         "trades_of_BTC_buy": 788
+    },
+    "KMDUSDT": {
+        "symbol": "KMDUSDT",
+        "orderid": 0,
+        "timestamp": 1641582564695,
+        "bought_at": "0.64870000",
+        "volume": 23,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41600.77371603,
+        "volume_of_BTC_buy": "36.91834000",
+        "trades_of_BTC_buy": 705
     }
 }
