@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "10.50932000",
         "trades_of_BTC_buy": 505
     },
-    "LTOUSDT": {
-        "symbol": "LTOUSDT",
-        "orderid": 0,
-        "timestamp": 1641582008879,
-        "bought_at": "0.32750000",
-        "volume": 45,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41688.48086429,
-        "volume_of_BTC_buy": "19.92094000",
-        "trades_of_BTC_buy": 788
-    },
     "LTCUSDT": {
         "symbol": "LTCUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41786.39269621,
         "volume_of_BTC_buy": "10.36821000",
         "trades_of_BTC_buy": 542
+    },
+    "EOSUSDT": {
+        "symbol": "EOSUSDT",
+        "orderid": 0,
+        "timestamp": 1641585075687,
+        "bought_at": "2.88000000",
+        "volume": 5.2,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41806.36473135,
+        "volume_of_BTC_buy": "21.66111000",
+        "trades_of_BTC_buy": 605
     }
 }
