@@ -45,7 +45,7 @@ trading_options:
   CHANGE_IN_PRICE: 1
 
   # define in % when to sell a coin that's not making a profit.
-  STOP_LOSS: .6
+  STOP_LOSS: 1
 
   # define in % when to take profit on a profitable coin.
   TAKE_PROFIT: .3
@@ -57,7 +57,7 @@ trading_options:
   TICKERS_LIST: 'tickers.txt'
 
   # whether to use trailing stop loss or not; default is True
-  USE_TRAILING_STOP_LOSS: True
+  USE_TRAILING_STOP_LOSS: False
 
   # when hit TAKE_PROFIT, move STOP_LOSS to TRAILING_STOP_LOSS percentage points below TAKE_PROFIT hence locking in profit
   # when hit TAKE_PROFIT, move TAKE_PROFIT up by TRAILING_TAKE_PROFIT percentage points
