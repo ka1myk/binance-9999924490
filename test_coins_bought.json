@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "10.36821000",
         "trades_of_BTC_buy": 542
     },
-    "ETHUSDT": {
-        "symbol": "ETHUSDT",
-        "orderid": 0,
-        "timestamp": 1641584938736,
-        "bought_at": "3202.38000000",
-        "volume": 0.0047,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41786.39269621,
-        "volume_of_BTC_buy": "10.36821000",
-        "trades_of_BTC_buy": 542
-    },
     "EOSUSDT": {
         "symbol": "EOSUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41866.49716024,
         "volume_of_BTC_buy": "9.01477000",
         "trades_of_BTC_buy": 567
+    },
+    "FTTUSDT": {
+        "symbol": "FTTUSDT",
+        "orderid": 0,
+        "timestamp": 1641586022201,
+        "bought_at": "36.04000000",
+        "volume": 0.42,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41900.28776975,
+        "volume_of_BTC_buy": "18.35139000",
+        "trades_of_BTC_buy": 593
     }
 }
