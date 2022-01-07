@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "24.57685000",
         "trades_of_BTC_buy": 667
     },
-    "ORNUSDT": {
-        "symbol": "ORNUSDT",
-        "orderid": 0,
-        "timestamp": 1641579804515,
-        "bought_at": "5.19000000",
-        "volume": 2.9,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41821.14124678,
-        "volume_of_BTC_buy": "11.48327000",
-        "trades_of_BTC_buy": 642
-    },
     "ZECUSDT": {
         "symbol": "ZECUSDT",
         "orderid": 0,
@@ -107,16 +95,28 @@
         "volume_of_BTC_buy": "23.91597000",
         "trades_of_BTC_buy": 697
     },
-    "GTOUSDT": {
-        "symbol": "GTOUSDT",
+    "USDTTRY": {
+        "symbol": "USDTTRY",
         "orderid": 0,
-        "timestamp": 1641581395178,
-        "bought_at": "0.04967000",
-        "volume": 302.0,
+        "timestamp": 1641581436077,
+        "bought_at": "14.14000000",
+        "volume": 1,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41633.23338348,
-        "volume_of_BTC_buy": "20.36345000",
-        "trades_of_BTC_buy": 705
+        "avgPriceBTCUSDT_buy": 41609.37534836,
+        "volume_of_BTC_buy": "10.50932000",
+        "trades_of_BTC_buy": 505
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 0,
+        "timestamp": 1641581471161,
+        "bought_at": "0.76000000",
+        "volume": 19,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41596.61324884,
+        "volume_of_BTC_buy": "48.02928000",
+        "trades_of_BTC_buy": 1232
     }
 }
