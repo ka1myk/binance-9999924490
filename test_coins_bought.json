@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "70.61063000",
         "trades_of_BTC_buy": 3082
     },
-    "ALGOUSDT": {
-        "symbol": "ALGOUSDT",
-        "orderid": 0,
-        "timestamp": 1641542654530,
-        "bought_at": "1.45340000",
-        "volume": 34,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41694.20551546,
-        "volume_of_BTC_buy": "68.50642000",
-        "trades_of_BTC_buy": 2316
-    },
     "LUNAUSDT": {
         "symbol": "LUNAUSDT",
         "orderid": 0,
@@ -46,53 +34,5 @@
         "avgPriceBTCUSDT_buy": 41696.92685687,
         "volume_of_BTC_buy": "68.50642000",
         "trades_of_BTC_buy": 2316
-    },
-    "UNIUSDT": {
-        "symbol": "UNIUSDT",
-        "orderid": 0,
-        "timestamp": 1641542673144,
-        "bought_at": "15.87000000",
-        "volume": 3.15,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41699.56504684,
-        "volume_of_BTC_buy": "68.50642000",
-        "trades_of_BTC_buy": 2316
-    },
-    "SOLUSDT": {
-        "symbol": "SOLUSDT",
-        "orderid": 0,
-        "timestamp": 1641542677251,
-        "bought_at": "139.70000000",
-        "volume": 0.36,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41700.38208271,
-        "volume_of_BTC_buy": "68.50642000",
-        "trades_of_BTC_buy": 2316
-    },
-    "LTCUSDT": {
-        "symbol": "LTCUSDT",
-        "orderid": 0,
-        "timestamp": 1641542680701,
-        "bought_at": "131.00000000",
-        "volume": 0.382,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41701.64885004,
-        "volume_of_BTC_buy": "68.50642000",
-        "trades_of_BTC_buy": 2316
-    },
-    "ATOMUSDT": {
-        "symbol": "ATOMUSDT",
-        "orderid": 0,
-        "timestamp": 1641542902353,
-        "bought_at": "41.69000000",
-        "volume": 1.2,
-        "stop_loss": -0.5,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 41751.7093984,
-        "volume_of_BTC_buy": "110.85516000",
-        "trades_of_BTC_buy": 3313
     }
 }
