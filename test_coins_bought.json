@@ -59,18 +59,6 @@
         "volume_of_BTC_buy": "16.75382000",
         "trades_of_BTC_buy": 649
     },
-    "DREPUSDT": {
-        "symbol": "DREPUSDT",
-        "orderid": 0,
-        "timestamp": 1641576017868,
-        "bought_at": "1.14900000",
-        "volume": 13,
-        "stop_loss": -1,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41988.32497913,
-        "volume_of_BTC_buy": "16.75382000",
-        "trades_of_BTC_buy": 649
-    },
     "AUTOUSDT": {
         "symbol": "AUTOUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41896.08290514,
         "volume_of_BTC_buy": "36.79387000",
         "trades_of_BTC_buy": 1005
+    },
+    "EOSUSDT": {
+        "symbol": "EOSUSDT",
+        "orderid": 0,
+        "timestamp": 1641578148273,
+        "bought_at": "2.89700000",
+        "volume": 5.2,
+        "stop_loss": -1,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41959.77636871,
+        "volume_of_BTC_buy": "54.81207000",
+        "trades_of_BTC_buy": 1596
     }
 }
