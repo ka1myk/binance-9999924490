@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "24.57685000",
         "trades_of_BTC_buy": 667
     },
-    "REPUSDT": {
-        "symbol": "REPUSDT",
+    "AIONUSDT": {
+        "symbol": "AIONUSDT",
         "orderid": 0,
-        "timestamp": 1641577051025,
-        "bought_at": "16.55000000",
-        "volume": 0.91,
+        "timestamp": 1641577472219,
+        "bought_at": "0.12400000",
+        "volume": 120,
         "stop_loss": -1,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41809.62998558,
-        "volume_of_BTC_buy": "20.60543000",
-        "trades_of_BTC_buy": 696
+        "avgPriceBTCUSDT_buy": 41848.93753538,
+        "volume_of_BTC_buy": "32.83067000",
+        "trades_of_BTC_buy": 865
     }
 }
