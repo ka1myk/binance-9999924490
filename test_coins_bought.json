@@ -743,18 +743,6 @@
         "volume_of_BTC_buy": "8.16328000",
         "trades_of_BTC_buy": 494
     },
-    "KNCUSDT": {
-        "symbol": "KNCUSDT",
-        "orderid": 0,
-        "timestamp": 1641666935894,
-        "bought_at": "1.47400000",
-        "volume": 10.2,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41100.79709383,
-        "volume_of_BTC_buy": "8.16328000",
-        "trades_of_BTC_buy": 494
-    },
     "MATICUSDT": {
         "symbol": "MATICUSDT",
         "orderid": 0,
@@ -935,18 +923,6 @@
         "volume_of_BTC_buy": "11.79861000",
         "trades_of_BTC_buy": 581
     },
-    "PSGUSDT": {
-        "symbol": "PSGUSDT",
-        "orderid": 0,
-        "timestamp": 1641669019721,
-        "bought_at": "14.29000000",
-        "volume": 1.05,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 40982.83233243,
-        "volume_of_BTC_buy": "10.36225000",
-        "trades_of_BTC_buy": 489
-    },
     "CAKEUSDT": {
         "symbol": "CAKEUSDT",
         "orderid": 0,
@@ -1030,18 +1006,6 @@
         "avgPriceBTCUSDT_buy": 40828.48550652,
         "volume_of_BTC_buy": "22.75891000",
         "trades_of_BTC_buy": 822
-    },
-    "POWRUSDT": {
-        "symbol": "POWRUSDT",
-        "orderid": 0,
-        "timestamp": 1641670550374,
-        "bought_at": "0.47680000",
-        "volume": 31,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 40857.75354082,
-        "volume_of_BTC_buy": "35.24703000",
-        "trades_of_BTC_buy": 917
     },
     "INJUSDT": {
         "symbol": "INJUSDT",
@@ -1198,5 +1162,41 @@
         "avgPriceBTCUSDT_buy": 40907.27584362,
         "volume_of_BTC_buy": "11.69754000",
         "trades_of_BTC_buy": 465
+    },
+    "ONEUSDT": {
+        "symbol": "ONEUSDT",
+        "orderid": 0,
+        "timestamp": 1641672626409,
+        "bought_at": "0.28989000",
+        "volume": 51.7,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40822.71786349,
+        "volume_of_BTC_buy": "14.76539000",
+        "trades_of_BTC_buy": 498
+    },
+    "NANOUSDT": {
+        "symbol": "NANOUSDT",
+        "orderid": 0,
+        "timestamp": 1641672765858,
+        "bought_at": "2.98500000",
+        "volume": 5.0,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40799.26120123,
+        "volume_of_BTC_buy": "6.94850000",
+        "trades_of_BTC_buy": 349
+    },
+    "WAXPUSDT": {
+        "symbol": "WAXPUSDT",
+        "orderid": 0,
+        "timestamp": 1641672774278,
+        "bought_at": "0.39830000",
+        "volume": 37,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40798.89111338,
+        "volume_of_BTC_buy": "6.94850000",
+        "trades_of_BTC_buy": 349
     }
 }
