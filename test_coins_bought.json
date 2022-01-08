@@ -95,18 +95,6 @@
         "volume_of_BTC_buy": "14.11910000",
         "trades_of_BTC_buy": 563
     },
-    "FLUXUSDT": {
-        "symbol": "FLUXUSDT",
-        "orderid": 0,
-        "timestamp": 1641631186199,
-        "bought_at": "2.70600000",
-        "volume": 5.54,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41919.74692238,
-        "volume_of_BTC_buy": "20.58244000",
-        "trades_of_BTC_buy": 726
-    },
     "KNCUSDT": {
         "symbol": "KNCUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41919.08077803,
         "volume_of_BTC_buy": "17.13193000",
         "trades_of_BTC_buy": 528
+    },
+    "RAMPUSDT": {
+        "symbol": "RAMPUSDT",
+        "orderid": 0,
+        "timestamp": 1641631545325,
+        "bought_at": "0.16760000",
+        "volume": 89,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41942.85963832,
+        "volume_of_BTC_buy": "9.97739000",
+        "trades_of_BTC_buy": 500
     }
 }
