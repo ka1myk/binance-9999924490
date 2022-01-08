@@ -1103,18 +1103,6 @@
         "volume_of_BTC_buy": "3.60529000",
         "trades_of_BTC_buy": 285
     },
-    "ARDRUSDT": {
-        "symbol": "ARDRUSDT",
-        "orderid": 0,
-        "timestamp": 1641658318641,
-        "bought_at": "0.21100000",
-        "volume": 71,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41696.95071538,
-        "volume_of_BTC_buy": "4.40713000",
-        "trades_of_BTC_buy": 401
-    },
     "INJUSDT": {
         "symbol": "INJUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41712.40133837,
         "volume_of_BTC_buy": "3.65565000",
         "trades_of_BTC_buy": 313
+    },
+    "ANKRUSDT": {
+        "symbol": "ANKRUSDT",
+        "orderid": 0,
+        "timestamp": 1641658917880,
+        "bought_at": "0.09425000",
+        "volume": 159.2,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41668.84858026,
+        "volume_of_BTC_buy": "14.26970000",
+        "trades_of_BTC_buy": 596
     }
 }
