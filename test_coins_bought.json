@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "25.40149000",
         "trades_of_BTC_buy": 856
     },
-    "DEGOUSDT": {
-        "symbol": "DEGOUSDT",
-        "orderid": 0,
-        "timestamp": 1641606775322,
-        "bought_at": "5.48000000",
-        "volume": 2.74,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42001.72681676,
-        "volume_of_BTC_buy": "9.38860000",
-        "trades_of_BTC_buy": 517
-    },
     "BURGERUSDT": {
         "symbol": "BURGERUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41883.34276275,
         "volume_of_BTC_buy": "12.21244000",
         "trades_of_BTC_buy": 476
+    },
+    "FXSUSDT": {
+        "symbol": "FXSUSDT",
+        "orderid": 0,
+        "timestamp": 1641619733167,
+        "bought_at": "37.99800000",
+        "volume": 0.4,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41925.25713748,
+        "volume_of_BTC_buy": "30.93365000",
+        "trades_of_BTC_buy": 555
     }
 }
