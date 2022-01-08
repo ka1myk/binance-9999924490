@@ -899,18 +899,6 @@
         "volume_of_BTC_buy": "8.58223000",
         "trades_of_BTC_buy": 671
     },
-    "OOKIUSDT": {
-        "symbol": "OOKIUSDT",
-        "orderid": 0,
-        "timestamp": 1641682058117,
-        "bought_at": "0.02459000",
-        "volume": 610,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42177.05466618,
-        "volume_of_BTC_buy": "15.50238000",
-        "trades_of_BTC_buy": 636
-    },
     "LAZIOUSDT": {
         "symbol": "LAZIOUSDT",
         "orderid": 0,
@@ -968,18 +956,6 @@
         "stop_loss": -3,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 42166.3573884,
-        "volume_of_BTC_buy": "7.20042000",
-        "trades_of_BTC_buy": 462
-    },
-    "FORUSDT": {
-        "symbol": "FORUSDT",
-        "orderid": 0,
-        "timestamp": 1641682140008,
-        "bought_at": "0.06179000",
-        "volume": 242,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42165.39864266,
         "volume_of_BTC_buy": "7.20042000",
         "trades_of_BTC_buy": 462
     },
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41917.17749979,
         "volume_of_BTC_buy": "4.80679000",
         "trades_of_BTC_buy": 441
+    },
+    "DEGOUSDT": {
+        "symbol": "DEGOUSDT",
+        "orderid": 0,
+        "timestamp": 1641683654782,
+        "bought_at": "5.12000000",
+        "volume": 2.93,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41853.05664291,
+        "volume_of_BTC_buy": "21.54996000",
+        "trades_of_BTC_buy": 650
+    },
+    "BURGERUSDT": {
+        "symbol": "BURGERUSDT",
+        "orderid": 0,
+        "timestamp": 1641683654782,
+        "bought_at": "2.39500000",
+        "volume": 6.3,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41853.05715071,
+        "volume_of_BTC_buy": "21.54996000",
+        "trades_of_BTC_buy": 650
     }
 }
