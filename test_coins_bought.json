@@ -47,18 +47,6 @@
         "volume_of_BTC_buy": "8.24783000",
         "trades_of_BTC_buy": 388
     },
-    "RAREUSDT": {
-        "symbol": "RAREUSDT",
-        "orderid": 0,
-        "timestamp": 1641615533780,
-        "bought_at": "0.89400000",
-        "volume": 16.8,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41850.87385636,
-        "volume_of_BTC_buy": "14.46026000",
-        "trades_of_BTC_buy": 530
-    },
     "BEAMUSDT": {
         "symbol": "BEAMUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41928.21882543,
         "volume_of_BTC_buy": "15.36190000",
         "trades_of_BTC_buy": 386
+    },
+    "VOXELUSDT": {
+        "symbol": "VOXELUSDT",
+        "orderid": 0,
+        "timestamp": 1641626865070,
+        "bought_at": "2.89990000",
+        "volume": 5.2,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41875.21634001,
+        "volume_of_BTC_buy": "7.36934000",
+        "trades_of_BTC_buy": 372
     }
 }
