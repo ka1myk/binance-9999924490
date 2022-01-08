@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "25.40149000",
         "trades_of_BTC_buy": 856
     },
-    "AVAUSDT": {
-        "symbol": "AVAUSDT",
-        "orderid": 0,
-        "timestamp": 1641609785866,
-        "bought_at": "1.54000000",
-        "volume": 9.7,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41720.93423663,
-        "volume_of_BTC_buy": "12.35320000",
-        "trades_of_BTC_buy": 537
-    },
     "LSKUSDT": {
         "symbol": "LSKUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41949.90158798,
         "volume_of_BTC_buy": "5.50179000",
         "trades_of_BTC_buy": 331
+    },
+    "SANDUSDT": {
+        "symbol": "SANDUSDT",
+        "orderid": 0,
+        "timestamp": 1641625977592,
+        "bought_at": "4.98000000",
+        "volume": 3,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41948.1635533,
+        "volume_of_BTC_buy": "105.28178000",
+        "trades_of_BTC_buy": 2823
     }
 }
