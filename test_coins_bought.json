@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "6.27797000",
         "trades_of_BTC_buy": 377
     },
-    "AUCTIONUSDT": {
-        "symbol": "AUCTIONUSDT",
+    "WINGUSDT": {
+        "symbol": "WINGUSDT",
         "orderid": 0,
-        "timestamp": 1641621263333,
-        "bought_at": "21.57000000",
-        "volume": 0.7,
+        "timestamp": 1641623221863,
+        "bought_at": "13.77000000",
+        "volume": 1.09,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41964.07295465,
-        "volume_of_BTC_buy": "6.66035000",
-        "trades_of_BTC_buy": 307
+        "avgPriceBTCUSDT_buy": 41904.36071018,
+        "volume_of_BTC_buy": "9.88284000",
+        "trades_of_BTC_buy": 508
     }
 }
