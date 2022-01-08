@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "37.68837000",
         "trades_of_BTC_buy": 1197
     },
-    "CVCUSDT": {
-        "symbol": "CVCUSDT",
-        "orderid": 0,
-        "timestamp": 1641598219111,
-        "bought_at": "0.32840000",
-        "volume": 45,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41455.72545014,
-        "volume_of_BTC_buy": "24.69937000",
-        "trades_of_BTC_buy": 892
-    },
     "IOTXUSDT": {
         "symbol": "IOTXUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41554.58465036,
         "volume_of_BTC_buy": "28.52903000",
         "trades_of_BTC_buy": 782
+    },
+    "RAREUSDT": {
+        "symbol": "RAREUSDT",
+        "orderid": 0,
+        "timestamp": 1641599922422,
+        "bought_at": "0.87500000",
+        "volume": 17.1,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41532.57704079,
+        "volume_of_BTC_buy": "53.59473000",
+        "trades_of_BTC_buy": 1417
     }
 }
