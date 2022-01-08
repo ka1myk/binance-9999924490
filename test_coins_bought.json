@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "9.67804000",
         "trades_of_BTC_buy": 474
     },
-    "TRUUSDT": {
-        "symbol": "TRUUSDT",
+    "CRVUSDT": {
+        "symbol": "CRVUSDT",
         "orderid": 0,
-        "timestamp": 1641612574849,
-        "bought_at": "0.27540000",
-        "volume": 54,
+        "timestamp": 1641612621754,
+        "bought_at": "5.23900000",
+        "volume": 2.9,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41698.80709744,
-        "volume_of_BTC_buy": "40.39088000",
-        "trades_of_BTC_buy": 901
+        "avgPriceBTCUSDT_buy": 41705.10252234,
+        "volume_of_BTC_buy": "20.09505000",
+        "trades_of_BTC_buy": 665
     }
 }
