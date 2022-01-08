@@ -95,28 +95,28 @@
         "volume_of_BTC_buy": "6.43678000",
         "trades_of_BTC_buy": 348
     },
-    "TROYUSDT": {
-        "symbol": "TROYUSDT",
+    "AAVEUSDT": {
+        "symbol": "AAVEUSDT",
         "orderid": 0,
-        "timestamp": 1641607395153,
-        "bought_at": "0.00919800",
-        "volume": 1630,
+        "timestamp": 1641607513526,
+        "bought_at": "225.40000000",
+        "volume": 0.067,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41863.52657147,
-        "volume_of_BTC_buy": "12.70007000",
-        "trades_of_BTC_buy": 525
+        "avgPriceBTCUSDT_buy": 41862.23626732,
+        "volume_of_BTC_buy": "32.81439000",
+        "trades_of_BTC_buy": 1100
     },
-    "KNCUSDT": {
-        "symbol": "KNCUSDT",
+    "TRUUSDT": {
+        "symbol": "TRUUSDT",
         "orderid": 0,
-        "timestamp": 1641607487335,
-        "bought_at": "1.46200000",
-        "volume": 10.3,
+        "timestamp": 1641607659833,
+        "bought_at": "0.27680000",
+        "volume": 54,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41859.67785922,
-        "volume_of_BTC_buy": "15.67983000",
-        "trades_of_BTC_buy": 576
+        "avgPriceBTCUSDT_buy": 41891.12278381,
+        "volume_of_BTC_buy": "15.47256000",
+        "trades_of_BTC_buy": 569
     }
 }
