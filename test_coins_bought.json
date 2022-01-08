@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "25.40149000",
         "trades_of_BTC_buy": 856
     },
-    "DFUSDT": {
-        "symbol": "DFUSDT",
-        "orderid": 0,
-        "timestamp": 1641603791694,
-        "bought_at": "0.11660000",
-        "volume": 128,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42048.87181206,
-        "volume_of_BTC_buy": "25.40149000",
-        "trades_of_BTC_buy": 856
-    },
     "LSKUSDT": {
         "symbol": "LSKUSDT",
         "orderid": 0,
@@ -83,40 +71,52 @@
         "volume_of_BTC_buy": "5.50179000",
         "trades_of_BTC_buy": 331
     },
-    "SANDUSDT": {
-        "symbol": "SANDUSDT",
+    "UMAUSDT": {
+        "symbol": "UMAUSDT",
         "orderid": 0,
-        "timestamp": 1641625977592,
-        "bought_at": "4.98000000",
-        "volume": 3,
+        "timestamp": 1641629170820,
+        "bought_at": "9.84200000",
+        "volume": 1.5,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41948.1635533,
-        "volume_of_BTC_buy": "105.28178000",
-        "trades_of_BTC_buy": 2823
+        "avgPriceBTCUSDT_buy": 41963.73272818,
+        "volume_of_BTC_buy": "7.27566000",
+        "trades_of_BTC_buy": 327
     },
-    "ZECUSDT": {
-        "symbol": "ZECUSDT",
+    "TVKUSDT": {
+        "symbol": "TVKUSDT",
         "orderid": 0,
-        "timestamp": 1641628948162,
-        "bought_at": "151.10000000",
-        "volume": 0.099,
+        "timestamp": 1641629221825,
+        "bought_at": "0.17430000",
+        "volume": 86,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41928.34916903,
-        "volume_of_BTC_buy": "8.33752000",
-        "trades_of_BTC_buy": 384
+        "avgPriceBTCUSDT_buy": 42002.60757794,
+        "volume_of_BTC_buy": "33.57811000",
+        "trades_of_BTC_buy": 661
     },
-    "NULSUSDT": {
-        "symbol": "NULSUSDT",
+    "DFUSDT": {
+        "symbol": "DFUSDT",
         "orderid": 0,
-        "timestamp": 1641629058315,
-        "bought_at": "0.61820000",
-        "volume": 24,
+        "timestamp": 1641629386080,
+        "bought_at": "0.11710000",
+        "volume": 128,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41949.45185999,
-        "volume_of_BTC_buy": "18.64111000",
-        "trades_of_BTC_buy": 525
+        "avgPriceBTCUSDT_buy": 42027.14610143,
+        "volume_of_BTC_buy": "10.21490000",
+        "trades_of_BTC_buy": 457
+    },
+    "SLPUSDT": {
+        "symbol": "SLPUSDT",
+        "orderid": 0,
+        "timestamp": 1641629390593,
+        "bought_at": "0.01990000",
+        "volume": 753,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42027.11066154,
+        "volume_of_BTC_buy": "10.21490000",
+        "trades_of_BTC_buy": 457
     }
 }
