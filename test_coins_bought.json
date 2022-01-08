@@ -539,18 +539,6 @@
         "volume_of_BTC_buy": "12.16075000",
         "trades_of_BTC_buy": 508
     },
-    "ILVUSDT": {
-        "symbol": "ILVUSDT",
-        "orderid": 0,
-        "timestamp": 1641681261733,
-        "bought_at": "782.80000000",
-        "volume": 0.019,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42208.93871501,
-        "volume_of_BTC_buy": "12.16075000",
-        "trades_of_BTC_buy": 508
-    },
     "ZILUSDT": {
         "symbol": "ZILUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41853.14648795,
         "volume_of_BTC_buy": "83.39181000",
         "trades_of_BTC_buy": 2274
+    },
+    "QTUMUSDT": {
+        "symbol": "QTUMUSDT",
+        "orderid": 0,
+        "timestamp": 1641684307914,
+        "bought_at": "7.63600000",
+        "volume": 2.0,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41852.57488781,
+        "volume_of_BTC_buy": "52.54760000",
+        "trades_of_BTC_buy": 1676
     }
 }
