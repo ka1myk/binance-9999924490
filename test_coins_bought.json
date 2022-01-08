@@ -995,18 +995,6 @@
         "volume_of_BTC_buy": "10.82422000",
         "trades_of_BTC_buy": 549
     },
-    "QNTUSDT": {
-        "symbol": "QNTUSDT",
-        "orderid": 0,
-        "timestamp": 1641674165520,
-        "bought_at": "170.90000000",
-        "volume": 0.088,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41071.134976,
-        "volume_of_BTC_buy": "10.82422000",
-        "trades_of_BTC_buy": 549
-    },
     "GNOUSDT": {
         "symbol": "GNOUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 40998.2715361,
         "volume_of_BTC_buy": "11.30362000",
         "trades_of_BTC_buy": 595
+    },
+    "MANAUSDT": {
+        "symbol": "MANAUSDT",
+        "orderid": 0,
+        "timestamp": 1641675037408,
+        "bought_at": "2.88560000",
+        "volume": 5,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40975.70550023,
+        "volume_of_BTC_buy": "10.08460000",
+        "trades_of_BTC_buy": 396
     }
 }
