@@ -95,18 +95,6 @@
         "volume_of_BTC_buy": "13.81905000",
         "trades_of_BTC_buy": 570
     },
-    "FTMUSDT": {
-        "symbol": "FTMUSDT",
-        "orderid": 0,
-        "timestamp": 1641648585670,
-        "bought_at": "2.53550000",
-        "volume": 5,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41813.28022808,
-        "volume_of_BTC_buy": "2.58693000",
-        "trades_of_BTC_buy": 240
-    },
     "CELRUSDT": {
         "symbol": "CELRUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41991.81282487,
         "volume_of_BTC_buy": "9.43484000",
         "trades_of_BTC_buy": 310
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 0,
+        "timestamp": 1641650186852,
+        "bought_at": "0.02366000",
+        "volume": 634.0,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41934.25453772,
+        "volume_of_BTC_buy": "9.21818000",
+        "trades_of_BTC_buy": 424
     }
 }
