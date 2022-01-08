@@ -647,18 +647,6 @@
         "volume_of_BTC_buy": "9.45231000",
         "trades_of_BTC_buy": 412
     },
-    "GXSUSDT": {
-        "symbol": "GXSUSDT",
-        "orderid": 0,
-        "timestamp": 1641653074698,
-        "bought_at": "2.38330000",
-        "volume": 6,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41862.81681965,
-        "volume_of_BTC_buy": "13.16435000",
-        "trades_of_BTC_buy": 482
-    },
     "SUSHIUSDT": {
         "symbol": "SUSHIUSDT",
         "orderid": 0,
@@ -824,18 +812,6 @@
         "stop_loss": -3,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 41861.97915758,
-        "volume_of_BTC_buy": "29.75450000",
-        "trades_of_BTC_buy": 470
-    },
-    "LINAUSDT": {
-        "symbol": "LINAUSDT",
-        "orderid": 0,
-        "timestamp": 1641653110855,
-        "bought_at": "0.03785000",
-        "volume": 396.3,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41861.95141731,
         "volume_of_BTC_buy": "29.75450000",
         "trades_of_BTC_buy": 470
     },
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41572.64162464,
         "volume_of_BTC_buy": "8.32199000",
         "trades_of_BTC_buy": 354
+    },
+    "REPUSDT": {
+        "symbol": "REPUSDT",
+        "orderid": 0,
+        "timestamp": 1641654681128,
+        "bought_at": "16.14000000",
+        "volume": 0.93,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41599.77589689,
+        "volume_of_BTC_buy": "11.63734000",
+        "trades_of_BTC_buy": 569
+    },
+    "ADAUSDT": {
+        "symbol": "ADAUSDT",
+        "orderid": 0,
+        "timestamp": 1641654779455,
+        "bought_at": "1.21500000",
+        "volume": 12.3,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41617.91553657,
+        "volume_of_BTC_buy": "14.28345000",
+        "trades_of_BTC_buy": 492
     }
 }
