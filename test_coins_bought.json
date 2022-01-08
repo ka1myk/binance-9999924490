@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "22.88321000",
         "trades_of_BTC_buy": 752
     },
-    "IRISUSDT": {
-        "symbol": "IRISUSDT",
-        "orderid": 0,
-        "timestamp": 1641605953554,
-        "bought_at": "0.12283000",
-        "volume": 122.1,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41955.96454598,
-        "volume_of_BTC_buy": "25.77180000",
-        "trades_of_BTC_buy": 830
-    },
     "DEGOUSDT": {
         "symbol": "DEGOUSDT",
         "orderid": 0,
@@ -106,5 +94,29 @@
         "avgPriceBTCUSDT_buy": 42001.72681676,
         "volume_of_BTC_buy": "9.38860000",
         "trades_of_BTC_buy": 517
+    },
+    "GXSUSDT": {
+        "symbol": "GXSUSDT",
+        "orderid": 0,
+        "timestamp": 1641607123553,
+        "bought_at": "2.43610000",
+        "volume": 6,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41894.55809231,
+        "volume_of_BTC_buy": "13.77617000",
+        "trades_of_BTC_buy": 479
+    },
+    "TROYUSDT": {
+        "symbol": "TROYUSDT",
+        "orderid": 0,
+        "timestamp": 1641607164866,
+        "bought_at": "0.00921900",
+        "volume": 1627,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41890.08296946,
+        "volume_of_BTC_buy": "13.72789000",
+        "trades_of_BTC_buy": 643
     }
 }
