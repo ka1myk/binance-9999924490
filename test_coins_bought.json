@@ -1,16 +1,4 @@
 {
-    "ICPUSDT": {
-        "symbol": "ICPUSDT",
-        "orderid": 0,
-        "timestamp": 1641596540405,
-        "bought_at": "30.61000000",
-        "volume": 0.49,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41528.91162392,
-        "volume_of_BTC_buy": "40.00957000",
-        "trades_of_BTC_buy": 1255
-    },
     "NUUSDT": {
         "symbol": "NUUSDT",
         "orderid": 0,
@@ -107,16 +95,28 @@
         "volume_of_BTC_buy": "149.08454000",
         "trades_of_BTC_buy": 2962
     },
-    "QNTUSDT": {
-        "symbol": "QNTUSDT",
+    "SLPUSDT": {
+        "symbol": "SLPUSDT",
         "orderid": 0,
-        "timestamp": 1641600849618,
-        "bought_at": "179.90000000",
-        "volume": 0.083,
+        "timestamp": 1641600921186,
+        "bought_at": "0.01960000",
+        "volume": 765,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41646.26523754,
-        "volume_of_BTC_buy": "179.29488000",
-        "trades_of_BTC_buy": 3332
+        "avgPriceBTCUSDT_buy": 41668.36873947,
+        "volume_of_BTC_buy": "157.72033000",
+        "trades_of_BTC_buy": 2526
+    },
+    "WAXPUSDT": {
+        "symbol": "WAXPUSDT",
+        "orderid": 0,
+        "timestamp": 1641601125802,
+        "bought_at": "0.42080000",
+        "volume": 35,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41728.87149971,
+        "volume_of_BTC_buy": "60.76808000",
+        "trades_of_BTC_buy": 1303
     }
 }
