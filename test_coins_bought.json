@@ -35,18 +35,6 @@
         "volume_of_BTC_buy": "9.38860000",
         "trades_of_BTC_buy": 517
     },
-    "RNDRUSDT": {
-        "symbol": "RNDRUSDT",
-        "orderid": 0,
-        "timestamp": 1641607289097,
-        "bought_at": "3.76500000",
-        "volume": 3.98,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41890.28616352,
-        "volume_of_BTC_buy": "6.43678000",
-        "trades_of_BTC_buy": 348
-    },
     "BURGERUSDT": {
         "symbol": "BURGERUSDT",
         "orderid": 0,
@@ -106,5 +94,29 @@
         "avgPriceBTCUSDT_buy": 41867.23014976,
         "volume_of_BTC_buy": "9.67804000",
         "trades_of_BTC_buy": 474
+    },
+    "MOVRUSDT": {
+        "symbol": "MOVRUSDT",
+        "orderid": 0,
+        "timestamp": 1641613831254,
+        "bought_at": "164.90000000",
+        "volume": 0.091,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41814.30148447,
+        "volume_of_BTC_buy": "13.77297000",
+        "trades_of_BTC_buy": 684
+    },
+    "RNDRUSDT": {
+        "symbol": "RNDRUSDT",
+        "orderid": 0,
+        "timestamp": 1641613987446,
+        "bought_at": "3.72300000",
+        "volume": 4.03,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41750.25205604,
+        "volume_of_BTC_buy": "16.68538000",
+        "trades_of_BTC_buy": 628
     }
 }
