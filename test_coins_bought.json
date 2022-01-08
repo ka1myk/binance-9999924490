@@ -95,18 +95,6 @@
         "volume_of_BTC_buy": "105.28178000",
         "trades_of_BTC_buy": 2823
     },
-    "CHRUSDT": {
-        "symbol": "CHRUSDT",
-        "orderid": 0,
-        "timestamp": 1641626224911,
-        "bought_at": "0.76040000",
-        "volume": 19,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41928.21882543,
-        "volume_of_BTC_buy": "15.36190000",
-        "trades_of_BTC_buy": 386
-    },
     "VOXELUSDT": {
         "symbol": "VOXELUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41875.21634001,
         "volume_of_BTC_buy": "7.36934000",
         "trades_of_BTC_buy": 372
+    },
+    "MITHUSDT": {
+        "symbol": "MITHUSDT",
+        "orderid": 0,
+        "timestamp": 1641627471221,
+        "bought_at": "0.05145000",
+        "volume": 291.5,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41921.15502957,
+        "volume_of_BTC_buy": "6.18685000",
+        "trades_of_BTC_buy": 344
     }
 }
