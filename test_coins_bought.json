@@ -263,18 +263,6 @@
         "volume_of_BTC_buy": "6.67986000",
         "trades_of_BTC_buy": 548
     },
-    "RNDRUSDT": {
-        "symbol": "RNDRUSDT",
-        "orderid": 0,
-        "timestamp": 1641680504341,
-        "bought_at": "3.71300000",
-        "volume": 4.04,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42052.62420701,
-        "volume_of_BTC_buy": "6.67986000",
-        "trades_of_BTC_buy": 548
-    },
     "BNXUSDT": {
         "symbol": "BNXUSDT",
         "orderid": 0,
@@ -983,18 +971,6 @@
         "volume_of_BTC_buy": "8.14030000",
         "trades_of_BTC_buy": 467
     },
-    "WTCUSDT": {
-        "symbol": "WTCUSDT",
-        "orderid": 0,
-        "timestamp": 1641682158963,
-        "bought_at": "0.77230000",
-        "volume": 19,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42163.15212109,
-        "volume_of_BTC_buy": "8.14030000",
-        "trades_of_BTC_buy": 467
-    },
     "HNTUSDT": {
         "symbol": "HNTUSDT",
         "orderid": 0,
@@ -1187,16 +1163,40 @@
         "volume_of_BTC_buy": "29.33348000",
         "trades_of_BTC_buy": 843
     },
-    "DIAUSDT": {
-        "symbol": "DIAUSDT",
+    "EOSUSDT": {
+        "symbol": "EOSUSDT",
         "orderid": 0,
-        "timestamp": 1641685300075,
-        "bought_at": "1.08500000",
-        "volume": 13.8,
+        "timestamp": 1641685582914,
+        "bought_at": "2.76500000",
+        "volume": 5.4,
         "stop_loss": -3,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41859.11062133,
-        "volume_of_BTC_buy": "38.11374000",
-        "trades_of_BTC_buy": 796
+        "avgPriceBTCUSDT_buy": 41864.98195458,
+        "volume_of_BTC_buy": "23.41201000",
+        "trades_of_BTC_buy": 728
+    },
+    "LINKUSDT": {
+        "symbol": "LINKUSDT",
+        "orderid": 0,
+        "timestamp": 1641685749073,
+        "bought_at": "25.58000000",
+        "volume": 0.59,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41846.85675275,
+        "volume_of_BTC_buy": "13.44353000",
+        "trades_of_BTC_buy": 693
+    },
+    "ONGUSDT": {
+        "symbol": "ONGUSDT",
+        "orderid": 0,
+        "timestamp": 1641685756991,
+        "bought_at": "0.72880000",
+        "volume": 20,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41845.59842672,
+        "volume_of_BTC_buy": "13.44353000",
+        "trades_of_BTC_buy": 693
     }
 }
