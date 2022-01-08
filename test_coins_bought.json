@@ -563,18 +563,6 @@
         "volume_of_BTC_buy": "5.06116000",
         "trades_of_BTC_buy": 292
     },
-    "MITHUSDT": {
-        "symbol": "MITHUSDT",
-        "orderid": 0,
-        "timestamp": 1641652899675,
-        "bought_at": "0.05574000",
-        "volume": 269.1,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41845.63458322,
-        "volume_of_BTC_buy": "6.30930000",
-        "trades_of_BTC_buy": 340
-    },
     "FIROUSDT": {
         "symbol": "FIROUSDT",
         "orderid": 0,
@@ -1187,16 +1175,28 @@
         "volume_of_BTC_buy": "14.23610000",
         "trades_of_BTC_buy": 426
     },
-    "DUSKUSDT": {
-        "symbol": "DUSKUSDT",
+    "ALGOUSDT": {
+        "symbol": "ALGOUSDT",
         "orderid": 0,
-        "timestamp": 1641653386862,
-        "bought_at": "0.68860000",
-        "volume": 21,
+        "timestamp": 1641653524647,
+        "bought_at": "1.43460000",
+        "volume": 10,
         "stop_loss": -3,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41843.51222095,
-        "volume_of_BTC_buy": "14.23610000",
-        "trades_of_BTC_buy": 426
+        "avgPriceBTCUSDT_buy": 41851.71288432,
+        "volume_of_BTC_buy": "18.61491000",
+        "trades_of_BTC_buy": 543
+    },
+    "SUNUSDT": {
+        "symbol": "SUNUSDT",
+        "orderid": 0,
+        "timestamp": 1641653650470,
+        "bought_at": "0.01974000",
+        "volume": 759,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41840.72512312,
+        "volume_of_BTC_buy": "33.06662000",
+        "trades_of_BTC_buy": 620
     }
 }
