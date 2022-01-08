@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "11.85628000",
         "trades_of_BTC_buy": 528
     },
-    "RNDRUSDT": {
-        "symbol": "RNDRUSDT",
-        "orderid": 0,
-        "timestamp": 1641613987446,
-        "bought_at": "3.72300000",
-        "volume": 4.03,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41750.25205604,
-        "volume_of_BTC_buy": "16.68538000",
-        "trades_of_BTC_buy": 628
-    },
     "SLPUSDT": {
         "symbol": "SLPUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41850.87385636,
         "volume_of_BTC_buy": "14.46026000",
         "trades_of_BTC_buy": 530
+    },
+    "KNCUSDT": {
+        "symbol": "KNCUSDT",
+        "orderid": 0,
+        "timestamp": 1641616463559,
+        "bought_at": "1.49800000",
+        "volume": 10.0,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41792.8682995,
+        "volume_of_BTC_buy": "11.92272000",
+        "trades_of_BTC_buy": 627
     }
 }
