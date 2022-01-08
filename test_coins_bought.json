@@ -1187,16 +1187,16 @@
         "volume_of_BTC_buy": "21.54996000",
         "trades_of_BTC_buy": 650
     },
-    "BURGERUSDT": {
-        "symbol": "BURGERUSDT",
+    "LPTUSDT": {
+        "symbol": "LPTUSDT",
         "orderid": 0,
-        "timestamp": 1641683654782,
-        "bought_at": "2.39500000",
-        "volume": 6.3,
+        "timestamp": 1641683794397,
+        "bought_at": "35.27000000",
+        "volume": 0.43,
         "stop_loss": -3,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41853.05715071,
-        "volume_of_BTC_buy": "21.54996000",
-        "trades_of_BTC_buy": 650
+        "avgPriceBTCUSDT_buy": 41870.30965755,
+        "volume_of_BTC_buy": "11.11021000",
+        "trades_of_BTC_buy": 525
     }
 }
