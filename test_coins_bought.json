@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "52.29934000",
         "trades_of_BTC_buy": 1134
     },
-    "CELRUSDT": {
-        "symbol": "CELRUSDT",
-        "orderid": 0,
-        "timestamp": 1641603781259,
-        "bought_at": "0.07062000",
-        "volume": 212.4,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42017.39071579,
-        "volume_of_BTC_buy": "25.40149000",
-        "trades_of_BTC_buy": 856
-    },
     "NANOUSDT": {
         "symbol": "NANOUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 42075.10838627,
         "volume_of_BTC_buy": "41.87466000",
         "trades_of_BTC_buy": 1059
+    },
+    "CVXUSDT": {
+        "symbol": "CVXUSDT",
+        "orderid": 0,
+        "timestamp": 1641604147814,
+        "bought_at": "39.20000000",
+        "volume": 0.383,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42153.7230751,
+        "volume_of_BTC_buy": "128.25202000",
+        "trades_of_BTC_buy": 2814
     }
 }
