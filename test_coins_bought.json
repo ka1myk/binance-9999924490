@@ -239,18 +239,6 @@
         "volume_of_BTC_buy": "9.48102000",
         "trades_of_BTC_buy": 368
     },
-    "AVAXUSDT": {
-        "symbol": "AVAXUSDT",
-        "orderid": 0,
-        "timestamp": 1641652739363,
-        "bought_at": "86.22000000",
-        "volume": 0.17,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41830.33984342,
-        "volume_of_BTC_buy": "9.48102000",
-        "trades_of_BTC_buy": 368
-    },
     "AAVEUSDT": {
         "symbol": "AAVEUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41614.95972548,
         "volume_of_BTC_buy": "11.43782000",
         "trades_of_BTC_buy": 442
+    },
+    "DREPUSDT": {
+        "symbol": "DREPUSDT",
+        "orderid": 0,
+        "timestamp": 1641655476863,
+        "bought_at": "1.12230000",
+        "volume": 13,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41683.66165689,
+        "volume_of_BTC_buy": "12.75825000",
+        "trades_of_BTC_buy": 547
     }
 }
