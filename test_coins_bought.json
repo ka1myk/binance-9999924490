@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "2.58693000",
         "trades_of_BTC_buy": 240
     },
-    "TROYUSDT": {
-        "symbol": "TROYUSDT",
+    "CELRUSDT": {
+        "symbol": "CELRUSDT",
         "orderid": 0,
-        "timestamp": 1641649659508,
-        "bought_at": "0.00938900",
-        "volume": 1597,
+        "timestamp": 1641649828991,
+        "bought_at": "0.07044000",
+        "volume": 212.9,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41979.28863264,
-        "volume_of_BTC_buy": "7.30622000",
-        "trades_of_BTC_buy": 337
+        "avgPriceBTCUSDT_buy": 41991.81282487,
+        "volume_of_BTC_buy": "9.43484000",
+        "trades_of_BTC_buy": 310
     }
 }
