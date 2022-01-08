@@ -155,18 +155,6 @@
         "volume_of_BTC_buy": "9.48102000",
         "trades_of_BTC_buy": 368
     },
-    "KAVAUSDT": {
-        "symbol": "KAVAUSDT",
-        "orderid": 0,
-        "timestamp": 1641652739361,
-        "bought_at": "4.45700000",
-        "volume": 3.4,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41830.50264901,
-        "volume_of_BTC_buy": "9.48102000",
-        "trades_of_BTC_buy": 368
-    },
     "USDTTRY": {
         "symbol": "USDTTRY",
         "orderid": 0,
@@ -1187,16 +1175,28 @@
         "volume_of_BTC_buy": "11.63734000",
         "trades_of_BTC_buy": 569
     },
-    "ADAUSDT": {
-        "symbol": "ADAUSDT",
+    "FTMUSDT": {
+        "symbol": "FTMUSDT",
         "orderid": 0,
-        "timestamp": 1641654779455,
-        "bought_at": "1.21500000",
-        "volume": 12.3,
+        "timestamp": 1641654962981,
+        "bought_at": "2.42700000",
+        "volume": 6,
         "stop_loss": -3,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41617.91553657,
-        "volume_of_BTC_buy": "14.28345000",
-        "trades_of_BTC_buy": 492
+        "avgPriceBTCUSDT_buy": 41593.0108115,
+        "volume_of_BTC_buy": "12.34637000",
+        "trades_of_BTC_buy": 521
+    },
+    "PUNDIXUSDT": {
+        "symbol": "PUNDIXUSDT",
+        "orderid": 0,
+        "timestamp": 1641655115254,
+        "bought_at": "0.90700000",
+        "volume": 16.5,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41614.95972548,
+        "volume_of_BTC_buy": "11.43782000",
+        "trades_of_BTC_buy": 442
     }
 }
