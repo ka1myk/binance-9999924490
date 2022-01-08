@@ -107,16 +107,16 @@
         "volume_of_BTC_buy": "11.99843000",
         "trades_of_BTC_buy": 530
     },
-    "KP3RUSDT": {
-        "symbol": "KP3RUSDT",
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
         "orderid": 0,
-        "timestamp": 1641610196902,
-        "bought_at": "1175.04000000",
-        "volume": 0.01,
+        "timestamp": 1641610427527,
+        "bought_at": "32.41000000",
+        "volume": 0.46,
         "stop_loss": -2,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41794.50189568,
-        "volume_of_BTC_buy": "17.81826000",
-        "trades_of_BTC_buy": 748
+        "avgPriceBTCUSDT_buy": 41840.70984691,
+        "volume_of_BTC_buy": "9.24846000",
+        "trades_of_BTC_buy": 457
     }
 }
