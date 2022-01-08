@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "12.82333000",
         "trades_of_BTC_buy": 606
     },
-    "ETHUSDT": {
-        "symbol": "ETHUSDT",
-        "orderid": 0,
-        "timestamp": 1641638290445,
-        "bought_at": "3244.66000000",
-        "volume": 0.0046,
-        "stop_loss": -2,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42103.87577909,
-        "volume_of_BTC_buy": "7.15673000",
-        "trades_of_BTC_buy": 329
-    },
     "ADAUSDT": {
         "symbol": "ADAUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 41877.62876194,
         "volume_of_BTC_buy": "4.73456000",
         "trades_of_BTC_buy": 344
+    },
+    "CELRUSDT": {
+        "symbol": "CELRUSDT",
+        "orderid": 0,
+        "timestamp": 1641647819539,
+        "bought_at": "0.06994000",
+        "volume": 214.5,
+        "stop_loss": -2,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41738.61751457,
+        "volume_of_BTC_buy": "8.25847000",
+        "trades_of_BTC_buy": 380
     }
 }
