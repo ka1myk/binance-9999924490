@@ -659,18 +659,6 @@
         "volume_of_BTC_buy": "6.23502000",
         "trades_of_BTC_buy": 482
     },
-    "FIOUSDT": {
-        "symbol": "FIOUSDT",
-        "orderid": 0,
-        "timestamp": 1641667583603,
-        "bought_at": "0.13950000",
-        "volume": 107,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 40971.63714848,
-        "volume_of_BTC_buy": "6.35717000",
-        "trades_of_BTC_buy": 371
-    },
     "BTGUSDT": {
         "symbol": "BTGUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41129.98078136,
         "volume_of_BTC_buy": "6.58200000",
         "trades_of_BTC_buy": 409
+    },
+    "CHZUSDT": {
+        "symbol": "CHZUSDT",
+        "orderid": 0,
+        "timestamp": 1641676780306,
+        "bought_at": "0.25020000",
+        "volume": 59,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41135.98927015,
+        "volume_of_BTC_buy": "26.36987000",
+        "trades_of_BTC_buy": 629
     }
 }
