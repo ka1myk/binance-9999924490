@@ -1174,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41957.083692,
         "volume_of_BTC_buy": "29.50446000",
         "trades_of_BTC_buy": 936
+    },
+    "BTTUSDT": {
+        "symbol": "BTTUSDT",
+        "orderid": 0,
+        "timestamp": 1641750305716,
+        "bought_at": "0.00248500",
+        "volume": 6036,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41961.86918673,
+        "volume_of_BTC_buy": "8.87981000",
+        "trades_of_BTC_buy": 369
+    },
+    "WAVESUSDT": {
+        "symbol": "WAVESUSDT",
+        "orderid": 0,
+        "timestamp": 1641750310003,
+        "bought_at": "14.18000000",
+        "volume": 1.06,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41961.81054013,
+        "volume_of_BTC_buy": "8.87981000",
+        "trades_of_BTC_buy": 369
     }
 }
