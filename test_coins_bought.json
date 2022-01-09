@@ -239,18 +239,6 @@
         "volume_of_BTC_buy": "7.04784000",
         "trades_of_BTC_buy": 357
     },
-    "WANUSDT": {
-        "symbol": "WANUSDT",
-        "orderid": 0,
-        "timestamp": 1641680724622,
-        "bought_at": "0.56220000",
-        "volume": 26,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42127.56556968,
-        "volume_of_BTC_buy": "10.39126000",
-        "trades_of_BTC_buy": 622
-    },
     "NMRUSDT": {
         "symbol": "NMRUSDT",
         "orderid": 0,
@@ -1067,18 +1055,6 @@
         "volume_of_BTC_buy": "14.32302000",
         "trades_of_BTC_buy": 588
     },
-    "ALCXUSDT": {
-        "symbol": "ALCXUSDT",
-        "orderid": 0,
-        "timestamp": 1641687471903,
-        "bought_at": "285.40000000",
-        "volume": 0.0526,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41612.2008326,
-        "volume_of_BTC_buy": "14.32302000",
-        "trades_of_BTC_buy": 588
-    },
     "YFIUSDT": {
         "symbol": "YFIUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41605.69114677,
         "volume_of_BTC_buy": "21.63138000",
         "trades_of_BTC_buy": 842
+    },
+    "ADAUSDT": {
+        "symbol": "ADAUSDT",
+        "orderid": 0,
+        "timestamp": 1641687625191,
+        "bought_at": "1.17800000",
+        "volume": 12.7,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41591.05646003,
+        "volume_of_BTC_buy": "11.20914000",
+        "trades_of_BTC_buy": 619
+    },
+    "VETUSDT": {
+        "symbol": "VETUSDT",
+        "orderid": 0,
+        "timestamp": 1641687890808,
+        "bought_at": "0.07499000",
+        "volume": 200.0,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41507.08504242,
+        "volume_of_BTC_buy": "11.74656000",
+        "trades_of_BTC_buy": 563
     }
 }
