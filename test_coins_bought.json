@@ -707,18 +707,6 @@
         "volume_of_BTC_buy": "18.68474000",
         "trades_of_BTC_buy": 708
     },
-    "PONDUSDT": {
-        "symbol": "PONDUSDT",
-        "orderid": 0,
-        "timestamp": 1641704424831,
-        "bought_at": "0.05352000",
-        "volume": 280.27,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42060.11631705,
-        "volume_of_BTC_buy": "18.68474000",
-        "trades_of_BTC_buy": 708
-    },
     "MASKUSDT": {
         "symbol": "MASKUSDT",
         "orderid": 0,
@@ -1055,18 +1043,6 @@
         "volume_of_BTC_buy": "9.55926000",
         "trades_of_BTC_buy": 463
     },
-    "GNOUSDT": {
-        "symbol": "GNOUSDT",
-        "orderid": 0,
-        "timestamp": 1641714679504,
-        "bought_at": "459.70000000",
-        "volume": 0.033,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41805.00876654,
-        "volume_of_BTC_buy": "9.42562000",
-        "trades_of_BTC_buy": 462
-    },
     "ONTUSDT": {
         "symbol": "ONTUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41719.92028584,
         "volume_of_BTC_buy": "16.77460000",
         "trades_of_BTC_buy": 422
+    },
+    "BNBUSDT": {
+        "symbol": "BNBUSDT",
+        "orderid": 0,
+        "timestamp": 1641718681865,
+        "bought_at": "431.80000000",
+        "volume": 0.035,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41722.54443319,
+        "volume_of_BTC_buy": "27.92447000",
+        "trades_of_BTC_buy": 684
+    },
+    "NKNUSDT": {
+        "symbol": "NKNUSDT",
+        "orderid": 0,
+        "timestamp": 1641718782654,
+        "bought_at": "0.29920000",
+        "volume": 50,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41695.33749494,
+        "volume_of_BTC_buy": "18.33387000",
+        "trades_of_BTC_buy": 610
     }
 }
