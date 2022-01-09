@@ -1175,18 +1175,6 @@
         "volume_of_BTC_buy": "10.00404000",
         "trades_of_BTC_buy": 455
     },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 0,
-        "timestamp": 1641743280385,
-        "bought_at": "27.06000000",
-        "volume": 0.55,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41556.51119066,
-        "volume_of_BTC_buy": "4.32523000",
-        "trades_of_BTC_buy": 356
-    },
     "PERLUSDT": {
         "symbol": "PERLUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41538.10473701,
         "volume_of_BTC_buy": "5.61727000",
         "trades_of_BTC_buy": 431
+    },
+    "BANDUSDT": {
+        "symbol": "BANDUSDT",
+        "orderid": 0,
+        "timestamp": 1641743511011,
+        "bought_at": "5.06200000",
+        "volume": 3.0,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41519.27007693,
+        "volume_of_BTC_buy": "5.11217000",
+        "trades_of_BTC_buy": 424
     }
 }
