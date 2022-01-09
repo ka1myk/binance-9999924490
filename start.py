@@ -179,7 +179,6 @@ def wait_for_price():
         #if threshold_check > CHANGE_IN_PRICE:
 
         if threshold_check < CHANGE_IN_PRICE and (threshold_check * CHANGE_IN_PRICE < 0):
-
             coins_up += 1
 
             if coin not in volatility_cooloff:
