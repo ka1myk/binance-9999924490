@@ -395,18 +395,6 @@
         "volume_of_BTC_buy": "84.59219000",
         "trades_of_BTC_buy": 2587
     },
-    "ZECUSDT": {
-        "symbol": "ZECUSDT",
-        "orderid": 0,
-        "timestamp": 1641695887238,
-        "bought_at": "139.10000000",
-        "volume": 0.108,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41998.74143189,
-        "volume_of_BTC_buy": "60.39607000",
-        "trades_of_BTC_buy": 1485
-    },
     "FLOWUSDT": {
         "symbol": "FLOWUSDT",
         "orderid": 0,
@@ -440,18 +428,6 @@
         "stop_loss": -3,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 42084.81108363,
-        "volume_of_BTC_buy": "39.88812000",
-        "trades_of_BTC_buy": 1362
-    },
-    "ROSEUSDT": {
-        "symbol": "ROSEUSDT",
-        "orderid": 0,
-        "timestamp": 1641696411044,
-        "bought_at": "0.34270000",
-        "volume": 43.8,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42085.97306813,
         "volume_of_BTC_buy": "39.88812000",
         "trades_of_BTC_buy": 1362
     },
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41870.01011925,
         "volume_of_BTC_buy": "86.42755000",
         "trades_of_BTC_buy": 1900
+    },
+    "QTUMUSDT": {
+        "symbol": "QTUMUSDT",
+        "orderid": 0,
+        "timestamp": 1641707537181,
+        "bought_at": "7.66500000",
+        "volume": 2.0,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41802.74943161,
+        "volume_of_BTC_buy": "21.85926000",
+        "trades_of_BTC_buy": 603
+    },
+    "WRXUSDT": {
+        "symbol": "WRXUSDT",
+        "orderid": 0,
+        "timestamp": 1641707623014,
+        "bought_at": "1.03200000",
+        "volume": 14.5,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41775.29133934,
+        "volume_of_BTC_buy": "19.20285000",
+        "trades_of_BTC_buy": 810
     }
 }
