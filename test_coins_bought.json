@@ -599,18 +599,6 @@
         "volume_of_BTC_buy": "30.37765000",
         "trades_of_BTC_buy": 700
     },
-    "DATAUSDT": {
-        "symbol": "DATAUSDT",
-        "orderid": 0,
-        "timestamp": 1641703966041,
-        "bought_at": "0.09598000",
-        "volume": 156.3,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42048.64593938,
-        "volume_of_BTC_buy": "25.79074000",
-        "trades_of_BTC_buy": 1010
-    },
     "ZRXUSDT": {
         "symbol": "ZRXUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41860.12060417,
         "volume_of_BTC_buy": "23.04062000",
         "trades_of_BTC_buy": 607
+    },
+    "XLMUSDT": {
+        "symbol": "XLMUSDT",
+        "orderid": 0,
+        "timestamp": 1641713171980,
+        "bought_at": "0.26040000",
+        "volume": 57,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41862.9323077,
+        "volume_of_BTC_buy": "8.33502000",
+        "trades_of_BTC_buy": 474
     }
 }
