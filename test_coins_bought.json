@@ -395,18 +395,6 @@
         "volume_of_BTC_buy": "18.68923000",
         "trades_of_BTC_buy": 435
     },
-    "PHAUSDT": {
-        "symbol": "PHAUSDT",
-        "orderid": 0,
-        "timestamp": 1641760806220,
-        "bought_at": "0.36430000",
-        "volume": 41,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42441.6754932,
-        "volume_of_BTC_buy": "16.42102000",
-        "trades_of_BTC_buy": 383
-    },
     "FARMUSDT": {
         "symbol": "FARMUSDT",
         "orderid": 0,
@@ -1175,18 +1163,6 @@
         "volume_of_BTC_buy": "9.10878000",
         "trades_of_BTC_buy": 379
     },
-    "ARUSDT": {
-        "symbol": "ARUSDT",
-        "orderid": 0,
-        "timestamp": 1641766880820,
-        "bought_at": "51.54000000",
-        "volume": 0.29,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42437.32004676,
-        "volume_of_BTC_buy": "32.28600000",
-        "trades_of_BTC_buy": 788
-    },
     "IRISUSDT": {
         "symbol": "IRISUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 42451.68043689,
         "volume_of_BTC_buy": "6.59375000",
         "trades_of_BTC_buy": 441
+    },
+    "TROYUSDT": {
+        "symbol": "TROYUSDT",
+        "orderid": 0,
+        "timestamp": 1641767135431,
+        "bought_at": "0.00873300",
+        "volume": 1717,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42463.29818372,
+        "volume_of_BTC_buy": "10.86926000",
+        "trades_of_BTC_buy": 543
+    },
+    "ATOMUSDT": {
+        "symbol": "ATOMUSDT",
+        "orderid": 0,
+        "timestamp": 1641767370806,
+        "bought_at": "35.45000000",
+        "volume": 0.42,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42452.3726449,
+        "volume_of_BTC_buy": "11.74713000",
+        "trades_of_BTC_buy": 415
     }
 }
