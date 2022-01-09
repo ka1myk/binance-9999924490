@@ -1163,18 +1163,6 @@
         "volume_of_BTC_buy": "9.55926000",
         "trades_of_BTC_buy": 463
     },
-    "SXPUSDT": {
-        "symbol": "SXPUSDT",
-        "orderid": 0,
-        "timestamp": 1641713756621,
-        "bought_at": "1.55900000",
-        "volume": 9.6,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41839.27201524,
-        "volume_of_BTC_buy": "9.55926000",
-        "trades_of_BTC_buy": 463
-    },
     "NULSUSDT": {
         "symbol": "NULSUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41808.80697801,
         "volume_of_BTC_buy": "7.19746000",
         "trades_of_BTC_buy": 288
+    },
+    "LRCUSDT": {
+        "symbol": "LRCUSDT",
+        "orderid": 0,
+        "timestamp": 1641714283147,
+        "bought_at": "1.54170000",
+        "volume": 9,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41818.13861184,
+        "volume_of_BTC_buy": "9.40831000",
+        "trades_of_BTC_buy": 508
     }
 }
