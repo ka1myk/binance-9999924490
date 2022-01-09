@@ -275,18 +275,6 @@
         "volume_of_BTC_buy": "36.57792000",
         "trades_of_BTC_buy": 1244
     },
-    "COSUSDT": {
-        "symbol": "COSUSDT",
-        "orderid": 0,
-        "timestamp": 1641701870810,
-        "bought_at": "0.02253000",
-        "volume": 665.8,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41921.38936156,
-        "volume_of_BTC_buy": "61.56021000",
-        "trades_of_BTC_buy": 1450
-    },
     "DOCKUSDT": {
         "symbol": "DOCKUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41658.95731314,
         "volume_of_BTC_buy": "4.92021000",
         "trades_of_BTC_buy": 312
+    },
+    "KMDUSDT": {
+        "symbol": "KMDUSDT",
+        "orderid": 0,
+        "timestamp": 1641736415297,
+        "bought_at": "0.61810000",
+        "volume": 24,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41575.55248209,
+        "volume_of_BTC_buy": "3.59687000",
+        "trades_of_BTC_buy": 273
     }
 }
