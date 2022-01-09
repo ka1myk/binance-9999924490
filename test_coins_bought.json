@@ -947,18 +947,6 @@
         "volume_of_BTC_buy": "12.77372000",
         "trades_of_BTC_buy": 402
     },
-    "BEAMUSDT": {
-        "symbol": "BEAMUSDT",
-        "orderid": 0,
-        "timestamp": 1641729631191,
-        "bought_at": "0.46810000",
-        "volume": 32,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41848.60575766,
-        "volume_of_BTC_buy": "12.77372000",
-        "trades_of_BTC_buy": 402
-    },
     "XTZUSDT": {
         "symbol": "XTZUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41719.96523076,
         "volume_of_BTC_buy": "6.63324000",
         "trades_of_BTC_buy": 286
+    },
+    "MATICUSDT": {
+        "symbol": "MATICUSDT",
+        "orderid": 0,
+        "timestamp": 1641731455574,
+        "bought_at": "2.02400000",
+        "volume": 7.4,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41750.20198473,
+        "volume_of_BTC_buy": "7.62251000",
+        "trades_of_BTC_buy": 433
     }
 }
