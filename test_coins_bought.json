@@ -1163,18 +1163,6 @@
         "volume_of_BTC_buy": "28.45067000",
         "trades_of_BTC_buy": 1069
     },
-    "BNBUSDT": {
-        "symbol": "BNBUSDT",
-        "orderid": 0,
-        "timestamp": 1641716865019,
-        "bought_at": "431.40000000",
-        "volume": 0.035,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41688.73216589,
-        "volume_of_BTC_buy": "48.18227000",
-        "trades_of_BTC_buy": 1017
-    },
     "ORNUSDT": {
         "symbol": "ORNUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41683.7814784,
         "volume_of_BTC_buy": "25.18214000",
         "trades_of_BTC_buy": 904
+    },
+    "DREPUSDT": {
+        "symbol": "DREPUSDT",
+        "orderid": 0,
+        "timestamp": 1641717496969,
+        "bought_at": "1.06890000",
+        "volume": 14,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41700.15795396,
+        "volume_of_BTC_buy": "8.29844000",
+        "trades_of_BTC_buy": 417
     }
 }
