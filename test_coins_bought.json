@@ -1007,18 +1007,6 @@
         "volume_of_BTC_buy": "6.70003000",
         "trades_of_BTC_buy": 319
     },
-    "HNTUSDT": {
-        "symbol": "HNTUSDT",
-        "orderid": 0,
-        "timestamp": 1641725037543,
-        "bought_at": "32.37000000",
-        "volume": 0.46,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41649.02901926,
-        "volume_of_BTC_buy": "6.70003000",
-        "trades_of_BTC_buy": 319
-    },
     "TWTUSDT": {
         "symbol": "TWTUSDT",
         "orderid": 0,
@@ -1151,18 +1139,6 @@
         "volume_of_BTC_buy": "32.80919000",
         "trades_of_BTC_buy": 623
     },
-    "CVCUSDT": {
-        "symbol": "CVCUSDT",
-        "orderid": 0,
-        "timestamp": 1641725439233,
-        "bought_at": "0.32560000",
-        "volume": 46,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41664.39128371,
-        "volume_of_BTC_buy": "14.96080000",
-        "trades_of_BTC_buy": 419
-    },
     "ENJUSDT": {
         "symbol": "ENJUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41671.10410352,
         "volume_of_BTC_buy": "10.80372000",
         "trades_of_BTC_buy": 452
+    },
+    "MATICUSDT": {
+        "symbol": "MATICUSDT",
+        "orderid": 0,
+        "timestamp": 1641725957664,
+        "bought_at": "2.00600000",
+        "volume": 7.5,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41627.2066005,
+        "volume_of_BTC_buy": "8.80174000",
+        "trades_of_BTC_buy": 429
+    },
+    "BANDUSDT": {
+        "symbol": "BANDUSDT",
+        "orderid": 0,
+        "timestamp": 1641725988885,
+        "bought_at": "5.10200000",
+        "volume": 2.9,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41625.6529696,
+        "volume_of_BTC_buy": "8.80174000",
+        "trades_of_BTC_buy": 429
     }
 }
