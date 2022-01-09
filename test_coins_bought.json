@@ -575,18 +575,6 @@
         "volume_of_BTC_buy": "25.60068000",
         "trades_of_BTC_buy": 699
     },
-    "DUSKUSDT": {
-        "symbol": "DUSKUSDT",
-        "orderid": 0,
-        "timestamp": 1641703292949,
-        "bought_at": "0.65310000",
-        "volume": 22,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42012.46925947,
-        "volume_of_BTC_buy": "11.62004000",
-        "trades_of_BTC_buy": 702
-    },
     "DOCKUSDT": {
         "symbol": "DOCKUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41914.59525362,
         "volume_of_BTC_buy": "29.47668000",
         "trades_of_BTC_buy": 1268
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 0,
+        "timestamp": 1641710710757,
+        "bought_at": "0.48030000",
+        "volume": 31,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41913.8847872,
+        "volume_of_BTC_buy": "17.75606000",
+        "trades_of_BTC_buy": 780
     }
 }
