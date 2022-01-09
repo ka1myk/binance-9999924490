@@ -1127,42 +1127,6 @@
         "volume_of_BTC_buy": "10.08085000",
         "trades_of_BTC_buy": 313
     },
-    "THETAUSDT": {
-        "symbol": "THETAUSDT",
-        "orderid": 0,
-        "timestamp": 1641768757835,
-        "bought_at": "4.04900000",
-        "volume": 3.7,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42246.9805153,
-        "volume_of_BTC_buy": "4.22405000",
-        "trades_of_BTC_buy": 252
-    },
-    "STXUSDT": {
-        "symbol": "STXUSDT",
-        "orderid": 0,
-        "timestamp": 1641768828664,
-        "bought_at": "2.07300000",
-        "volume": 7.2,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42234.78455703,
-        "volume_of_BTC_buy": "3.84321000",
-        "trades_of_BTC_buy": 260
-    },
-    "SCUSDT": {
-        "symbol": "SCUSDT",
-        "orderid": 0,
-        "timestamp": 1641768940260,
-        "bought_at": "0.01356000",
-        "volume": 1106,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42210.21434815,
-        "volume_of_BTC_buy": "2.97146000",
-        "trades_of_BTC_buy": 276
-    },
     "DOGEUSDT": {
         "symbol": "DOGEUSDT",
         "orderid": 0,
@@ -1198,5 +1162,41 @@
         "avgPriceBTCUSDT_buy": 42137.22554054,
         "volume_of_BTC_buy": "1.79020000",
         "trades_of_BTC_buy": 209
+    },
+    "NMRUSDT": {
+        "symbol": "NMRUSDT",
+        "orderid": 0,
+        "timestamp": 1641769221370,
+        "bought_at": "28.66000000",
+        "volume": 0.52,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42142.35629385,
+        "volume_of_BTC_buy": "20.05676000",
+        "trades_of_BTC_buy": 553
+    },
+    "AUCTIONUSDT": {
+        "symbol": "AUCTIONUSDT",
+        "orderid": 0,
+        "timestamp": 1641769277190,
+        "bought_at": "21.06000000",
+        "volume": 0.71,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42202.16529625,
+        "volume_of_BTC_buy": "29.75595000",
+        "trades_of_BTC_buy": 888
+    },
+    "ARUSDT": {
+        "symbol": "ARUSDT",
+        "orderid": 0,
+        "timestamp": 1641769450364,
+        "bought_at": "51.49000000",
+        "volume": 0.29,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42234.65289557,
+        "volume_of_BTC_buy": "8.62613000",
+        "trades_of_BTC_buy": 472
     }
 }
