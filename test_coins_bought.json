@@ -1019,18 +1019,6 @@
         "volume_of_BTC_buy": "12.68212000",
         "trades_of_BTC_buy": 936
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 0,
-        "timestamp": 1641698235994,
-        "bought_at": "0.41170000",
-        "volume": 36,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41974.43698946,
-        "volume_of_BTC_buy": "111.60360000",
-        "trades_of_BTC_buy": 2491
-    },
     "ZENUSDT": {
         "symbol": "ZENUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 42012.23863996,
         "volume_of_BTC_buy": "29.59532000",
         "trades_of_BTC_buy": 968
+    },
+    "SNXUSDT": {
+        "symbol": "SNXUSDT",
+        "orderid": 0,
+        "timestamp": 1641699251021,
+        "bought_at": "5.16700000",
+        "volume": 2.9,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41962.15416166,
+        "volume_of_BTC_buy": "38.43532000",
+        "trades_of_BTC_buy": 923
     }
 }
