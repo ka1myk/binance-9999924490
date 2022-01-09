@@ -1115,18 +1115,6 @@
         "volume_of_BTC_buy": "15.32177000",
         "trades_of_BTC_buy": 532
     },
-    "BALUSDT": {
-        "symbol": "BALUSDT",
-        "orderid": 0,
-        "timestamp": 1641720923747,
-        "bought_at": "18.21000000",
-        "volume": 0.82,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41584.64441445,
-        "volume_of_BTC_buy": "15.59616000",
-        "trades_of_BTC_buy": 614
-    },
     "FORUSDT": {
         "symbol": "FORUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41644.54318589,
         "volume_of_BTC_buy": "11.46604000",
         "trades_of_BTC_buy": 397
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 0,
+        "timestamp": 1641721693641,
+        "bought_at": "0.63980000",
+        "volume": 23,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41632.17547475,
+        "volume_of_BTC_buy": "19.67407000",
+        "trades_of_BTC_buy": 831
     }
 }
