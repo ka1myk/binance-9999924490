@@ -197,7 +197,7 @@ def wait_for_price():
                 #    print(
                 #        f'{txcolors.WARNING}{coin} has gained {round(threshold_check, 3)}% within the last {TIME_DIFFERENCE} minutes, but you are holding max number of coins{txcolors.DEFAULT}')
 
-        elif threshold_check < CHANGE_IN_PRICE:
+        elif threshold_check > CHANGE_IN_PRICE:
             coins_down += 1
 
         else:
