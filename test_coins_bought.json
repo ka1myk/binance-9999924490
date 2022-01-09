@@ -1007,18 +1007,6 @@
         "volume_of_BTC_buy": "12.77372000",
         "trades_of_BTC_buy": 402
     },
-    "DODOUSDT": {
-        "symbol": "DODOUSDT",
-        "orderid": 0,
-        "timestamp": 1641729648014,
-        "bought_at": "0.76000000",
-        "volume": 19.7,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41851.95177395,
-        "volume_of_BTC_buy": "12.77372000",
-        "trades_of_BTC_buy": 402
-    },
     "MTLUSDT": {
         "symbol": "MTLUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41858.89977307,
         "volume_of_BTC_buy": "8.18169000",
         "trades_of_BTC_buy": 343
+    },
+    "GXSUSDT": {
+        "symbol": "GXSUSDT",
+        "orderid": 0,
+        "timestamp": 1641730097396,
+        "bought_at": "2.19350000",
+        "volume": 6,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41794.79001699,
+        "volume_of_BTC_buy": "5.24293000",
+        "trades_of_BTC_buy": 267
     }
 }
