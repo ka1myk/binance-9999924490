@@ -959,18 +959,6 @@
         "volume_of_BTC_buy": "16.55336000",
         "trades_of_BTC_buy": 630
     },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 0,
-        "timestamp": 1641706783609,
-        "bought_at": "27.15000000",
-        "volume": 0.55,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41874.62550916,
-        "volume_of_BTC_buy": "62.65435000",
-        "trades_of_BTC_buy": 1433
-    },
     "CRVUSDT": {
         "symbol": "CRVUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41911.37016401,
         "volume_of_BTC_buy": "19.53930000",
         "trades_of_BTC_buy": 831
+    },
+    "YFIUSDT": {
+        "symbol": "YFIUSDT",
+        "orderid": 0,
+        "timestamp": 1641711597805,
+        "bought_at": "34341.96000000",
+        "volume": 0.00044,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41859.58588651,
+        "volume_of_BTC_buy": "16.96695000",
+        "trades_of_BTC_buy": 603
     }
 }
