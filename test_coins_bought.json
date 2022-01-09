@@ -455,18 +455,6 @@
         "volume_of_BTC_buy": "11.62659000",
         "trades_of_BTC_buy": 519
     },
-    "ADXUSDT": {
-        "symbol": "ADXUSDT",
-        "orderid": 0,
-        "timestamp": 1641704967533,
-        "bought_at": "0.48750000",
-        "volume": 30,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42011.78731328,
-        "volume_of_BTC_buy": "9.76748000",
-        "trades_of_BTC_buy": 610
-    },
     "ZILUSDT": {
         "symbol": "ZILUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41794.79001699,
         "volume_of_BTC_buy": "5.24293000",
         "trades_of_BTC_buy": 267
+    },
+    "ICPUSDT": {
+        "symbol": "ICPUSDT",
+        "orderid": 0,
+        "timestamp": 1641730638952,
+        "bought_at": "35.06000000",
+        "volume": 0.43,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41728.95219413,
+        "volume_of_BTC_buy": "6.83069000",
+        "trades_of_BTC_buy": 285
     }
 }
