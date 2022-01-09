@@ -1019,18 +1019,6 @@
         "volume_of_BTC_buy": "5.15774000",
         "trades_of_BTC_buy": 275
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 0,
-        "timestamp": 1641734824007,
-        "bought_at": "0.42530000",
-        "volume": 35,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41745.74711226,
-        "volume_of_BTC_buy": "5.96950000",
-        "trades_of_BTC_buy": 299
-    },
     "BNBUSDT": {
         "symbol": "BNBUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41606.72538562,
         "volume_of_BTC_buy": "13.57911000",
         "trades_of_BTC_buy": 416
+    },
+    "HBARUSDT": {
+        "symbol": "HBARUSDT",
+        "orderid": 0,
+        "timestamp": 1641740137238,
+        "bought_at": "0.26670000",
+        "volume": 56,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41600.9440016,
+        "volume_of_BTC_buy": "10.10981000",
+        "trades_of_BTC_buy": 402
     }
 }
