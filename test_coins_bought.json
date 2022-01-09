@@ -527,18 +527,6 @@
         "volume_of_BTC_buy": "12.12207000",
         "trades_of_BTC_buy": 506
     },
-    "COSUSDT": {
-        "symbol": "COSUSDT",
-        "orderid": 0,
-        "timestamp": 1641694406557,
-        "bought_at": "0.02329000",
-        "volume": 644.1,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41861.37624726,
-        "volume_of_BTC_buy": "77.83253000",
-        "trades_of_BTC_buy": 2035
-    },
     "FIROUSDT": {
         "symbol": "FIROUSDT",
         "orderid": 0,
@@ -947,18 +935,6 @@
         "volume_of_BTC_buy": "9.11362000",
         "trades_of_BTC_buy": 562
     },
-    "FTMUSDT": {
-        "symbol": "FTMUSDT",
-        "orderid": 0,
-        "timestamp": 1641697096804,
-        "bought_at": "2.38600000",
-        "volume": 6,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42108.20343354,
-        "volume_of_BTC_buy": "9.11362000",
-        "trades_of_BTC_buy": 562
-    },
     "CTKUSDT": {
         "symbol": "CTKUSDT",
         "orderid": 0,
@@ -1066,18 +1042,6 @@
         "avgPriceBTCUSDT_buy": 41994.75672383,
         "volume_of_BTC_buy": "86.46302000",
         "trades_of_BTC_buy": 1410
-    },
-    "NANOUSDT": {
-        "symbol": "NANOUSDT",
-        "orderid": 0,
-        "timestamp": 1641698879834,
-        "bought_at": "3.12300000",
-        "volume": 4.8,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42002.15326953,
-        "volume_of_BTC_buy": "34.93926000",
-        "trades_of_BTC_buy": 1120
     },
     "RGTUSDT": {
         "symbol": "RGTUSDT",
@@ -1198,5 +1162,41 @@
         "avgPriceBTCUSDT_buy": 41962.15416166,
         "volume_of_BTC_buy": "38.43532000",
         "trades_of_BTC_buy": 923
+    },
+    "BNTUSDT": {
+        "symbol": "BNTUSDT",
+        "orderid": 0,
+        "timestamp": 1641699398670,
+        "bought_at": "3.14300000",
+        "volume": 4.8,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41951.72492368,
+        "volume_of_BTC_buy": "13.11658000",
+        "trades_of_BTC_buy": 669
+    },
+    "CVCUSDT": {
+        "symbol": "CVCUSDT",
+        "orderid": 0,
+        "timestamp": 1641699498905,
+        "bought_at": "0.32520000",
+        "volume": 46,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41942.76421066,
+        "volume_of_BTC_buy": "47.95573000",
+        "trades_of_BTC_buy": 1472
+    },
+    "FTMUSDT": {
+        "symbol": "FTMUSDT",
+        "orderid": 0,
+        "timestamp": 1641699519243,
+        "bought_at": "2.38630000",
+        "volume": 6,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41941.03961261,
+        "volume_of_BTC_buy": "47.95573000",
+        "trades_of_BTC_buy": 1472
     }
 }
