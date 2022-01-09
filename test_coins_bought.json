@@ -1187,16 +1187,16 @@
         "volume_of_BTC_buy": "3.59687000",
         "trades_of_BTC_buy": 273
     },
-    "YGGUSDT": {
-        "symbol": "YGGUSDT",
+    "BALUSDT": {
+        "symbol": "BALUSDT",
         "orderid": 0,
-        "timestamp": 1641736938584,
-        "bought_at": "4.67000000",
-        "volume": 3.2,
+        "timestamp": 1641737249981,
+        "bought_at": "18.11000000",
+        "volume": 0.83,
         "stop_loss": -3,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41531.41830818,
-        "volume_of_BTC_buy": "8.95514000",
-        "trades_of_BTC_buy": 287
+        "avgPriceBTCUSDT_buy": 41535.2929547,
+        "volume_of_BTC_buy": "4.28804000",
+        "trades_of_BTC_buy": 274
     }
 }
