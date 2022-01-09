@@ -875,18 +875,6 @@
         "volume_of_BTC_buy": "106.42874000",
         "trades_of_BTC_buy": 2320
     },
-    "AUCTIONUSDT": {
-        "symbol": "AUCTIONUSDT",
-        "orderid": 0,
-        "timestamp": 1641709787668,
-        "bought_at": "21.06000000",
-        "volume": 0.71,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41768.71849341,
-        "volume_of_BTC_buy": "68.98520000",
-        "trades_of_BTC_buy": 923
-    },
     "AIONUSDT": {
         "symbol": "AIONUSDT",
         "orderid": 0,
@@ -1175,18 +1163,6 @@
         "volume_of_BTC_buy": "25.18214000",
         "trades_of_BTC_buy": 904
     },
-    "LSKUSDT": {
-        "symbol": "LSKUSDT",
-        "orderid": 0,
-        "timestamp": 1641716888110,
-        "bought_at": "2.03200000",
-        "volume": 7.4,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41683.7814784,
-        "volume_of_BTC_buy": "25.18214000",
-        "trades_of_BTC_buy": 904
-    },
     "DREPUSDT": {
         "symbol": "DREPUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41700.15795396,
         "volume_of_BTC_buy": "8.29844000",
         "trades_of_BTC_buy": 417
+    },
+    "NEARUSDT": {
+        "symbol": "NEARUSDT",
+        "orderid": 0,
+        "timestamp": 1641717869286,
+        "bought_at": "13.49300000",
+        "volume": 1.1,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41743.59424172,
+        "volume_of_BTC_buy": "20.22795000",
+        "trades_of_BTC_buy": 672
+    },
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 0,
+        "timestamp": 1641717895205,
+        "bought_at": "0.64060000",
+        "volume": 23,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41741.82320306,
+        "volume_of_BTC_buy": "20.22795000",
+        "trades_of_BTC_buy": 672
     }
 }
