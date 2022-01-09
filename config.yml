@@ -70,5 +70,5 @@ trading_options:
   TRADING_FEE: .075
 
   SIGNALLING_MODULES:
-    - pausebotmod
-    - signalsamplemod
+     - pausebotmod
+     - signalsamplemod
