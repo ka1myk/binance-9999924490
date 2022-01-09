@@ -1127,18 +1127,6 @@
         "volume_of_BTC_buy": "12.04293000",
         "trades_of_BTC_buy": 434
     },
-    "MITHUSDT": {
-        "symbol": "MITHUSDT",
-        "orderid": 0,
-        "timestamp": 1641732403951,
-        "bought_at": "0.04947000",
-        "volume": 303.2,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41819.5771639,
-        "volume_of_BTC_buy": "9.22607000",
-        "trades_of_BTC_buy": 283
-    },
     "FETUSDT": {
         "symbol": "FETUSDT",
         "orderid": 0,
@@ -1187,16 +1175,28 @@
         "volume_of_BTC_buy": "12.05375000",
         "trades_of_BTC_buy": 596
     },
-    "PERLUSDT": {
-        "symbol": "PERLUSDT",
+    "OGNUSDT": {
+        "symbol": "OGNUSDT",
         "orderid": 0,
-        "timestamp": 1641732563458,
-        "bought_at": "0.06922000",
-        "volume": 216.7,
+        "timestamp": 1641732612496,
+        "bought_at": "0.52750000",
+        "volume": 28,
         "stop_loss": -3,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41823.65656358,
-        "volume_of_BTC_buy": "12.05375000",
-        "trades_of_BTC_buy": 596
+        "avgPriceBTCUSDT_buy": 41829.34472644,
+        "volume_of_BTC_buy": "15.13866000",
+        "trades_of_BTC_buy": 516
+    },
+    "HIVEUSDT": {
+        "symbol": "HIVEUSDT",
+        "orderid": 0,
+        "timestamp": 1641732775346,
+        "bought_at": "1.32270000",
+        "volume": 11,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41812.20250838,
+        "volume_of_BTC_buy": "13.32183000",
+        "trades_of_BTC_buy": 472
     }
 }
