@@ -1103,18 +1103,6 @@
         "volume_of_BTC_buy": "5.96950000",
         "trades_of_BTC_buy": 299
     },
-    "FISUSDT": {
-        "symbol": "FISUSDT",
-        "orderid": 0,
-        "timestamp": 1641735175080,
-        "bought_at": "0.98260000",
-        "volume": 15,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41586.45020784,
-        "volume_of_BTC_buy": "7.61108000",
-        "trades_of_BTC_buy": 307
-    },
     "KSMUSDT": {
         "symbol": "KSMUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41643.25132479,
         "volume_of_BTC_buy": "20.19982000",
         "trades_of_BTC_buy": 503
+    },
+    "IOTXUSDT": {
+        "symbol": "IOTXUSDT",
+        "orderid": 0,
+        "timestamp": 1641738288182,
+        "bought_at": "0.10162000",
+        "volume": 147,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41648.79467049,
+        "volume_of_BTC_buy": "5.26453000",
+        "trades_of_BTC_buy": 322
     }
 }
