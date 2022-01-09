@@ -671,18 +671,6 @@
         "volume_of_BTC_buy": "19.00122000",
         "trades_of_BTC_buy": 423
     },
-    "KAVAUSDT": {
-        "symbol": "KAVAUSDT",
-        "orderid": 0,
-        "timestamp": 1641725107090,
-        "bought_at": "4.73200000",
-        "volume": 3.2,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41665.8837128,
-        "volume_of_BTC_buy": "10.71205000",
-        "trades_of_BTC_buy": 569
-    },
     "ICXUSDT": {
         "symbol": "ICXUSDT",
         "orderid": 0,
@@ -1091,18 +1079,6 @@
         "volume_of_BTC_buy": "5.81074000",
         "trades_of_BTC_buy": 402
     },
-    "PERLUSDT": {
-        "symbol": "PERLUSDT",
-        "orderid": 0,
-        "timestamp": 1641728035892,
-        "bought_at": "0.06936000",
-        "volume": 216.3,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41834.31051297,
-        "volume_of_BTC_buy": "7.40866000",
-        "trades_of_BTC_buy": 451
-    },
     "CVXUSDT": {
         "symbol": "CVXUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41823.17096381,
         "volume_of_BTC_buy": "7.87542000",
         "trades_of_BTC_buy": 361
+    },
+    "ZECUSDT": {
+        "symbol": "ZECUSDT",
+        "orderid": 0,
+        "timestamp": 1641728731372,
+        "bought_at": "137.60000000",
+        "volume": 0.109,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41812.89921129,
+        "volume_of_BTC_buy": "9.16898000",
+        "trades_of_BTC_buy": 397
+    },
+    "TFUELUSDT": {
+        "symbol": "TFUELUSDT",
+        "orderid": 0,
+        "timestamp": 1641728804337,
+        "bought_at": "0.16480000",
+        "volume": 91,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41811.47261719,
+        "volume_of_BTC_buy": "9.26553000",
+        "trades_of_BTC_buy": 413
     }
 }
