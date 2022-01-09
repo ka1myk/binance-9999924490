@@ -335,18 +335,6 @@
         "volume_of_BTC_buy": "12.16075000",
         "trades_of_BTC_buy": 508
     },
-    "TRIBEUSDT": {
-        "symbol": "TRIBEUSDT",
-        "orderid": 0,
-        "timestamp": 1641681498251,
-        "bought_at": "0.87430000",
-        "volume": 17,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42105.49929604,
-        "volume_of_BTC_buy": "20.51836000",
-        "trades_of_BTC_buy": 759
-    },
     "DOGEUSDT": {
         "symbol": "DOGEUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41726.07760946,
         "volume_of_BTC_buy": "69.43510000",
         "trades_of_BTC_buy": 1465
+    },
+    "ONGUSDT": {
+        "symbol": "ONGUSDT",
+        "orderid": 0,
+        "timestamp": 1641691264194,
+        "bought_at": "0.71180000",
+        "volume": 21,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41728.65670179,
+        "volume_of_BTC_buy": "54.45770000",
+        "trades_of_BTC_buy": 1584
     }
 }
