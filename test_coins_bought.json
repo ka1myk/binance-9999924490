@@ -959,18 +959,6 @@
         "volume_of_BTC_buy": "20.90469000",
         "trades_of_BTC_buy": 549
     },
-    "BURGERUSDT": {
-        "symbol": "BURGERUSDT",
-        "orderid": 0,
-        "timestamp": 1641734231588,
-        "bought_at": "2.42400000",
-        "volume": 6.2,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41817.92462818,
-        "volume_of_BTC_buy": "9.30540000",
-        "trades_of_BTC_buy": 475
-    },
     "NKNUSDT": {
         "symbol": "NKNUSDT",
         "orderid": 0,
@@ -1175,18 +1163,6 @@
         "volume_of_BTC_buy": "5.41838000",
         "trades_of_BTC_buy": 361
     },
-    "MDXUSDT": {
-        "symbol": "MDXUSDT",
-        "orderid": 0,
-        "timestamp": 1641739525106,
-        "bought_at": "0.31400000",
-        "volume": 47.8,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41702.0992282,
-        "volume_of_BTC_buy": "5.41838000",
-        "trades_of_BTC_buy": 361
-    },
     "AUDIOUSDT": {
         "symbol": "AUDIOUSDT",
         "orderid": 0,
@@ -1198,5 +1174,29 @@
         "avgPriceBTCUSDT_buy": 41711.33139984,
         "volume_of_BTC_buy": "2.83434000",
         "trades_of_BTC_buy": 293
+    },
+    "ORNUSDT": {
+        "symbol": "ORNUSDT",
+        "orderid": 0,
+        "timestamp": 1641740039874,
+        "bought_at": "4.83000000",
+        "volume": 3.1,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41620.75187798,
+        "volume_of_BTC_buy": "33.68876000",
+        "trades_of_BTC_buy": 467
+    },
+    "CVCUSDT": {
+        "symbol": "CVCUSDT",
+        "orderid": 0,
+        "timestamp": 1641740068658,
+        "bought_at": "0.32230000",
+        "volume": 46,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41606.72538562,
+        "volume_of_BTC_buy": "13.57911000",
+        "trades_of_BTC_buy": 416
     }
 }
