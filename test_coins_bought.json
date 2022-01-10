@@ -119,18 +119,6 @@
         "volume_of_BTC_buy": "15.94597000",
         "trades_of_BTC_buy": 542
     },
-    "PEOPLEUSDT": {
-        "symbol": "PEOPLEUSDT",
-        "orderid": 0,
-        "timestamp": 1641813610106,
-        "bought_at": "0.08320000",
-        "volume": 180.3,
-        "stop_loss": -10,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41627.59119978,
-        "volume_of_BTC_buy": "19.48787000",
-        "trades_of_BTC_buy": 440
-    },
     "WNXMUSDT": {
         "symbol": "WNXMUSDT",
         "orderid": 0,
@@ -155,16 +143,16 @@
         "volume_of_BTC_buy": "13.02440000",
         "trades_of_BTC_buy": 427
     },
-    "PHAUSDT": {
-        "symbol": "PHAUSDT",
+    "ACHUSDT": {
+        "symbol": "ACHUSDT",
         "orderid": 0,
-        "timestamp": 1641814106162,
-        "bought_at": "0.37070000",
-        "volume": 40,
+        "timestamp": 1641814474011,
+        "bought_at": "0.07330000",
+        "volume": 204,
         "stop_loss": -10,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41581.51591375,
-        "volume_of_BTC_buy": "13.60360000",
-        "trades_of_BTC_buy": 453
+        "avgPriceBTCUSDT_buy": 41642.34954878,
+        "volume_of_BTC_buy": "11.86524000",
+        "trades_of_BTC_buy": 315
     }
 }
