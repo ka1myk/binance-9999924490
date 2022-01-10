@@ -1,1 +1,14 @@
-{}
+{
+    "PYRUSDT": {
+        "symbol": "PYRUSDT",
+        "orderid": 23531123,
+        "timestamp": 1641855438949,
+        "bought_at": "13.98000000",
+        "volume": 1.073,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41579.34551443,
+        "volume_of_BTC_buy": "94.58923000",
+        "trades_of_BTC_buy": 1906
+    }
+}
