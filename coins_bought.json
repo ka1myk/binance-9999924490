@@ -1,1 +1,14 @@
-{}
+{
+    "RENUSDT": {
+        "symbol": "RENUSDT",
+        "orderid": 560275972,
+        "timestamp": 1641858775587,
+        "bought_at": "0.45480000",
+        "volume": 32,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41790.1947685,
+        "volume_of_BTC_buy": "128.65461000",
+        "trades_of_BTC_buy": 2275
+    }
+}
