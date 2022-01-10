@@ -959,18 +959,6 @@
         "volume_of_BTC_buy": "10.94712000",
         "trades_of_BTC_buy": 420
     },
-    "WAXPUSDT": {
-        "symbol": "WAXPUSDT",
-        "orderid": 0,
-        "timestamp": 1641783615668,
-        "bought_at": "0.41730000",
-        "volume": 35,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41943.31063105,
-        "volume_of_BTC_buy": "12.85915000",
-        "trades_of_BTC_buy": 486
-    },
     "ALPHAUSDT": {
         "symbol": "ALPHAUSDT",
         "orderid": 0,
@@ -1115,30 +1103,6 @@
         "volume_of_BTC_buy": "77.97959000",
         "trades_of_BTC_buy": 1808
     },
-    "HIGHUSDT": {
-        "symbol": "HIGHUSDT",
-        "orderid": 0,
-        "timestamp": 1641786702943,
-        "bought_at": "8.49000000",
-        "volume": 1.767,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41930.0677919,
-        "volume_of_BTC_buy": "27.45814000",
-        "trades_of_BTC_buy": 836
-    },
-    "ELFUSDT": {
-        "symbol": "ELFUSDT",
-        "orderid": 0,
-        "timestamp": 1641787004640,
-        "bought_at": "0.42140000",
-        "volume": 35.6,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41941.00210025,
-        "volume_of_BTC_buy": "28.02844000",
-        "trades_of_BTC_buy": 907
-    },
     "MTLUSDT": {
         "symbol": "MTLUSDT",
         "orderid": 0,
@@ -1175,18 +1139,6 @@
         "volume_of_BTC_buy": "53.18039000",
         "trades_of_BTC_buy": 1391
     },
-    "PEOPLEUSDT": {
-        "symbol": "PEOPLEUSDT",
-        "orderid": 0,
-        "timestamp": 1641787081957,
-        "bought_at": "0.08770000",
-        "volume": 171.0,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41948.02400408,
-        "volume_of_BTC_buy": "30.67398000",
-        "trades_of_BTC_buy": 943
-    },
     "STRAXUSDT": {
         "symbol": "STRAXUSDT",
         "orderid": 0,
@@ -1198,5 +1150,53 @@
         "avgPriceBTCUSDT_buy": 41952.13754953,
         "volume_of_BTC_buy": "30.67398000",
         "trades_of_BTC_buy": 943
+    },
+    "ENSUSDT": {
+        "symbol": "ENSUSDT",
+        "orderid": 0,
+        "timestamp": 1641787322731,
+        "bought_at": "28.06000000",
+        "volume": 0.53,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41968.83474202,
+        "volume_of_BTC_buy": "10.15687000",
+        "trades_of_BTC_buy": 409
+    },
+    "RUNEUSDT": {
+        "symbol": "RUNEUSDT",
+        "orderid": 0,
+        "timestamp": 1641787332747,
+        "bought_at": "6.09800000",
+        "volume": 2.5,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41968.73866528,
+        "volume_of_BTC_buy": "10.15687000",
+        "trades_of_BTC_buy": 409
+    },
+    "BANDUSDT": {
+        "symbol": "BANDUSDT",
+        "orderid": 0,
+        "timestamp": 1641787344003,
+        "bought_at": "5.30200000",
+        "volume": 2.8,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41960.90055025,
+        "volume_of_BTC_buy": "10.15687000",
+        "trades_of_BTC_buy": 409
+    },
+    "BARUSDT": {
+        "symbol": "BARUSDT",
+        "orderid": 0,
+        "timestamp": 1641787461241,
+        "bought_at": "7.93000000",
+        "volume": 1.89,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41951.79312083,
+        "volume_of_BTC_buy": "34.30949000",
+        "trades_of_BTC_buy": 750
     }
 }
