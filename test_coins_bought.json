@@ -1,1 +1,14 @@
-{}
+{
+    "CVXUSDT": {
+        "symbol": "CVXUSDT",
+        "orderid": 0,
+        "timestamp": 1641840252778,
+        "bought_at": "35.52000000",
+        "volume": 0.422,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41581.78149265,
+        "volume_of_BTC_buy": "9.56126000",
+        "trades_of_BTC_buy": 424
+    }
+}
