@@ -462,9 +462,6 @@ def sell_coins():
 
                     telegram_bot_sendtext(f"{coin} {profit:.2f}$ {PriceChange - (TRADING_FEE * 2):.2f}% session_profit {(QUANTITY * session_profit) / 100:.2f}$ ")
 
-                    telegram_bot_sendtext(
-                        f'TP or SL not yet reached, not selling {coin} for now from {BuyPrice} - {LastPrice} : {txcolors.SELL_PROFIT if PriceChange >= 0. else txcolors.SELL_LOSS}{PriceChange - (TRADING_FEE * 2):.2f}% Est:${(QUANTITY * (PriceChange - (TRADING_FEE * 2))) / 100:.2f}{txcolors.DEFAULT}')
-
             continue
 
         # no action; print once every TIME_DIFFERENCE

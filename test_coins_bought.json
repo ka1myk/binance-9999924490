@@ -1,16 +1,4 @@
 {
-    "MCUSDT": {
-        "symbol": "MCUSDT",
-        "orderid": 0,
-        "timestamp": 1641837513618,
-        "bought_at": "3.50000000",
-        "volume": 4.29,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41286.21122019,
-        "volume_of_BTC_buy": "9.39642000",
-        "trades_of_BTC_buy": 384
-    },
     "FIOUSDT": {
         "symbol": "FIOUSDT",
         "orderid": 0,
@@ -34,17 +22,5 @@
         "avgPriceBTCUSDT_buy": 41260.47998116,
         "volume_of_BTC_buy": "16.56496000",
         "trades_of_BTC_buy": 612
-    },
-    "OOKIUSDT": {
-        "symbol": "OOKIUSDT",
-        "orderid": 0,
-        "timestamp": 1641837661262,
-        "bought_at": "0.02091000",
-        "volume": 717,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41230.56818222,
-        "volume_of_BTC_buy": "6.16595000",
-        "trades_of_BTC_buy": 350
     }
 }
