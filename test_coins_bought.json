@@ -335,18 +335,6 @@
         "volume_of_BTC_buy": "15.86174000",
         "trades_of_BTC_buy": 436
     },
-    "DASHUSDT": {
-        "symbol": "DASHUSDT",
-        "orderid": 0,
-        "timestamp": 1641773618300,
-        "bought_at": "154.10000000",
-        "volume": 0.097,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41864.4901239,
-        "volume_of_BTC_buy": "4.44531000",
-        "trades_of_BTC_buy": 283
-    },
     "MBLUSDT": {
         "symbol": "MBLUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 42012.16835452,
         "volume_of_BTC_buy": "5.88823000",
         "trades_of_BTC_buy": 322
+    },
+    "CTKUSDT": {
+        "symbol": "CTKUSDT",
+        "orderid": 0,
+        "timestamp": 1641796824419,
+        "bought_at": "1.37800000",
+        "volume": 10.9,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42003.36748496,
+        "volume_of_BTC_buy": "9.67925000",
+        "trades_of_BTC_buy": 474
     }
 }
