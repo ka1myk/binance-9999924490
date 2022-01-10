@@ -10,5 +10,17 @@
         "avgPriceBTCUSDT_buy": 41800.67588496,
         "volume_of_BTC_buy": "40.91188000",
         "trades_of_BTC_buy": 1000
+    },
+    "FIDAUSDT": {
+        "symbol": "FIDAUSDT",
+        "orderid": 0,
+        "timestamp": 1641850084890,
+        "bought_at": "3.22600000",
+        "volume": 4.6,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41694.18609454,
+        "volume_of_BTC_buy": "36.89534000",
+        "trades_of_BTC_buy": 954
     }
 }
