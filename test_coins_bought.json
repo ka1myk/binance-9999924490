@@ -95,16 +95,28 @@
         "volume_of_BTC_buy": "35.77086000",
         "trades_of_BTC_buy": 743
     },
-    "ACHUSDT": {
-        "symbol": "ACHUSDT",
+    "REQUSDT": {
+        "symbol": "REQUSDT",
         "orderid": 0,
-        "timestamp": 1641821087320,
-        "bought_at": "0.07229000",
-        "volume": 207,
+        "timestamp": 1641821234581,
+        "bought_at": "0.28810000",
+        "volume": 52,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 40906.22227965,
-        "volume_of_BTC_buy": "14.92439000",
-        "trades_of_BTC_buy": 581
+        "avgPriceBTCUSDT_buy": 40826.22731854,
+        "volume_of_BTC_buy": "20.68590000",
+        "trades_of_BTC_buy": 447
+    },
+    "ASRUSDT": {
+        "symbol": "ASRUSDT",
+        "orderid": 0,
+        "timestamp": 1641821398374,
+        "bought_at": "3.53800000",
+        "volume": 4.2,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40820.61585265,
+        "volume_of_BTC_buy": "5.90370000",
+        "trades_of_BTC_buy": 308
     }
 }
