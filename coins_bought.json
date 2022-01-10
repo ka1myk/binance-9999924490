@@ -1,14 +1,1 @@
-{
-    "SPELLUSDT": {
-        "symbol": "SPELLUSDT",
-        "orderid": 6980732,
-        "timestamp": 1641851908889,
-        "bought_at": "0.01412000",
-        "volume": 1062,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41660.88928035,
-        "volume_of_BTC_buy": "33.24144000",
-        "trades_of_BTC_buy": 937
-    }
-}
+{}
