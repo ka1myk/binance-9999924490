@@ -10,5 +10,17 @@
         "avgPriceBTCUSDT_buy": 41651.76982306,
         "volume_of_BTC_buy": "6.19044000",
         "trades_of_BTC_buy": 410
+    },
+    "JOEUSDT": {
+        "symbol": "JOEUSDT",
+        "orderid": 0,
+        "timestamp": 1641841203033,
+        "bought_at": "1.40100000",
+        "volume": 10.71,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41648.68305549,
+        "volume_of_BTC_buy": "6.02489000",
+        "trades_of_BTC_buy": 414
     }
 }

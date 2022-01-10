@@ -460,7 +460,9 @@ def sell_coins():
 
                     session_profit = session_profit + (PriceChange - (TRADING_FEE * 2))
                     telegram_bot_sendtext(
-                        f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% {session_profit:.2f}")
+                        f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% Session profit:{session_profit:.2f}% Est:{(QUANTITY * session_profit)/100:.2f}")
+
+
 
             continue
 
