@@ -1,1 +1,38 @@
-{}
+{
+    "TCTUSDT": {
+        "symbol": "TCTUSDT",
+        "orderid": 0,
+        "timestamp": 1641818805485,
+        "bought_at": "0.02720000",
+        "volume": 551,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41261.12752886,
+        "volume_of_BTC_buy": "11.08319000",
+        "trades_of_BTC_buy": 431
+    },
+    "QNTUSDT": {
+        "symbol": "QNTUSDT",
+        "orderid": 0,
+        "timestamp": 1641818831167,
+        "bought_at": "167.40000000",
+        "volume": 0.09,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41230.1041935,
+        "volume_of_BTC_buy": "6.47328000",
+        "trades_of_BTC_buy": 317
+    },
+    "FIDAUSDT": {
+        "symbol": "FIDAUSDT",
+        "orderid": 0,
+        "timestamp": 1641818876733,
+        "bought_at": "2.92100000",
+        "volume": 5.1,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41217.81464998,
+        "volume_of_BTC_buy": "6.47328000",
+        "trades_of_BTC_buy": 317
+    }
+}
