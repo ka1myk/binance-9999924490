@@ -935,18 +935,6 @@
         "volume_of_BTC_buy": "69.18761000",
         "trades_of_BTC_buy": 1311
     },
-    "WAXPUSDT": {
-        "symbol": "WAXPUSDT",
-        "orderid": 0,
-        "timestamp": 1641777251527,
-        "bought_at": "0.41650000",
-        "volume": 36,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41712.2964212,
-        "volume_of_BTC_buy": "73.18777000",
-        "trades_of_BTC_buy": 1785
-    },
     "BTCSTUSDT": {
         "symbol": "BTCSTUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41730.86982587,
         "volume_of_BTC_buy": "25.30025000",
         "trades_of_BTC_buy": 585
+    },
+    "BTTUSDT": {
+        "symbol": "BTTUSDT",
+        "orderid": 0,
+        "timestamp": 1641779362084,
+        "bought_at": "0.00247400",
+        "volume": 6063,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41690.79675275,
+        "volume_of_BTC_buy": "20.52610000",
+        "trades_of_BTC_buy": 788
     }
 }
