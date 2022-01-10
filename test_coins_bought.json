@@ -1163,18 +1163,6 @@
         "volume_of_BTC_buy": "16.84864000",
         "trades_of_BTC_buy": 522
     },
-    "BICOUSDT": {
-        "symbol": "BICOUSDT",
-        "orderid": 0,
-        "timestamp": 1641784350884,
-        "bought_at": "3.77300000",
-        "volume": 3.98,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41881.15524806,
-        "volume_of_BTC_buy": "10.10859000",
-        "trades_of_BTC_buy": 544
-    },
     "CRVUSDT": {
         "symbol": "CRVUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41884.61203603,
         "volume_of_BTC_buy": "16.90797000",
         "trades_of_BTC_buy": 807
+    },
+    "IOTXUSDT": {
+        "symbol": "IOTXUSDT",
+        "orderid": 0,
+        "timestamp": 1641784537665,
+        "bought_at": "0.10480000",
+        "volume": 143,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41895.6990636,
+        "volume_of_BTC_buy": "15.21077000",
+        "trades_of_BTC_buy": 712
     }
 }
