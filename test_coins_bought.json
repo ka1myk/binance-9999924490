@@ -1031,18 +1031,6 @@
         "volume_of_BTC_buy": "16.01803000",
         "trades_of_BTC_buy": 600
     },
-    "ENJUSDT": {
-        "symbol": "ENJUSDT",
-        "orderid": 0,
-        "timestamp": 1641802873098,
-        "bought_at": "2.30600000",
-        "volume": 6.5,
-        "stop_loss": -10,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41925.97171418,
-        "volume_of_BTC_buy": "25.43699000",
-        "trades_of_BTC_buy": 792
-    },
     "ENSUSDT": {
         "symbol": "ENSUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41773.20052552,
         "volume_of_BTC_buy": "15.77654000",
         "trades_of_BTC_buy": 515
+    },
+    "UTKUSDT": {
+        "symbol": "UTKUSDT",
+        "orderid": 0,
+        "timestamp": 1641805177698,
+        "bought_at": "0.36270000",
+        "volume": 41,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41804.08916457,
+        "volume_of_BTC_buy": "18.73398000",
+        "trades_of_BTC_buy": 493
     }
 }
