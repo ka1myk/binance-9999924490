@@ -95,16 +95,28 @@
         "volume_of_BTC_buy": "22.61537000",
         "trades_of_BTC_buy": 503
     },
-    "PEOPLEUSDT": {
-        "symbol": "PEOPLEUSDT",
+    "RAREUSDT": {
+        "symbol": "RAREUSDT",
         "orderid": 0,
-        "timestamp": 1641812348661,
-        "bought_at": "0.08390000",
-        "volume": 178.8,
+        "timestamp": 1641812454081,
+        "bought_at": "0.83000000",
+        "volume": 18.1,
         "stop_loss": -10,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41802.50581724,
-        "volume_of_BTC_buy": "8.24244000",
-        "trades_of_BTC_buy": 411
+        "avgPriceBTCUSDT_buy": 41782.26739893,
+        "volume_of_BTC_buy": "32.08971000",
+        "trades_of_BTC_buy": 959
+    },
+    "CVPUSDT": {
+        "symbol": "CVPUSDT",
+        "orderid": 0,
+        "timestamp": 1641812650274,
+        "bought_at": "1.23900000",
+        "volume": 12.1,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41711.01056193,
+        "volume_of_BTC_buy": "32.92088000",
+        "trades_of_BTC_buy": 687
     }
 }
