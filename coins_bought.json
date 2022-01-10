@@ -1,14 +1,14 @@
 {
-    "FIDAUSDT": {
-        "symbol": "FIDAUSDT",
-        "orderid": 28405079,
-        "timestamp": 1641855658962,
-        "bought_at": "3.19600000",
-        "volume": 4.7,
+    "PYRUSDT": {
+        "symbol": "PYRUSDT",
+        "orderid": 23536531,
+        "timestamp": 1641855989639,
+        "bought_at": "13.95000000",
+        "volume": 1.075,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41602.65405552,
-        "volume_of_BTC_buy": "445.52264000",
-        "trades_of_BTC_buy": 8024
+        "avgPriceBTCUSDT_buy": 41627.47689613,
+        "volume_of_BTC_buy": "137.86393000",
+        "trades_of_BTC_buy": 2776
     }
 }
