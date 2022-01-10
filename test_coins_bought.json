@@ -1019,18 +1019,6 @@
         "volume_of_BTC_buy": "11.72854000",
         "trades_of_BTC_buy": 509
     },
-    "NULSUSDT": {
-        "symbol": "NULSUSDT",
-        "orderid": 0,
-        "timestamp": 1641774547524,
-        "bought_at": "0.67040000",
-        "volume": 22,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41995.3986741,
-        "volume_of_BTC_buy": "11.72854000",
-        "trades_of_BTC_buy": 509
-    },
     "SKLUSDT": {
         "symbol": "SKLUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41720.93093866,
         "volume_of_BTC_buy": "15.91771000",
         "trades_of_BTC_buy": 573
+    },
+    "NEOUSDT": {
+        "symbol": "NEOUSDT",
+        "orderid": 0,
+        "timestamp": 1641775725624,
+        "bought_at": "23.62000000",
+        "volume": 0.64,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41698.24145902,
+        "volume_of_BTC_buy": "10.76106000",
+        "trades_of_BTC_buy": 391
     }
 }
