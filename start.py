@@ -159,7 +159,7 @@ def wait_for_price():
         time.sleep((timedelta(minutes=float(TIME_DIFFERENCE / RECHECK_INTERVAL)) - (
                 datetime.now() - historical_prices[hsp_head]['BNB' + PAIR_WITH]['time'])).total_seconds())
 
-    #print(f'Working...Session profit:{session_profit:.2f}% Est:${(QUANTITY * session_profit)/100:.2f}')
+    print(f'Working...Session profit:{session_profit:.2f}% Est:${(QUANTITY * session_profit)/100:.2f}')
 
     # retreive latest prices
     get_price()
@@ -176,7 +176,8 @@ def wait_for_price():
             min_price[coin]['price']) * 100
 
         # each coin with higher gains than our CHANGE_IN_PRICE is added to the volatile_coins dict if less than MAX_COINS is not reached.
-        if threshold_check < -2:
+        #print(CHANGE_IN_PRICE)
+        if threshold_check < CHANGE_IN_PRICE:
 
         #if abs(threshold_check) < abs(CHANGE_IN_PRICE) and (threshold_check * CHANGE_IN_PRICE < -2):
 
@@ -456,8 +457,11 @@ def sell_coins():
                             1 - (TRADING_FEE * 2))  # adjust for trading fee here
                     write_log(
                         f"|{TEST_MODE}|{coin}|{profit:.2f}|{PriceChange - (TRADING_FEE * 2):.2f}%|{d_in_ms - coins_sold[coin]['timestamp']}|{klines_info[0][5]}|{klines_info[0][8]}|{coins_sold[coin]['volume_of_BTC_buy']}|{coins_sold[coin]['trades_of_BTC_buy']}|{coins_sold[coin]['volume']}|{avgPriceBTCUSDT_sell}|{coins_sold[coin]['avgPriceBTCUSDT_buy']}|{BuyPrice}|{LastPrice}|{MAX_COINS}|{QUANTITY}|{TIME_DIFFERENCE}|{RECHECK_INTERVAL}|{CHANGE_IN_PRICE}|{STOP_LOSS}|{TAKE_PROFIT}|{CUSTOM_LIST}|{USE_TRAILING_STOP_LOSS}|{TRAILING_STOP_LOSS}|{TRAILING_TAKE_PROFIT}|{EXCHANGE}|{SCREENER}|{SYMBOL}|{THRESHOLD}|{TIME_TO_WAIT}|{MY_EXCHANGE}|{MY_SCREENER}|{MY_FIRST_INTERVAL}|{MY_SECOND_INTERVAL}|{TA_BUY_THRESHOLD}|{OSC_INDICATORS}|{OSC_THRESHOLD}|{MA_INDICATORS}|{MA_THRESHOLD}")
-                    telegram_bot_sendtext(f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}%")
+
                     session_profit = session_profit + (PriceChange - (TRADING_FEE * 2))
+
+                    telegram_bot_sendtext(f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% {session_profit}")
+
 
 
             continue
