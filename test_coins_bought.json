@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "5.88762000",
         "trades_of_BTC_buy": 320
     },
-    "SYSUSDT": {
-        "symbol": "SYSUSDT",
-        "orderid": 0,
-        "timestamp": 1641807015097,
-        "bought_at": "1.06110000",
-        "volume": 14,
-        "stop_loss": -10,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41884.83848671,
-        "volume_of_BTC_buy": "13.09992000",
-        "trades_of_BTC_buy": 469
-    },
     "PYRUSDT": {
         "symbol": "PYRUSDT",
         "orderid": 0,
