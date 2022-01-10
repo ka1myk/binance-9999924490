@@ -1163,30 +1163,6 @@
         "volume_of_BTC_buy": "3.49417000",
         "trades_of_BTC_buy": 292
     },
-    "CITYUSDT": {
-        "symbol": "CITYUSDT",
-        "orderid": 0,
-        "timestamp": 1641824906002,
-        "bought_at": "9.68000000",
-        "volume": 1.55,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 39882.5073043,
-        "volume_of_BTC_buy": "5.57359000",
-        "trades_of_BTC_buy": 357
-    },
-    "CELOUSDT": {
-        "symbol": "CELOUSDT",
-        "orderid": 0,
-        "timestamp": 1641824950368,
-        "bought_at": "4.19200000",
-        "volume": 3.6,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 39873.7510031,
-        "volume_of_BTC_buy": "8.02392000",
-        "trades_of_BTC_buy": 326
-    },
     "ACHUSDT": {
         "symbol": "ACHUSDT",
         "orderid": 0,
