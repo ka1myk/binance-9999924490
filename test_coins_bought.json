@@ -82,5 +82,29 @@
         "avgPriceBTCUSDT_buy": 40853.90202069,
         "volume_of_BTC_buy": "35.77086000",
         "trades_of_BTC_buy": 743
+    },
+    "REQUSDT": {
+        "symbol": "REQUSDT",
+        "orderid": 0,
+        "timestamp": 1641822343449,
+        "bought_at": "0.28350000",
+        "volume": 52,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40888.99515559,
+        "volume_of_BTC_buy": "15.37438000",
+        "trades_of_BTC_buy": 450
+    },
+    "RAREUSDT": {
+        "symbol": "RAREUSDT",
+        "orderid": 0,
+        "timestamp": 1641822588171,
+        "bought_at": "0.77800000",
+        "volume": 19.3,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40817.72532752,
+        "volume_of_BTC_buy": "7.61244000",
+        "trades_of_BTC_buy": 384
     }
 }
