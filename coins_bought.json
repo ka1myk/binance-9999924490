@@ -1,1 +1,14 @@
-{}
+{
+    "OOKIUSDT": {
+        "symbol": "OOKIUSDT",
+        "orderid": 16284696,
+        "timestamp": 1641854859894,
+        "bought_at": "0.02150000",
+        "volume": 697,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41681.36653505,
+        "volume_of_BTC_buy": "125.88379000",
+        "trades_of_BTC_buy": 3071
+    }
+}
