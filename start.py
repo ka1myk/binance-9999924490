@@ -74,8 +74,9 @@ class txcolors:
 
 
 # tracks profit/loss each session
-global session_profit
+global session_profit, session_profit_USDT
 session_profit = 0
+session_profit_USDT = 0
 
 # print with timestamps
 old_out = sys.stdout
@@ -241,7 +242,7 @@ def external_signals():
 
 def pause_bot():
     '''Pause the script when exeternal indicators detect a bearish trend in the market'''
-    global bot_paused, session_profit, hsp_head
+    global bot_paused, session_profit, hsp_head, session_profit_USDT
 
     # start counting for how long the bot's been paused
     start_time = time.perf_counter()
@@ -386,7 +387,7 @@ def buy():
 def sell_coins():
     '''sell coins that have reached the STOP LOSS or TAKE PROFIT threshold'''
 
-    global hsp_head, session_profit
+    global hsp_head, session_profit, session_profit_USDT
 
     last_price = get_price(False)  # don't populate rolling window
     # last_price = get_price(add_to_historical=True) # don't populate rolling window
