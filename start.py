@@ -459,8 +459,9 @@ def sell_coins():
                         f"|{TEST_MODE}|{coin}|{profit:.2f}|{PriceChange - (TRADING_FEE * 2):.2f}%|{d_in_ms - coins_sold[coin]['timestamp']}|{klines_info[0][5]}|{klines_info[0][8]}|{coins_sold[coin]['volume_of_BTC_buy']}|{coins_sold[coin]['trades_of_BTC_buy']}|{coins_sold[coin]['volume']}|{avgPriceBTCUSDT_sell}|{coins_sold[coin]['avgPriceBTCUSDT_buy']}|{BuyPrice}|{LastPrice}|{MAX_COINS}|{QUANTITY}|{TIME_DIFFERENCE}|{RECHECK_INTERVAL}|{CHANGE_IN_PRICE}|{STOP_LOSS}|{TAKE_PROFIT}|{CUSTOM_LIST}|{USE_TRAILING_STOP_LOSS}|{TRAILING_STOP_LOSS}|{TRAILING_TAKE_PROFIT}|{EXCHANGE}|{SCREENER}|{SYMBOL}|{THRESHOLD}|{TIME_TO_WAIT}|{MY_EXCHANGE}|{MY_SCREENER}|{MY_FIRST_INTERVAL}|{MY_SECOND_INTERVAL}|{TA_BUY_THRESHOLD}|{OSC_INDICATORS}|{OSC_THRESHOLD}|{MA_INDICATORS}|{MA_THRESHOLD}")
 
                     session_profit = session_profit + (PriceChange - (TRADING_FEE * 2))
+                    session_profit_USDT = session_profit_USDT + profit
                     telegram_bot_sendtext(
-                        f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% Session profit:{session_profit:.2f}% Est:{(QUANTITY * session_profit)/100:.2f}")
+                        f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% Session profit:{session_profit:.2f}% Est:{session_profit_USDT:.2f}")
 
 
 
