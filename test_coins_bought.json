@@ -95,16 +95,28 @@
         "volume_of_BTC_buy": "15.37438000",
         "trades_of_BTC_buy": 450
     },
-    "RAREUSDT": {
-        "symbol": "RAREUSDT",
+    "MBOXUSDT": {
+        "symbol": "MBOXUSDT",
         "orderid": 0,
-        "timestamp": 1641822588171,
-        "bought_at": "0.77800000",
-        "volume": 19.3,
+        "timestamp": 1641822628561,
+        "bought_at": "3.69800000",
+        "volume": 4.1,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 40817.72532752,
-        "volume_of_BTC_buy": "7.61244000",
-        "trades_of_BTC_buy": 384
+        "avgPriceBTCUSDT_buy": 40813.41254697,
+        "volume_of_BTC_buy": "4.25652000",
+        "trades_of_BTC_buy": 257
+    },
+    "INJUSDT": {
+        "symbol": "INJUSDT",
+        "orderid": 0,
+        "timestamp": 1641822707071,
+        "bought_at": "6.62700000",
+        "volume": 2.3,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 40809.90891456,
+        "volume_of_BTC_buy": "20.24915000",
+        "trades_of_BTC_buy": 583
     }
 }
