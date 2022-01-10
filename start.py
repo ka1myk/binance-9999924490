@@ -159,6 +159,7 @@ def wait_for_price():
         time.sleep((timedelta(minutes=float(TIME_DIFFERENCE / RECHECK_INTERVAL)) - (
                 datetime.now() - historical_prices[hsp_head]['BNB' + PAIR_WITH]['time'])).total_seconds())
 
+    print(QUANTITY)
     print(f'Working...Session profit:{session_profit:.2f}% Est:${(QUANTITY * session_profit)/100:.2f}')
 
     # retreive latest prices
@@ -460,7 +461,7 @@ def sell_coins():
 
                     session_profit = session_profit + (PriceChange - (TRADING_FEE * 2))
 
-                    telegram_bot_sendtext(f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% {session_profit}")
+                    telegram_bot_sendtext(f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}% {(QUANTITY * session_profit) / 100:.2f}$ ")
 
 
 
