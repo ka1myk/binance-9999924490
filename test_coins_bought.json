@@ -947,18 +947,6 @@
         "volume_of_BTC_buy": "15.69261000",
         "trades_of_BTC_buy": 417
     },
-    "ARDRUSDT": {
-        "symbol": "ARDRUSDT",
-        "orderid": 0,
-        "timestamp": 1641792585063,
-        "bought_at": "0.23020000",
-        "volume": 65,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42158.11296413,
-        "volume_of_BTC_buy": "15.69261000",
-        "trades_of_BTC_buy": 417
-    },
     "POLSUSDT": {
         "symbol": "POLSUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 41994.31170363,
         "volume_of_BTC_buy": "6.19088000",
         "trades_of_BTC_buy": 385
+    },
+    "RLCUSDT": {
+        "symbol": "RLCUSDT",
+        "orderid": 0,
+        "timestamp": 1641795116584,
+        "bought_at": "2.92400000",
+        "volume": 5.1,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41923.29513194,
+        "volume_of_BTC_buy": "8.21961000",
+        "trades_of_BTC_buy": 281
     }
 }
