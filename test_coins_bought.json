@@ -1,14 +1,14 @@
 {
-    "ACHUSDT": {
-        "symbol": "ACHUSDT",
+    "DIAUSDT": {
+        "symbol": "DIAUSDT",
         "orderid": 0,
-        "timestamp": 1641846780211,
-        "bought_at": "0.07899000",
-        "volume": 189,
+        "timestamp": 1641849418598,
+        "bought_at": "1.16100000",
+        "volume": 12.9,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41354.85723623,
-        "volume_of_BTC_buy": "97.20966000",
-        "trades_of_BTC_buy": 1899
+        "avgPriceBTCUSDT_buy": 41800.67588496,
+        "volume_of_BTC_buy": "40.91188000",
+        "trades_of_BTC_buy": 1000
     }
 }
