@@ -34,5 +34,29 @@
         "avgPriceBTCUSDT_buy": 41892.11027686,
         "volume_of_BTC_buy": "4.80407000",
         "trades_of_BTC_buy": 255
+    },
+    "IRISUSDT": {
+        "symbol": "IRISUSDT",
+        "orderid": 0,
+        "timestamp": 1641808235818,
+        "bought_at": "0.08786000",
+        "volume": 170.7,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41851.65667235,
+        "volume_of_BTC_buy": "11.38212000",
+        "trades_of_BTC_buy": 329
+    },
+    "FORTHUSDT": {
+        "symbol": "FORTHUSDT",
+        "orderid": 0,
+        "timestamp": 1641808420183,
+        "bought_at": "7.98000000",
+        "volume": 1.88,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41865.47079398,
+        "volume_of_BTC_buy": "10.36622000",
+        "trades_of_BTC_buy": 345
     }
 }
