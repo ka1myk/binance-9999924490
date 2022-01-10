@@ -46,17 +46,5 @@
         "avgPriceBTCUSDT_buy": 41851.65667235,
         "volume_of_BTC_buy": "11.38212000",
         "trades_of_BTC_buy": 329
-    },
-    "STRAXUSDT": {
-        "symbol": "STRAXUSDT",
-        "orderid": 0,
-        "timestamp": 1641808612444,
-        "bought_at": "1.33000000",
-        "volume": 11.3,
-        "stop_loss": -10,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41834.88018665,
-        "volume_of_BTC_buy": "2.35301000",
-        "trades_of_BTC_buy": 209
     }
 }
