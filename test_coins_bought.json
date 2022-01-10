@@ -34,5 +34,17 @@
         "avgPriceBTCUSDT_buy": 41589.36074498,
         "volume_of_BTC_buy": "8.96667000",
         "trades_of_BTC_buy": 578
+    },
+    "NBSUSDT": {
+        "symbol": "NBSUSDT",
+        "orderid": 0,
+        "timestamp": 1641845951183,
+        "bought_at": "0.01386000",
+        "volume": 1082.3,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41286.71995305,
+        "volume_of_BTC_buy": "27.12289000",
+        "trades_of_BTC_buy": 1165
     }
 }
