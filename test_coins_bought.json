@@ -10,5 +10,17 @@
         "avgPriceBTCUSDT_buy": 41811.75119574,
         "volume_of_BTC_buy": "5.88762000",
         "trades_of_BTC_buy": 320
+    },
+    "POWRUSDT": {
+        "symbol": "POWRUSDT",
+        "orderid": 0,
+        "timestamp": 1641806541576,
+        "bought_at": "0.62760000",
+        "volume": 23,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41851.33928931,
+        "volume_of_BTC_buy": "8.10307000",
+        "trades_of_BTC_buy": 520
     }
 }
