@@ -1091,18 +1091,6 @@
         "volume_of_BTC_buy": "57.50333000",
         "trades_of_BTC_buy": 1738
     },
-    "IRISUSDT": {
-        "symbol": "IRISUSDT",
-        "orderid": 0,
-        "timestamp": 1641791135706,
-        "bought_at": "0.09034000",
-        "volume": 166.0,
-        "stop_loss": -3,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42179.19103947,
-        "volume_of_BTC_buy": "13.46623000",
-        "trades_of_BTC_buy": 727
-    },
     "WAVESUSDT": {
         "symbol": "WAVESUSDT",
         "orderid": 0,
@@ -1198,5 +1186,17 @@
         "avgPriceBTCUSDT_buy": 42155.03222653,
         "volume_of_BTC_buy": "9.76330000",
         "trades_of_BTC_buy": 415
+    },
+    "POWRUSDT": {
+        "symbol": "POWRUSDT",
+        "orderid": 0,
+        "timestamp": 1641791634988,
+        "bought_at": "0.63800000",
+        "volume": 23,
+        "stop_loss": -3,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42129.89234015,
+        "volume_of_BTC_buy": "7.29532000",
+        "trades_of_BTC_buy": 485
     }
 }
