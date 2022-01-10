@@ -94,5 +94,29 @@
         "avgPriceBTCUSDT_buy": 41879.59942042,
         "volume_of_BTC_buy": "22.61537000",
         "trades_of_BTC_buy": 503
+    },
+    "PHAUSDT": {
+        "symbol": "PHAUSDT",
+        "orderid": 0,
+        "timestamp": 1641811920183,
+        "bought_at": "0.38930000",
+        "volume": 38,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41897.50143029,
+        "volume_of_BTC_buy": "3.17904000",
+        "trades_of_BTC_buy": 293
+    },
+    "PEOPLEUSDT": {
+        "symbol": "PEOPLEUSDT",
+        "orderid": 0,
+        "timestamp": 1641812043918,
+        "bought_at": "0.08440000",
+        "volume": 177.7,
+        "stop_loss": -10,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41857.02226765,
+        "volume_of_BTC_buy": "11.37803000",
+        "trades_of_BTC_buy": 358
     }
 }
