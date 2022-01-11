@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "38.95650000",
         "trades_of_BTC_buy": 1035
     },
-    "HIVEUSDT": {
-        "symbol": "HIVEUSDT",
-        "orderid": 201836892,
-        "timestamp": 1641859551713,
-        "bought_at": "1.25470000",
-        "volume": 11,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41790.78524309,
-        "volume_of_BTC_buy": "82.80909000",
-        "trades_of_BTC_buy": 2089
-    },
     "MFTUSDT": {
         "symbol": "MFTUSDT",
         "orderid": 163884319,
@@ -95,16 +83,16 @@
         "volume_of_BTC_buy": "22.47184000",
         "trades_of_BTC_buy": 720
     },
-    "CVPUSDT": {
-        "symbol": "CVPUSDT",
-        "orderid": 10990965,
-        "timestamp": 1641867833430,
-        "bought_at": "1.27500000",
-        "volume": 11.8,
+    "BTGUSDT": {
+        "symbol": "BTGUSDT",
+        "orderid": 61676249,
+        "timestamp": 1641868192621,
+        "bought_at": "36.21000000",
+        "volume": 0.41,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41983.57678754,
-        "volume_of_BTC_buy": "22.47184000",
-        "trades_of_BTC_buy": 720
+        "avgPriceBTCUSDT_buy": 42144.86029626,
+        "volume_of_BTC_buy": "15.02298000",
+        "trades_of_BTC_buy": 535
     }
 }
