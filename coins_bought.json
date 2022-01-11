@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "35.01733000",
         "trades_of_BTC_buy": 1239
     },
-    "BTGUSDT": {
-        "symbol": "BTGUSDT",
-        "orderid": 57187993,
-        "timestamp": 1637148151491,
-        "bought_at": "36.00000000",
-        "volume": 0.42,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41735.34929278,
-        "volume_of_BTC_buy": "40.19903000",
-        "trades_of_BTC_buy": 1047
-    },
     "SPELLUSDT": {
         "symbol": "SPELLUSDT",
         "orderid": 7016633,
