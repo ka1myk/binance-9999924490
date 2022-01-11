@@ -167,16 +167,16 @@
         "volume_of_BTC_buy": "12.65939000",
         "trades_of_BTC_buy": 354
     },
-    "ATMUSDT": {
-        "symbol": "ATMUSDT",
-        "orderid": 89170487,
-        "timestamp": 1641896089539,
-        "bought_at": "6.69000000",
-        "volume": 2.24,
+    "SYSUSDT": {
+        "symbol": "SYSUSDT",
+        "orderid": 43570863,
+        "timestamp": 1641896215419,
+        "bought_at": "1.00220000",
+        "volume": 14,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41972.29298883,
-        "volume_of_BTC_buy": "36.64934000",
-        "trades_of_BTC_buy": 530
+        "avgPriceBTCUSDT_buy": 41884.58501687,
+        "volume_of_BTC_buy": "30.48904000",
+        "trades_of_BTC_buy": 531
     }
 }
