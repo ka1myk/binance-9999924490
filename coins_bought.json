@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 41766.98788144,
         "volume_of_BTC_buy": "26.48438000",
         "trades_of_BTC_buy": 890
+    },
+    "LAZIOUSDT": {
+        "symbol": "LAZIOUSDT",
+        "orderid": 75000703,
+        "timestamp": 1641903647719,
+        "bought_at": "4.14980000",
+        "volume": 3.61,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41866.18224588,
+        "volume_of_BTC_buy": "11.82732000",
+        "trades_of_BTC_buy": 438
     }
 }
