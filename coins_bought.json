@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "45.00404000",
         "trades_of_BTC_buy": 986
     },
-    "DEGOUSDT": {
-        "symbol": "DEGOUSDT",
-        "orderid": 116673445,
-        "timestamp": 1641859318644,
-        "bought_at": "5.17000000",
-        "volume": 2.9,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41839.08021788,
-        "volume_of_BTC_buy": "47.08596000",
-        "trades_of_BTC_buy": 1101
-    },
     "ARDRUSDT": {
         "symbol": "ARDRUSDT",
         "orderid": 193460945,
@@ -71,16 +59,28 @@
         "volume_of_BTC_buy": "33.02629000",
         "trades_of_BTC_buy": 1262
     },
-    "ELFUSDT": {
-        "symbol": "ELFUSDT",
-        "orderid": 33996817,
-        "timestamp": 1641859683815,
-        "bought_at": "0.41460000",
-        "volume": 36.2,
+    "FIDAUSDT": {
+        "symbol": "FIDAUSDT",
+        "orderid": 28435391,
+        "timestamp": 1641859902935,
+        "bought_at": "3.07300000",
+        "volume": 4.9,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41755.45115579,
-        "volume_of_BTC_buy": "52.04687000",
-        "trades_of_BTC_buy": 1446
+        "avgPriceBTCUSDT_buy": 41720.77495962,
+        "volume_of_BTC_buy": "37.33461000",
+        "trades_of_BTC_buy": 1188
+    },
+    "ACHUSDT": {
+        "symbol": "ACHUSDT",
+        "orderid": 1592547,
+        "timestamp": 1641859980900,
+        "bought_at": "0.07908000",
+        "volume": 189,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41731.80311856,
+        "volume_of_BTC_buy": "56.42801000",
+        "trades_of_BTC_buy": 1299
     }
 }
