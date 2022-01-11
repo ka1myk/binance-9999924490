@@ -155,18 +155,6 @@
         "volume_of_BTC_buy": "12.79324000",
         "trades_of_BTC_buy": 400
     },
-    "ROSEUSDT": {
-        "symbol": "ROSEUSDT",
-        "orderid": 190876629,
-        "timestamp": 1637678790961,
-        "bought_at": "0.39600000",
-        "volume": 37.9,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41764.77626844,
-        "volume_of_BTC_buy": "9.39917000",
-        "trades_of_BTC_buy": 396
-    },
     "LSKUSDT": {
         "symbol": "LSKUSDT",
         "orderid": 252042612,
@@ -190,5 +178,17 @@
         "avgPriceBTCUSDT_buy": 41646.27884736,
         "volume_of_BTC_buy": "21.43908000",
         "trades_of_BTC_buy": 532
+    },
+    "ERNUSDT": {
+        "symbol": "ERNUSDT",
+        "orderid": 49006433,
+        "timestamp": 1641909766696,
+        "bought_at": "8.39800000",
+        "volume": 1.8,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41708.98709995,
+        "volume_of_BTC_buy": "7.08076000",
+        "trades_of_BTC_buy": 334
     }
 }
