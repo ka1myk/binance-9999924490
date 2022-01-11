@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "48.53705000",
         "trades_of_BTC_buy": 1179
     },
-    "IOTXUSDT": {
-        "symbol": "IOTXUSDT",
-        "orderid": 412013439,
-        "timestamp": 1641864835744,
-        "bought_at": "0.09911000",
-        "volume": 151,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41901.92813781,
-        "volume_of_BTC_buy": "9.65243000",
-        "trades_of_BTC_buy": 582
-    },
     "INJUSDT": {
         "symbol": "INJUSDT",
         "orderid": 224464009,
@@ -104,18 +92,6 @@
         "stop_loss": -20,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 42000.13101964,
-        "volume_of_BTC_buy": "17.95591000",
-        "trades_of_BTC_buy": 709
-    },
-    "BTGUSDT": {
-        "symbol": "BTGUSDT",
-        "orderid": 61663048,
-        "timestamp": 1641865159188,
-        "bought_at": "36.08000000",
-        "volume": 0.42,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41993.11657157,
         "volume_of_BTC_buy": "17.95591000",
         "trades_of_BTC_buy": 709
     }
