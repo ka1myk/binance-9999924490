@@ -106,17 +106,5 @@
         "avgPriceBTCUSDT_buy": 41619.43207104,
         "volume_of_BTC_buy": "48.53705000",
         "trades_of_BTC_buy": 1179
-    },
-    "PNTUSDT": {
-        "symbol": "PNTUSDT",
-        "orderid": 200513714,
-        "timestamp": 1641863579022,
-        "bought_at": "0.88610000",
-        "volume": 16,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41665.63242839,
-        "volume_of_BTC_buy": "52.05163000",
-        "trades_of_BTC_buy": 1015
     }
 }
