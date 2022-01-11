@@ -83,18 +83,6 @@
         "volume_of_BTC_buy": "25.10374000",
         "trades_of_BTC_buy": 879
     },
-    "BADGERUSDT": {
-        "symbol": "BADGERUSDT",
-        "orderid": 94690791,
-        "timestamp": 1641877634811,
-        "bought_at": "12.12000000",
-        "volume": 1.24,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42252.0562077,
-        "volume_of_BTC_buy": "30.69954000",
-        "trades_of_BTC_buy": 861
-    },
     "REPUSDT": {
         "symbol": "REPUSDT",
         "orderid": 148524096,
@@ -154,5 +142,17 @@
         "avgPriceBTCUSDT_buy": 42123.63419267,
         "volume_of_BTC_buy": "12.26566000",
         "trades_of_BTC_buy": 355
+    },
+    "PHAUSDT": {
+        "symbol": "PHAUSDT",
+        "orderid": 46290781,
+        "timestamp": 1641887815850,
+        "bought_at": "0.38990000",
+        "volume": 38,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42175.94573558,
+        "volume_of_BTC_buy": "12.96961000",
+        "trades_of_BTC_buy": 374
     }
 }
