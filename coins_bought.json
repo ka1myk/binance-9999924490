@@ -119,30 +119,6 @@
         "volume_of_BTC_buy": "15.87137000",
         "trades_of_BTC_buy": 473
     },
-    "SANTOSUSDT": {
-        "symbol": "SANTOSUSDT",
-        "orderid": 9193243,
-        "timestamp": 1641895394449,
-        "bought_at": "4.19300000",
-        "volume": 3.58,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41981.19745674,
-        "volume_of_BTC_buy": "14.34306000",
-        "trades_of_BTC_buy": 443
-    },
-    "PORTOUSDT": {
-        "symbol": "PORTOUSDT",
-        "orderid": 41988737,
-        "timestamp": 1641895683481,
-        "bought_at": "3.24950000",
-        "volume": 4.62,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42016.93854605,
-        "volume_of_BTC_buy": "12.65939000",
-        "trades_of_BTC_buy": 354
-    },
     "ACMUSDT": {
         "symbol": "ACMUSDT",
         "orderid": 72423408,
