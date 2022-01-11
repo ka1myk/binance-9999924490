@@ -70,29 +70,5 @@
         "avgPriceBTCUSDT_buy": 41619.43207104,
         "volume_of_BTC_buy": "48.53705000",
         "trades_of_BTC_buy": 1179
-    },
-    "KP3RUSDT": {
-        "symbol": "KP3RUSDT",
-        "orderid": 38592979,
-        "timestamp": 1641867813159,
-        "bought_at": "1187.20000000",
-        "volume": 0.01,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41973.6454912,
-        "volume_of_BTC_buy": "22.47184000",
-        "trades_of_BTC_buy": 720
-    },
-    "REPUSDT": {
-        "symbol": "REPUSDT",
-        "orderid": 148424596,
-        "timestamp": 1641869086831,
-        "bought_at": "16.55000000",
-        "volume": 0.91,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42142.95897466,
-        "volume_of_BTC_buy": "27.26129000",
-        "trades_of_BTC_buy": 759
     }
 }
