@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "7.17409000",
         "trades_of_BTC_buy": 296
     },
-    "KLAYUSDT": {
-        "symbol": "KLAYUSDT",
-        "orderid": 44252872,
-        "timestamp": 1641883317679,
-        "bought_at": "1.33500000",
-        "volume": 11.2,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42131.04562236,
-        "volume_of_BTC_buy": "16.73429000",
-        "trades_of_BTC_buy": 669
-    },
     "PHAUSDT": {
         "symbol": "PHAUSDT",
         "orderid": 46290781,
