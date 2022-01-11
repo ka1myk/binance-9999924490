@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "11.08723000",
         "trades_of_BTC_buy": 388
     },
-    "GLMRUSDT": {
-        "symbol": "GLMRUSDT",
-        "orderid": 617259,
-        "timestamp": 1641921812602,
-        "bought_at": "14.83910000",
-        "volume": 1.0,
+    "BARUSDT": {
+        "symbol": "BARUSDT",
+        "orderid": 43387753,
+        "timestamp": 1641922137465,
+        "bought_at": "7.85000000",
+        "volume": 1.91,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42877.91999557,
-        "volume_of_BTC_buy": "9.77801000",
-        "trades_of_BTC_buy": 358
+        "avgPriceBTCUSDT_buy": 42475.36793299,
+        "volume_of_BTC_buy": "34.58377000",
+        "trades_of_BTC_buy": 957
     }
 }
