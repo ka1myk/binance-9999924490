@@ -214,5 +214,29 @@
         "avgPriceBTCUSDT_buy": 42681.34796314,
         "volume_of_BTC_buy": "9.60370000",
         "trades_of_BTC_buy": 480
+    },
+    "TRIBEUSDT": {
+        "symbol": "TRIBEUSDT",
+        "orderid": 27875135,
+        "timestamp": 1641929205512,
+        "bought_at": "1.01740000",
+        "volume": 14,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42767.20813104,
+        "volume_of_BTC_buy": "43.17196000",
+        "trades_of_BTC_buy": 1044
+    },
+    "GLMRUSDT": {
+        "symbol": "GLMRUSDT",
+        "orderid": 1169943,
+        "timestamp": 1641929395972,
+        "bought_at": "14.92490000",
+        "volume": 1.0,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42724.18762854,
+        "volume_of_BTC_buy": "21.53741000",
+        "trades_of_BTC_buy": 667
     }
 }
