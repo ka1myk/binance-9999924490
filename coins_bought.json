@@ -118,5 +118,29 @@
         "avgPriceBTCUSDT_buy": 42141.34753517,
         "volume_of_BTC_buy": "7.17409000",
         "trades_of_BTC_buy": 296
+    },
+    "MOVRUSDT": {
+        "symbol": "MOVRUSDT",
+        "orderid": 17115351,
+        "timestamp": 1641882215031,
+        "bought_at": "159.00000000",
+        "volume": 0.094,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42147.93792658,
+        "volume_of_BTC_buy": "8.16400000",
+        "trades_of_BTC_buy": 467
+    },
+    "STPTUSDT": {
+        "symbol": "STPTUSDT",
+        "orderid": 158609348,
+        "timestamp": 1641882259710,
+        "bought_at": "0.08752000",
+        "volume": 171.4,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42139.48320506,
+        "volume_of_BTC_buy": "8.82638000",
+        "trades_of_BTC_buy": 384
     }
 }
