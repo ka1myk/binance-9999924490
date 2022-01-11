@@ -107,18 +107,6 @@
         "volume_of_BTC_buy": "6.77216000",
         "trades_of_BTC_buy": 398
     },
-    "PORTOUSDT": {
-        "symbol": "PORTOUSDT",
-        "orderid": 41944061,
-        "timestamp": 1641893869167,
-        "bought_at": "3.17980000",
-        "volume": 4.72,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42045.67980241,
-        "volume_of_BTC_buy": "10.03920000",
-        "trades_of_BTC_buy": 405
-    },
     "JUVUSDT": {
         "symbol": "JUVUSDT",
         "orderid": 110324114,
@@ -130,5 +118,17 @@
         "avgPriceBTCUSDT_buy": 42062.14885191,
         "volume_of_BTC_buy": "19.03847000",
         "trades_of_BTC_buy": 499
+    },
+    "ACMUSDT": {
+        "symbol": "ACMUSDT",
+        "orderid": 67658960,
+        "timestamp": 1637097418210,
+        "bought_at": "4.75300000",
+        "volume": 3.2,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42071.42726364,
+        "volume_of_BTC_buy": "5.74485000",
+        "trades_of_BTC_buy": 263
     }
 }
