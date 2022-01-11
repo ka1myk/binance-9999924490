@@ -191,16 +191,28 @@
         "volume_of_BTC_buy": "9.60370000",
         "trades_of_BTC_buy": 480
     },
+    "RGTUSDT": {
+        "symbol": "RGTUSDT",
+        "orderid": 12333925,
+        "timestamp": 1641931832070,
+        "bought_at": "26.83000000",
+        "volume": 0.56,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42978.27597584,
+        "volume_of_BTC_buy": "11.33697000",
+        "trades_of_BTC_buy": 527
+    },
     "GLMRUSDT": {
         "symbol": "GLMRUSDT",
-        "orderid": 1352112,
-        "timestamp": 1641931535935,
-        "bought_at": "14.45630000",
+        "orderid": 1394732,
+        "timestamp": 1641932065598,
+        "bought_at": "14.54820000",
         "volume": 1.0,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42987.69395044,
-        "volume_of_BTC_buy": "28.66343000",
-        "trades_of_BTC_buy": 654
+        "avgPriceBTCUSDT_buy": 42853.9486473,
+        "volume_of_BTC_buy": "27.20839000",
+        "trades_of_BTC_buy": 633
     }
 }
