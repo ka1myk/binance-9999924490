@@ -157,26 +157,14 @@
     },
     "BARUSDT": {
         "symbol": "BARUSDT",
-        "orderid": 43364023,
-        "timestamp": 1641905976253,
-        "bought_at": "7.97000000",
+        "orderid": 43365318,
+        "timestamp": 1641906253836,
+        "bought_at": "8.00000000",
         "volume": 1.88,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41847.1281099,
-        "volume_of_BTC_buy": "32.15596000",
-        "trades_of_BTC_buy": 615
-    },
-    "PORTOUSDT": {
-        "symbol": "PORTOUSDT",
-        "orderid": 42111921,
-        "timestamp": 1641905316689,
-        "bought_at": "3.22470000",
-        "volume": 4.65,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41844.57254865,
-        "volume_of_BTC_buy": "32.15596000",
-        "trades_of_BTC_buy": 615
+        "avgPriceBTCUSDT_buy": 41807.18693348,
+        "volume_of_BTC_buy": "16.33339000",
+        "trades_of_BTC_buy": 399
     }
 }
