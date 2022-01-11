@@ -143,16 +143,16 @@
         "volume_of_BTC_buy": "13.97480000",
         "trades_of_BTC_buy": 432
     },
-    "BARUSDT": {
-        "symbol": "BARUSDT",
-        "orderid": 43365318,
-        "timestamp": 1641906253836,
-        "bought_at": "8.00000000",
-        "volume": 1.88,
+    "SANTOSUSDT": {
+        "symbol": "SANTOSUSDT",
+        "orderid": 9427766,
+        "timestamp": 1641906368838,
+        "bought_at": "4.43600000",
+        "volume": 3.38,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41807.18693348,
-        "volume_of_BTC_buy": "16.33339000",
-        "trades_of_BTC_buy": 399
+        "avgPriceBTCUSDT_buy": 41856.52565246,
+        "volume_of_BTC_buy": "12.79324000",
+        "trades_of_BTC_buy": 400
     }
 }
