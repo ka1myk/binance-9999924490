@@ -191,18 +191,6 @@
         "volume_of_BTC_buy": "10.68711000",
         "trades_of_BTC_buy": 475
     },
-    "GLMRUSDT": {
-        "symbol": "GLMRUSDT",
-        "orderid": 810647,
-        "timestamp": 1641923856460,
-        "bought_at": "14.60620000",
-        "volume": 1.0,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42520.93832221,
-        "volume_of_BTC_buy": "17.64942000",
-        "trades_of_BTC_buy": 617
-    },
     "CVXUSDT": {
         "symbol": "CVXUSDT",
         "orderid": 8043870,
