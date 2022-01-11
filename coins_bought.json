@@ -215,18 +215,6 @@
         "volume_of_BTC_buy": "9.17373000",
         "trades_of_BTC_buy": 418
     },
-    "BETAUSDT": {
-        "symbol": "BETAUSDT",
-        "orderid": 84212302,
-        "timestamp": 1641913756221,
-        "bought_at": "0.47666000",
-        "volume": 31,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42033.52656295,
-        "volume_of_BTC_buy": "43.57563000",
-        "trades_of_BTC_buy": 775
-    },
     "SFPUSDT": {
         "symbol": "SFPUSDT",
         "orderid": 339590603,
@@ -238,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42017.75832891,
         "volume_of_BTC_buy": "43.57563000",
         "trades_of_BTC_buy": 775
+    },
+    "MOVRUSDT": {
+        "symbol": "MOVRUSDT",
+        "orderid": 17310237,
+        "timestamp": 1641912290102,
+        "bought_at": "171.30000000",
+        "volume": 0.088,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41944.03522391,
+        "volume_of_BTC_buy": "17.21917000",
+        "trades_of_BTC_buy": 358
     }
 }
