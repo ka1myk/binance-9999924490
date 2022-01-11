@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 41884.58501687,
         "volume_of_BTC_buy": "30.48904000",
         "trades_of_BTC_buy": 531
+    },
+    "ACMUSDT": {
+        "symbol": "ACMUSDT",
+        "orderid": 72391734,
+        "timestamp": 1641898732414,
+        "bought_at": "5.51800000",
+        "volume": 2.7,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41639.54097743,
+        "volume_of_BTC_buy": "20.82224000",
+        "trades_of_BTC_buy": 657
     }
 }
