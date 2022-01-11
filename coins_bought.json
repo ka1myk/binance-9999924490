@@ -83,16 +83,16 @@
         "volume_of_BTC_buy": "25.10374000",
         "trades_of_BTC_buy": 879
     },
-    "IRISUSDT": {
-        "symbol": "IRISUSDT",
-        "orderid": 148244894,
-        "timestamp": 1641872360326,
-        "bought_at": "0.08363000",
-        "volume": 179.4,
+    "RAREUSDT": {
+        "symbol": "RAREUSDT",
+        "orderid": 23157363,
+        "timestamp": 1641872562690,
+        "bought_at": "0.76000000",
+        "volume": 19.7,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42183.3053501,
-        "volume_of_BTC_buy": "18.78422000",
-        "trades_of_BTC_buy": 586
+        "avgPriceBTCUSDT_buy": 42155.226708,
+        "volume_of_BTC_buy": "10.11344000",
+        "trades_of_BTC_buy": 364
     }
 }
