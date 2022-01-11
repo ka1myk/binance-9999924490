@@ -191,18 +191,6 @@
         "volume_of_BTC_buy": "7.08076000",
         "trades_of_BTC_buy": 334
     },
-    "DOGEUSDT": {
-        "symbol": "DOGEUSDT",
-        "orderid": 2247616254,
-        "timestamp": 1641910483391,
-        "bought_at": "0.14970000",
-        "volume": 100,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41747.22809979,
-        "volume_of_BTC_buy": "7.18424000",
-        "trades_of_BTC_buy": 374
-    },
     "KP3RUSDT": {
         "symbol": "KP3RUSDT",
         "orderid": 38947705,
@@ -214,17 +202,5 @@
         "avgPriceBTCUSDT_buy": 41467.53790243,
         "volume_of_BTC_buy": "17.30331000",
         "trades_of_BTC_buy": 337
-    },
-    "LAZIOUSDT": {
-        "symbol": "LAZIOUSDT",
-        "orderid": 75185806,
-        "timestamp": 1641912115553,
-        "bought_at": "4.28700000",
-        "volume": 3.5,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41432.95893835,
-        "volume_of_BTC_buy": "17.80162000",
-        "trades_of_BTC_buy": 442
     }
 }
