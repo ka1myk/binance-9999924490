@@ -203,16 +203,16 @@
         "volume_of_BTC_buy": "27.20839000",
         "trades_of_BTC_buy": 633
     },
-    "RGTUSDT": {
-        "symbol": "RGTUSDT",
-        "orderid": 12345021,
-        "timestamp": 1641932631060,
-        "bought_at": "27.48000000",
-        "volume": 0.55,
+    "DUSKUSDT": {
+        "symbol": "DUSKUSDT",
+        "orderid": 132543989,
+        "timestamp": 1641932992821,
+        "bought_at": "0.67450000",
+        "volume": 22,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42838.12197999,
-        "volume_of_BTC_buy": "21.82286000",
-        "trades_of_BTC_buy": 912
+        "avgPriceBTCUSDT_buy": 42846.25979458,
+        "volume_of_BTC_buy": "31.77337000",
+        "trades_of_BTC_buy": 851
     }
 }
