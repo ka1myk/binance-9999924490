@@ -214,17 +214,5 @@
         "avgPriceBTCUSDT_buy": 41643.27034728,
         "volume_of_BTC_buy": "9.17373000",
         "trades_of_BTC_buy": 418
-    },
-    "WNXMUSDT": {
-        "symbol": "WNXMUSDT",
-        "orderid": 106253770,
-        "timestamp": 1641916278357,
-        "bought_at": "55.25000000",
-        "volume": 0.27,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41587.80377102,
-        "volume_of_BTC_buy": "14.29900000",
-        "trades_of_BTC_buy": 387
     }
 }
