@@ -446,6 +446,7 @@ def sell_coins():
                     # portfolioInBTC = float(client.get_account_snapshot(type='SPOT')['snapshotVos'][0]['data']['totalAssetOfBtc'])
                     avgPriceBTCUSDT_sell = float(client.get_avg_price(symbol='BTCUSDT')['price'])
                     # portfolioInUSDT = float(avgPriceBTCUSDT_sell * portfolioInBTC)
+                    USDT_free_balance = float(client.get_asset_balance(asset='USDT')['free'])
 
                     klines_info = client.get_klines(symbol=SYMBOL, interval=MY_FIRST_INTERVAL)
 
@@ -460,10 +461,13 @@ def sell_coins():
 
                     session_profit = session_profit + (PriceChange - (TRADING_FEE * 2))
 
+                    print(USDT_free_balance)
+
+                    #telegram_bot_sendtext(
+                    #    f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}%\nSession profit: {session_profit:.2f}%\nEst: {(QUANTITY * session_profit)/100:.2f} Coins: {len(coins_bought)} of {QUANTITY}")
+
                     telegram_bot_sendtext(
-                        f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}%\nSession profit: {session_profit:.2f}%\nEst: {(QUANTITY * session_profit)/100:.2f} Coins: {len(coins_bought)} of {QUANTITY}")
-
-
+                        f"{coin} {PriceChange - (TRADING_FEE * 2):.2f}% Session: {session_profit:.2f}%\nEst: {(QUANTITY * session_profit) / 100:.2f} Coins: {len(coins_bought)} of {QUANTITY}")
 
             continue
 
