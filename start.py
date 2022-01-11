@@ -467,7 +467,7 @@ def sell_coins():
                     #    f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}%\nSession profit: {session_profit:.2f}%\nEst: {(QUANTITY * session_profit)/100:.2f} Coins: {len(coins_bought)} of {QUANTITY}")
 
                     telegram_bot_sendtext(
-                        f"{coin} {PriceChange - (TRADING_FEE * 2):.2f}% Session {session_profit:.2f}%\nEst {(QUANTITY * session_profit) / 100:.2f} Coins {len(coins_bought)} of {QUANTITY}\nFree {USDT_free_balance:.2f}")
+                        f"{coin} {PriceChange - (TRADING_FEE * 2):.2f}%\nSession {session_profit:.2f}%\nEst {(QUANTITY * session_profit) / 100:.2f} Free {USDT_free_balance:.2f}\nCoins {len(coins_bought)} of {QUANTITY}")
 
             continue
 
