@@ -142,5 +142,17 @@
         "avgPriceBTCUSDT_buy": 42439.89100265,
         "volume_of_BTC_buy": "6.77216000",
         "trades_of_BTC_buy": 398
+    },
+    "UTKUSDT": {
+        "symbol": "UTKUSDT",
+        "orderid": 128115514,
+        "timestamp": 1641891544832,
+        "bought_at": "0.42370000",
+        "volume": 35,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41978.17125311,
+        "volume_of_BTC_buy": "20.94030000",
+        "trades_of_BTC_buy": 523
     }
 }
