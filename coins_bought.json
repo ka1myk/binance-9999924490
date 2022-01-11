@@ -118,5 +118,17 @@
         "avgPriceBTCUSDT_buy": 42045.67980241,
         "volume_of_BTC_buy": "10.03920000",
         "trades_of_BTC_buy": 405
+    },
+    "JUVUSDT": {
+        "symbol": "JUVUSDT",
+        "orderid": 110324114,
+        "timestamp": 1641894266868,
+        "bought_at": "8.19000000",
+        "volume": 1.83,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42062.14885191,
+        "volume_of_BTC_buy": "19.03847000",
+        "trades_of_BTC_buy": 499
     }
 }
