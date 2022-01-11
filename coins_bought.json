@@ -119,16 +119,40 @@
         "volume_of_BTC_buy": "29.85473000",
         "trades_of_BTC_buy": 825
     },
-    "ZENUSDT": {
-        "symbol": "ZENUSDT",
-        "orderid": 389692372,
-        "timestamp": 1641895142230,
-        "bought_at": "55.96000000",
-        "volume": 0.27,
+    "JUVUSDT": {
+        "symbol": "JUVUSDT",
+        "orderid": 110327894,
+        "timestamp": 1641894866898,
+        "bought_at": "8.15000000",
+        "volume": 1.84,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41996.10878934,
-        "volume_of_BTC_buy": "8.71394000",
-        "trades_of_BTC_buy": 435
+        "avgPriceBTCUSDT_buy": 41986.90109458,
+        "volume_of_BTC_buy": "10.40496000",
+        "trades_of_BTC_buy": 438
+    },
+    "ACHUSDT": {
+        "symbol": "ACHUSDT",
+        "orderid": 2110239,
+        "timestamp": 1641895280610,
+        "bought_at": "0.07415000",
+        "volume": 202,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41983.02009084,
+        "volume_of_BTC_buy": "15.87137000",
+        "trades_of_BTC_buy": 473
+    },
+    "SANTOSUSDT": {
+        "symbol": "SANTOSUSDT",
+        "orderid": 9193243,
+        "timestamp": 1641895394449,
+        "bought_at": "4.19300000",
+        "volume": 3.58,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41981.19745674,
+        "volume_of_BTC_buy": "14.34306000",
+        "trades_of_BTC_buy": 443
     }
 }
