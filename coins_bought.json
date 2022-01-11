@@ -215,28 +215,16 @@
         "volume_of_BTC_buy": "9.17373000",
         "trades_of_BTC_buy": 418
     },
-    "MOVRUSDT": {
-        "symbol": "MOVRUSDT",
-        "orderid": 17351146,
-        "timestamp": 1641915464203,
-        "bought_at": "166.50000000",
-        "volume": 0.09,
+    "WNXMUSDT": {
+        "symbol": "WNXMUSDT",
+        "orderid": 106253770,
+        "timestamp": 1641916278357,
+        "bought_at": "55.25000000",
+        "volume": 0.27,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41701.39428099,
-        "volume_of_BTC_buy": "16.29190000",
-        "trades_of_BTC_buy": 423
-    },
-    "OXTUSDT": {
-        "symbol": "OXTUSDT",
-        "orderid": 128731160,
-        "timestamp": 1641915514625,
-        "bought_at": "0.30300000",
-        "volume": 49,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41682.90367816,
-        "volume_of_BTC_buy": "16.16182000",
-        "trades_of_BTC_buy": 404
+        "avgPriceBTCUSDT_buy": 41587.80377102,
+        "volume_of_BTC_buy": "14.29900000",
+        "trades_of_BTC_buy": 387
     }
 }
