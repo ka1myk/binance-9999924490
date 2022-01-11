@@ -191,16 +191,16 @@
         "volume_of_BTC_buy": "30.25704000",
         "trades_of_BTC_buy": 692
     },
-    "UTKUSDT": {
-        "symbol": "UTKUSDT",
-        "orderid": 128305778,
-        "timestamp": 1641900722786,
-        "bought_at": "0.42730000",
-        "volume": 35,
+    "TRIBEUSDT": {
+        "symbol": "TRIBEUSDT",
+        "orderid": 27774738,
+        "timestamp": 1641901060710,
+        "bought_at": "0.93620000",
+        "volume": 16,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41851.26509188,
-        "volume_of_BTC_buy": "19.24766000",
-        "trades_of_BTC_buy": 486
+        "avgPriceBTCUSDT_buy": 41842.02373964,
+        "volume_of_BTC_buy": "11.65128000",
+        "trades_of_BTC_buy": 336
     }
 }
