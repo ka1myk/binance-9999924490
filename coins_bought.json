@@ -143,18 +143,6 @@
         "volume_of_BTC_buy": "19.95283000",
         "trades_of_BTC_buy": 289
     },
-    "PORTOUSDT": {
-        "symbol": "PORTOUSDT",
-        "orderid": 41870594,
-        "timestamp": 1641889618055,
-        "bought_at": "3.08500000",
-        "volume": 4.86,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42487.38442835,
-        "volume_of_BTC_buy": "5.88039000",
-        "trades_of_BTC_buy": 398
-    },
     "INJUSDT": {
         "symbol": "INJUSDT",
         "orderid": 224539566,
@@ -164,18 +152,6 @@
         "stop_loss": -20,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 42439.89100265,
-        "volume_of_BTC_buy": "6.77216000",
-        "trades_of_BTC_buy": 398
-    },
-    "RNDRUSDT": {
-        "symbol": "RNDRUSDT",
-        "orderid": 14411695,
-        "timestamp": 1641889767258,
-        "bought_at": "3.47800000",
-        "volume": 4.31,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42352.28266762,
         "volume_of_BTC_buy": "6.77216000",
         "trades_of_BTC_buy": 398
     }
