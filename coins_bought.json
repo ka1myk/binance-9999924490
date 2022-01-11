@@ -167,16 +167,64 @@
         "volume_of_BTC_buy": "21.43908000",
         "trades_of_BTC_buy": 532
     },
-    "GLMRUSDT": {
-        "symbol": "GLMRUSDT",
-        "orderid": 438087,
-        "timestamp": 1641920164805,
-        "bought_at": "14.84990000",
-        "volume": 1.0,
+    "WNXMUSDT": {
+        "symbol": "WNXMUSDT",
+        "orderid": 106274778,
+        "timestamp": 1641921311067,
+        "bought_at": "56.07000000",
+        "volume": 0.27,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42693.39361559,
-        "volume_of_BTC_buy": "38.16791000",
-        "trades_of_BTC_buy": 554
+        "avgPriceBTCUSDT_buy": 43010.16191687,
+        "volume_of_BTC_buy": "14.80327000",
+        "trades_of_BTC_buy": 517
+    },
+    "JUVUSDT": {
+        "symbol": "JUVUSDT",
+        "orderid": 110387329,
+        "timestamp": 1641921316803,
+        "bought_at": "8.01000000",
+        "volume": 1.87,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43010.68357784,
+        "volume_of_BTC_buy": "14.80327000",
+        "trades_of_BTC_buy": 517
+    },
+    "MINAUSDT": {
+        "symbol": "MINAUSDT",
+        "orderid": 68374325,
+        "timestamp": 1639002292038,
+        "bought_at": "3.34500000",
+        "volume": 4.5,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43011.19929846,
+        "volume_of_BTC_buy": "15.94301000",
+        "trades_of_BTC_buy": 387
+    },
+    "ANTUSDT": {
+        "symbol": "ANTUSDT",
+        "orderid": 228741464,
+        "timestamp": 1641921447645,
+        "bought_at": "8.21000000",
+        "volume": 1.8,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43006.68423207,
+        "volume_of_BTC_buy": "15.94301000",
+        "trades_of_BTC_buy": 387
+    },
+    "DATAUSDT": {
+        "symbol": "DATAUSDT",
+        "orderid": 253195242,
+        "timestamp": 1641921547570,
+        "bought_at": "0.10066000",
+        "volume": 149.0,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42962.52318091,
+        "volume_of_BTC_buy": "19.38465000",
+        "trades_of_BTC_buy": 505
     }
 }
