@@ -190,5 +190,29 @@
         "avgPriceBTCUSDT_buy": 41708.98709995,
         "volume_of_BTC_buy": "7.08076000",
         "trades_of_BTC_buy": 334
+    },
+    "MOVRUSDT": {
+        "symbol": "MOVRUSDT",
+        "orderid": 17289475,
+        "timestamp": 1641910200962,
+        "bought_at": "167.50000000",
+        "volume": 0.09,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41776.47608057,
+        "volume_of_BTC_buy": "9.70785000",
+        "trades_of_BTC_buy": 400
+    },
+    "DOGEUSDT": {
+        "symbol": "DOGEUSDT",
+        "orderid": 2247616254,
+        "timestamp": 1641910483391,
+        "bought_at": "0.14970000",
+        "volume": 100,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41747.22809979,
+        "volume_of_BTC_buy": "7.18424000",
+        "trades_of_BTC_buy": 374
     }
 }
