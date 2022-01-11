@@ -214,17 +214,5 @@
         "avgPriceBTCUSDT_buy": 41643.27034728,
         "volume_of_BTC_buy": "9.17373000",
         "trades_of_BTC_buy": 418
-    },
-    "ROSEUSDT": {
-        "symbol": "ROSEUSDT",
-        "orderid": 267017346,
-        "timestamp": 1641913054273,
-        "bought_at": "0.41052000",
-        "volume": 36.5,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41609.99569204,
-        "volume_of_BTC_buy": "7.19012000",
-        "trades_of_BTC_buy": 391
     }
 }
