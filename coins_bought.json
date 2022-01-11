@@ -58,29 +58,5 @@
         "avgPriceBTCUSDT_buy": 41720.77495962,
         "volume_of_BTC_buy": "37.33461000",
         "trades_of_BTC_buy": 1188
-    },
-    "REPUSDT": {
-        "symbol": "REPUSDT",
-        "orderid": 148338004,
-        "timestamp": 1641860176411,
-        "bought_at": "15.77000000",
-        "volume": 0.95,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41746.62651422,
-        "volume_of_BTC_buy": "30.82458000",
-        "trades_of_BTC_buy": 832
-    },
-    "PYRUSDT": {
-        "symbol": "PYRUSDT",
-        "orderid": 23562551,
-        "timestamp": 1641860334204,
-        "bought_at": "13.78000000",
-        "volume": 1.089,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41726.45689961,
-        "volume_of_BTC_buy": "45.06702000",
-        "trades_of_BTC_buy": 1056
     }
 }
