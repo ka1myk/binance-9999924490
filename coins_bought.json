@@ -202,5 +202,17 @@
         "avgPriceBTCUSDT_buy": 42853.9486473,
         "volume_of_BTC_buy": "27.20839000",
         "trades_of_BTC_buy": 633
+    },
+    "RGTUSDT": {
+        "symbol": "RGTUSDT",
+        "orderid": 12371096,
+        "timestamp": 1641934385404,
+        "bought_at": "27.17000000",
+        "volume": 0.55,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42765.00223421,
+        "volume_of_BTC_buy": "21.09588000",
+        "trades_of_BTC_buy": 716
     }
 }
