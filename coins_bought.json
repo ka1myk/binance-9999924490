@@ -106,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 42252.0562077,
         "volume_of_BTC_buy": "30.69954000",
         "trades_of_BTC_buy": 861
+    },
+    "REPUSDT": {
+        "symbol": "REPUSDT",
+        "orderid": 148496059,
+        "timestamp": 1641878667854,
+        "bought_at": "19.07000000",
+        "volume": 0.79,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42090.31597942,
+        "volume_of_BTC_buy": "65.13631000",
+        "trades_of_BTC_buy": 1475
     }
 }
