@@ -154,5 +154,41 @@
         "avgPriceBTCUSDT_buy": 41807.18693348,
         "volume_of_BTC_buy": "16.33339000",
         "trades_of_BTC_buy": 399
+    },
+    "UNFIUSDT": {
+        "symbol": "UNFIUSDT",
+        "orderid": 365277181,
+        "timestamp": 1641906694706,
+        "bought_at": "7.46300000",
+        "volume": 2.0,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41856.57112771,
+        "volume_of_BTC_buy": "10.73471000",
+        "trades_of_BTC_buy": 421
+    },
+    "LTOUSDT": {
+        "symbol": "LTOUSDT",
+        "orderid": 236904586,
+        "timestamp": 1641906712742,
+        "bought_at": "0.31000000",
+        "volume": 48,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41854.59672507,
+        "volume_of_BTC_buy": "10.73471000",
+        "trades_of_BTC_buy": 421
+    },
+    "KP3RUSDT": {
+        "symbol": "KP3RUSDT",
+        "orderid": 38947610,
+        "timestamp": 1641906898233,
+        "bought_at": "1194.19000000",
+        "volume": 0.01,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41841.49079157,
+        "volume_of_BTC_buy": "11.89591000",
+        "trades_of_BTC_buy": 400
     }
 }
