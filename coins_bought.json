@@ -178,17 +178,5 @@
         "avgPriceBTCUSDT_buy": 41742.1881799,
         "volume_of_BTC_buy": "7.83543000",
         "trades_of_BTC_buy": 310
-    },
-    "ATMUSDT": {
-        "symbol": "ATMUSDT",
-        "orderid": 89199197,
-        "timestamp": 1641908097307,
-        "bought_at": "6.96000000",
-        "volume": 2.16,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41767.57511065,
-        "volume_of_BTC_buy": "11.42152000",
-        "trades_of_BTC_buy": 498
     }
 }
