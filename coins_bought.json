@@ -179,18 +179,6 @@
         "volume_of_BTC_buy": "14.80327000",
         "trades_of_BTC_buy": 517
     },
-    "JUVUSDT": {
-        "symbol": "JUVUSDT",
-        "orderid": 110387329,
-        "timestamp": 1641921316803,
-        "bought_at": "8.01000000",
-        "volume": 1.87,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43010.68357784,
-        "volume_of_BTC_buy": "14.80327000",
-        "trades_of_BTC_buy": 517
-    },
     "MINAUSDT": {
         "symbol": "MINAUSDT",
         "orderid": 68374325,
