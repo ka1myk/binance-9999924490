@@ -143,18 +143,6 @@
         "volume_of_BTC_buy": "12.65939000",
         "trades_of_BTC_buy": 354
     },
-    "SYSUSDT": {
-        "symbol": "SYSUSDT",
-        "orderid": 43570863,
-        "timestamp": 1641896215419,
-        "bought_at": "1.00220000",
-        "volume": 14,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41884.58501687,
-        "volume_of_BTC_buy": "30.48904000",
-        "trades_of_BTC_buy": 531
-    },
     "DEGOUSDT": {
         "symbol": "DEGOUSDT",
         "orderid": 116675312,
@@ -167,16 +155,16 @@
         "volume_of_BTC_buy": "110.45759000",
         "trades_of_BTC_buy": 1738
     },
-    "IDEXUSDT": {
-        "symbol": "IDEXUSDT",
-        "orderid": 92249241,
-        "timestamp": 1641899627168,
-        "bought_at": "0.19877000",
-        "volume": 75.5,
+    "ALCXUSDT": {
+        "symbol": "ALCXUSDT",
+        "orderid": 8035853,
+        "timestamp": 1641899787984,
+        "bought_at": "268.60000000",
+        "volume": 0.0558,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41772.68604805,
-        "volume_of_BTC_buy": "22.53362000",
-        "trades_of_BTC_buy": 685
+        "avgPriceBTCUSDT_buy": 41777.34695371,
+        "volume_of_BTC_buy": "13.30006000",
+        "trades_of_BTC_buy": 437
     }
 }
