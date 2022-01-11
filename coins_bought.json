@@ -95,18 +95,6 @@
         "volume_of_BTC_buy": "30.04865000",
         "trades_of_BTC_buy": 573
     },
-    "KAVAUSDT": {
-        "symbol": "KAVAUSDT",
-        "orderid": 643703587,
-        "timestamp": 1641875277050,
-        "bought_at": "4.44100000",
-        "volume": 3.4,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42198.54137868,
-        "volume_of_BTC_buy": "19.11337000",
-        "trades_of_BTC_buy": 666
-    },
     "KLAYUSDT": {
         "symbol": "KLAYUSDT",
         "orderid": 44144286,
