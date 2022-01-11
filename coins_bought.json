@@ -95,16 +95,28 @@
         "volume_of_BTC_buy": "9.65243000",
         "trades_of_BTC_buy": 582
     },
-    "REPUSDT": {
-        "symbol": "REPUSDT",
-        "orderid": 148400599,
-        "timestamp": 1641864888344,
-        "bought_at": "17.64000000",
-        "volume": 0.85,
+    "INJUSDT": {
+        "symbol": "INJUSDT",
+        "orderid": 224464009,
+        "timestamp": 1641865141358,
+        "bought_at": "6.88600000",
+        "volume": 2.2,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41949.4413483,
-        "volume_of_BTC_buy": "39.09100000",
-        "trades_of_BTC_buy": 982
+        "avgPriceBTCUSDT_buy": 42000.13101964,
+        "volume_of_BTC_buy": "17.95591000",
+        "trades_of_BTC_buy": 709
+    },
+    "BTGUSDT": {
+        "symbol": "BTGUSDT",
+        "orderid": 61663048,
+        "timestamp": 1641865159188,
+        "bought_at": "36.08000000",
+        "volume": 0.42,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41993.11657157,
+        "volume_of_BTC_buy": "17.95591000",
+        "trades_of_BTC_buy": 709
     }
 }
