@@ -94,17 +94,5 @@
         "avgPriceBTCUSDT_buy": 42184.09986849,
         "volume_of_BTC_buy": "30.04865000",
         "trades_of_BTC_buy": 573
-    },
-    "KLAYUSDT": {
-        "symbol": "KLAYUSDT",
-        "orderid": 44144286,
-        "timestamp": 1641875372211,
-        "bought_at": "1.35000000",
-        "volume": 11.1,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42215.56157474,
-        "volume_of_BTC_buy": "15.02840000",
-        "trades_of_BTC_buy": 646
     }
 }
