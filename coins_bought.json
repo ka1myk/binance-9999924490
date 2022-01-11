@@ -142,5 +142,17 @@
         "avgPriceBTCUSDT_buy": 42083.29796363,
         "volume_of_BTC_buy": "35.56866000",
         "trades_of_BTC_buy": 512
+    },
+    "ZENUSDT": {
+        "symbol": "ZENUSDT",
+        "orderid": 389517693,
+        "timestamp": 1641883909273,
+        "bought_at": "57.23000000",
+        "volume": 0.26,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42045.58843367,
+        "volume_of_BTC_buy": "17.13400000",
+        "trades_of_BTC_buy": 321
     }
 }
