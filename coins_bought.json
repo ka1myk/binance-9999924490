@@ -70,5 +70,17 @@
         "avgPriceBTCUSDT_buy": 41677.16076335,
         "volume_of_BTC_buy": "118.77366000",
         "trades_of_BTC_buy": 2515
+    },
+    "IMXUSDT": {
+        "symbol": "IMXUSDT",
+        "orderid": 119039,
+        "timestamp": 1641861957259,
+        "bought_at": "3.81000000",
+        "volume": 3.94,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 41672.67358982,
+        "volume_of_BTC_buy": "35.01733000",
+        "trades_of_BTC_buy": 1239
     }
 }
