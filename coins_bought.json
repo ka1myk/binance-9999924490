@@ -190,5 +190,17 @@
         "avgPriceBTCUSDT_buy": 42548.40862149,
         "volume_of_BTC_buy": "21.68156000",
         "trades_of_BTC_buy": 597
+    },
+    "DEXEUSDT": {
+        "symbol": "DEXEUSDT",
+        "orderid": 42183510,
+        "timestamp": 1641977050765,
+        "bought_at": "10.06000000",
+        "volume": 1.49,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42580.48009354,
+        "volume_of_BTC_buy": "18.80017000",
+        "trades_of_BTC_buy": 497
     }
 }
