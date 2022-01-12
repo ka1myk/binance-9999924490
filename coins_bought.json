@@ -190,5 +190,17 @@
         "avgPriceBTCUSDT_buy": 43630.70225686,
         "volume_of_BTC_buy": "9.31943000",
         "trades_of_BTC_buy": 549
+    },
+    "MCUSDT": {
+        "symbol": "MCUSDT",
+        "orderid": 6092123,
+        "timestamp": 1642016381151,
+        "bought_at": "4.16000000",
+        "volume": 3.61,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43639.55104548,
+        "volume_of_BTC_buy": "12.46203000",
+        "trades_of_BTC_buy": 577
     }
 }
