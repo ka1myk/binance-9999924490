@@ -155,18 +155,6 @@
         "volume_of_BTC_buy": "9.29479000",
         "trades_of_BTC_buy": 552
     },
-    "SANTOSUSDT": {
-        "symbol": "SANTOSUSDT",
-        "orderid": 10231642,
-        "timestamp": 1642008516407,
-        "bought_at": "3.65600000",
-        "volume": 4.1,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43688.98043697,
-        "volume_of_BTC_buy": "6.00379000",
-        "trades_of_BTC_buy": 392
-    },
     "KP3RUSDT": {
         "symbol": "KP3RUSDT",
         "orderid": 40706288,
