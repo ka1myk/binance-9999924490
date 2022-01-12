@@ -226,17 +226,5 @@
         "avgPriceBTCUSDT_buy": 42498.36503146,
         "volume_of_BTC_buy": "8.16780000",
         "trades_of_BTC_buy": 653
-    },
-    "SANTOSUSDT": {
-        "symbol": "SANTOSUSDT",
-        "orderid": 9991486,
-        "timestamp": 1641956668618,
-        "bought_at": "3.46500000",
-        "volume": 4.33,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42555.05897134,
-        "volume_of_BTC_buy": "24.11297000",
-        "trades_of_BTC_buy": 774
     }
 }
