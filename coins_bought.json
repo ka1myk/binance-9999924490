@@ -179,18 +179,6 @@
         "volume_of_BTC_buy": "21.68156000",
         "trades_of_BTC_buy": 597
     },
-    "CVXUSDT": {
-        "symbol": "CVXUSDT",
-        "orderid": 8170754,
-        "timestamp": 1641962695661,
-        "bought_at": "39.64000000",
-        "volume": 0.378,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42897.61900908,
-        "volume_of_BTC_buy": "6.14578000",
-        "trades_of_BTC_buy": 390
-    },
     "FIROUSDT": {
         "symbol": "FIROUSDT",
         "orderid": 100772094,
