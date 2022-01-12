@@ -202,5 +202,17 @@
         "avgPriceBTCUSDT_buy": 42897.61900908,
         "volume_of_BTC_buy": "6.14578000",
         "trades_of_BTC_buy": 390
+    },
+    "FIROUSDT": {
+        "symbol": "FIROUSDT",
+        "orderid": 100772094,
+        "timestamp": 1641987502626,
+        "bought_at": "4.85500000",
+        "volume": 3.1,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42758.75518279,
+        "volume_of_BTC_buy": "5.20193000",
+        "trades_of_BTC_buy": 296
     }
 }
