@@ -166,17 +166,5 @@
         "avgPriceBTCUSDT_buy": 42548.40862149,
         "volume_of_BTC_buy": "21.68156000",
         "trades_of_BTC_buy": 597
-    },
-    "KP3RUSDT": {
-        "symbol": "KP3RUSDT",
-        "orderid": 40371440,
-        "timestamp": 1641992757751,
-        "bought_at": "1567.20000000",
-        "volume": 0.01,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43326.63288586,
-        "volume_of_BTC_buy": "4.20947000",
-        "trades_of_BTC_buy": 348
     }
 }
