@@ -178,17 +178,5 @@
         "avgPriceBTCUSDT_buy": 43714.40468845,
         "volume_of_BTC_buy": "49.18584000",
         "trades_of_BTC_buy": 1326
-    },
-    "YGGUSDT": {
-        "symbol": "YGGUSDT",
-        "orderid": 56021639,
-        "timestamp": 1642016799167,
-        "bought_at": "5.17800000",
-        "volume": 2.9,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43623.74568746,
-        "volume_of_BTC_buy": "9.75493000",
-        "trades_of_BTC_buy": 504
     }
 }
