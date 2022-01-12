@@ -1,16 +1,4 @@
 {
-    "MFTUSDT": {
-        "symbol": "MFTUSDT",
-        "orderid": 163884319,
-        "timestamp": 1641859563034,
-        "bought_at": "0.00834600",
-        "volume": 1797,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 41788.10553366,
-        "volume_of_BTC_buy": "30.66072000",
-        "trades_of_BTC_buy": 1204
-    },
     "FIDAUSDT": {
         "symbol": "FIDAUSDT",
         "orderid": 28435391,
