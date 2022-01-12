@@ -191,18 +191,6 @@
         "volume_of_BTC_buy": "26.27952000",
         "trades_of_BTC_buy": 737
     },
-    "IRISUSDT": {
-        "symbol": "IRISUSDT",
-        "orderid": 148644275,
-        "timestamp": 1641959861945,
-        "bought_at": "0.09900000",
-        "volume": 151.5,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42597.96981021,
-        "volume_of_BTC_buy": "14.54079000",
-        "trades_of_BTC_buy": 531
-    },
     "ROSEUSDT": {
         "symbol": "ROSEUSDT",
         "orderid": 270074017,
@@ -214,5 +202,17 @@
         "avgPriceBTCUSDT_buy": 42599.20726759,
         "volume_of_BTC_buy": "16.65952000",
         "trades_of_BTC_buy": 563
+    },
+    "NANOUSDT": {
+        "symbol": "NANOUSDT",
+        "orderid": 329805379,
+        "timestamp": 1641961701854,
+        "bought_at": "3.12500000",
+        "volume": 4.8,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42661.3854045,
+        "volume_of_BTC_buy": "24.83348000",
+        "trades_of_BTC_buy": 757
     }
 }
