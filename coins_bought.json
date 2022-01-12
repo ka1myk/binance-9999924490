@@ -202,5 +202,17 @@
         "avgPriceBTCUSDT_buy": 42599.20726759,
         "volume_of_BTC_buy": "16.65952000",
         "trades_of_BTC_buy": 563
+    },
+    "IRISUSDT": {
+        "symbol": "IRISUSDT",
+        "orderid": 148729641,
+        "timestamp": 1641963013044,
+        "bought_at": "0.09923000",
+        "volume": 151.2,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42593.96544056,
+        "volume_of_BTC_buy": "8.57180000",
+        "trades_of_BTC_buy": 437
     }
 }
