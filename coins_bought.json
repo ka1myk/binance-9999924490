@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42871.59962845,
         "volume_of_BTC_buy": "119.94289000",
         "trades_of_BTC_buy": 3078
+    },
+    "SLPUSDT": {
+        "symbol": "SLPUSDT",
+        "orderid": 199252604,
+        "timestamp": 1642115987008,
+        "bought_at": "0.01790000",
+        "volume": 893,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42609.90495905,
+        "volume_of_BTC_buy": "82.22541000",
+        "trades_of_BTC_buy": 2277
     }
 }
