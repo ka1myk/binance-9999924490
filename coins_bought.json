@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 43794.13801473,
         "volume_of_BTC_buy": "491.79609000",
         "trades_of_BTC_buy": 10124
+    },
+    "LRCUSDT": {
+        "symbol": "LRCUSDT",
+        "orderid": 647027799,
+        "timestamp": 1642074018405,
+        "bought_at": "1.57840000",
+        "volume": 9,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43692.18178572,
+        "volume_of_BTC_buy": "166.25349000",
+        "trades_of_BTC_buy": 4079
     }
 }
