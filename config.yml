@@ -35,7 +35,7 @@ trading_options:
   MAX_COINS: 20
 
   # the amount of time in MINUTES to calculate the difference from the current price (minimum: 1).
-  TIME_DIFFERENCE: 4
+  TIME_DIFFERENCE: 9
 
   # Number of times to check for TP/SL during each TIME_DIFFERENCE (minimum: 1).
   # Don't spam the Binance API, you will be banned (max 1200 requests per minute per IP).
@@ -45,7 +45,7 @@ trading_options:
   CHANGE_IN_PRICE: -3
 
   # define in % when to sell a coin that's not making a profit.
-  STOP_LOSS: 20
+  STOP_LOSS: 30
 
   # define in % when to take profit on a profitable coin.
   TAKE_PROFIT: .3
