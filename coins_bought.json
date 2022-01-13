@@ -133,14 +133,14 @@
     },
     "ARDRUSDT": {
         "symbol": "ARDRUSDT",
-        "orderid": 193616445,
-        "timestamp": 1641996116740,
-        "bought_at": "0.24080000",
+        "orderid": 193659037,
+        "timestamp": 1642032851525,
+        "bought_at": "0.24040000",
         "volume": 62,
         "stop_loss": -20,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 44015.90666041,
-        "volume_of_BTC_buy": "23.10184000",
-        "trades_of_BTC_buy": 935
+        "avgPriceBTCUSDT_buy": 43938.06321493,
+        "volume_of_BTC_buy": "26.21422000",
+        "trades_of_BTC_buy": 1049
     }
 }
