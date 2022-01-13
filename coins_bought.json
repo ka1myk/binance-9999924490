@@ -131,30 +131,6 @@
         "volume_of_BTC_buy": "16.64229000",
         "trades_of_BTC_buy": 612
     },
-    "BNBUSDT": {
-        "symbol": "BNBUSDT",
-        "orderid": 3553673076,
-        "timestamp": 1642068815590,
-        "bought_at": "485.80000000",
-        "volume": 0.031,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43966.24775434,
-        "volume_of_BTC_buy": "534.53747000",
-        "trades_of_BTC_buy": 10834
-    },
-    "XRPUSDT": {
-        "symbol": "XRPUSDT",
-        "orderid": 3882459596,
-        "timestamp": 1642068830262,
-        "bought_at": "0.79570000",
-        "volume": 18,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43950.60724445,
-        "volume_of_BTC_buy": "534.53747000",
-        "trades_of_BTC_buy": 10834
-    },
     "ANTUSDT": {
         "symbol": "ANTUSDT",
         "orderid": 231468415,
