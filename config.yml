@@ -42,7 +42,8 @@ trading_options:
   RECHECK_INTERVAL: 200
 
   # the difference in % between the first and second checks for the price.
-  CHANGE_IN_PRICE: -3
+  CHANGE_IN_PRICE_MIN: -3
+  CHANGE_IN_PRICE_MAX: -2
 
   # define in % when to sell a coin that's not making a profit.
   STOP_LOSS: 30

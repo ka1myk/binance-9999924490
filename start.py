@@ -176,9 +176,7 @@ def wait_for_price():
 
         # each coin with higher gains than our CHANGE_IN_PRICE is added to the volatile_coins dict if less than MAX_COINS is not reached.
         #print(CHANGE_IN_PRICE)
-        if threshold_check < CHANGE_IN_PRICE:
-
-        #if abs(threshold_check) < abs(CHANGE_IN_PRICE) and (threshold_check * CHANGE_IN_PRICE < -2):
+        if threshold_check < CHANGE_IN_PRICE_MAX and threshold_check > CHANGE_IN_PRICE_MIN:
 
             coins_up += 1
 
@@ -193,12 +191,11 @@ def wait_for_price():
                     volatile_coins[coin] = round(threshold_check, 3)
                     print(
                         f'{coin} has gained {volatile_coins[coin]}% within the last {TIME_DIFFERENCE} minutes, calculating volume in {PAIR_WITH}')
-
                 #else:
                 #    print(
                 #        f'{txcolors.WARNING}{coin} has gained {round(threshold_check, 3)}% within the last {TIME_DIFFERENCE} minutes, but you are holding max number of coins{txcolors.DEFAULT}')
 
-        elif threshold_check > CHANGE_IN_PRICE:
+        elif threshold_check > CHANGE_IN_PRICE_MAX and threshold_check < CHANGE_IN_PRICE_MIN:
             coins_down += 1
 
         else:
@@ -565,7 +562,10 @@ if __name__ == '__main__':
     FIATS = parsed_config['trading_options']['FIATS']
     TIME_DIFFERENCE = parsed_config['trading_options']['TIME_DIFFERENCE']
     RECHECK_INTERVAL = parsed_config['trading_options']['RECHECK_INTERVAL']
-    CHANGE_IN_PRICE = parsed_config['trading_options']['CHANGE_IN_PRICE']
+
+    CHANGE_IN_PRICE_MIN = parsed_config['trading_options']['CHANGE_IN_PRICE_MIN']
+    CHANGE_IN_PRICE_MAX = parsed_config['trading_options']['CHANGE_IN_PRICE_MAX']
+
     STOP_LOSS = parsed_config['trading_options']['STOP_LOSS']
     TAKE_PROFIT = parsed_config['trading_options']['TAKE_PROFIT']
     CUSTOM_LIST = parsed_config['trading_options']['CUSTOM_LIST']
