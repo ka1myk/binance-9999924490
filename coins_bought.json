@@ -203,18 +203,6 @@
         "volume_of_BTC_buy": "96.39449000",
         "trades_of_BTC_buy": 2531
     },
-    "WTCUSDT": {
-        "symbol": "WTCUSDT",
-        "orderid": 186277233,
-        "timestamp": 1642086765163,
-        "bought_at": "0.81000000",
-        "volume": 18,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43968.20527926,
-        "volume_of_BTC_buy": "96.39449000",
-        "trades_of_BTC_buy": 2531
-    },
     "KP3RUSDT": {
         "symbol": "KP3RUSDT",
         "orderid": 41605318,
@@ -238,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 43872.31879402,
         "volume_of_BTC_buy": "96.39449000",
         "trades_of_BTC_buy": 2531
+    },
+    "ENJUSDT": {
+        "symbol": "ENJUSDT",
+        "orderid": 811859349,
+        "timestamp": 1641907816521,
+        "bought_at": "2.51600000",
+        "volume": 6.0,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43743.04634174,
+        "volume_of_BTC_buy": "48.18488000",
+        "trades_of_BTC_buy": 2124
     }
 }
