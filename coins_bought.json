@@ -130,5 +130,17 @@
         "avgPriceBTCUSDT_buy": 43634.63739687,
         "volume_of_BTC_buy": "22.75837000",
         "trades_of_BTC_buy": 622
+    },
+    "1INCHUSDT": {
+        "symbol": "1INCHUSDT",
+        "orderid": 545375822,
+        "timestamp": 1642057791168,
+        "bought_at": "2.45000000",
+        "volume": 6.1,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43687.24017969,
+        "volume_of_BTC_buy": "16.64229000",
+        "trades_of_BTC_buy": 612
     }
 }
