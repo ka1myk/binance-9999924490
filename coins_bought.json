@@ -215,18 +215,6 @@
         "volume_of_BTC_buy": "869.02840000",
         "trades_of_BTC_buy": 17038
     },
-    "FORUSDT": {
-        "symbol": "FORUSDT",
-        "orderid": 46075913,
-        "timestamp": 1642071768864,
-        "bought_at": "0.06176000",
-        "volume": 242,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43793.33886116,
-        "volume_of_BTC_buy": "491.79609000",
-        "trades_of_BTC_buy": 10124
-    },
     "ANTUSDT": {
         "symbol": "ANTUSDT",
         "orderid": 231468415,
