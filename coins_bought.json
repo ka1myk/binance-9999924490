@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "48.39455000",
         "trades_of_BTC_buy": 2006
     },
-    "HIGHUSDT": {
-        "symbol": "HIGHUSDT",
-        "orderid": 6465383,
-        "timestamp": 1642092592880,
-        "bought_at": "9.86000000",
-        "volume": 1.521,
+    "DYDXUSDT": {
+        "symbol": "DYDXUSDT",
+        "orderid": 318123374,
+        "timestamp": 1642092679352,
+        "bought_at": "7.92600000",
+        "volume": 1.89,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43334.99306361,
-        "volume_of_BTC_buy": "48.39455000",
-        "trades_of_BTC_buy": 2006
+        "avgPriceBTCUSDT_buy": 43295.73055663,
+        "volume_of_BTC_buy": "33.63812000",
+        "trades_of_BTC_buy": 1846
     }
 }
