@@ -190,5 +190,53 @@
         "avgPriceBTCUSDT_buy": 44144.87504187,
         "volume_of_BTC_buy": "89.89567000",
         "trades_of_BTC_buy": 2559
+    },
+    "RLCUSDT": {
+        "symbol": "RLCUSDT",
+        "orderid": 528470158,
+        "timestamp": 1642086750210,
+        "bought_at": "2.91500000",
+        "volume": 5.1,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43988.57332181,
+        "volume_of_BTC_buy": "96.39449000",
+        "trades_of_BTC_buy": 2531
+    },
+    "WTCUSDT": {
+        "symbol": "WTCUSDT",
+        "orderid": 186277233,
+        "timestamp": 1642086765163,
+        "bought_at": "0.81000000",
+        "volume": 18,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43968.20527926,
+        "volume_of_BTC_buy": "96.39449000",
+        "trades_of_BTC_buy": 2531
+    },
+    "KP3RUSDT": {
+        "symbol": "KP3RUSDT",
+        "orderid": 41605318,
+        "timestamp": 1642085236057,
+        "bought_at": "1542.37000000",
+        "volume": 0.01,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43962.84981013,
+        "volume_of_BTC_buy": "96.39449000",
+        "trades_of_BTC_buy": 2531
+    },
+    "KAVAUSDT": {
+        "symbol": "KAVAUSDT",
+        "orderid": 646276065,
+        "timestamp": 1642086886261,
+        "bought_at": "4.77800000",
+        "volume": 3.1,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43872.31879402,
+        "volume_of_BTC_buy": "96.39449000",
+        "trades_of_BTC_buy": 2531
     }
 }
