@@ -38,13 +38,13 @@
     "ETHUSDT": {
         "symbol": "ETHUSDT",
         "orderid": 0,
-        "timestamp": 1642066106710,
-        "bought_at": "3365.01000000",
-        "volume": 0.0045,
+        "timestamp": 1642066360413,
+        "bought_at": "3374.11000000",
+        "volume": 0.0044,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43846.2307093,
-        "volume_of_BTC_buy": "91.04540000",
-        "trades_of_BTC_buy": 3217
+        "avgPriceBTCUSDT_buy": 43935.06899731,
+        "volume_of_BTC_buy": "144.80876000",
+        "trades_of_BTC_buy": 3969
     }
 }
