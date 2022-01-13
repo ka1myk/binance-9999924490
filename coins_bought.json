@@ -214,5 +214,17 @@
         "avgPriceBTCUSDT_buy": 43833.72698311,
         "volume_of_BTC_buy": "382.64767000",
         "trades_of_BTC_buy": 7133
+    },
+    "BNXUSDT": {
+        "symbol": "BNXUSDT",
+        "orderid": 15734513,
+        "timestamp": 1642071351293,
+        "bought_at": "38.90000000",
+        "volume": 0.386,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43825.74761383,
+        "volume_of_BTC_buy": "869.02840000",
+        "trades_of_BTC_buy": 17038
     }
 }
