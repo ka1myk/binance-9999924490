@@ -119,18 +119,6 @@
         "volume_of_BTC_buy": "7.22141000",
         "trades_of_BTC_buy": 391
     },
-    "KP3RUSDT": {
-        "symbol": "KP3RUSDT",
-        "orderid": 40706288,
-        "timestamp": 1642009551238,
-        "bought_at": "1550.87000000",
-        "volume": 0.01,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43714.40468845,
-        "volume_of_BTC_buy": "49.18584000",
-        "trades_of_BTC_buy": 1326
-    },
     "STRAXUSDT": {
         "symbol": "STRAXUSDT",
         "orderid": 128175617,
@@ -166,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 43634.63739687,
         "volume_of_BTC_buy": "22.75837000",
         "trades_of_BTC_buy": 622
+    },
+    "MBLUSDT": {
+        "symbol": "MBLUSDT",
+        "orderid": 145689268,
+        "timestamp": 1642038869150,
+        "bought_at": "0.00791700",
+        "volume": 1894,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43598.59368372,
+        "volume_of_BTC_buy": "20.17001000",
+        "trades_of_BTC_buy": 704
     }
 }
