@@ -154,5 +154,17 @@
         "avgPriceBTCUSDT_buy": 43769.24889287,
         "volume_of_BTC_buy": "44.12569000",
         "trades_of_BTC_buy": 990
+    },
+    "STPTUSDT": {
+        "symbol": "STPTUSDT",
+        "orderid": 158610259,
+        "timestamp": 1641882431824,
+        "bought_at": "0.09905000",
+        "volume": 151.4,
+        "stop_loss": -20,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43634.63739687,
+        "volume_of_BTC_buy": "22.75837000",
+        "trades_of_BTC_buy": 622
     }
 }
