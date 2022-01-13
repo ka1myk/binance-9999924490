@@ -166,5 +166,17 @@
         "avgPriceBTCUSDT_buy": 43760.59569073,
         "volume_of_BTC_buy": "147.75661000",
         "trades_of_BTC_buy": 3578
+    },
+    "CELOUSDT": {
+        "symbol": "CELOUSDT",
+        "orderid": 217418113,
+        "timestamp": 1642084912284,
+        "bought_at": "5.26000000",
+        "volume": 2.9,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 44368.37146869,
+        "volume_of_BTC_buy": "44.33884000",
+        "trades_of_BTC_buy": 2122
     }
 }
