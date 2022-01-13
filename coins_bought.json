@@ -23,18 +23,6 @@
         "volume_of_BTC_buy": "7.17409000",
         "trades_of_BTC_buy": 296
     },
-    "PHAUSDT": {
-        "symbol": "PHAUSDT",
-        "orderid": 46290781,
-        "timestamp": 1641887815850,
-        "bought_at": "0.38990000",
-        "volume": 38,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42175.94573558,
-        "volume_of_BTC_buy": "12.96961000",
-        "trades_of_BTC_buy": 374
-    },
     "INJUSDT": {
         "symbol": "INJUSDT",
         "orderid": 224539566,
