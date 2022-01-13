@@ -8,7 +8,7 @@ INTERVAL = Interval.INTERVAL_15_MINUTES  #Timeframe for analysis
 EXCHANGE = 'BINANCE'
 SCREENER = 'CRYPTO'
 SYMBOL = 'BTCUSDT'
-THRESHOLD = 1 # 7 of 15 MA's indicating sell
+THRESHOLD = 15 # 7 of 15 MA's indicating sell
 TIME_TO_WAIT = 1 # Minutes to wait between analysis
 FULL_LOG = False # List analysis result to console
 
