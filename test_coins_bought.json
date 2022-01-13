@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "207.17331000",
         "trades_of_BTC_buy": 5349
     },
-    "WNXMUSDT": {
-        "symbol": "WNXMUSDT",
-        "orderid": 0,
-        "timestamp": 1642064026277,
-        "bought_at": "54.60000000",
-        "volume": 0.27,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43829.44985821,
-        "volume_of_BTC_buy": "224.10265000",
-        "trades_of_BTC_buy": 4943
-    },
     "CAKEUSDT": {
         "symbol": "CAKEUSDT",
         "orderid": 0,
@@ -34,5 +22,29 @@
         "avgPriceBTCUSDT_buy": 43876.83371375,
         "volume_of_BTC_buy": "141.85979000",
         "trades_of_BTC_buy": 3997
+    },
+    "POLSUSDT": {
+        "symbol": "POLSUSDT",
+        "orderid": 0,
+        "timestamp": 1642064875957,
+        "bought_at": "2.44200000",
+        "volume": 6.1,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43801.37919022,
+        "volume_of_BTC_buy": "305.13318000",
+        "trades_of_BTC_buy": 7389
+    },
+    "PHAUSDT": {
+        "symbol": "PHAUSDT",
+        "orderid": 0,
+        "timestamp": 1642064894127,
+        "bought_at": "0.38440000",
+        "volume": 39,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43799.88552725,
+        "volume_of_BTC_buy": "305.13318000",
+        "trades_of_BTC_buy": 7389
     }
 }
