@@ -214,29 +214,5 @@
         "avgPriceBTCUSDT_buy": 43743.04634174,
         "volume_of_BTC_buy": "48.18488000",
         "trades_of_BTC_buy": 2124
-    },
-    "FTMUSDT": {
-        "symbol": "FTMUSDT",
-        "orderid": 1173586542,
-        "timestamp": 1642092554211,
-        "bought_at": "3.05140000",
-        "volume": 4,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43343.61454411,
-        "volume_of_BTC_buy": "48.39455000",
-        "trades_of_BTC_buy": 2006
-    },
-    "DYDXUSDT": {
-        "symbol": "DYDXUSDT",
-        "orderid": 318123374,
-        "timestamp": 1642092679352,
-        "bought_at": "7.92600000",
-        "volume": 1.89,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43295.73055663,
-        "volume_of_BTC_buy": "33.63812000",
-        "trades_of_BTC_buy": 1846
     }
 }
