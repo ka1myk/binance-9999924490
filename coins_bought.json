@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "48.18488000",
         "trades_of_BTC_buy": 2124
     },
-    "SUSHIUSDT": {
-        "symbol": "SUSHIUSDT",
-        "orderid": 889978853,
-        "timestamp": 1642090775417,
-        "bought_at": "7.35300000",
-        "volume": 2.0,
+    "MCUSDT": {
+        "symbol": "MCUSDT",
+        "orderid": 6197545,
+        "timestamp": 1642091050611,
+        "bought_at": "4.19000000",
+        "volume": 3.58,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43226.02659741,
-        "volume_of_BTC_buy": "45.22147000",
-        "trades_of_BTC_buy": 1807
+        "avgPriceBTCUSDT_buy": 43245.6112358,
+        "volume_of_BTC_buy": "56.30932000",
+        "trades_of_BTC_buy": 2121
     }
 }
