@@ -177,7 +177,6 @@ def wait_for_price():
         # each coin with higher gains than our CHANGE_IN_PRICE is added to the volatile_coins dict if less than MAX_COINS is not reached.
         #print(CHANGE_IN_PRICE)
         if threshold_check < CHANGE_IN_PRICE_MAX and threshold_check > CHANGE_IN_PRICE_MIN:
-
             coins_up += 1
 
             if coin not in volatility_cooloff:
