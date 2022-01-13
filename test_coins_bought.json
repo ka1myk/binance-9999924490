@@ -58,5 +58,17 @@
         "avgPriceBTCUSDT_buy": 43784.30464055,
         "volume_of_BTC_buy": "690.41731000",
         "trades_of_BTC_buy": 14438
+    },
+    "AKROUSDT": {
+        "symbol": "AKROUSDT",
+        "orderid": 0,
+        "timestamp": 1642068001095,
+        "bought_at": "0.02028000",
+        "volume": 739,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43857.4060521,
+        "volume_of_BTC_buy": "320.19032000",
+        "trades_of_BTC_buy": 5956
     }
 }
