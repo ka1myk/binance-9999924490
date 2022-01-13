@@ -203,40 +203,28 @@
         "volume_of_BTC_buy": "89.89567000",
         "trades_of_BTC_buy": 2559
     },
-    "FTMUSDT": {
-        "symbol": "FTMUSDT",
-        "orderid": 1172431487,
-        "timestamp": 1642085221993,
-        "bought_at": "3.08520000",
-        "volume": 4,
+    "FORUSDT": {
+        "symbol": "FORUSDT",
+        "orderid": 46141029,
+        "timestamp": 1642085419446,
+        "bought_at": "0.06341000",
+        "volume": 236,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 44132.02487579,
-        "volume_of_BTC_buy": "89.89567000",
-        "trades_of_BTC_buy": 2559
+        "avgPriceBTCUSDT_buy": 44050.21015608,
+        "volume_of_BTC_buy": "59.64374000",
+        "trades_of_BTC_buy": 2362
     },
-    "MCUSDT": {
-        "symbol": "MCUSDT",
-        "orderid": 6177918,
-        "timestamp": 1642085246240,
-        "bought_at": "4.34000000",
-        "volume": 3.46,
+    "MASKUSDT": {
+        "symbol": "MASKUSDT",
+        "orderid": 195833794,
+        "timestamp": 1642085645942,
+        "bought_at": "10.20900000",
+        "volume": 1.5,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 44125.79483352,
-        "volume_of_BTC_buy": "89.89567000",
-        "trades_of_BTC_buy": 2559
-    },
-    "ARUSDT": {
-        "symbol": "ARUSDT",
-        "orderid": 150558933,
-        "timestamp": 1640137740323,
-        "bought_at": "53.35000000",
-        "volume": 0.28,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 44083.99782769,
-        "volume_of_BTC_buy": "89.89567000",
-        "trades_of_BTC_buy": 2559
+        "avgPriceBTCUSDT_buy": 44048.64717566,
+        "volume_of_BTC_buy": "59.64374000",
+        "trades_of_BTC_buy": 2362
     }
 }
