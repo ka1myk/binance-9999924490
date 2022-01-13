@@ -203,18 +203,6 @@
         "volume_of_BTC_buy": "534.53747000",
         "trades_of_BTC_buy": 10834
     },
-    "ANYUSDT": {
-        "symbol": "ANYUSDT",
-        "orderid": 11441752,
-        "timestamp": 1642069324220,
-        "bought_at": "27.06000000",
-        "volume": 0.55,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43969.59413263,
-        "volume_of_BTC_buy": "317.48550000",
-        "trades_of_BTC_buy": 7962
-    },
     "FRONTUSDT": {
         "symbol": "FRONTUSDT",
         "orderid": 13906760,
