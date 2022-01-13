@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42871.59962845,
         "volume_of_BTC_buy": "119.94289000",
         "trades_of_BTC_buy": 3078
+    },
+    "TRIBEUSDT": {
+        "symbol": "TRIBEUSDT",
+        "orderid": 28416930,
+        "timestamp": 1642107861587,
+        "bought_at": "1.20850000",
+        "volume": 12,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42756.27951246,
+        "volume_of_BTC_buy": "29.42539000",
+        "trades_of_BTC_buy": 1653
     }
 }
