@@ -131,30 +131,6 @@
         "volume_of_BTC_buy": "16.64229000",
         "trades_of_BTC_buy": 612
     },
-    "ETHUSDT": {
-        "symbol": "ETHUSDT",
-        "orderid": 7403525605,
-        "timestamp": 1642068610698,
-        "bought_at": "3368.50000000",
-        "volume": 0.0045,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43977.67241243,
-        "volume_of_BTC_buy": "534.53747000",
-        "trades_of_BTC_buy": 10834
-    },
-    "BTCUSDT": {
-        "symbol": "BTCUSDT",
-        "orderid": 8971688229,
-        "timestamp": 1642068814543,
-        "bought_at": "43976.44000000",
-        "volume": 0.00034,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43966.21563089,
-        "volume_of_BTC_buy": "534.53747000",
-        "trades_of_BTC_buy": 10834
-    },
     "BNBUSDT": {
         "symbol": "BNBUSDT",
         "orderid": 3553673076,
@@ -176,18 +152,6 @@
         "stop_loss": -30,
         "take_profit": 0.3,
         "avgPriceBTCUSDT_buy": 43950.60724445,
-        "volume_of_BTC_buy": "534.53747000",
-        "trades_of_BTC_buy": 10834
-    },
-    "DOTUSDT": {
-        "symbol": "DOTUSDT",
-        "orderid": 2561389847,
-        "timestamp": 1642068835743,
-        "bought_at": "27.10000000",
-        "volume": 0.55,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43949.25740971,
         "volume_of_BTC_buy": "534.53747000",
         "trades_of_BTC_buy": 10834
     },
@@ -238,5 +202,17 @@
         "avgPriceBTCUSDT_buy": 43760.59569073,
         "volume_of_BTC_buy": "147.75661000",
         "trades_of_BTC_buy": 3578
+    },
+    "GLMRUSDT": {
+        "symbol": "GLMRUSDT",
+        "orderid": 6429072,
+        "timestamp": 1642083597219,
+        "bought_at": "12.52030000",
+        "volume": 1.2,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 44126.08658144,
+        "volume_of_BTC_buy": "62.55955000",
+        "trades_of_BTC_buy": 2479
     }
 }
