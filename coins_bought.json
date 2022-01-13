@@ -142,5 +142,77 @@
         "avgPriceBTCUSDT_buy": 43687.24017969,
         "volume_of_BTC_buy": "16.64229000",
         "trades_of_BTC_buy": 612
+    },
+    "ETHUSDT": {
+        "symbol": "ETHUSDT",
+        "orderid": 7403525605,
+        "timestamp": 1642068610698,
+        "bought_at": "3368.50000000",
+        "volume": 0.0045,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43977.67241243,
+        "volume_of_BTC_buy": "534.53747000",
+        "trades_of_BTC_buy": 10834
+    },
+    "BTCUSDT": {
+        "symbol": "BTCUSDT",
+        "orderid": 8971688229,
+        "timestamp": 1642068814543,
+        "bought_at": "43976.44000000",
+        "volume": 0.00034,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43966.21563089,
+        "volume_of_BTC_buy": "534.53747000",
+        "trades_of_BTC_buy": 10834
+    },
+    "BNBUSDT": {
+        "symbol": "BNBUSDT",
+        "orderid": 3553673076,
+        "timestamp": 1642068815590,
+        "bought_at": "485.80000000",
+        "volume": 0.031,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43966.24775434,
+        "volume_of_BTC_buy": "534.53747000",
+        "trades_of_BTC_buy": 10834
+    },
+    "ADAUSDT": {
+        "symbol": "ADAUSDT",
+        "orderid": 2818644538,
+        "timestamp": 1642068829695,
+        "bought_at": "1.30000000",
+        "volume": 11.5,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43953.11248948,
+        "volume_of_BTC_buy": "534.53747000",
+        "trades_of_BTC_buy": 10834
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3882459596,
+        "timestamp": 1642068830262,
+        "bought_at": "0.79570000",
+        "volume": 18,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43950.60724445,
+        "volume_of_BTC_buy": "534.53747000",
+        "trades_of_BTC_buy": 10834
+    },
+    "DOTUSDT": {
+        "symbol": "DOTUSDT",
+        "orderid": 2561389847,
+        "timestamp": 1642068835743,
+        "bought_at": "27.10000000",
+        "volume": 0.55,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43949.25740971,
+        "volume_of_BTC_buy": "534.53747000",
+        "trades_of_BTC_buy": 10834
     }
 }
