@@ -215,18 +215,6 @@
         "volume_of_BTC_buy": "96.39449000",
         "trades_of_BTC_buy": 2531
     },
-    "KAVAUSDT": {
-        "symbol": "KAVAUSDT",
-        "orderid": 646276065,
-        "timestamp": 1642086886261,
-        "bought_at": "4.77800000",
-        "volume": 3.1,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43872.31879402,
-        "volume_of_BTC_buy": "96.39449000",
-        "trades_of_BTC_buy": 2531
-    },
     "ENJUSDT": {
         "symbol": "ENJUSDT",
         "orderid": 811859349,
