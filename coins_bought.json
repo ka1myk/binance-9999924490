@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "74.36282000",
         "trades_of_BTC_buy": 3106
     },
-    "PONDUSDT": {
-        "symbol": "PONDUSDT",
-        "orderid": 112268012,
-        "timestamp": 1641916696405,
-        "bought_at": "0.05355000",
-        "volume": 280.11,
+    "PYRUSDT": {
+        "symbol": "PYRUSDT",
+        "orderid": 24407384,
+        "timestamp": 1642096796464,
+        "bought_at": "15.84000000",
+        "volume": 0.947,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42773.55280418,
-        "volume_of_BTC_buy": "87.55821000",
-        "trades_of_BTC_buy": 3246
+        "avgPriceBTCUSDT_buy": 42812.4119305,
+        "volume_of_BTC_buy": "64.55571000",
+        "trades_of_BTC_buy": 2464
     }
 }
