@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "98.58708000",
         "trades_of_BTC_buy": 2849
     },
-    "ANYUSDT": {
-        "symbol": "ANYUSDT",
-        "orderid": 11580473,
-        "timestamp": 1642079092032,
-        "bought_at": "26.63000000",
-        "volume": 0.56,
+    "KLAYUSDT": {
+        "symbol": "KLAYUSDT",
+        "orderid": 45314241,
+        "timestamp": 1642079224190,
+        "bought_at": "1.45500000",
+        "volume": 10.3,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43772.25994005,
-        "volume_of_BTC_buy": "98.58708000",
-        "trades_of_BTC_buy": 2849
+        "avgPriceBTCUSDT_buy": 43760.59569073,
+        "volume_of_BTC_buy": "147.75661000",
+        "trades_of_BTC_buy": 3578
     }
 }
