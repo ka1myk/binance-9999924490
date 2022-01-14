@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42582.83048245,
         "volume_of_BTC_buy": "98.29903000",
         "trades_of_BTC_buy": 4118
+    },
+    "PHAUSDT": {
+        "symbol": "PHAUSDT",
+        "orderid": 46756130,
+        "timestamp": 1642181441602,
+        "bought_at": "0.37170000",
+        "volume": 53,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 43047.80547802,
+        "volume_of_BTC_buy": "52.90476000",
+        "trades_of_BTC_buy": 2044
     }
 }
