@@ -226,17 +226,5 @@
         "avgPriceBTCUSDT_buy": 42871.59962845,
         "volume_of_BTC_buy": "119.94289000",
         "trades_of_BTC_buy": 3078
-    },
-    "BTGUSDT": {
-        "symbol": "BTGUSDT",
-        "orderid": 61912817,
-        "timestamp": 1642129319673,
-        "bought_at": "37.74000000",
-        "volume": 0.42,
-        "stop_loss": -30,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42707.74835648,
-        "volume_of_BTC_buy": "180.94341000",
-        "trades_of_BTC_buy": 5035
     }
 }
