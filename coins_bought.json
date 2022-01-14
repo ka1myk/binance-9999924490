@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42871.59962845,
         "volume_of_BTC_buy": "119.94289000",
         "trades_of_BTC_buy": 3078
+    },
+    "QNTUSDT": {
+        "symbol": "QNTUSDT",
+        "orderid": 56919343,
+        "timestamp": 1642136365594,
+        "bought_at": "165.40000000",
+        "volume": 0.097,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42704.54892375,
+        "volume_of_BTC_buy": "57.76179000",
+        "trades_of_BTC_buy": 2842
     }
 }
