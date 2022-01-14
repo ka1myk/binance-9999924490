@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42602.85956997,
         "volume_of_BTC_buy": "106.06931000",
         "trades_of_BTC_buy": 4298
+    },
+    "SUNUSDT": {
+        "symbol": "SUNUSDT",
+        "orderid": 187780032,
+        "timestamp": 1642155222077,
+        "bought_at": "0.02098000",
+        "volume": 762,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42582.83048245,
+        "volume_of_BTC_buy": "98.29903000",
+        "trades_of_BTC_buy": 4118
     }
 }
