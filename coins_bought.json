@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "98.29903000",
         "trades_of_BTC_buy": 4118
     },
-    "DFUSDT": {
-        "symbol": "DFUSDT",
-        "orderid": 13506998,
-        "timestamp": 1642172652787,
-        "bought_at": "0.11980000",
-        "volume": 166,
+    "QUICKUSDT": {
+        "symbol": "QUICKUSDT",
+        "orderid": 27961327,
+        "timestamp": 1642179874114,
+        "bought_at": "287.10000000",
+        "volume": 0.07,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42903.24800509,
-        "volume_of_BTC_buy": "320.37388000",
-        "trades_of_BTC_buy": 9638
+        "avgPriceBTCUSDT_buy": 43191.08495355,
+        "volume_of_BTC_buy": "93.03047000",
+        "trades_of_BTC_buy": 3058
     }
 }
