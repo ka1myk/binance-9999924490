@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42582.83048245,
         "volume_of_BTC_buy": "98.29903000",
         "trades_of_BTC_buy": 4118
+    },
+    "ANYUSDT": {
+        "symbol": "ANYUSDT",
+        "orderid": 12607337,
+        "timestamp": 1642164848996,
+        "bought_at": "33.02000000",
+        "volume": 0.48,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42203.16425793,
+        "volume_of_BTC_buy": "54.59259000",
+        "trades_of_BTC_buy": 2255
     }
 }
