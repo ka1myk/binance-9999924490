@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42871.59962845,
         "volume_of_BTC_buy": "119.94289000",
         "trades_of_BTC_buy": 3078
+    },
+    "KAVAUSDT": {
+        "symbol": "KAVAUSDT",
+        "orderid": 646718360,
+        "timestamp": 1642121982569,
+        "bought_at": "4.85900000",
+        "volume": 3.3,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42762.14286285,
+        "volume_of_BTC_buy": "140.22608000",
+        "trades_of_BTC_buy": 3509
     }
 }
