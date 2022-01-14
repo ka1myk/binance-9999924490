@@ -71,18 +71,6 @@
         "volume_of_BTC_buy": "8.60851000",
         "trades_of_BTC_buy": 360
     },
-    "FIOUSDT": {
-        "symbol": "FIOUSDT",
-        "orderid": 82196031,
-        "timestamp": 1642004203229,
-        "bought_at": "0.15010000",
-        "volume": 99,
-        "stop_loss": -20,
-        "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 43465.57536278,
-        "volume_of_BTC_buy": "7.22141000",
-        "trades_of_BTC_buy": 391
-    },
     "STRAXUSDT": {
         "symbol": "STRAXUSDT",
         "orderid": 128175617,
