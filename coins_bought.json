@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42871.59962845,
         "volume_of_BTC_buy": "119.94289000",
         "trades_of_BTC_buy": 3078
+    },
+    "ACHUSDT": {
+        "symbol": "ACHUSDT",
+        "orderid": 3494348,
+        "timestamp": 1642135429517,
+        "bought_at": "0.05900000",
+        "volume": 271,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42742.16666219,
+        "volume_of_BTC_buy": "44.94226000",
+        "trades_of_BTC_buy": 2493
     }
 }
