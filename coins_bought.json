@@ -227,16 +227,16 @@
         "volume_of_BTC_buy": "106.06931000",
         "trades_of_BTC_buy": 4298
     },
-    "PORTOUSDT": {
-        "symbol": "PORTOUSDT",
-        "orderid": 44942918,
-        "timestamp": 1642153831119,
-        "bought_at": "3.39770000",
-        "volume": 4.71,
+    "DOGEUSDT": {
+        "symbol": "DOGEUSDT",
+        "orderid": 2260901978,
+        "timestamp": 1642154687549,
+        "bought_at": "0.19490000",
+        "volume": 82,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42619.76852195,
-        "volume_of_BTC_buy": "312.71367000",
-        "trades_of_BTC_buy": 8107
+        "avgPriceBTCUSDT_buy": 42546.25009949,
+        "volume_of_BTC_buy": "118.94462000",
+        "trades_of_BTC_buy": 4131
     }
 }
