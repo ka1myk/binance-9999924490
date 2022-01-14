@@ -215,16 +215,16 @@
         "volume_of_BTC_buy": "48.18488000",
         "trades_of_BTC_buy": 2124
     },
-    "DOGEUSDT": {
-        "symbol": "DOGEUSDT",
-        "orderid": 2258221798,
-        "timestamp": 1642137859742,
-        "bought_at": "0.19240000",
-        "volume": 83,
+    "ROSEUSDT": {
+        "symbol": "ROSEUSDT",
+        "orderid": 279940601,
+        "timestamp": 1642138050927,
+        "bought_at": "0.51000000",
+        "volume": 31.4,
         "stop_loss": -30,
         "take_profit": 0.3,
-        "avgPriceBTCUSDT_buy": 42795.930797,
-        "volume_of_BTC_buy": "265.41019000",
-        "trades_of_BTC_buy": 6653
+        "avgPriceBTCUSDT_buy": 42787.54192291,
+        "volume_of_BTC_buy": "243.55710000",
+        "trades_of_BTC_buy": 5611
     }
 }
