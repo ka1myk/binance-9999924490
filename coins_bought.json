@@ -226,5 +226,17 @@
         "avgPriceBTCUSDT_buy": 42697.11174936,
         "volume_of_BTC_buy": "147.81583000",
         "trades_of_BTC_buy": 4668
+    },
+    "CVXUSDT": {
+        "symbol": "CVXUSDT",
+        "orderid": 9136673,
+        "timestamp": 1642147343294,
+        "bought_at": "47.14000000",
+        "volume": 0.339,
+        "stop_loss": -30,
+        "take_profit": 0.3,
+        "avgPriceBTCUSDT_buy": 42596.48875781,
+        "volume_of_BTC_buy": "133.87172000",
+        "trades_of_BTC_buy": 4056
     }
 }
