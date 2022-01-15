@@ -623,7 +623,7 @@ if __name__ == '__main__':
         with open(coins_bought_file_path) as file:
             coins_bought = json.load(file)
 
-    telegram_bot_sendtext('Main bot start')
+    telegram_bot_sendtext(f"Main bot start test {TEST_MODE}")
 
 
     if not TEST_MODE:
