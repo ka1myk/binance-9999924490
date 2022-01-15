@@ -23,16 +23,16 @@
         "volume_of_BTC_buy": "55.55167000",
         "trades_of_BTC_buy": 2686
     },
-    "BTTUSDT": {
-        "symbol": "BTTUSDT",
-        "orderid": 746286016,
-        "timestamp": 1642217030500,
-        "bought_at": "0.00251500",
-        "volume": 9940,
+    "CELRUSDT": {
+        "symbol": "CELRUSDT",
+        "orderid": 406832097,
+        "timestamp": 1642135086039,
+        "bought_at": "0.08892000",
+        "volume": 281.2,
         "stop_loss": -50,
         "take_profit": 0.4,
-        "avgPriceBTCUSDT_buy": 43012.98397924,
-        "volume_of_BTC_buy": "77.41118000",
-        "trades_of_BTC_buy": 2902
+        "avgPriceBTCUSDT_buy": 43082.56966609,
+        "volume_of_BTC_buy": "286.33803000",
+        "trades_of_BTC_buy": 4716
     }
 }
