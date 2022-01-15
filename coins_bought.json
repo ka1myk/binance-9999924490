@@ -23,16 +23,16 @@
         "volume_of_BTC_buy": "55.55167000",
         "trades_of_BTC_buy": 2686
     },
-    "CELRUSDT": {
-        "symbol": "CELRUSDT",
-        "orderid": 406832097,
-        "timestamp": 1642135086039,
-        "bought_at": "0.08892000",
-        "volume": 281.2,
+    "REQUSDT": {
+        "symbol": "REQUSDT",
+        "orderid": 53413142,
+        "timestamp": 1642237648545,
+        "bought_at": "0.28690000",
+        "volume": 87,
         "stop_loss": -50,
         "take_profit": 0.4,
-        "avgPriceBTCUSDT_buy": 43082.56966609,
-        "volume_of_BTC_buy": "286.33803000",
-        "trades_of_BTC_buy": 4716
+        "avgPriceBTCUSDT_buy": 43014.89265375,
+        "volume_of_BTC_buy": "734.27417000",
+        "trades_of_BTC_buy": 12995
     }
 }
