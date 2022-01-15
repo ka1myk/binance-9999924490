@@ -23,16 +23,16 @@
         "volume_of_BTC_buy": "55.55167000",
         "trades_of_BTC_buy": 2686
     },
-    "HIGHUSDT": {
-        "symbol": "HIGHUSDT",
-        "orderid": 7112683,
-        "timestamp": 1642214117461,
-        "bought_at": "8.76000000",
-        "volume": 2.854,
+    "BTTUSDT": {
+        "symbol": "BTTUSDT",
+        "orderid": 746286016,
+        "timestamp": 1642217030500,
+        "bought_at": "0.00251500",
+        "volume": 9940,
         "stop_loss": -50,
         "take_profit": 0.4,
-        "avgPriceBTCUSDT_buy": 43036.82087932,
-        "volume_of_BTC_buy": "92.55017000",
-        "trades_of_BTC_buy": 3325
+        "avgPriceBTCUSDT_buy": 43012.98397924,
+        "volume_of_BTC_buy": "77.41118000",
+        "trades_of_BTC_buy": 2902
     }
 }
