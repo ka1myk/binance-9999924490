@@ -23,16 +23,16 @@
         "volume_of_BTC_buy": "55.55167000",
         "trades_of_BTC_buy": 2686
     },
-    "BEAMUSDT": {
-        "symbol": "BEAMUSDT",
-        "orderid": 168754549,
-        "timestamp": 1642213290772,
-        "bought_at": "0.47590000",
-        "volume": 52,
+    "HIGHUSDT": {
+        "symbol": "HIGHUSDT",
+        "orderid": 7112683,
+        "timestamp": 1642214117461,
+        "bought_at": "8.76000000",
+        "volume": 2.854,
         "stop_loss": -50,
         "take_profit": 0.4,
-        "avgPriceBTCUSDT_buy": 43008.06374686,
-        "volume_of_BTC_buy": "77.71563000",
-        "trades_of_BTC_buy": 3614
+        "avgPriceBTCUSDT_buy": 43036.82087932,
+        "volume_of_BTC_buy": "92.55017000",
+        "trades_of_BTC_buy": 3325
     }
 }
