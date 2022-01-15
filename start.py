@@ -463,7 +463,7 @@ def sell_coins():
                     #    f"{coin} {profit:.2f} {PriceChange - (TRADING_FEE * 2):.2f}%\nSession profit: {session_profit:.2f}%\nEst: {(QUANTITY * session_profit)/100:.2f} Coins: {len(coins_bought)} of {QUANTITY}")
 
                     telegram_bot_sendtext(
-                        f"{PriceChange - (TRADING_FEE * 2):.2f}% 📈 {session_profit:.2f}%\n{(QUANTITY * session_profit) / 100:.2f} 💰 {USDT_free_balance:.2f}\n{len(coins_bought)} 🪙 {MAX_COINS}")
+                        f"Main bot test {TEST_MODE}\n{PriceChange - (TRADING_FEE * 2):.2f}% 📈 {session_profit:.2f}%\n{(QUANTITY * session_profit) / 100:.2f} 💰 {USDT_free_balance:.2f}\n{len(coins_bought)} 🪙 {MAX_COINS}")
 
             continue
 
@@ -623,7 +623,7 @@ if __name__ == '__main__':
         with open(coins_bought_file_path) as file:
             coins_bought = json.load(file)
 
-    telegram_bot_sendtext('new version script')
+    telegram_bot_sendtext('Main bot start')
 
 
     if not TEST_MODE:
