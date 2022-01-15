@@ -1,16 +1,4 @@
 {
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 174253474,
-        "timestamp": 1642130265655,
-        "bought_at": "0.38980000",
-        "volume": 64,
-        "stop_loss": -50,
-        "take_profit": 0.35,
-        "avgPriceBTCUSDT_buy": 43307.62687353,
-        "volume_of_BTC_buy": "40.92316000",
-        "trades_of_BTC_buy": 2319
-    },
     "PEOPLEUSDT": {
         "symbol": "PEOPLEUSDT",
         "orderid": 25760176,
