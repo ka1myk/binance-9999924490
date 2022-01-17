@@ -1,14 +1,1 @@
-{
-    "IOTAUSDT": {
-        "symbol": "IOTAUSDT",
-        "orderid": 567035125,
-        "timestamp": 1642246046658,
-        "bought_at": "1.14780000",
-        "volume": 21,
-        "stop_loss": -50,
-        "take_profit": 0.4,
-        "avgPriceBTCUSDT_buy": 43039.21236764,
-        "volume_of_BTC_buy": "120.35390000",
-        "trades_of_BTC_buy": 3739
-    }
-}
+{}
