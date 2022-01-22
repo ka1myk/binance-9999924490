@@ -70,6 +70,6 @@ trading_options:
   # If using BNB for fees, it MUST be enabled in your Binance 'Dashboard' page (checkbox).
   TRADING_FEE: .075
 
-  SIGNALLING_MODULES:
+  # SIGNALLING_MODULES:
     - pausebotmod
     - signalsamplemod
