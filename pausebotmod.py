@@ -10,7 +10,7 @@ SCREENER = 'CRYPTO'
 SYMBOL = 'BTCUSDT'
 THRESHOLD = 15 # 7 of 15 MA's indicating sell
 TIME_TO_WAIT = 1 # Minutes to wait between analysis
-FULL_LOG = False # List analysis result to console
+FULL_LOG = True # List analysis result to console
 
 def analyze():
     analysis = {}
