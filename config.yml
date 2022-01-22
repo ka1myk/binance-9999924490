@@ -2,7 +2,7 @@
 script_options:
   # Switch between testnet and mainnet
   # Setting this to False will use REAL funds, use at your own risk
-  TEST_MODE: False
+  TEST_MODE: True
   LOG_TRADES: True
   LOG_FILE: 'trades.txt'
 
@@ -70,6 +70,6 @@ trading_options:
   # If using BNB for fees, it MUST be enabled in your Binance 'Dashboard' page (checkbox).
   TRADING_FEE: .075
 
-  # SIGNALLING_MODULES:
-    - pausebotmod
-    - signalsamplemod
+  SIGNALLING_MODULES:
+  #  - pausebotmod
+  #  - signalsamplemod
