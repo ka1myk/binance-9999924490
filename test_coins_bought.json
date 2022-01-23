@@ -11,18 +11,6 @@
         "volume_of_BTC_buy": "49.17692000",
         "trades_of_BTC_buy": 937
     },
-    "ETHUSDT": {
-        "symbol": "ETHUSDT",
-        "orderid": 0,
-        "timestamp": 1642894241091,
-        "bought_at": "2403.25000000",
-        "volume": 0.0083,
-        "stop_loss": -50,
-        "take_profit": 0.4,
-        "avgPriceBTCUSDT_buy": 35036.87251525,
-        "volume_of_BTC_buy": "49.17692000",
-        "trades_of_BTC_buy": 937
-    },
     "BNBUSDT": {
         "symbol": "BNBUSDT",
         "orderid": 0,
@@ -118,5 +106,17 @@
         "avgPriceBTCUSDT_buy": 35068.40212285,
         "volume_of_BTC_buy": "17.13294000",
         "trades_of_BTC_buy": 710
+    },
+    "ETHUSDT": {
+        "symbol": "ETHUSDT",
+        "orderid": 0,
+        "timestamp": 1642895979947,
+        "bought_at": "2412.99000000",
+        "volume": 0.0083,
+        "stop_loss": -50,
+        "take_profit": 0.4,
+        "avgPriceBTCUSDT_buy": 35025.20063084,
+        "volume_of_BTC_buy": "30.65885000",
+        "trades_of_BTC_buy": 898
     }
 }
